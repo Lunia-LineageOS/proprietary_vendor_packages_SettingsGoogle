@@ -14,6 +14,11 @@ android_library {
     static_libs: [
         "Settings-core",
         "androidx.compose.runtime_runtime",
+        "androidx.datastore_datastore-preferences-rxjava2",
+        "androidx.datastore_datastore-preferences-core",
+        "androidx.datastore_datastore-rxjava2",
+        "kotlinx_coroutines_reactive",
+        "rxjava",
     ],
     javacflags: [
         "-Acom.android.settingslib.search.processor.package=com.google.android.settings.search",
