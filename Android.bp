@@ -1,0 +1,35 @@
+android_library {
+    name: "SettingsGoogle-core",
+    srcs: [
+        "src/**/*.java",
+        "src/**/*.kt",
+        "src/**/*.aidl",
+    ],
+    use_resource_processor: true,
+    resource_dirs: ["res"],
+    static_libs: ["Settings-core"],
+    manifest: "AndroidManifest-res.xml",
+}
+
+android_app {
+    name: "SettingsGoogle",
+    defaults: [
+        "platform_app_defaults",
+        "Settings_optimized_defaults",
+    ],
+    platform_apis: true,
+    certificate: "platform",
+    system_ext_specific: true,
+    privileged: true,
+    required: [
+        "privapp_whitelist_com.android.settings",
+        "settings-platform-compat-config",
+    ],
+    static_libs: ["SettingsGoogle-core"],
+    resource_dirs: [],
+    use_resource_processor: true,
+    uses_libs: ["org.apache.http.legacy"],
+    overrides: [
+        "Settings",
+    ],
+}
