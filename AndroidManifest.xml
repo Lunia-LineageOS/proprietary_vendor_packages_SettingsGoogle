@@ -7,7 +7,8 @@
 
     <application
         android:name="com.google.android.settings.generalaccess.SettingsGoogleGeneralAccessApplication"
-        tools:replace="android:name">
+        android:icon="@mipmap/ic_launcher_settings"
+        tools:replace="android:name,android:icon">
 
         <uses-library android:name="org.apache.http.legacy" />
     </application>
