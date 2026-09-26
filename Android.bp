@@ -11,7 +11,10 @@ android_library {
         "res",
         "res-product",
     ],
-    static_libs: ["Settings-core"],
+    static_libs: [
+        "Settings-core",
+        "androidx.compose.runtime_runtime",
+    ],
     javacflags: [
         "-Acom.android.settingslib.search.processor.package=com.google.android.settings.search",
     ],
