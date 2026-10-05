@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">سيتم ضبط جهازك على الإعدادات السابقة</string>
     <string name="simple_view_feature_enabled_dialog_message">حجم الخط الذي تستخدمه حاليًا أكبر من الحجم المستخدَم في إعدادات ميزة \"العرض المبسّط\". وسيؤدي استخدام الميزة إلى تقليل حجم الخط.</string>
     <string name="simple_view_feature_enabled_dialog_title">سيتم تقليل حجم الخط</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">الشحن الذكي</string>
+    <string name="adaptive_charging_main_switch_title">استخدام ميزة \"الشحن الذكي\"</string>
+    <string name="adaptive_charging_footer">للمساعدة في إطالة عمر البطارية، يتعرّف هاتفك على عادات الشحن التي تتّبعها وينتظر حتى الوقت الذي ستحتاج فيه إلى استخدامه لإكمال شحن البطارية.</string>
+    <string name="adaptive_charging_link_a11y">مزيد من المعلومات حول ميزة \"الشحن الذكي\"</string>
+    <string name="adaptive_charging_time_estimate"><b>جارٍ الشحن الذكي</b> • سيكتمل الشحن في الساعة %1$s</string>
+    <string name="keywords_adaptive_charging">شحن، الشحن، الشحن الذكي، الشحن التكيُّفي، البطارية، سلامة البطارية</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">‏تم الشحن بنسبة ‎%1$s، وسيكتمل الشحن بحلول %2$s</string>
+    <string name="charging_optimization_reach_limit_charge_label">‫%1$s - تم الوصول إلى حد الشحن المطلوب</string>
+    <string name="charging_optimization_remaining_time_label">سيكتمل الشحن بحلول %1$s</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">اكتمل الشحن</string>
+    <string name="charging_optimization_wireless_remaining_time_label">ستكتمل عملية الشحن اللاسلكي بحلول %1$s •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">اكتملت عملية الشحن اللاسلكي •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">جارٍ شحن البطارية بالكامل لضمان دقة قراءات مستوى الشحن</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0مزيد من المعلومات</annotation></string>
 </resources>

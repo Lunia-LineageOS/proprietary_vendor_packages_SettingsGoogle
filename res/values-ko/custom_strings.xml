@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">기기가 이전 설정으로 돌아갑니다</string>
     <string name="simple_view_feature_enabled_dialog_message">현재 글꼴은 간단히 보기 설정보다 큽니다. 간단히 보기를 사용하면 글꼴 크기가 작아집니다.</string>
     <string name="simple_view_feature_enabled_dialog_title">글꼴 크기가 작아집니다</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">자동 조절 충전</string>
+    <string name="adaptive_charging_main_switch_title">자동 조절 충전 사용</string>
+    <string name="adaptive_charging_footer">배터리 수명을 연장하기 위해 휴대전화가 충전 루틴을 학습하고 완충이 필요할 때까지 기다립니다.</string>
+    <string name="adaptive_charging_link_a11y">자동 조절 충전에 관해 자세히 알아보기</string>
+    <string name="adaptive_charging_time_estimate"><b>자동 조절 충전</b> • %1$s까지 완전 충전</string>
+    <string name="keywords_adaptive_charging">충전, 충전하기, 스마트 충전, 자동 조절 충전, 배터리, 배터리 상태</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s - %2$s까지 충전 완료</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - 충전 완료</string>
+    <string name="charging_optimization_remaining_time_label">%1$s까지 충전 완료</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">충전 완료</string>
+    <string name="charging_optimization_wireless_remaining_time_label">%1$s까지 무선 충전 완료 •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">무선 충전 완료 •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">배터리 잔량을 정확하게 확인하기 위해 완전히 충전 중</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0자세히 알아보기</annotation></string>
 </resources>

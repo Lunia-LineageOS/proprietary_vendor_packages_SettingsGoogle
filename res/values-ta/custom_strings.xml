@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">உங்கள் சாதனம் முந்தைய அமைப்புகளுக்கு மாறிவிடும்</string>
     <string name="simple_view_feature_enabled_dialog_message">உங்கள் தற்போதைய எழுத்து வடிவம் எளிய காட்சி அமைப்புகளில் இருப்பதைவிடப் பெரிதாக உள்ளது. எளிய காட்சியைப் பயன்படுத்தினால் உங்கள் எழுத்து வடிவத்தின் அளவு குறைந்துவிடும்.</string>
     <string name="simple_view_feature_enabled_dialog_title">எழுத்து வடிவத்தின் அளவு குறைந்துவிடும்</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">அடாப்டிவ் சார்ஜிங்</string>
+    <string name="adaptive_charging_main_switch_title">அடாப்டிவ் சார்ஜிங்கைப் பயன்படுத்துதல்</string>
+    <string name="adaptive_charging_footer">பேட்டரி ஆயுட்காலத்தை நீட்டிக்க உதவ, உங்கள் சார்ஜிங் வழக்கத்தை மொபைல் அறிந்துகொள்வதுடன் முழுமையாக அதைச் சார்ஜ் செய்ய வேண்டிய தேவை ஏற்படும் வரை காத்திருக்கும்.</string>
+    <string name="adaptive_charging_link_a11y">அடாப்டிவ் சார்ஜிங் குறித்து மேலும் அறிக</string>
+    <string name="adaptive_charging_time_estimate"><b>அடாப்டிவ் சார்ஜிங்</b> • %1$sக்கு முழுமையாகச் சார்ஜாகிவிடும்</string>
+    <string name="keywords_adaptive_charging">சார்ஜ், சார்ஜாகிறது, ஸ்மார்ட்டாகச் சார்ஜாகிறது, சூழலுக்கேற்பச் சார்ஜாகிறது, பேட்டரி, பேட்டரி நிலை</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s - சார்ஜிங் ஆன நேரம் %2$s</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - சார்ஜாகிவிட்டது</string>
+    <string name="charging_optimization_remaining_time_label">%1$sக்கு சார்ஜிங் நிறைவாகும்</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">சார்ஜாகிவிட்டது</string>
+    <string name="charging_optimization_wireless_remaining_time_label">%1$sக்கு வயர்லெஸ் முறையில் சார்ஜாகிவிட்டது •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">வயர்லெஸ் முறையில் சார்ஜாகிவிட்டது •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">துல்லியமான பேட்டரி நிலைகளை உறுதிசெய்ய முழுமையாகச் சார்ஜ் செய்கிறது</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0மேலும் அறிக</annotation></string>
 </resources>

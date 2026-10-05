@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">Tu dispositivo volverá a los ajustes anteriores</string>
     <string name="simple_view_feature_enabled_dialog_message">La fuente que usas es más grande que la del ajuste de Vista simple. Usar Vista simple reducirá el tamaño de la fuente.</string>
     <string name="simple_view_feature_enabled_dialog_title">El tamaño de la fuente se reducirá</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">Carga inteligente</string>
+    <string name="adaptive_charging_main_switch_title">Usar Carga inteligente</string>
+    <string name="adaptive_charging_footer">Para prolongar la vida útil de la batería, tu teléfono aprende tu rutina de carga y espera hasta que necesites que se cargue por completo.</string>
+    <string name="adaptive_charging_link_a11y">Más información sobre Carga inteligente</string>
+    <string name="adaptive_charging_time_estimate"><b>Carga inteligente</b> • Se completará a las %1$s</string>
+    <string name="keywords_adaptive_charging">carga, cargar, carga inteligente, carga adaptativa, carga adaptable, batería, estado de la batería</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s: la carga terminará a las %2$s</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s: carga completada</string>
+    <string name="charging_optimization_remaining_time_label">La carga terminará a las %1$s</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">Carga completada</string>
+    <string name="charging_optimization_wireless_remaining_time_label">La carga inalámbrica terminará a las %1$s •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">Carga inalámbrica completada •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">Cargando por completo para que los niveles de batería sean precisos</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u0020Más información</annotation></string>
 </resources>

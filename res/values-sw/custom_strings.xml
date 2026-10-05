@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">Kifaa chako kitarejesha mipangilio ya awali</string>
     <string name="simple_view_feature_enabled_dialog_message">Fonti yako ya sasa ni kubwa kuliko ya mipangilio ya kipengele cha Mwonekano Rahisi. Hatua ya kutumia kipengele cha Mwonekano Rahisi, itapunguza ukubwa wa fonti yako.</string>
     <string name="simple_view_feature_enabled_dialog_title">Ukubwa wa fonti utapunguka</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">Hali ya Kuchaji Inayojirekebisha</string>
+    <string name="adaptive_charging_main_switch_title">Tumia Hali ya Kuchaji Inayojirekebisha</string>
+    <string name="adaptive_charging_footer">Ili kusaidia kuongeza muda wa matumizi ya betri, simu yako hujifunza ratiba yako ya kuchaji na husubiri hadi utakapohitaji betri ichaji kikamilifu.</string>
+    <string name="adaptive_charging_link_a11y">Pata maelezo zaidi kuhusu Hali ya Kuchaji Inayojirekebisha</string>
+    <string name="adaptive_charging_time_estimate"><b>Hali ya Kuchaji Inayojirekebisha</b> • Itajaa chaji kufikia %1$s</string>
+    <string name="keywords_adaptive_charging">chaji, inachaji, chaji mahiri, chaji inayojirekebisha, betri, hali ya betri</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s - Itamaliza kuchaji kufikia saa %2$s</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - Imemaliza kuchaji</string>
+    <string name="charging_optimization_remaining_time_label">Itamaliza kuchaji kufikia saa %1$s</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">Imemaliza kuchaji</string>
+    <string name="charging_optimization_wireless_remaining_time_label">Itamaliza kuchaji bila kutumia waya kufikia saa %1$s •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">Imemaliza kuchaji bila kutumia waya •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">Inakamilisha kuchaji ili kuhakikisha viwango sahihi vya betri</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0Pata maelezo zaidi</annotation></string>
 </resources>

@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">Peranti anda kembali kepada tetapan yang sebelumnya</string>
     <string name="simple_view_feature_enabled_dialog_message">Fon semasa anda lebih besar daripada tetapan Paparan Ringkas. Penggunaan Paparan Ringkas akan mengecilkan saiz fon anda.</string>
     <string name="simple_view_feature_enabled_dialog_title">Saiz fon akan dikecilkan</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">Pengecasan Boleh Suai</string>
+    <string name="adaptive_charging_main_switch_title">Gunakan Pengecasan Boleh Suai</string>
+    <string name="adaptive_charging_footer">Untuk melanjutkan jangka hayat bateri, telefon anda mempelajari rutin pengecasan anda dan menunggu sehingga anda perlu mengecas bateri telefon sehingga penuh.</string>
+    <string name="adaptive_charging_link_a11y">Ketahui Pengecasan Boleh Suai lebih lanjut</string>
+    <string name="adaptive_charging_time_estimate"><b>Pengecasan Boleh Suai</b> • Penuh selewat-lewatnya pada %1$s</string>
+    <string name="keywords_adaptive_charging">cas, mengecas, pengecasan pintar, pengecasan boleh suai, bateri, kesihatan bateri</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s - Pengecasan selesai pada %2$s</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - Pengecasan selesai</string>
+    <string name="charging_optimization_remaining_time_label">Pengecasan selesai pada %1$s</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">Pengecasan selesai</string>
+    <string name="charging_optimization_wireless_remaining_time_label">Pengecasan wayarles selesai pada %1$s •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">Pengecasan wayarles selesai •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">Mengecas sepenuhnya untuk memastikan tahap bateri yang tepat</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0Ketahui lebih lanjut</annotation></string>
 </resources>

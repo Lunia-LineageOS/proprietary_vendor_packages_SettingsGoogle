@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">Eszköze visszaáll a korábbi beállításaira</string>
     <string name="simple_view_feature_enabled_dialog_message">Az aktuális betűméret nagyobb, mint ami az Egyszerűsített nézet beállításaiban található. Az Egyszerűsített nézet használatával kisebbre állítja a betűméretet.</string>
     <string name="simple_view_feature_enabled_dialog_title">Kisebb lesz a betűméret</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">Adaptív töltés</string>
+    <string name="adaptive_charging_main_switch_title">Adaptív töltés használata</string>
+    <string name="adaptive_charging_footer">Az akkumulátor élettartamának meghosszabbítása érdekében a telefon megtanulja az Ön töltési szokásait, és megvárja, amíg Önnek teljesen feltöltve van rá szüksége.</string>
+    <string name="adaptive_charging_link_a11y">További információ az Adaptív töltésről</string>
+    <string name="adaptive_charging_time_estimate"><b>Adaptív töltés</b> • Teljes töltöttség ekkorra: %1$s</string>
+    <string name="keywords_adaptive_charging">tölt, töltés, okostöltés, adaptív töltés, akkumulátor, akkumulátor élettartama</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s – a töltés befejeződik eddig: %2$s</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - Töltés kész</string>
+    <string name="charging_optimization_remaining_time_label">A töltés befejeződik eddig: %1$s</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">Töltés kész</string>
+    <string name="charging_optimization_wireless_remaining_time_label">A vezeték nélküli töltés ekkor lesz kész: %1$s •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">Vezeték nélküli töltés kész •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">Teljes feltöltés a pontos akkumulátorszint biztosítása érdekében…</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u0020További információ</annotation></string>
 </resources>

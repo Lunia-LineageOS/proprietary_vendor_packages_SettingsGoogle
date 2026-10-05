@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">Pajisja jote do të kthehet te cilësimet e mëparshme</string>
     <string name="simple_view_feature_enabled_dialog_message">Fonti yt aktual është më i madh se në cilësimet e \"Pamjes së thjeshtë\". Përdorimi i \"Pamjes së thjeshtë\" do të zvogëlojë madhësinë e fontit.</string>
     <string name="simple_view_feature_enabled_dialog_title">Madhësia e fontit do të zvogëlohet</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">Karikimi me përshtatje</string>
+    <string name="adaptive_charging_main_switch_title">Përdor karikimin me përshtatje</string>
+    <string name="adaptive_charging_footer">Për të ndihmuar në zgjatjen e jetëgjatësisë së baterisë, telefoni yt mëson rutinën tënde të karikimit dhe pret derisa të kesh nevojë për të që të karikohet plotësisht.</string>
+    <string name="adaptive_charging_link_a11y">Mëso më shumë rreth karikimit me përshtatje</string>
+    <string name="adaptive_charging_time_estimate"><b>Karikim me përshtatje</b> • Plot deri në %1$s</string>
+    <string name="keywords_adaptive_charging">kariko, karikim, karikim inteligjent, karikim me përshtatje, bateri, integriteti i baterisë</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s - Karikimi përfundoi në %2$s</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - Karikimi përfundoi</string>
+    <string name="charging_optimization_remaining_time_label">Karikimi përfundoi në %1$s</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">Karikimi përfundoi</string>
+    <string name="charging_optimization_wireless_remaining_time_label">Karikimi wireless përfundoi në %1$s •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">Karikimi wireless përfundoi •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">Po karikohet plotësisht për të siguruar nivelet e sakta të baterisë</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0Mëso më shumë</annotation></string>
 </resources>

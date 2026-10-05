@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">መሣሪያዎ ወደ ቀዳሚዎቹ ቅንብሮች ይመለሳል</string>
     <string name="simple_view_feature_enabled_dialog_message">የአሁኑ ቅርጸ-ቁምፊዎ ከቀላል ዕይታ ቅንብሮች የበለጠ ነው። ቀላል ዕይታን መጠቀም የቅርጸ-ቁምፊዎን መጠን ይቀንሳል።</string>
     <string name="simple_view_feature_enabled_dialog_title">የቅርጸ-ቁምፊ መጠን ይቀንሳል</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">ተስማሚ ኃይል መሙላት</string>
+    <string name="adaptive_charging_main_switch_title">ተስማሚ ኃይል መሙላትን ይጠቀሙ</string>
+    <string name="adaptive_charging_footer">የባትሪ የዕድሜ ዘመንን ለማራዘም ለማገዝ ስልክዎ የእርስዎን የኃይል መሙላት የዕለት ተዕለት ተግባርን ይማራል እና ሙሉ በሙሉ ኃይል ለመሙላት እስኪያስፈልግዎት ድረስ ይጠብቃል።</string>
+    <string name="adaptive_charging_link_a11y">ስለተስማሚ ኃይል መሙላት የበለጠ ይወቁ</string>
+    <string name="adaptive_charging_time_estimate"><b>ተስማሚ ኃይል መሙላት</b> • እስከ %1$s ድረስ ይሞላል</string>
+    <string name="keywords_adaptive_charging">ኃይል ሙላ፣ ኃይል በመሙላት ላይ፣ ዘመናዊ ኃይል አሞላል፣ ተስማሚ ኃይል አሞላል፣ ባትሪ፣ የባትሪ ጤና</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s - %2$s ላይ ኃይል መሙላት ተጠናቅቋል</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - ኃይል መሙላት ተጠናቅቋል</string>
+    <string name="charging_optimization_remaining_time_label">%1$s ላይ ኃይል መሙላት ተጠናቅቋል</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">ኃይል መሙላት ተጠናቅቋል</string>
+    <string name="charging_optimization_wireless_remaining_time_label">በሽቦ አልባ ኃይል መሙላት %1$s ላይ ተጠናቅቋል •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">በሽቦ አልባ ኃይል መሙላት ተጠናቅቋል •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">ትክክለኛ የባትሪ ደረጃዎችን ለማረጋገጥ ሙሉ በሙሉ ኃይል በመሙላት ላይ</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0የበለጠ ለመረዳት</annotation></string>
 </resources>

@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">Qurilma avvalgi sozlamalarga qaytariladi</string>
     <string name="simple_view_feature_enabled_dialog_message">Joriy shrift Oddiy koʻrinish sozlamalaridan kattaroq. Oddiy koʻrinishda shrift oʻlchami kichrayadi.</string>
     <string name="simple_view_feature_enabled_dialog_title">Shrift oʻlchami kichrayadi</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">Moslashuvchan quvvatlash</string>
+    <string name="adaptive_charging_main_switch_title">Moslashuvchan quvvatlash ishlatilsin</string>
+    <string name="adaptive_charging_footer">Batareyaning ishlash muddatini uzaytirish uchun telefoningiz quvvatlash jadvalini oʻrganadi va faqat siz undan foydalanishni boshlashingiz kerak boʻlganda toʻliq quvvatlanadi.</string>
+    <string name="adaptive_charging_link_a11y">Moslashuvchan quvvatlash haqida batafsil</string>
+    <string name="adaptive_charging_time_estimate"><b>Moslashuvchan quvvatlash</b> • Qoldi: %1$s</string>
+    <string name="keywords_adaptive_charging">quvvatlash, quvvatlanmoqda, smart quvvatlash, moslashuvchan quvvatlagich, batareya, batareya yaroqliligi</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s - Quvvatlanishiga %2$s qoldi</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - Quvvatlandi</string>
+    <string name="charging_optimization_remaining_time_label">Quvvatlanishiga %1$s qoldi</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">Quvvatlandi</string>
+    <string name="charging_optimization_wireless_remaining_time_label">Simsiz quvvatlash %1$s da tugaydi •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">Simsiz quvvatlandi •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">Batareya darajasi aniqligini taʼminlash uchun toʻliq quvvatlanmoqda</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0Batafsil</annotation></string>
 </resources>

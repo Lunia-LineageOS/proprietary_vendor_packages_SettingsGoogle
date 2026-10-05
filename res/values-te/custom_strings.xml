@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">మీ డివైజ్ మునుపటి సెట్టింగ్‌లకు తిరిగి మారుతుంది</string>
     <string name="simple_view_feature_enabled_dialog_message">మీ ప్రస్తుత ఫాంట్, సులభమైన వీక్షణ సెట్టింగ్‌ల కంటే పెద్దది. సులభమైన వీక్షణను ఉపయోగిస్తే మీ ఫాంట్ సైజ్ తగ్గుతుంది.</string>
     <string name="simple_view_feature_enabled_dialog_title">ఫాంట్ సైజ్ తగ్గుతుంది</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">అనుకూల ఛార్జింగ్</string>
+    <string name="adaptive_charging_main_switch_title">అనుకూల ఛార్జింగ్‌ను ఉపయోగించండి</string>
+    <string name="adaptive_charging_footer">బ్యాటరీ లైఫ్‌ను ఎక్స్‌టెండ్ చేయడంలో సహాయపడటానికి, మీ ఫోన్ మీ ఛార్జింగ్ కమాండ్ రొటీన్‌ను తెలుసుకుంటుంది, మీకోసం పూర్తిగా ఛార్జ్ అయ్యే వరకు వేచి ఉంటుంది.</string>
+    <string name="adaptive_charging_link_a11y">అనుకూల ఛార్జింగ్ గురించి మరింత తెలుసుకోండి</string>
+    <string name="adaptive_charging_time_estimate"><b>అనుకూల ఛార్జింగ్</b> • %1$sలోగా పూర్తి అవుతుంది</string>
+    <string name="keywords_adaptive_charging">ఛార్జ్, ఛార్జింగ్, స్మార్ట్ ఛార్జింగ్, అనుకూల ఛార్జింగ్, బ్యాటరీ, బ్యాటరీ సామర్థ్యం</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s - %2$s సమయానికి ఛార్జింగ్ పూర్తయింది</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - సమయానికి ఛార్జింగ్ పూర్తయింది</string>
+    <string name="charging_optimization_remaining_time_label">%1$s‌కి ఛార్జింగ్ పూర్తి అవుతుంది</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">సమయానికి ఛార్జింగ్ పూర్తయింది</string>
+    <string name="charging_optimization_wireless_remaining_time_label">%1$sకి వైర్‌లెస్‌గా ఛార్జింగ్ చేయడం పూర్తయింది •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">వైర్‌లెస్‌గా ఛార్జింగ్ చేయడం పూర్తయింది •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">ఖచ్చితమైన బ్యాటరీ స్థాయిలను నిర్ధారించడానికి పూర్తిగా ఛార్జ్ అవుతోంది</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0మరింత తెలుసుకోండి</annotation></string>
 </resources>

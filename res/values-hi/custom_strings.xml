@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">आपके डिवाइस की सेटिंग पहले जैसी हो जाएंगी</string>
     <string name="simple_view_feature_enabled_dialog_message">फ़िलहाल, आपके फ़ॉन्ट का साइज़ सिंपल व्यू की सेटिंग के फ़ॉन्ट साइज़ से बड़ा है. सिंपल व्यू का इस्तेमाल करने पर, फ़ॉन्ट साइज़ छोटा हो जाएगा.</string>
     <string name="simple_view_feature_enabled_dialog_title">फ़ॉन्ट साइज़ छोटा हो जाएगा</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">अडैप्टिव चार्जिंग की सुविधा</string>
+    <string name="adaptive_charging_main_switch_title">अडैप्टिव चार्जिंग की सुविधा का इस्तेमाल करें</string>
+    <string name="adaptive_charging_footer">बैटरी लाइफ़ बढ़ाने के लिए, आपका फ़ोन चार्जिंग के रूटीन को ध्यान में रखता है और बैटरी के पूरा चार्ज होने तक इंतज़ार करता है.</string>
+    <string name="adaptive_charging_link_a11y">अडैप्टिव चार्जिंग की सुविधा के बारे में ज़्यादा जानें</string>
+    <string name="adaptive_charging_time_estimate"><b>बैटरी अडैप्टिव मोड में चार्ज हो रही है</b> • %1$s तक पूरी चार्ज हो जाएगी</string>
+    <string name="keywords_adaptive_charging">चार्ज, चार्जिंग, स्मार्ट चार्जिंग, अडैप्टिव चार्जिंग, बैटरी, बैटरी हेल्थ</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%2$s तक, %1$s बैटरी चार्ज हो जाएगी</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - बैटरी चार्ज हो गई है</string>
+    <string name="charging_optimization_remaining_time_label">%1$s तक बैटरी चार्ज हो जाएगी</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">बैटरी चार्ज हो गई है</string>
+    <string name="charging_optimization_wireless_remaining_time_label">%1$s तक तार के बिना चार्ज (वायरलेस चार्जिंग) पूरा हो जाएगा •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">तार के बिना चार्ज (वायरलेस चार्जिंग) पूरा हो गया है •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">बैटरी लेवल की सटीक जानकारी देने के लिए, बैटरी को पूरी तरह चार्ज किया जा रहा है</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0ज़्यादा जानें</annotation></string>
 </resources>

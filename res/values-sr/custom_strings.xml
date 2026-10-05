@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">Уређај ће се вратити на претходна подешавања</string>
     <string name="simple_view_feature_enabled_dialog_message">Тренутни фонт је већи него у подешавањима једноставног приказа. Коришћење једноставног приказа ће смањити величину фонта.</string>
     <string name="simple_view_feature_enabled_dialog_title">Величина фонта ће се смањити</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">Прилагодљиво пуњење</string>
+    <string name="adaptive_charging_main_switch_title">Користи прилагодљиво пуњење</string>
+    <string name="adaptive_charging_footer">Да би се продужио век трајања батерије, телефон учи рутину пуњења и чека док не треба да га напуните до краја.</string>
+    <string name="adaptive_charging_link_a11y">Сазнајте више о прилагодљивом пуњењу</string>
+    <string name="adaptive_charging_time_estimate"><b>Прилагодљиво пуњење</b> • Напуниће се до %1$s</string>
+    <string name="keywords_adaptive_charging">пунити, пуњење, паметно пуњење, прилагодљиво пуњење, батерија, стање батерије</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s – пуњење се завршава до %2$s</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s – Пуњење је завршено</string>
+    <string name="charging_optimization_remaining_time_label">Пуњење се завршава до %1$s</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">Пуњење је завршено</string>
+    <string name="charging_optimization_wireless_remaining_time_label">Бежично пуњење се завршава до %1$s •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">Бежично пуњење је завршено •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">Потпуно пуњење да би се осигурао тачан ниво напуњености батерије</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0Сазнајте више</annotation></string>
 </resources>

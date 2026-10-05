@@ -63,9 +63,10 @@
         <Preference
             android:fragment="com.android.settings.fuelgauge.SmartBatterySettings"
             android:key="smart_battery_manager"
-            android:title="@string/smart_battery_manager_title"
-            settings:controller="com.android.settings.fuelgauge.batterytip.BatteryManagerPreferenceController"
-            settings:keywords="@string/keywords_battery_adaptive_preferences" />
+            android:title="@string/adaptive_charging_title"
+            settings:controller="com.google.android.settings.fuelgauge.adaptivecharging.AdaptiveChargingPreferenceController"
+            settings:keywords="@string/keywords_battery_adaptive_preferences"
+            settings:searchable="true" />
 
         <!-- Battery light -->
         <lineageos.preference.LineagePartsPreference

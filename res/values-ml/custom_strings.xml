@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">നിങ്ങളുടെ ഉപകരണം മുമ്പത്തെ ക്രമീകരണത്തിലേക്ക് മടങ്ങും</string>
     <string name="simple_view_feature_enabled_dialog_message">നിങ്ങളുടെ നിലവിലെ ഫോണ്ട് ലളിതമായ കാഴ്‌ച ക്രമീകരണത്തേക്കാൾ വലുതാണ്. ലളിതമായ കാഴ്‌ച ഉപയോഗിക്കുന്നത് നിങ്ങളുടെ ഫോണ്ട് വലുപ്പം കുറയ്ക്കും.</string>
     <string name="simple_view_feature_enabled_dialog_title">ഫോണ്ട് വലുപ്പം കുറയ്ക്കും</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">അഡാപ്റ്റീവ് ചാർജിംഗ്</string>
+    <string name="adaptive_charging_main_switch_title">അഡാപ്റ്റീവ് ചാർജിംഗ് ഉപയോഗിക്കുക</string>
+    <string name="adaptive_charging_footer">ബാറ്ററിയുടെ ആയുസ് വർദ്ധിപ്പിക്കാൻ സഹായിക്കുന്നതിന്, ഫോൺ നിങ്ങളുടെ ചാർജിംഗ് ശീലം മനസ്സിലാക്കുകയും പൂർണ്ണമായി ചാർജ് ചെയ്ത ഫോൺ നിങ്ങൾക്ക് ആവശ്യമായി വരുന്ന സമയം വരെ കാത്തിരിക്കുകയും ചെയ്യുന്നു.</string>
+    <string name="adaptive_charging_link_a11y">അഡാപ്റ്റീവ് ചാർജിംഗിനെ കുറിച്ച് കൂടുതലറിയുക</string>
+    <string name="adaptive_charging_time_estimate"><b>അഡാപ്റ്റീവ് ചാർജിംഗ്</b> • %1$s-ന് പൂർത്തിയാകും</string>
+    <string name="keywords_adaptive_charging">ചാർജ് ചെയ്യുക, ചാർജ് ചെയ്യുന്നു, സ്മാർട്ട് ചാർജ് ചെയ്യൽ, അഡാപ്റ്റീവ് ചാർജിംഗ്, ബാറ്ററി, ബാറ്ററി നില</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s - %2$s-നകം പൂർണ്ണമായി ചാർജ് ചെയ്തു</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - ചാർജ്ജ് ചെയ്യൽ പൂർത്തിയായി</string>
+    <string name="charging_optimization_remaining_time_label">%1$s-നകം പൂർണ്ണമായി ചാർജ് ചെയ്തു</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">ചാർജ്ജ് ചെയ്യൽ പൂർത്തിയായി</string>
+    <string name="charging_optimization_wireless_remaining_time_label">%1$s-ന് വയർലെസ്സായി ചാർജ്ജ് ചെയ്യൽ പൂർത്തിയാകും •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">വയർലെസ്സായി ചാർജ്ജ് ചെയ്യൽ പൂർത്തിയായി •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">കൃത്യമായ ബാറ്ററി ലെവലുകൾ ഉറപ്പാക്കാൻ പൂർണ്ണമായി ചാർജ് ചെയ്യുന്നു</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0കൂടുതലറിയുക</annotation></string>
 </resources>

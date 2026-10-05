@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">Құрылғыңыз бұрынғы параметрлеріне оралады</string>
     <string name="simple_view_feature_enabled_dialog_message">Қолданыстағы қаріп қарапайым режим параметрлеріндегі қаріптен үлкенірек. Қарапайым режимді қолдану кезінде қаріп өлшемі кішірейеді.</string>
     <string name="simple_view_feature_enabled_dialog_title">Қаріп өлшемі кішірейеді</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">Бейімдеп зарядтау</string>
+    <string name="adaptive_charging_main_switch_title">Бейімдеп зарядтау функциясын пайдалану</string>
+    <string name="adaptive_charging_footer">Батареяның қызмет мерзімін ұзарту үшін телефоныңыз зарядтау режиміңізді есте сақтап, толық зарядтау қажет болатын уақытты күтеді.</string>
+    <string name="adaptive_charging_link_a11y">Бейімдеп зарядтау туралы толық ақпарат</string>
+    <string name="adaptive_charging_time_estimate"><b>Бейімдеп зарядтау</b> • Толық зарядталу уақыты: %1$s</string>
+    <string name="keywords_adaptive_charging">заряд, зарядтау, смарт зарядтау, бейімдеп зарядтау, батарея, батарея күйі</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s: сағат %2$s шамасында зарядталып бітеді.</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s – зарядталып болды.</string>
+    <string name="charging_optimization_remaining_time_label">Сағат %1$s шамасында зарядталып бітеді.</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">Зарядталып болды.</string>
+    <string name="charging_optimization_wireless_remaining_time_label">Сымсыз зарядтау %1$s шамасында аяқталады. •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">Сымсыз зарядтау аяқталды. •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">Батарея деңгейі дәл көрсетілуі үшін, толық зарядталып жатыр.</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0Толық ақпарат</annotation></string>
 </resources>

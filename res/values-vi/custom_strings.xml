@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">Thiết bị của bạn sẽ quay về các chế độ cài đặt trước</string>
     <string name="simple_view_feature_enabled_dialog_message">Phông chữ hiện tại lớn hơn phông chữ được đặt trong Chế độ xem đơn giản. Cỡ chữ sẽ giảm xuống khi bạn dùng Chế độ xem đơn giản.</string>
     <string name="simple_view_feature_enabled_dialog_title">Cỡ chữ sẽ giảm</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">Sạc thích ứng</string>
+    <string name="adaptive_charging_main_switch_title">Sử dụng tính năng Sạc thích ứng</string>
+    <string name="adaptive_charging_footer">Để giúp kéo dài thời lượng pin, điện thoại sẽ tìm hiểu thói quen sạc của bạn và chờ cho đến khi bạn cần sạc đầy.</string>
+    <string name="adaptive_charging_link_a11y">Tìm hiểu thêm về tính năng Sạc thích ứng</string>
+    <string name="adaptive_charging_time_estimate"><b>Đang sạc thích ứng</b> • Đến %1$s pin sẽ đầy</string>
+    <string name="keywords_adaptive_charging">sạc, sạc pin, sạc thông minh, sạc thích ứng, pin, tình trạng pin</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s – Sạc xong trước %2$s</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s – Sạc xong</string>
+    <string name="charging_optimization_remaining_time_label">Sạc xong trước %1$s</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">Sạc xong</string>
+    <string name="charging_optimization_wireless_remaining_time_label">Sạc không dây xong trước %1$s •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">Sạc không dây xong •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">Sạc đầy để đảm bảo hiện đúng mức pin</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0Tìm hiểu thêm</annotation></string>
 </resources>

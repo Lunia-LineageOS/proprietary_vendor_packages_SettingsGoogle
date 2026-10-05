@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">သင့်စက်သည် ယခင်ဆက်တင်များသို့ ပြန်ပြောင်းပါမည်</string>
     <string name="simple_view_feature_enabled_dialog_message">သင့်လက်ရှိဖောင့်သည် ‘ရိုးရှင်းမြင်ကွင်း’ ဆက်တင်များထက် ပိုကြီးသည်။ ‘ရိုးရှင်းမြင်ကွင်း’ သုံးခြင်းဖြင့် ဖောင့်အရွယ်အစား သေးသွားပါမည်။</string>
     <string name="simple_view_feature_enabled_dialog_title">ဖောင့်အရွယ်အစား သေးသွားပါမည်</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">အလိုက်သင့်အားသွင်းခြင်း</string>
+    <string name="adaptive_charging_main_switch_title">‘အလိုက်သင့်အားသွင်းခြင်း’ သုံးရန်</string>
+    <string name="adaptive_charging_footer">ဘက်ထရီသက်တမ်း ပိုရှည်စေရန် သင့်ဖုန်းသည် သင်၏အားသွင်းမှု ပုံမှန်အစီအစဉ်ကို လေ့လာပြီး ၎င်းကိုအားအပြည့်သွင်းရန် လိုအပ်သည့်အချိန်အထိ စောင့်သည်။</string>
+    <string name="adaptive_charging_link_a11y">‘အလိုက်သင့်အားသွင်းခြင်း’ အကြောင်း ပိုမိုလေ့လာရန်</string>
+    <string name="adaptive_charging_time_estimate"><b>အလိုက်သင့်အားသွင်းခြင်း</b> • %1$s တွင် အားပြည့်မည်</string>
+    <string name="keywords_adaptive_charging">အားသွင်းသည်၊ အားသွင်းခြင်း၊ အဆင့်မြင့်အားသွင်းခြင်း၊ အလိုက်သင့်အားသွင်းခြင်း၊ ဘက်ထရီ၊ ဘက်ထရီအခြေအနေ</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s - %2$s တွင် အားသွင်းမှုပြီးမည်</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - အားသွင်းပြီးပါပြီ</string>
+    <string name="charging_optimization_remaining_time_label">%1$s တွင် အားသွင်းမှုပြီးမည်</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">အားသွင်းပြီးပါပြီ</string>
+    <string name="charging_optimization_wireless_remaining_time_label">%1$s တွင် ကြိုးမဲ့အားသွင်းခြင်း ပြီးပါမည် •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">ကြိုးမဲ့အားသွင်းခြင်း ပြီးပါပြီ •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">ဘက်ထရီအားများ တိကျမှန်ကန်ကြောင်း သေချာစေရန် အားအပြည့်သွင်းနေသည်</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0ပိုမိုလေ့လာရန်</annotation></string>
 </resources>

@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">Vaš će se uređaj vratiti na prethodne postavke</string>
     <string name="simple_view_feature_enabled_dialog_message">Vaš je trenutačni font veći od postavki jednostavnog prikaza. Ako upotrijebite jednostavni prikaz, smanjit će se veličina fonta.</string>
     <string name="simple_view_feature_enabled_dialog_title">Veličina fonta će se smanjiti</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">Adaptivno punjenje</string>
+    <string name="adaptive_charging_main_switch_title">Koristi adaptivno punjenje</string>
+    <string name="adaptive_charging_footer">Kako bi se produljio vijek trajanja baterije, vaš telefon prati vašu rutinu punjenja i čeka dok vam ne zatreba potpuna napunjenost.</string>
+    <string name="adaptive_charging_link_a11y">Saznajte više o adaptivnom punjenju</string>
+    <string name="adaptive_charging_time_estimate"><b>Adaptivno punjenje</b> • Napunjeno do %1$s</string>
+    <string name="keywords_adaptive_charging">puniti, punjenje, pametno punjenje, adaptivno punjenje, baterija, status baterije</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s – punjenje će se dovršiti do %2$s</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s – punjenje je dovršeno</string>
+    <string name="charging_optimization_remaining_time_label">Punjenje će se dovršiti do %1$s</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">Punjenje je dovršeno</string>
+    <string name="charging_optimization_wireless_remaining_time_label">Bežično punjenje dovršeno je do %1$s •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">Bežično punjenje je dovršeno •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">Punjenje do kraja radi osiguravanja točnog prikaza razine baterije</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0Saznajte više</annotation></string>
 </resources>

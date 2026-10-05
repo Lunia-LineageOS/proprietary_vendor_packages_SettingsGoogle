@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">ឧបករណ៍របស់អ្នកនឹងត្រឡប់ទៅការកំណត់ពីមុនវិញ</string>
     <string name="simple_view_feature_enabled_dialog_message">ពុម្ពអក្សរបច្ចុប្បន្នរបស់អ្នកធំជាងការកំណត់ទិដ្ឋភាពសាមញ្ញ។ ការប្រើទិដ្ឋភាពសាមញ្ញនឹងកាត់បន្ថយទំហំពុម្ពអក្សររបស់អ្នក។</string>
     <string name="simple_view_feature_enabled_dialog_title">ទំហំពុម្ពអក្សរនឹងកាត់បន្ថយ</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">ការសាកថ្ម​ដែលមាន​ភាពបត់បែន</string>
+    <string name="adaptive_charging_main_switch_title">ប្រើការសាកថ្ម​ដែលមាន​ភាពបត់បែន</string>
+    <string name="adaptive_charging_footer">ដើម្បីជួយបង្កើនអាយុកាលថ្ម ទូរសព្ទរបស់អ្នកស្វែងយល់ពីទម្លាប់សាកថ្មរបស់អ្នក និងរង់ចាំរហូតដល់ពេលអ្នកត្រូវការសាកថ្មទូរសព្ទឱ្យពេញ។</string>
+    <string name="adaptive_charging_link_a11y">ស្វែងយល់បន្ថែមអំពីការសាកថ្ម​ដែលមាន​ភាពបត់បែន</string>
+    <string name="adaptive_charging_time_estimate"><b>ការសាកថ្ម​ដែលមាន​ភាពបត់បែន</b> • ពេញ​នៅត្រឹមម៉ោង %1$s</string>
+    <string name="keywords_adaptive_charging">សាកថ្ម ការសាកថ្ម ការសាកថ្មឆ្លាតវៃ ការសាកថ្មដែលមានភាពបត់បែន ថ្ម សុខភាពថ្ម</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s - សាកថ្មពេញក្នុងរយៈពេល %2$s</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - សាកថ្មពេញ</string>
+    <string name="charging_optimization_remaining_time_label">សាកថ្មពេញត្រឹមម៉ោង %1$s</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">សាកថ្មពេញ</string>
+    <string name="charging_optimization_wireless_remaining_time_label">ការសាកថ្មឥតខ្សែពេញត្រឹមម៉ោង %1$s •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">ការសាកថ្មឥតខ្សែពេញ •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">កំពុងសាកថ្មឱ្យពេញ ដើម្បីធានាថាកម្រិតថ្មត្រឹមត្រូវ</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0ស្វែងយល់បន្ថែម</annotation></string>
 </resources>

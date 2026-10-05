@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">तपाईंको डिभाइसमा योभन्दा पहिलेकै सेटिङ लागू हुने छ</string>
     <string name="simple_view_feature_enabled_dialog_message">तपाईंले हाल सेट गर्नुभएको फन्ट \"सिम्पल भ्यू\" का सेटिङमा सेट गरिएको फन्टभन्दा अझ ठुलो छ। तपाईंले \"सिम्पल भ्यू\" अन गर्नुभयो भने फन्टको आकार कम हुने छ।</string>
     <string name="simple_view_feature_enabled_dialog_title">फन्टको आकार कम हुने छ</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">एड्याप्टिभ चार्जिङ</string>
+    <string name="adaptive_charging_main_switch_title">एड्याप्टिभ चार्जिङ प्रयोग गर्नुहोस्</string>
+    <string name="adaptive_charging_footer">ब्याट्रीको आयु बढाउने प्रयोजनका लागि तपाईंको फोनले तपाईंको चार्जिङ रुटिन थाहा पाउँछ र ब्याट्री पूरा चार्ज हुन्जेल पर्खन्छ।</string>
+    <string name="adaptive_charging_link_a11y">एड्याप्टिभ चार्जिङका बारेमा थप जान्नुहोस्</string>
+    <string name="adaptive_charging_time_estimate"><b>एड्याप्टिभ चार्जिङ अन छ</b> • %1$s सम्ममा पूरा चार्ज हुने छ</string>
+    <string name="keywords_adaptive_charging">चार्ज गर्नुहोस्, चार्ज गरिँदै छ, स्मार्ट चार्जिङ, एड्याप्टिभ चार्जिङ, ब्याट्री, ब्याट्रीको अवस्था</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s - %2$s सम्ममा पूरा चार्ज हुने छ</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - चार्ज पूरा भयो</string>
+    <string name="charging_optimization_remaining_time_label">%1$s सम्ममा पूरा चार्ज हुने छ</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">चार्ज पूरा भयो</string>
+    <string name="charging_optimization_wireless_remaining_time_label">वायरलेस तरिकाले %1$s सम्ममा चार्ज पूरा हुन्छ •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">वायरलेस तरिकाले चार्ज पूरा भयो •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">ब्याट्रीको स्तरसम्बन्धी सटीक जानकारी देखाउन ब्याट्री फुल चार्ज गरिँदै छ</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0थप जान्नुहोस्</annotation></string>
 </resources>

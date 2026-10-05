@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">Jou toestel sal na vorige instellings terugkeer</string>
     <string name="simple_view_feature_enabled_dialog_message">Jou huidige lettertipe is groter as die Skoonaansig-instellings. As jy Skoonaansig gebruik, sal dit jou lettergrootte verminder.</string>
     <string name="simple_view_feature_enabled_dialog_title">Lettergrootte sal verminder</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">Aanpasbare Laai</string>
+    <string name="adaptive_charging_main_switch_title">Gebruik Aanpasbare Laai</string>
+    <string name="adaptive_charging_footer">Om te help om die batteryleeftyd te verleng, leer jou foon jou laairoetine ken, en wag totdat jy dit nodig het om vol te laai.</string>
+    <string name="adaptive_charging_link_a11y">Meer inligting oor Aanpasbare Laai</string>
+    <string name="adaptive_charging_time_estimate"><b>Aanpasbare laaiproses</b> • Vol teen %1$s</string>
+    <string name="keywords_adaptive_charging">laai, laaiproses, slimlaaiproses, aanpasbare laaiproses, battery, batterygesondheid</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s – Sal teen %2$s klaar gelaai wees</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s – Klaar gelaai</string>
+    <string name="charging_optimization_remaining_time_label">Sal teen %1$s klaar gelaai wees</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">Klaar gelaai</string>
+    <string name="charging_optimization_wireless_remaining_time_label">Teen %1$s klaar met draadlose laai •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">Klaar met draadlose laai •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">Vollaai tans om akkurate batteryvlakke te verseker</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0Meer inligting</annotation></string>
 </resources>

@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">Түзмөгүңүз мурунку параметрлерге кайтат</string>
     <string name="simple_view_feature_enabled_dialog_message">Учурдагы арибиңиз Жөнөкөй көрүнүштүн параметрлериндеги ариптен чоңураак. Жөнөкөй көрүнүштү колдонсоңуз, арибиңиздин өлчөмү азаят.</string>
     <string name="simple_view_feature_enabled_dialog_title">Ариптин өлчөмү азаят</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">Этият кубаттоо</string>
+    <string name="adaptive_charging_main_switch_title">Этият кубаттоону колдонуу</string>
+    <string name="adaptive_charging_footer">Батареяны пайдалануу мөөнөтүн узартуу үчүн телефонуңуз кубаттоо тартибиңиз тууралуу маалымат алып, аны толук кубаттоо керек болгонго чейин күтөт.</string>
+    <string name="adaptive_charging_link_a11y">Этият кубаттоо жөнүндө кеңири маалымат</string>
+    <string name="adaptive_charging_time_estimate"><b>Ыңгайлаштырылган кубаттоо</b> • Саат %1$s кубатталып бүтөт</string>
+    <string name="keywords_adaptive_charging">кубаттоо, кубатталууда, акылдуу кубаттоо, ыңгайлаштырылуучу кубаттоо, батарея, батареянын акыбалы</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s - Саат %2$s кубатталып бүтөт</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - Кубатталып бүттү</string>
+    <string name="charging_optimization_remaining_time_label">Саат %1$s кубатталып бүтөт</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">Кубатталып бүттү</string>
+    <string name="charging_optimization_wireless_remaining_time_label">Саат %1$s зымсыз кубатталып бүттү •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">Зымсыз кубатталып бүттү •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">Батареянын деңгээли так көрсөтүлүшү үчүн толук кубатталат</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0Кеңири маалымат</annotation></string>
 </resources>

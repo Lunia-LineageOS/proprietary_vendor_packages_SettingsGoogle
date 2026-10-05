@@ -67,4 +67,22 @@
     <string name="simple_view_feature_disabled_dialog_title">O dispositivo vai voltar às definições anteriores</string>
     <string name="simple_view_feature_enabled_dialog_message">O tipo de letra atual é maior do que as definições da Vista simples. A utilização da Vista simples reduz o tamanho do tipo de letra.</string>
     <string name="simple_view_feature_enabled_dialog_title">O tamanho do tipo de letra vai ser reduzido</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">Carregamento adaptável</string>
+    <string name="adaptive_charging_main_switch_title">Usar carregamento adaptável</string>
+    <string name="adaptive_charging_footer">Para ajudar a aumentar a vida útil da bateria, o seu telemóvel aprende as suas rotinas de carregamento e aguarda até precisar de carregar totalmente.</string>
+    <string name="adaptive_charging_link_a11y">Saiba mais sobre o carregamento adaptável</string>
+    <string name="adaptive_charging_time_estimate"><b>Carregamento adaptável</b> • Completo até à(s) %1$s</string>
+    <string name="keywords_adaptive_charging">carregar, carregamento, carregamento inteligente, carregamento adaptável, bateria, estado da bateria</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s: carregamento concluído à(s) %2$s</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s: carregamento concluído</string>
+    <string name="charging_optimization_remaining_time_label">Carregamento concluído à(s) %1$s</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">Carregamento concluído</string>
+    <string name="charging_optimization_wireless_remaining_time_label">Carregamento sem fios concluído à(s) %1$s •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">Carregamento sem fios concluído •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">A carregar totalmente para garantir níveis da bateria precisos</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0Saiba mais</annotation></string>
 </resources>
