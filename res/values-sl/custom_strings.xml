@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">To dejanje je omejeno samo na lastnika naprave</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Da</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Zaznan je bil hitri dotik.</string>
+    <string name="columbus_gesture_enrollment_complete">Končano</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Ne zdaj</string>
+    <string name="columbus_gesture_enrollment_settings">V nastavitve</string>
+    <string name="columbus_gesture_enrollment_try_it">Preizkusite</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Izberite dejanje, ki ga želite izvesti.</string>
+    <string name="columbus_gesture_training_action_text">Izberite, katero dejanje se izvede, ko uporabite hitri dotik. To lahko spremenite pozneje v nastavitvah.</string>
+    <string name="columbus_gesture_training_action_title">Izberite možnost za hitri dotik</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Preizkusite to še enkrat. Hitro se dvakrat dotaknite hrbtne strani telefona.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Odlično!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Pripravljeni ste na uporabo hitrega dotika.</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Zdaj znate.</string>
+    <string name="columbus_gesture_training_enrolling_text">Hitro se dvakrat dotaknite hrbtne strani telefona.</string>
+    <string name="columbus_gesture_training_enrolling_title">Preizkusite hitri dotik</string>
+    <string name="columbus_gesture_training_finished_text">Moč dotika, potrebnega za uporabo hitrega dotika, lahko spremenite v nastavitvah.</string>
+    <string name="columbus_gesture_training_finished_title">Nastavili ste hitri dotik</string>
+    <string name="columbus_gesture_training_intro_text_suw">Naredite posnetek zaslona, prikažite obvestila ali izvedite kakšno drugo dejanje z dvema dotikoma.</string>
+    <string name="columbus_gesture_training_intro_title">Hitri dotik za hitra dejanja</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Izberite, katera aplikacija naj se odpre.</string>
+    <string name="columbus_gesture_training_launch_text">Izberite aplikacijo, ki naj se odpre, ko uporabite hitri dotik.</string>
+    <string name="columbus_gesture_training_launch_title">Izbira aplikacije, ki naj se odpre</string>
+    <string name="columbus_launch_settings_activity_title">Nastavitve hitrega dotika</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Nastavitve za: %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Odpiranje digitalnega pomočnika</string>
+    <string name="columbus_setting_action_flashlight_title">Preklop svetilke</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Nobena aplikacija ni izbrana.</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Aplikacija ni nameščena.</string>
+    <string name="columbus_setting_action_launch_title">Odpiranje aplikacije</string>
+    <string name="columbus_setting_action_notification_title">Prikaz obvestil</string>
+    <string name="columbus_setting_action_open_app_title">Odpiranje aplikacije</string>
+    <string name="columbus_setting_action_overview_title">Ogled nedavnih aplikacij</string>
+    <string name="columbus_setting_action_play_pause_title">Predvajanje ali začasna zaustavitev predstavnosti</string>
+    <string name="columbus_setting_action_screenshot_title">Ustvarjanje posnetka zaslona</string>
+    <string name="columbus_setting_actions_title">Dvakrat se dotaknite hrbtne strani telefona za naslednje dejanje:</string>
+    <string name="columbus_setting_additional_settings_title">Moč hitrega dotika</string>
+    <string name="columbus_setting_app_selection_help_text">Izberite aplikacijo, ki naj se odpre, ko se dvakrat dotaknete hrbtne strani telefona. Če aplikacijo odmestite, se hitri dotik izklopi, dokler ne izberete druge aplikacije.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Izberite, katero dejanje se izvede, ko to aplikacijo odprete s hitrim dotikom.</string>
+    <string name="columbus_setting_enable_switch_title">Uporabi hitri dotik</string>
+    <string name="columbus_setting_sensitivity_title">Uporabi močnejše dotike</string>
+    <string name="columbus_title">Hitri dotik za zagon dejanj</string>
 </resources>

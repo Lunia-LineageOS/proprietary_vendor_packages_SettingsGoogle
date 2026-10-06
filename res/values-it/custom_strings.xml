@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Solo il proprietario del dispositivo può eseguire questa azione</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Sì</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">È stato rilevato un gesto Tocco rapido.</string>
+    <string name="columbus_gesture_enrollment_complete">Fine</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Non ora</string>
+    <string name="columbus_gesture_enrollment_settings">Vai a Impostazioni</string>
+    <string name="columbus_gesture_enrollment_try_it">Provalo</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Seleziona un\'azione da eseguire</string>
+    <string name="columbus_gesture_training_action_text">Seleziona l\'azione da eseguire quando usi Tocco rapido. Puoi modificare questa scelta in un secondo momento nelle impostazioni.</string>
+    <string name="columbus_gesture_training_action_title">Scegli l\'opzione Tocco rapido</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Prova ancora una volta. Tocca due volte in rapida successione la parte posteriore del telefono.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Bene!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Puoi iniziare a usare Tocco rapido</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Ottimo!</string>
+    <string name="columbus_gesture_training_enrolling_text">Tocca due volte in rapida successione la parte posteriore del telefono.</string>
+    <string name="columbus_gesture_training_enrolling_title">Prova Tocco rapido</string>
+    <string name="columbus_gesture_training_finished_text">Vai alle Impostazioni per modificare la pressione del tocco necessaria per usare Tocco rapido.</string>
+    <string name="columbus_gesture_training_finished_title">Hai configurato Tocco rapido</string>
+    <string name="columbus_gesture_training_intro_text_suw">Fai uno screenshot, mostra le notifiche o avvia un\'altra azione con due tocchi.</string>
+    <string name="columbus_gesture_training_intro_title">Tocco rapido per azioni veloci</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Seleziona un\'app da aprire</string>
+    <string name="columbus_gesture_training_launch_text">Seleziona l\'app che vuoi aprire quando usi Tocco rapido.</string>
+    <string name="columbus_gesture_training_launch_title">Scegli l\'app da aprire</string>
+    <string name="columbus_launch_settings_activity_title">Impostazioni Tocco rapido</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Impostazioni %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Accedi all\'assistente digitale</string>
+    <string name="columbus_setting_action_flashlight_title">Attiva/disattiva la torcia</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Nessuna app selezionata</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">App non installata</string>
+    <string name="columbus_setting_action_launch_title">Apri app</string>
+    <string name="columbus_setting_action_notification_title">Mostra notifiche</string>
+    <string name="columbus_setting_action_open_app_title">Apri app</string>
+    <string name="columbus_setting_action_overview_title">Visualizza le app recenti</string>
+    <string name="columbus_setting_action_play_pause_title">Riproduci o metti in pausa contenuti multimediali</string>
+    <string name="columbus_setting_action_screenshot_title">Acquisisci screenshot</string>
+    <string name="columbus_setting_actions_title">Toccando due volte la parte posteriore dello smartphone</string>
+    <string name="columbus_setting_additional_settings_title">Pressione Tocco rapido</string>
+    <string name="columbus_setting_app_selection_help_text">Seleziona un\'app da aprire quando tocchi due volte la parte posteriore del telefono. Se disinstalli l\'app, Tocco rapido si disattiva finché non selezioni un\'altra app.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Seleziona l\'azione da eseguire quando apri questa app usando Tocco rapido.</string>
+    <string name="columbus_setting_enable_switch_title">Usa Tocco rapido</string>
+    <string name="columbus_setting_sensitivity_title">Richiedi tocchi più decisi</string>
+    <string name="columbus_title">Tocco rapido per iniziare un\'azione</string>
 </resources>

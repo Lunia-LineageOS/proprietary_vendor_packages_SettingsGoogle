@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Aðeins eigandi tækisins getur framkvæmt þessa aðgerð</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Já</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Pikk greindist!</string>
+    <string name="columbus_gesture_enrollment_complete">Lokið</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Ekki núna</string>
+    <string name="columbus_gesture_enrollment_settings">Opna stillingar</string>
+    <string name="columbus_gesture_enrollment_try_it">Prófa</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Veldu aðgerð sem á að nota</string>
+    <string name="columbus_gesture_training_action_text">Veldu hvað gerist þegar þú notar pikk. Þú getur breytt þessu seinna í stillingunum.</string>
+    <string name="columbus_gesture_training_action_title">Velja pikkvalkost</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Prófum þetta einu sinni enn. Ýttu snögglega tvisvar á bakhlið símans.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Flott!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Nú geturðu byrjað að nota pikk</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Þú náðir þessu!</string>
+    <string name="columbus_gesture_training_enrolling_text">Ýttu snögglega tvisvar á bakhlið símans.</string>
+    <string name="columbus_gesture_training_enrolling_title">Prófaðu pikk</string>
+    <string name="columbus_gesture_training_finished_text">Til að breyta því hversu fast þarf að ýta til að nota pikk skaltu fara í stillingarnar.</string>
+    <string name="columbus_gesture_training_finished_title">Þú settir upp pikk</string>
+    <string name="columbus_gesture_training_intro_text_suw">Taktu skjámynd, birtu tilkynningar eða ræstu aðra aðgerð með því að ýta tvisvar.</string>
+    <string name="columbus_gesture_training_intro_title">Notaðu flýtiaðgerðir með pikki</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Veldu forrit til að opna</string>
+    <string name="columbus_gesture_training_launch_text">Veldu forritið sem þú vilt opna þegar pikk er notað.</string>
+    <string name="columbus_gesture_training_launch_title">Veldu forrit til að opna</string>
+    <string name="columbus_launch_settings_activity_title">Stillingar pikks</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Stillingar %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Opna stafræna hjálparann</string>
+    <string name="columbus_setting_action_flashlight_title">Kveikja/slökkva á vasaljósi</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Ekkert forrit valið</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Forritið er ekki uppsett</string>
+    <string name="columbus_setting_action_launch_title">Opna forrit</string>
+    <string name="columbus_setting_action_notification_title">Sýna tilkynningar</string>
+    <string name="columbus_setting_action_open_app_title">Opna forrit</string>
+    <string name="columbus_setting_action_overview_title">Sjá nýleg forrit</string>
+    <string name="columbus_setting_action_play_pause_title">Spila eða gera hlé á efni</string>
+    <string name="columbus_setting_action_screenshot_title">Taka skjámynd</string>
+    <string name="columbus_setting_actions_title">Ýttu tvisvar á bakhlið símans til að</string>
+    <string name="columbus_setting_additional_settings_title">Næmi pikks</string>
+    <string name="columbus_setting_app_selection_help_text">Veldu forrit til að opna þegar þú ýtir tvisvar á bakhlið símans. Ef þú fjarlægir forritið slokknar á pikki þar til þú velur annað forrit.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Veldu hvað gerist þegar þú opnar þetta forrit með pikki.</string>
+    <string name="columbus_setting_enable_switch_title">Nota pikk</string>
+    <string name="columbus_setting_sensitivity_title">Krefjast þess að ýtt sé fastar</string>
+    <string name="columbus_title">Pikka til að ræsa aðgerðir</string>
 </resources>

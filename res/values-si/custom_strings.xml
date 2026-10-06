@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">මෙම ක්‍රියාව උපාංග හිමිකරුට පමණක් සීමා වේ</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">ඔව්</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">ඉක්මන් තට්ටු කිරීම අනාවරණය කර ගන්නා ලදි!</string>
+    <string name="columbus_gesture_enrollment_complete">නිමයි</string>
+    <string name="columbus_gesture_enrollment_do_it_later">දැන් නොවේ</string>
+    <string name="columbus_gesture_enrollment_settings">සැකසීම් වෙත යන්න</string>
+    <string name="columbus_gesture_enrollment_try_it">එය උත්සාහ කරන්න</string>
+    <string name="columbus_gesture_training_action_no_selection_error">කරුණාකර සිදු කිරීමට ක්‍රියාවක් තෝරන්න</string>
+    <string name="columbus_gesture_training_action_text">ඔබ ඉක්මන් තට්ටු කිරීම භාවිත කරන විට සිදු වන දේ තෝරන්න. ඔබට මෙය පසුව සැකසීම් තුළ වෙනස් කළ හැකිය.</string>
+    <string name="columbus_gesture_training_action_title">ඉක්මන් තට්ටු කිරීම විකල්පය තෝරන්න</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">අපි තව වරක් එය උත්සාහ කරමු. ඔබගේ දුරකථනයෙහි පිටුපස ඉක්මනින් තට්ටු කරන්න.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">කදිමයි!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">ඔබ ඉක්මන් තට්ටු කිරීම ආරම්භ කිරීමට සූදානම්ය</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">ඔබට එය තේරුණා!</string>
+    <string name="columbus_gesture_training_enrolling_text">ඔබගේ දුරකථනයෙහි පිටුපස ඉක්මනින් තට්ටු කරන්න.</string>
+    <string name="columbus_gesture_training_enrolling_title">ඉක්මන් තට්ටු කිරීම උත්සාහ කරන්න</string>
+    <string name="columbus_gesture_training_finished_text">ඉක්මන් තට්ටු කිරීම භාවිත කිරීමට අවශ්‍ය තට්ටු කිරීමේ ප්‍රබලතාව වෙනස් කිරීමට, සැකසීම් වෙත යන්න.</string>
+    <string name="columbus_gesture_training_finished_title">ඔබ ඉක්මන් තට්ටු කිරීම පිහිටුවා ඇත</string>
+    <string name="columbus_gesture_training_intro_text_suw">තට්ටු කිරීම් දෙකකින් තිර රුවක් ගන්න, දැනුම්දීම් පෙන්වන්න හෝ තවත් ක්‍රියාවක් ආරම්භ කරන්න.</string>
+    <string name="columbus_gesture_training_intro_title">ඉක්මන් ක්‍රියා සඳහා ඉක්මන් තට්ටු කිරීම</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">කරුණාකර විවෘත කිරීමට යෙදුමක් තෝරන්න</string>
+    <string name="columbus_gesture_training_launch_text">ඔබ ඉක්මන් තට්ටු කිරීම භාවිත කරන විට විවෘත කිරීමට කැමති යෙදුම තෝරන්න.</string>
+    <string name="columbus_gesture_training_launch_title">විවෘත කිරීමට යෙදුම තෝරන්න</string>
+    <string name="columbus_launch_settings_activity_title">ඉක්මන් තට්ටු කිරීමේ සැකසීම්</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s සැකසීම්</string>
+    <string name="columbus_setting_action_assistant_title">ඔබගේ ඩිජිටල් සහායක වෙත ප්‍රවේශ වන්න</string>
+    <string name="columbus_setting_action_flashlight_title">ෆ්ලෑෂ්ලයිට් ටොගල කරන්න</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">කිසිදු යෙදුමක් තෝරා නැත</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">යෙදුම ස්ථාපනය කර නැත</string>
+    <string name="columbus_setting_action_launch_title">යෙදුම විවෘත කරන්න</string>
+    <string name="columbus_setting_action_notification_title">දැනුම්දීම් පෙන්වන්න</string>
+    <string name="columbus_setting_action_open_app_title">යෙදුම විවෘත කරන්න</string>
+    <string name="columbus_setting_action_overview_title">මෑත යෙදුම් බලන්න</string>
+    <string name="columbus_setting_action_play_pause_title">මාධ්‍ය ධාවන කරන්න හෝ විරාම කරන්න</string>
+    <string name="columbus_setting_action_screenshot_title">තිර රුව ගන්න</string>
+    <string name="columbus_setting_actions_title">දුරකථනයෙහි පසුපස දෙවරක් තට්ටු කරන්න</string>
+    <string name="columbus_setting_additional_settings_title">ඉක්මන් තට්ටු කිරීමේ ප්‍රබලතාව</string>
+    <string name="columbus_setting_app_selection_help_text">ඔබ ඔබගේ දුරකථනයේ පිටුපස දෙවරක් තට්ටු කරන විට විවෘත කිරීමට යෙදුමක් තෝරන්න. ඔබ යෙදුම අස්ථාපනය කළහොත්, ඉක්මන් තට්ටු කිරීම ඔබ වෙනත් යෙදුමක් තෝරන තෙක් ක්‍රියාවිරහිත වේ.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">ඔබ ඉක්මන් තට්ටු කිරීම භාවිතයෙන් මෙම යෙදුම විවෘත කළ විට සිදු වන දේ තෝරන්න.</string>
+    <string name="columbus_setting_enable_switch_title">ඉක්මන් තට්ටු කිරීම භාවිත කරන්න</string>
+    <string name="columbus_setting_sensitivity_title">වඩාත් දැඩි තට්ටු කිරීම් අවශ්‍යයි</string>
+    <string name="columbus_title">ක්‍රියා ආරම්භ කිරීමට ඉක්මන් තට්ටු කිරීම</string>
 </resources>

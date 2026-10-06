@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Această acțiune poate fi folosită numai de proprietarul dispozitivului</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Da</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">A fost detectată o Atingere rapidă!</string>
+    <string name="columbus_gesture_enrollment_complete">Terminat</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Nu acum</string>
+    <string name="columbus_gesture_enrollment_settings">Accesează Setările</string>
+    <string name="columbus_gesture_enrollment_try_it">Încearcă</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Selectează o acțiune de încercat</string>
+    <string name="columbus_gesture_training_action_text">Selectează ce se întâmplă când folosești Atingerea rapidă. Poți modifica opțiunea ulterior în setări.</string>
+    <string name="columbus_gesture_training_action_title">Alege opțiunea Atingere rapidă</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Mai încearcă o dată. Atinge rapid de două ori partea din spate a telefonului.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Bravo!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Poți începe să folosești Atingerea rapidă</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Ai reușit!</string>
+    <string name="columbus_gesture_training_enrolling_text">Atinge rapid de două ori partea din spate a telefonului.</string>
+    <string name="columbus_gesture_training_enrolling_title">Încearcă Atingerea rapidă</string>
+    <string name="columbus_gesture_training_finished_text">Ca să schimbi intensitatea atingerii necesare pentru a folosi Atingerea rapidă, accesează Setările.</string>
+    <string name="columbus_gesture_training_finished_title">Ai configurat Atingerea rapidă</string>
+    <string name="columbus_gesture_training_intro_text_suw">Fă o captură de ecran, afișează notificările sau începe altă acțiune cu două atingeri.</string>
+    <string name="columbus_gesture_training_intro_title">Atingere rapidă pentru acțiuni rapide</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Selectează o aplicație pentru a o deschide</string>
+    <string name="columbus_gesture_training_launch_text">Selectează aplicația pe care dorești să o deschizi când folosești Atingere rapidă.</string>
+    <string name="columbus_gesture_training_launch_title">Alege aplicația de deschis</string>
+    <string name="columbus_launch_settings_activity_title">Setări pentru Atingere rapidă</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Setări %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Accesează asistentul digital</string>
+    <string name="columbus_setting_action_flashlight_title">Aprinde / stinge lanterna</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Nu s-a selectat nicio aplicație</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Aplicația nu este instalată</string>
+    <string name="columbus_setting_action_launch_title">Deschide aplicația</string>
+    <string name="columbus_setting_action_notification_title">Afișează notificările</string>
+    <string name="columbus_setting_action_open_app_title">Deschide aplicația</string>
+    <string name="columbus_setting_action_overview_title">Vezi aplicațiile recente</string>
+    <string name="columbus_setting_action_play_pause_title">Redă sau întrerupe conținutul media</string>
+    <string name="columbus_setting_action_screenshot_title">Fă o captură de ecran</string>
+    <string name="columbus_setting_actions_title">Atinge de două ori partea din spate a dispozitivului și</string>
+    <string name="columbus_setting_additional_settings_title">Intensitatea Atingerii rapide</string>
+    <string name="columbus_setting_app_selection_help_text">Selectează o aplicație de deschis când atingi de două ori partea din spate a telefonului. Dacă dezinstalezi aplicația, Atingerea rapidă se dezactivează până când selectezi altă aplicație.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Selectează ce se întâmplă când deschizi aplicația folosind Atingerea rapidă.</string>
+    <string name="columbus_setting_enable_switch_title">Folosește Atingerea rapidă</string>
+    <string name="columbus_setting_sensitivity_title">Solicită apăsări mai puternice</string>
+    <string name="columbus_title">Atinge rapid pentru a iniția acțiuni</string>
 </resources>

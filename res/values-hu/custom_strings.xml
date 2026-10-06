@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Ez a művelet csak az eszköz tulajdonosa számára áll rendelkezésre</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Igen</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Gyors koppintás észlelve!</string>
+    <string name="columbus_gesture_enrollment_complete">Kész</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Most nem</string>
+    <string name="columbus_gesture_enrollment_settings">Beállítások</string>
+    <string name="columbus_gesture_enrollment_try_it">Kipróbálom</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Válassza ki a végrehajtani kívánt műveletet</string>
+    <string name="columbus_gesture_training_action_text">Válassza ki, hogy mi történjen a Gyors koppintás használatakor. Ezt később a beállítások között módosíthatja.</string>
+    <string name="columbus_gesture_training_action_title">Gyors koppintás beállítás kiválasztása</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Próbálja meg még egyszer. Koppintson gyorsan kétszer a telefonja hátoldalán.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Remek!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Készen áll arra, hogy használatba vegye a Gyors koppintás kézmozdulatot</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Így van!</string>
+    <string name="columbus_gesture_training_enrolling_text">Koppintson gyorsan kétszer a telefonja hátoldalán.</string>
+    <string name="columbus_gesture_training_enrolling_title">Gyors koppintás kipróbálása</string>
+    <string name="columbus_gesture_training_finished_text">Ha szeretné módosítani a Gyors koppintás használatához szükséges koppintási erősséget, nyissa meg a Beállítások menüt.</string>
+    <string name="columbus_gesture_training_finished_title">Sikeresen beállította a Gyors koppintást</string>
+    <string name="columbus_gesture_training_intro_text_suw">Két koppintással képernyőképet készíthet, megjelenítheti az értesítéseket, illetve más műveletet kezdeményezhet.</string>
+    <string name="columbus_gesture_training_intro_title">Gyors koppintás a gyorsműveletekhez</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Válassza ki a megnyitni kívánt alkalmazást</string>
+    <string name="columbus_gesture_training_launch_text">Válassza ki azt az alkalmazást, amelyet a Gyors koppintás használatával szeretne megnyitni.</string>
+    <string name="columbus_gesture_training_launch_title">A megnyitni kívánt alkalmazás kiválasztása</string>
+    <string name="columbus_launch_settings_activity_title">Gyors koppintás beállításai</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s beállításai</string>
+    <string name="columbus_setting_action_assistant_title">Hozzáférés a digitális asszisztenshez</string>
+    <string name="columbus_setting_action_flashlight_title">Vaku be-, illetve kikapcsolása</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Nincs kiválasztott alkalmazás</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Az alkalmazás nincs telepítve</string>
+    <string name="columbus_setting_action_launch_title">Alkalmazás megnyitása</string>
+    <string name="columbus_setting_action_notification_title">Értesítések mutatása</string>
+    <string name="columbus_setting_action_open_app_title">Alkalmazás megnyitása</string>
+    <string name="columbus_setting_action_overview_title">Legutóbbi alkalmazások megtekintése</string>
+    <string name="columbus_setting_action_play_pause_title">Médiatartalom lejátszása/szüneteltetése</string>
+    <string name="columbus_setting_action_screenshot_title">Képernyőkép készítése</string>
+    <string name="columbus_setting_actions_title">Koppintson kétszer a telefon hátoldalán a következő művelethez:</string>
+    <string name="columbus_setting_additional_settings_title">Gyors koppintás erőssége</string>
+    <string name="columbus_setting_app_selection_help_text">Válassza ki, hogy melyik alkalmazás nyíljon meg, amikor kétszer a telefonja hátoldalára koppint. Ha eltávolítja az alkalmazást, a Gyors koppintás kikapcsolódik, amíg ki nem választ egy másik alkalmazást.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Válassza ki, hogy mi történjen, amikor megnyitja ezt az alkalmazást a Gyors koppintás használatával.</string>
+    <string name="columbus_setting_enable_switch_title">Gyors koppintás használata</string>
+    <string name="columbus_setting_sensitivity_title">Erősebben kell koppintani</string>
+    <string name="columbus_title">Gyors koppintás műveletek indításához</string>
 </resources>

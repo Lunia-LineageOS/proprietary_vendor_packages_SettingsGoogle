@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Tindakan ini terhad kepada pemilik peranti sahaja</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Ya</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Ketikan Segera dikesan!</string>
+    <string name="columbus_gesture_enrollment_complete">Selesai</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Bukan sekarang</string>
+    <string name="columbus_gesture_enrollment_settings">Pergi ke Tetapan</string>
+    <string name="columbus_gesture_enrollment_try_it">Cuba</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Sila pilih tindakan untuk dilaksanakan</string>
+    <string name="columbus_gesture_training_action_text">Pilih perkara yang berlaku apabila anda menggunakan Ketikan Segera. Anda boleh menukar perkara ini kemudian dalam tetapan.</string>
+    <string name="columbus_gesture_training_action_title">Pilih pilihan Ketikan Segera</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Mari cuba sekali lagi. Ketik dua kali pada belakang telefon anda dengan cepat.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Bagus!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Anda bersedia untuk mula menggunakan Ketikan Segera</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Beres!</string>
+    <string name="columbus_gesture_training_enrolling_text">Ketik dua kali pada belakang telefon anda dengan cepat.</string>
+    <string name="columbus_gesture_training_enrolling_title">Cuba Ketikan Segera</string>
+    <string name="columbus_gesture_training_finished_text">Untuk mengubah kekuatan ketikan yang diperlukan untuk menggunakan Ketikan Segera, pergi ke Tetapan.</string>
+    <string name="columbus_gesture_training_finished_title">Anda telah menyediakan Ketikan Segera</string>
+    <string name="columbus_gesture_training_intro_text_suw">Ambil tangkapan skrin, tunjukkan pemberitahuan atau mulakan tindakan lain menggunakan dwiketik.</string>
+    <string name="columbus_gesture_training_intro_title">Ketikan Segera untuk tindakan pantas</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Sila pilih apl untuk dibuka</string>
+    <string name="columbus_gesture_training_launch_text">Pilih apl yang ingin anda buka semasa anda menggunakan Ketikan Segera.</string>
+    <string name="columbus_gesture_training_launch_title">Pilih apl untuk dibuka</string>
+    <string name="columbus_launch_settings_activity_title">Tetapan Ketikan Segera</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Tetapan %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Akses pembantu digital</string>
+    <string name="columbus_setting_action_flashlight_title">Togol lampu suluh</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Tiada apl dipilih</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Apl tidak dipasang</string>
+    <string name="columbus_setting_action_launch_title">Buka apl</string>
+    <string name="columbus_setting_action_notification_title">Tunjukkan pemberitahuan</string>
+    <string name="columbus_setting_action_open_app_title">Buka apl</string>
+    <string name="columbus_setting_action_overview_title">Lihat apl terbaharu</string>
+    <string name="columbus_setting_action_play_pause_title">Main atau jeda media</string>
+    <string name="columbus_setting_action_screenshot_title">Ambil tangkapan skrin</string>
+    <string name="columbus_setting_actions_title">Ketik dua kali pada belakang telefon untuk</string>
+    <string name="columbus_setting_additional_settings_title">Kekuatan Ketikan Segera</string>
+    <string name="columbus_setting_app_selection_help_text">Pilih apl yang akan dibuka apabila anda mengetik dua kali pada belakang telefon. Jika anda menyahpasang apl, Ketikan Segera akan dimatikan sehingga anda memilih apl lain.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Pilih perkara yang berlaku apabila anda membuka apl ini menggunakan Ketikan Segera.</string>
+    <string name="columbus_setting_enable_switch_title">Gunakan Ketikan Segera</string>
+    <string name="columbus_setting_sensitivity_title">Perlukan ketikan yang lebih kuat</string>
+    <string name="columbus_title">Ketikan Segera untuk memulakan tindakan</string>
 </resources>

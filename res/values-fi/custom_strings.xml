@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Toiminto on rajoitettu vain laitteen omistajalle</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Kyllä</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Pikanäpäytys havaittu</string>
+    <string name="columbus_gesture_enrollment_complete">Valmis</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Ei nyt</string>
+    <string name="columbus_gesture_enrollment_settings">Siirry asetuksiin</string>
+    <string name="columbus_gesture_enrollment_try_it">Kokeile</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Valitse tehtävä toiminto</string>
+    <string name="columbus_gesture_training_action_text">Katso, mitä tapahtuu, kun käytät pikanäpäytystä. Voit muuttaa tätä myöhemmin asetuksissa.</string>
+    <string name="columbus_gesture_training_action_title">Valitse pikanäpäytysvaihtoehto</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Kokeillaan vielä kerran. Napauta nopeasti puhelimen takaosaa kaksi kertaa.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Hienoa!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Voit nyt aloittaa pikanäpäytyksen käytön</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Hienosti tehty!</string>
+    <string name="columbus_gesture_training_enrolling_text">Napauta nopeasti puhelimen takaosaa kaksi kertaa.</string>
+    <string name="columbus_gesture_training_enrolling_title">Kokeile pikanäpäytystä</string>
+    <string name="columbus_gesture_training_finished_text">Jos haluat muuttaa pikanäpäytyksen napautusherkkyyttä, siirry asetuksiin.</string>
+    <string name="columbus_gesture_training_finished_title">Olet ottanut pikanäpäytyksen käyttöön</string>
+    <string name="columbus_gesture_training_intro_text_suw">Kahdella napautuksella voit ottaa kuvakaappauksen, näyttää ilmoituksia tai tehdä muun toiminnon.</string>
+    <string name="columbus_gesture_training_intro_title">Tee pikatoimintoja pikanäpäytyksellä</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Valitse avattava sovellus</string>
+    <string name="columbus_gesture_training_launch_text">Valitse sovellus, jonka haluat avata pikanäpäytyksellä.</string>
+    <string name="columbus_gesture_training_launch_title">Valitse avattava sovellus</string>
+    <string name="columbus_launch_settings_activity_title">Pikanäpäytyksen asetukset</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s: asetukset</string>
+    <string name="columbus_setting_action_assistant_title">käyttää digiavustajaa</string>
+    <string name="columbus_setting_action_flashlight_title">laittaa taskulampun päälle/pois</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Ei valittua sovellusta</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Sovellusta ei asennettu</string>
+    <string name="columbus_setting_action_launch_title">avata sovelluksen</string>
+    <string name="columbus_setting_action_notification_title">näyttää ilmoitukset</string>
+    <string name="columbus_setting_action_open_app_title">Avaa sovellus</string>
+    <string name="columbus_setting_action_overview_title">nähdä viimeksi käytetyt sovellukset</string>
+    <string name="columbus_setting_action_play_pause_title">toistaa mediaa tai keskeyttää sen</string>
+    <string name="columbus_setting_action_screenshot_title">ottaa kuvakaappauksen</string>
+    <string name="columbus_setting_actions_title">Napauta puhelimen takaosaa kahdesti, jos haluat</string>
+    <string name="columbus_setting_additional_settings_title">Pikanäpäytyksen voimakkuus</string>
+    <string name="columbus_setting_app_selection_help_text">Valitse, mikä sovellus avataan, kun napautat puhelimen takaosaa kahdesti. Jos poistat sovelluksen, pikanäpäytys ei ole päällä ennen kuin valitset toisen sovelluksen.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Valitse, mitä tapahtuu, kun tämä sovellus avataan pikanäpäytyksellä.</string>
+    <string name="columbus_setting_enable_switch_title">Käytä pikanäpäytystä</string>
+    <string name="columbus_setting_sensitivity_title">Vaadi voimakkaampia napautuksia</string>
+    <string name="columbus_title">Käynnistä toimintoja pikanäpäytyksellä</string>
 </resources>

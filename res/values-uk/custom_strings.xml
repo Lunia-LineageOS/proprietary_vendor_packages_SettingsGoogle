@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Цю дію може виконати лише власник пристрою</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Так</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Виявлено подвійний дотик.</string>
+    <string name="columbus_gesture_enrollment_complete">Готово</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Не зараз</string>
+    <string name="columbus_gesture_enrollment_settings">Налаштування</string>
+    <string name="columbus_gesture_enrollment_try_it">Спробувати</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Виберіть потрібну дію</string>
+    <string name="columbus_gesture_training_action_text">Виберіть дію, яка відбуватиметься після подвійного дотику. Її можна потім змінити в налаштуваннях.</string>
+    <string name="columbus_gesture_training_action_title">Виберіть дію для подвійного дотику</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Спробуймо ще раз. Двічі швидко торкніться задньої панелі телефона.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Чудово!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Ви готові користуватися подвійним дотиком</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Правильно!</string>
+    <string name="columbus_gesture_training_enrolling_text">Двічі швидко торкніться задньої панелі телефона.</string>
+    <string name="columbus_gesture_training_enrolling_title">Спробуйте подвійний дотик</string>
+    <string name="columbus_gesture_training_finished_text">Щоб змінити потрібну для подвійного дотику силу, перейдіть у налаштування.</string>
+    <string name="columbus_gesture_training_finished_title">Подвійний дотик налаштовано</string>
+    <string name="columbus_gesture_training_intro_text_suw">Робіть знімки екрана, переглядайте сповіщення або починайте іншу дію двома дотиками.</string>
+    <string name="columbus_gesture_training_intro_title">Подвійний дотик для швидких дій</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Виберіть додаток, який потрібно відкривати</string>
+    <string name="columbus_gesture_training_launch_text">Виберіть додаток, який потрібно відкривати подвійним дотиком.</string>
+    <string name="columbus_gesture_training_launch_title">Виберіть додаток, який потрібно відкривати</string>
+    <string name="columbus_launch_settings_activity_title">Налаштування подвійного дотику</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Налаштування дії \"%1$s\"</string>
+    <string name="columbus_setting_action_assistant_title">Запустити цифрового помічника</string>
+    <string name="columbus_setting_action_flashlight_title">Увімкнути або вимкнути ліхтарик</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Додаток не вибрано</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Додаток не встановлено</string>
+    <string name="columbus_setting_action_launch_title">Відкрити додаток</string>
+    <string name="columbus_setting_action_notification_title">Показати сповіщення</string>
+    <string name="columbus_setting_action_open_app_title">Відкрити додаток</string>
+    <string name="columbus_setting_action_overview_title">Переглянути нещодавні додатки</string>
+    <string name="columbus_setting_action_play_pause_title">Відтворити або зупинити медіа</string>
+    <string name="columbus_setting_action_screenshot_title">Зробити знімок екрана</string>
+    <string name="columbus_setting_actions_title">Дії в разі подвійного дотику до задньої панелі телефона</string>
+    <string name="columbus_setting_additional_settings_title">Сила подвійного дотику</string>
+    <string name="columbus_setting_app_selection_help_text">Виберіть додаток, який має відкриватися, коли ви двічі торкаєтеся задньої панелі телефона. Якщо ви видалите додаток, подвійний дотик не працюватиме, доки ви не виберете інший.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Виберіть дію, яка має відбуватися, коли ви відкриваєте цей додаток подвійним дотиком.</string>
+    <string name="columbus_setting_enable_switch_title">Використовувати подвійний дотик</string>
+    <string name="columbus_setting_sensitivity_title">Сильніший дотик</string>
+    <string name="columbus_title">Подвійний дотик для виконання дій</string>
 </resources>

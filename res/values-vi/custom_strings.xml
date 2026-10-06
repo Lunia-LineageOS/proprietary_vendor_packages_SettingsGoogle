@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Chỉ chủ sở hữu thiết bị mới thực hiện được thao tác này</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Có</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Phát hiện thấy chế độ Chạm nhanh!</string>
+    <string name="columbus_gesture_enrollment_complete">Xong</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Để sau</string>
+    <string name="columbus_gesture_enrollment_settings">Chuyển đến phần Cài đặt</string>
+    <string name="columbus_gesture_enrollment_try_it">Thử</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Vui lòng chọn một hành động sẽ thực hiện</string>
+    <string name="columbus_gesture_training_action_text">Chọn hành động sẽ xảy ra khi bạn dùng chế độ Chạm nhanh. Bạn có thể thay đổi chế độ này vào lúc khác trong phần cài đặt.</string>
+    <string name="columbus_gesture_training_action_title">Chọn chế độ Chạm nhanh</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Hãy thử thêm một lần nữa. Chạm nhanh vào mặt sau của điện thoại hai lần.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Tuyệt vời!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Bạn đã sẵn sàng bắt đầu dùng chế độ Chạm nhanh</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Chính xác!</string>
+    <string name="columbus_gesture_training_enrolling_text">Chạm nhanh vào mặt sau của điện thoại hai lần.</string>
+    <string name="columbus_gesture_training_enrolling_title">Dùng thử chế độ Chạm nhanh</string>
+    <string name="columbus_gesture_training_finished_text">Để thay đổi cường độ nhấn cần thiết khi dùng chế độ Chạm nhanh, hãy chuyển đến phần Cài đặt.</string>
+    <string name="columbus_gesture_training_finished_title">Bạn đã thiết lập chế độ Chạm nhanh</string>
+    <string name="columbus_gesture_training_intro_text_suw">Chụp ảnh màn hình, hiện thông báo hoặc bắt đầu một hành động khác bằng 2 lần nhấn.</string>
+    <string name="columbus_gesture_training_intro_title">Chạm nhanh để thực hiện các thao tác nhanh</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Vui lòng chọn một ứng dụng sẽ mở</string>
+    <string name="columbus_gesture_training_launch_text">Chọn ứng dụng mà bạn muốn mở khi dùng chế độ Chạm nhanh.</string>
+    <string name="columbus_gesture_training_launch_title">Chọn ứng dụng sẽ mở</string>
+    <string name="columbus_launch_settings_activity_title">Cài đặt Chạm nhanh</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Cài đặt %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Sử dụng trợ lý kỹ thuật số</string>
+    <string name="columbus_setting_action_flashlight_title">Bật/tắt đèn pin</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Chưa chọn ứng dụng nào</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Ứng dụng chưa được cài đặt</string>
+    <string name="columbus_setting_action_launch_title">Mở ứng dụng</string>
+    <string name="columbus_setting_action_notification_title">Hiện thông báo</string>
+    <string name="columbus_setting_action_open_app_title">Mở ứng dụng</string>
+    <string name="columbus_setting_action_overview_title">Xem các ứng dụng gần đây</string>
+    <string name="columbus_setting_action_play_pause_title">Phát hoặc tạm dừng nhạc/video</string>
+    <string name="columbus_setting_action_screenshot_title">Chụp ảnh màn hình</string>
+    <string name="columbus_setting_actions_title">Chạm vào mặt sau của điện thoại hai lần để</string>
+    <string name="columbus_setting_additional_settings_title">Cường độ cho chế độ Chạm nhanh</string>
+    <string name="columbus_setting_app_selection_help_text">Chọn một ứng dụng sẽ mở khi bạn chạm vào mặt sau của điện thoại hai lần. Nếu bạn gỡ cài đặt ứng dụng đó, chế độ Chạm nhanh sẽ tắt cho tới khi bạn chọn một ứng dụng khác.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Chọn hành động sẽ diễn ra khi bạn mở ứng dụng này bằng chế độ Chạm nhanh.</string>
+    <string name="columbus_setting_enable_switch_title">Sử dụng chế độ Chạm nhanh</string>
+    <string name="columbus_setting_sensitivity_title">Yêu cầu chạm mạnh hơn</string>
+    <string name="columbus_title">Chạm nhanh để bắt đầu các thao tác</string>
 </resources>

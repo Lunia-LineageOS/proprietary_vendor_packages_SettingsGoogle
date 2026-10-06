@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Selle toimingu saab teha ainult seadme omanik</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Jah</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Tuvastati kiirpuudutus!</string>
+    <string name="columbus_gesture_enrollment_complete">Valmis</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Mitte praegu</string>
+    <string name="columbus_gesture_enrollment_settings">Ava seaded</string>
+    <string name="columbus_gesture_enrollment_try_it">Proovin</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Valige tegemiseks mõni toiming</string>
+    <string name="columbus_gesture_training_action_text">Valige, mis toimub, kui kiirpuudutust kasutate. Võite seda hiljem seadetes muuta.</string>
+    <string name="columbus_gesture_training_action_title">Tehke kiirpuudutuse valik</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Proovime korra veel. Puudutage telefoni tagakülge kiirelt kaks korda.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Tubli töö!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Olete valmis alustama kiirpuudutuse kasutamist</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Täpselt nii!</string>
+    <string name="columbus_gesture_training_enrolling_text">Puudutage telefoni tagakülge kiirelt kaks korda.</string>
+    <string name="columbus_gesture_training_enrolling_title">Proovige kiirpuudutust</string>
+    <string name="columbus_gesture_training_finished_text">Kiirpuudutuse kasutamise puudutuse tugevuse muutmiseks avage seaded.</string>
+    <string name="columbus_gesture_training_finished_title">Seadistasite kiirpuudutuse</string>
+    <string name="columbus_gesture_training_intro_text_suw">Jäädvustage ekraanipilt, kuvage märguandeid või alutage teist toimingut kahe puudutusega.</string>
+    <string name="columbus_gesture_training_intro_title">Kiirpuudutus kiirtoimingute tegemiseks</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Valige rakendus, mis avada</string>
+    <string name="columbus_gesture_training_launch_text">Valige rakendus, mis avada, kui kasutate kiirpuudutust.</string>
+    <string name="columbus_gesture_training_launch_title">Valige rakendus, mis avada</string>
+    <string name="columbus_launch_settings_activity_title">Kiirpuudutuse seaded</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Toimingu %1$s seaded</string>
+    <string name="columbus_setting_action_assistant_title">Juurdepääs digitaalsele assistendile</string>
+    <string name="columbus_setting_action_flashlight_title">Taskulambi lülitamine</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Ühtegi rakendust pole valitud</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Rakendust pole installitud</string>
+    <string name="columbus_setting_action_launch_title">Rakenduse avamine</string>
+    <string name="columbus_setting_action_notification_title">Märguannete kuvamine</string>
+    <string name="columbus_setting_action_open_app_title">Ava rakendus</string>
+    <string name="columbus_setting_action_overview_title">Hiljutiste rakenduste nägemine</string>
+    <string name="columbus_setting_action_play_pause_title">Meedia esitamine või peatamine</string>
+    <string name="columbus_setting_action_screenshot_title">Ekraanipildi jäädvustamine</string>
+    <string name="columbus_setting_actions_title">Telefoni tagakülje puudutamisel kaks korda toimub järgmine</string>
+    <string name="columbus_setting_additional_settings_title">Kiirpuudutuse tugevus</string>
+    <string name="columbus_setting_app_selection_help_text">Valige rakendus, mis avada, kui puudutate telefoni tagakülge kaks korda. Kui rakenduse desinstallite, lülitatakse kiirpuudutus välja, kuni valite teise rakenduse.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Valige, mis juhtub, kui selle rakenduse kiirpuudutusega avate.</string>
+    <string name="columbus_setting_enable_switch_title">Kasuta kiirpuudutusi</string>
+    <string name="columbus_setting_sensitivity_title">Nõua tugevamaid puudutusi</string>
+    <string name="columbus_title">Kiirpuudutus toimingute käivitamiseks</string>
 </resources>

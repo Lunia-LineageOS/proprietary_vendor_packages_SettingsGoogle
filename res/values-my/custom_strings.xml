@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">ဤလုပ်ဆောင်ချက်ကို စက်ပိုင်ရှင်သာ ပြုလုပ်နိုင်သည်</string>
     <string name="sp_apply_title_product_combined">%s လား</string>
     <string name="sp_apply_yes_button">Yes</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">‘အမြန်တို့’ ကို တွေ့ရသည်။</string>
+    <string name="columbus_gesture_enrollment_complete">ပြီးပြီ</string>
+    <string name="columbus_gesture_enrollment_do_it_later">ယခုမလုပ်ပါ</string>
+    <string name="columbus_gesture_enrollment_settings">ဆက်တင်များသို့သွားရန်</string>
+    <string name="columbus_gesture_enrollment_try_it">စမ်းကြည့်ရန်</string>
+    <string name="columbus_gesture_training_action_no_selection_error">လုပ်ဆောင်ချက်တစ်ခုကို ရွေးပါ</string>
+    <string name="columbus_gesture_training_action_text">‘အမြန်တို့’ ကို သုံးသောအခါ မည်သို့ဖြစ်မည်ကို ရွေးပါ။ နောက်မှ ဆက်တင်များတွင် ပြောင်းနိုင်ပါသည်။</string>
+    <string name="columbus_gesture_training_action_title">‘အမြန်တို့’ ကို ရွေးရန်</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">ထပ်စမ်းကြည့်ရအောင်။ သင့်ဖုန်း၏ နောက်ဘက်ကို နှစ်ချက်အမြန်တို့ပါ။</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">ကောင်းသည်။</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">သင်သည် ‘အမြန်တို့’ ကို သုံးရန် အသင့်ဖြစ်ပါပြီ</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">ရပါပြီ။</string>
+    <string name="columbus_gesture_training_enrolling_text">သင့်ဖုန်း၏ နောက်ဘက်ကို နှစ်ချက်အမြန်တို့ပါ။</string>
+    <string name="columbus_gesture_training_enrolling_title">‘အမြန်တို့’ ကို စမ်းကြည့်ပါ</string>
+    <string name="columbus_gesture_training_finished_text">‘အမြန်တို့’ ကို သုံးရန်အတွက် လိုအပ်သော တို့အားပြောင်းရန် ဆက်တင်များသို့ သွားပါ။</string>
+    <string name="columbus_gesture_training_finished_title">‘အမြန်တို့’ ကို စနစ်ထည့်သွင်းပြီးပါပြီ</string>
+    <string name="columbus_gesture_training_intro_text_suw">ဖန်သားပြင်ဓာတ်ပုံရိုက်ပါ၊ အကြောင်းကြားချက်များပြပါ၊ (သို့) နှစ်ချက်တို့၍ နောက်လုပ်ဆောင်ချက် စတင်ပါ။</string>
+    <string name="columbus_gesture_training_intro_title">အမြန်လုပ်ဆောင်ချက်များအတွက် ‘အမြန်တို့’</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">ဖွင့်ရန် အက်ပ်တစ်ခုရွေးပါ</string>
+    <string name="columbus_gesture_training_launch_text">‘အမြန်တို့’ ကို သုံးသောအခါ သင်ဖွင့်လိုသောအက်ပ်ကို ရွေးပါ။</string>
+    <string name="columbus_gesture_training_launch_title">ဖွင့်ရန် အက်ပ်ရွေးပါ</string>
+    <string name="columbus_launch_settings_activity_title">‘အမြန်တို့’ ဆက်တင်များ</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s ဆက်တင်များ</string>
+    <string name="columbus_setting_action_assistant_title">သင့် ဒစ်ဂျစ်တယ်အထောက်အကူကို သုံးရန်</string>
+    <string name="columbus_setting_action_flashlight_title">ဖလက်ရှ်မီး ဖွင့်/ပိတ်ရန်</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">အက်ပ် ရွေးမထားပါ</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">အက်ပ် ထည့်သွင်းမထားပါ</string>
+    <string name="columbus_setting_action_launch_title">အက်ပ်ဖွင့်ရန်</string>
+    <string name="columbus_setting_action_notification_title">အကြောင်းကြားချက်များ ပြရန်</string>
+    <string name="columbus_setting_action_open_app_title">အက်ပ် ဖွင့်ရန်</string>
+    <string name="columbus_setting_action_overview_title">မကြာသေးမီကအက်ပ်များကို ကြည့်ရန်</string>
+    <string name="columbus_setting_action_play_pause_title">မီဒီယာဖွင့်ရန် (သို့) ခဏရပ်ရန်</string>
+    <string name="columbus_setting_action_screenshot_title">ဖန်သားပြင်ပုံ ရိုက်ရန်</string>
+    <string name="columbus_setting_actions_title">ဖုန်း၏နောက်ဘက်ကို နှစ်ကြိမ်တို့ခြင်းဖြင့်</string>
+    <string name="columbus_setting_additional_settings_title">‘အမြန်တို့’ ၏ တို့အား</string>
+    <string name="columbus_setting_app_selection_help_text">သင့်ဖုန်း၏နောက်ဘက်ကို နှစ်ချက်တို့လျှင် ဖွင့်မည့်အက်ပ်ကို ရွေးပါ။ အက်ပ်ကို ဖယ်ရှားလိုက်ပါက သင် အခြားအက်ပ်ကို မရွေးမချင်း ‘အမြန်တို့’ ကို ပိတ်ထားသည်။</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">‘အမြန်တို့’ ကို သုံး၍ ဤအက်ပ်ကိုဖွင့်သောအခါ မည်သို့ဖြစ်မည်ကို ရွေးပါ။</string>
+    <string name="columbus_setting_enable_switch_title">‘အမြန်တို့’ သုံးရန်</string>
+    <string name="columbus_setting_sensitivity_title">ခပ်ပြင်းပြင်းတို့ချက်များ လိုအပ်သည်</string>
+    <string name="columbus_title">လုပ်ဆောင်ရန် ‘အမြန်တို့ခြင်း’</string>
 </resources>

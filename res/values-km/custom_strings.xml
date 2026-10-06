@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">សកម្មភាពនេះត្រូវបានដាក់កំហិតចំពោះម្ចាស់ឧបករណ៍តែប៉ុណ្ណោះ</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">បាទ/ចាស</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">ចាប់​បានការប៉ះរហ័ស!</string>
+    <string name="columbus_gesture_enrollment_complete">រួចរាល់</string>
+    <string name="columbus_gesture_enrollment_do_it_later">កុំទាន់</string>
+    <string name="columbus_gesture_enrollment_settings">ចូល​ទៅកាន់​ការកំណត់</string>
+    <string name="columbus_gesture_enrollment_try_it">សាកល្បង</string>
+    <string name="columbus_gesture_training_action_no_selection_error">សូម​ជ្រើសរើស​សកម្មភាព​ដែលត្រូវធ្វើ</string>
+    <string name="columbus_gesture_training_action_text">ជ្រើសរើសថាមានអ្វីកើតឡើង នៅពេលអ្នកប្រើការប៉ះរហ័ស។ អ្នកអាច​ប្ដូរវាបាន​នៅពេលក្រោយ​នៅក្នុង​ការកំណត់​។</string>
+    <string name="columbus_gesture_training_action_title">ជ្រើសរើសជម្រើសការប៉ះរហ័ស</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">សូមសាកល្បង​ធ្វើម្ដងទៀត​។ ចុច​ផ្នែកខាងក្រោយ​នៃទូរសព្ទរបស់អ្នក​ពីរដងឱ្យរហ័ស។</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">ល្អ!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">អ្នកអាចប្រើការប៉ះរហ័សបានហើយ</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">យល់ហើយ!</string>
+    <string name="columbus_gesture_training_enrolling_text">ចុច​ផ្នែកខាងក្រោយ​នៃទូរសព្ទរបស់អ្នក​ពីរដងឱ្យរហ័ស។</string>
+    <string name="columbus_gesture_training_enrolling_title">សាកល្បងប្រើការប៉ះរហ័ស</string>
+    <string name="columbus_gesture_training_finished_text">ដើម្បីប្ដូរកម្លាំងនៃការប៉ះដែលត្រូវការដើម្បីប្រើការប៉ះរហ័ស សូមចូលទៅកាន់ការកំណត់។</string>
+    <string name="columbus_gesture_training_finished_title">អ្នកបានរៀបចំការប៉ះរហ័សហើយ</string>
+    <string name="columbus_gesture_training_intro_text_suw">ថតរូប​អេក្រង់ បង្ហាញ​ការជូនដំណឹង ឬចាប់ផ្ដើម​សកម្មភាព​ផ្សេងទៀត​ដោយចុច​ពីរដង។</string>
+    <string name="columbus_gesture_training_intro_title">ការប៉ះរហ័សសម្រាប់សកម្មភាពរហ័ស</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">សូម​ជ្រើសរើស​កម្មវិធី​ដែលត្រូវបើក</string>
+    <string name="columbus_gesture_training_launch_text">ជ្រើសរើសកម្មវិធីដែលអ្នកចង់បើក នៅពេលប្រើការប៉ះរហ័ស។</string>
+    <string name="columbus_gesture_training_launch_title">ជ្រើសរើស​កម្មវិធី​ដែលត្រូវបើក</string>
+    <string name="columbus_launch_settings_activity_title">ការកំណត់ការប៉ះរហ័ស</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">ការកំណត់ %1$s</string>
+    <string name="columbus_setting_action_assistant_title">ចូលប្រើ​ជំនួយការ​ឌីជីថល​របស់អ្នក</string>
+    <string name="columbus_setting_action_flashlight_title">បិទ/បើក​ពិល</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">មិនបាន​ជ្រើសរើស​កម្មវិធី​ណាមួយទេ</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">មិន​បាន​ដំឡើង​កម្មវិធីទេ</string>
+    <string name="columbus_setting_action_launch_title">បើកកម្មវិធី</string>
+    <string name="columbus_setting_action_notification_title">បង្ហាញ​ការ​ជូន​ដំណឹង</string>
+    <string name="columbus_setting_action_open_app_title">បើកកម្មវិធី</string>
+    <string name="columbus_setting_action_overview_title">មើល​កម្មវិធីថ្មីៗ</string>
+    <string name="columbus_setting_action_play_pause_title">ចាក់ ឬផ្អាក​មេឌៀ</string>
+    <string name="columbus_setting_action_screenshot_title">ថត​រូបអេក្រង់</string>
+    <string name="columbus_setting_actions_title">ប៉ះ​ផ្នែកខាងក្រោយ​នៃទូរសព្ទពីរដង ដើម្បី</string>
+    <string name="columbus_setting_additional_settings_title">កម្លាំងនៃការប៉ះរហ័ស</string>
+    <string name="columbus_setting_app_selection_help_text">ជ្រើសរើស​កម្មវិធី​ដែលត្រូវបើក នៅពេលអ្នក​ប៉ះផ្នែកខាងក្រោយ​នៃទូរសព្ទ​របស់អ្នក​ពីរដង។ ប្រសិនបើ​អ្នកលុប​កម្មវិធីនេះ ការប៉ះរហ័សនឹងបិទរហូតទាល់តែ​អ្នកជ្រើសរើស​កម្មវិធីផ្សេង​។</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">ជ្រើសរើស​ថាមានអ្វី​កើតឡើង នៅពេល​អ្នកបើក​កម្មវិធីនេះ​ដោយប្រើការប៉ះរហ័ស។</string>
+    <string name="columbus_setting_enable_switch_title">ប្រើការប៉ះរហ័ស</string>
+    <string name="columbus_setting_sensitivity_title">តម្រូវឱ្យ​ប៉ះឱ្យខ្លាំងៗ</string>
+    <string name="columbus_title">ប៉ះរហ័ស ដើម្បីចាប់ផ្ដើម​សកម្មភាព</string>
 </resources>

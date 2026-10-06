@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">ການດຳເນີນການນີ້ຈຳກັດໄວ້ໃຫ້ສະເພາະເຈົ້າຂອງອຸປະກອນເທົ່ານັ້ນ</string>
     <string name="sp_apply_title_product_combined">%s ບໍ?</string>
     <string name="sp_apply_yes_button">ແມ່ນ</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">ກວດພົບການແຕະດ່ວນ!</string>
+    <string name="columbus_gesture_enrollment_complete">ແລ້ວໆ</string>
+    <string name="columbus_gesture_enrollment_do_it_later">ບໍ່ຟ້າວເທື່ອ</string>
+    <string name="columbus_gesture_enrollment_settings">ໄປຫາການຕັ້ງຄ່າ</string>
+    <string name="columbus_gesture_enrollment_try_it">ລອງໃຊ້ເບິ່ງ</string>
+    <string name="columbus_gesture_training_action_no_selection_error">ກະລຸນາເລືອກຄຳສັ່ງເພື່ອດຳເນີນການ</string>
+    <string name="columbus_gesture_training_action_text">ເລືອກວ່າຈະເກີດຫຍັງຂຶ້ນເມື່ອທ່ານໃຊ້ການແຕະດ່ວນ. ທ່ານສາມາດປ່ຽນສິ່ງນີ້ໄດ້ພາຍຫຼັງໃນການຕັ້ງຄ່າ.</string>
+    <string name="columbus_gesture_training_action_title">ເລືອກຕົວເລືອກການແຕະດ່ວນ</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">ລອງເຮັດອີກເທື່ອໜຶ່ງ. ແຕະໄວໆໃສ່ທາງຫຼັງໂທລະສັບຂອງທ່ານສອງເທື່ອ.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">ດີ!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">ທ່ານພ້ອມເລີ່ມການນຳໃຊ້ການແຕະດ່ວນແລ້ວ</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">ທ່ານເຮັດໄດ້ແລ້ວ!</string>
+    <string name="columbus_gesture_training_enrolling_text">ແຕະໄວໆໃສ່ທາງຫຼັງໂທລະສັບຂອງທ່ານສອງເທື່ອ.</string>
+    <string name="columbus_gesture_training_enrolling_title">ລອງໃຊ້ການແຕະດ່ວນ</string>
+    <string name="columbus_gesture_training_finished_text">ເພື່ອປ່ຽນຄວາມແຮງການແຕະທີ່ຈຳເປັນຕ້ອງໃຊ້ການແຕະດ່ວນ, ໃຫ້ເຂົ້າໄປຫາການຕັ້ງຄ່າ.</string>
+    <string name="columbus_gesture_training_finished_title">ທ່ານຕັ້ງຄ່າການແຕະດ່ວນແລ້ວ</string>
+    <string name="columbus_gesture_training_intro_text_suw">ຖ່າຍຮູບໜ້າຈໍ, ສະແດງການແຈ້ງເຕືອນ ຫຼື ເລີ່ມຄຳສັ່ງອື່ນໄດ້ດ້ວຍການແຕະສອງເທື່ອ.</string>
+    <string name="columbus_gesture_training_intro_title">ການແຕະດ່ວນສຳລັບຄຳສັ່ງດ່ວນ</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">ກະລຸນາເລືອກແອັບເພື່ອເປີດ</string>
+    <string name="columbus_gesture_training_launch_text">ເລືອກແອັບທີ່ທ່ານຕ້ອງການເປີດເມື່ອທ່ານໃຊ້ການແຕະດ່ວນ.</string>
+    <string name="columbus_gesture_training_launch_title">ເລືອກແອັບເພື່ອເປີດ</string>
+    <string name="columbus_launch_settings_activity_title">ການຕັ້ງຄ່າການແຕະດ່ວນ</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">ການຕັ້ງຄ່າ %1$s</string>
+    <string name="columbus_setting_action_assistant_title">ເຂົ້າເຖິງຜູ້ຊ່ວຍດິຈິຕອນຂອງທ່ານ</string>
+    <string name="columbus_setting_action_flashlight_title">ເປີດ/ປິດ ໄຟສາຍ</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">ບໍ່ໄດ້ເລືອກແອັບ</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">ບໍ່ໄດ້ຕິດຕັ້ງແອັບ</string>
+    <string name="columbus_setting_action_launch_title">ເປີດແອັບ</string>
+    <string name="columbus_setting_action_notification_title">ສະແດງການແຈ້ງເຕືອນ</string>
+    <string name="columbus_setting_action_open_app_title">ເປີດແອັບ</string>
+    <string name="columbus_setting_action_overview_title">ເບິ່ງແອັບຫຼ້າສຸດ</string>
+    <string name="columbus_setting_action_play_pause_title">ຫຼິ້ນ ຫຼື ຢຸດມີເດຍຊົ່ວຄາວ</string>
+    <string name="columbus_setting_action_screenshot_title">ຖ່າຍຮູບໜ້າຈໍ</string>
+    <string name="columbus_setting_actions_title">ແຕະທາງຫຼັງຂອງໂທລະສັບສອງເທື່ອເພື່ອ</string>
+    <string name="columbus_setting_additional_settings_title">ຄວາມແຮງການແຕະດ່ວນ</string>
+    <string name="columbus_setting_app_selection_help_text">ເລືອກແອັບເພື່ອເປີດເມື່ອທ່ານແຕະທາງຫຼັງຂອງໂທລະສັບຂອງທ່ານສອງເທື່ອ. ຫາກທ່ານຖອນການຕິດຕັ້ງແອັບ, ການແຕະດ່ວນຈະຖືກປິດໄວ້ຈົນກວ່າທ່ານຈະເລືອກແອັບອື່ນ.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">ເລືອກສິ່ງທີ່ຈະເກີດຂຶ້ນເມື່ອທ່ານເປີດແອັບນີ້ໂດຍໃຊ້ການແຕະດ່ວນ.</string>
+    <string name="columbus_setting_enable_switch_title">ໃຊ້ການແຕະດ່ວນ</string>
+    <string name="columbus_setting_sensitivity_title">ຕ້ອງແຕະແຮງຂຶ້ນ</string>
+    <string name="columbus_title">ການແຕະດ່ວນເພື່ອເລີ່ມຄຳສັ່ງ</string>
 </resources>

@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Aquesta acció està restringida al propietari del dispositiu</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Sí</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">S\'ha detectat Toc ràpid.</string>
+    <string name="columbus_gesture_enrollment_complete">Fet</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Ara no</string>
+    <string name="columbus_gesture_enrollment_settings">Ves a Configuració</string>
+    <string name="columbus_gesture_enrollment_try_it">Prova-ho</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Selecciona una acció a fer</string>
+    <string name="columbus_gesture_training_action_text">Selecciona què passa quan utilitzes Toc ràpid. Pots canviar aquesta opció més endavant a la configuració.</string>
+    <string name="columbus_gesture_training_action_title">Tria l\'opció Toc ràpid</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Torna-ho a provar una altra vegada. Toca ràpidament la part posterior del telèfon dues vegades.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Molt bé!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Ja estàs a punt per començar a utilitzar Toc ràpid</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Ja ho tens!</string>
+    <string name="columbus_gesture_training_enrolling_text">Toca ràpidament la part posterior del telèfon dues vegades.</string>
+    <string name="columbus_gesture_training_enrolling_title">Prova Toc ràpid</string>
+    <string name="columbus_gesture_training_finished_text">Per canviar la força del toc necessària per utilitzar Toc ràpid, ves a Configuració.</string>
+    <string name="columbus_gesture_training_finished_title">Has configurat Toc ràpid</string>
+    <string name="columbus_gesture_training_intro_text_suw">Fes una captura de pantalla, mostra les notificacions o inicia una altra acció amb dos tocs.</string>
+    <string name="columbus_gesture_training_intro_title">Toc ràpid per a accions ràpides</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Selecciona una aplicació per obrir-la</string>
+    <string name="columbus_gesture_training_launch_text">Selecciona l\'aplicació que vols obrir quan utilitzes Toc ràpid.</string>
+    <string name="columbus_gesture_training_launch_title">Selecciona una aplicació per obrir-la</string>
+    <string name="columbus_launch_settings_activity_title">Configuració de Toc ràpid</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Configuració %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Accedeix al teu assistent digital</string>
+    <string name="columbus_setting_action_flashlight_title">Commuta la llanterna</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">No s\'ha seleccionat cap aplicació</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">L\'aplicació no està instal·lada</string>
+    <string name="columbus_setting_action_launch_title">Obre una aplicació</string>
+    <string name="columbus_setting_action_notification_title">Mostra les notificacions</string>
+    <string name="columbus_setting_action_open_app_title">Obre l\'aplicació</string>
+    <string name="columbus_setting_action_overview_title">Mostra les aplicacions recents</string>
+    <string name="columbus_setting_action_play_pause_title">Reprodueix o posa en pausa el contingut multimèdia</string>
+    <string name="columbus_setting_action_screenshot_title">Fes una captura de pantalla</string>
+    <string name="columbus_setting_actions_title">En tocar dues vegades la part posterior del telèfon</string>
+    <string name="columbus_setting_additional_settings_title">Força del gest Toc ràpid</string>
+    <string name="columbus_setting_app_selection_help_text">Selecciona quina aplicació vols obrir quan toques la part posterior del telèfon dues vegades. Si desinstal·les l\'aplicació, Toc ràpid es desactivarà fins que seleccionis una altra aplicació.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Tria què passa quan obres aquesta aplicació amb Toc ràpid.</string>
+    <string name="columbus_setting_enable_switch_title">Utilitza Toc ràpid</string>
+    <string name="columbus_setting_sensitivity_title">Requereix tocs més forts</string>
+    <string name="columbus_title">Toc ràpid per iniciar accions</string>
 </resources>

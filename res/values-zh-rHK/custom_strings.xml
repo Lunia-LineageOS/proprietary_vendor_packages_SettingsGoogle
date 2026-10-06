@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">只有裝置擁有者才能執行此操作</string>
     <string name="sp_apply_title_product_combined">是「%s」嗎？</string>
     <string name="sp_apply_yes_button">是</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">偵測到「快速輕觸」！</string>
+    <string name="columbus_gesture_enrollment_complete">完成</string>
+    <string name="columbus_gesture_enrollment_do_it_later">暫時不要</string>
+    <string name="columbus_gesture_enrollment_settings">前往設定</string>
+    <string name="columbus_gesture_enrollment_try_it">試用</string>
+    <string name="columbus_gesture_training_action_no_selection_error">請選取要執行的操作</string>
+    <string name="columbus_gesture_training_action_text">選取要用「快速輕觸」執行的操作。你之後可以前往「設定」更改。</string>
+    <string name="columbus_gesture_training_action_title">選擇「快速輕觸」選項</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">再重複一次。請快速輕按手機背面兩下。</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">很好！</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">你可以開始使用「快速輕觸」了</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">做得好！</string>
+    <string name="columbus_gesture_training_enrolling_text">請快速輕按手機背面兩下。</string>
+    <string name="columbus_gesture_training_enrolling_title">試用「快速輕觸」</string>
+    <string name="columbus_gesture_training_finished_text">如要變更使用「快速輕觸」所需的力度，請前往「設定」。</string>
+    <string name="columbus_gesture_training_finished_title">你已完成「快速輕觸」設定</string>
+    <string name="columbus_gesture_training_intro_text_suw">只要輕按兩下即可擷取螢幕截圖、顯示通知或執行其他操作。</string>
+    <string name="columbus_gesture_training_intro_title">利用「快速輕觸」更快操作</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">請選取要開啟的應用程式</string>
+    <string name="columbus_gesture_training_launch_text">選取要用「快速輕觸」開啟的應用程式。</string>
+    <string name="columbus_gesture_training_launch_title">選擇要開啟的應用程式</string>
+    <string name="columbus_launch_settings_activity_title">「快速輕觸」設定</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s 設定</string>
+    <string name="columbus_setting_action_assistant_title">使用你的數碼助理</string>
+    <string name="columbus_setting_action_flashlight_title">開關手電筒</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">未選取任何應用程式</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">未安裝應用程式</string>
+    <string name="columbus_setting_action_launch_title">開啟應用程式</string>
+    <string name="columbus_setting_action_notification_title">顯示通知</string>
+    <string name="columbus_setting_action_open_app_title">開啟應用程式</string>
+    <string name="columbus_setting_action_overview_title">查看最近使用的應用程式</string>
+    <string name="columbus_setting_action_play_pause_title">播放或暫停媒體</string>
+    <string name="columbus_setting_action_screenshot_title">擷取螢幕擷圖</string>
+    <string name="columbus_setting_actions_title">輕按手機背面兩下時</string>
+    <string name="columbus_setting_additional_settings_title">「快速輕觸」力度</string>
+    <string name="columbus_setting_app_selection_help_text">選取輕按手機背面兩下時要開啟的應用程式。如果你解除安裝該應用程式，「快速輕觸」便會隨之停用。當你選擇另一個應用程式後，「快速輕觸」才會再次啟用。</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">選取用「快速輕觸」開啟此應用程式時要執行的操作。</string>
+    <string name="columbus_setting_enable_switch_title">使用「快速輕觸」</string>
+    <string name="columbus_setting_sensitivity_title">要用較強力度輕按</string>
+    <string name="columbus_title">使用「快速輕觸」以啟動操作</string>
 </resources>

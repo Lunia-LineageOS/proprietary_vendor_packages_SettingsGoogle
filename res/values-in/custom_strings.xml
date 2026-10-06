@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Tindakan ini hanya dibatasi untuk pemilik perangkat</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Ya</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Ketuk Cepat terdeteksi.</string>
+    <string name="columbus_gesture_enrollment_complete">Selesai</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Lain kali</string>
+    <string name="columbus_gesture_enrollment_settings">Buka Setelan</string>
+    <string name="columbus_gesture_enrollment_try_it">Cobalah</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Pilih tindakan yang akan dilakukan</string>
+    <string name="columbus_gesture_training_action_text">Pilih yang akan terjadi saat Ketuk Cepat digunakan. Anda dapat mengubahnya nanti di setelan.</string>
+    <string name="columbus_gesture_training_action_title">Pilih opsi Ketuk Cepat</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Mari coba sekali lagi. Ketuk cepat dua kali di bagian belakang ponsel.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Bagus!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Anda siap untuk mulai menggunakan Ketuk Cepat</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Anda berhasil.</string>
+    <string name="columbus_gesture_training_enrolling_text">Ketuk cepat dua kali di bagian belakang ponsel.</string>
+    <string name="columbus_gesture_training_enrolling_title">Coba Ketuk Cepat</string>
+    <string name="columbus_gesture_training_finished_text">Untuk mengubah kekuatan ketukan yang diperlukan untuk menggunakan Ketuk Cepat, buka Setelan.</string>
+    <string name="columbus_gesture_training_finished_title">Anda telah menyiapkan Ketuk Cepat</string>
+    <string name="columbus_gesture_training_intro_text_suw">Ambil screenshot, tampilkan notifikasi, atau mulai tindakan lainnya dalam dua ketukan.</string>
+    <string name="columbus_gesture_training_intro_title">Ketuk Cepat untuk tindakan cepat</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Pilih aplikasi yang akan dibuka</string>
+    <string name="columbus_gesture_training_launch_text">Pilih aplikasi yang ingin Anda buka saat menggunakan Ketuk Cepat.</string>
+    <string name="columbus_gesture_training_launch_title">Pilih aplikasi yang ingin dibuka</string>
+    <string name="columbus_launch_settings_activity_title">Setelan Ketuk Cepat</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Setelan %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Mengakses asisten digital</string>
+    <string name="columbus_setting_action_flashlight_title">Mengoperasikan senter</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Tidak ada aplikasi yang dipilih</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Aplikasi tidak diinstal</string>
+    <string name="columbus_setting_action_launch_title">Membuka aplikasi</string>
+    <string name="columbus_setting_action_notification_title">Menampilkan notifikasi</string>
+    <string name="columbus_setting_action_open_app_title">Buka aplikasi</string>
+    <string name="columbus_setting_action_overview_title">Melihat aplikasi terkini</string>
+    <string name="columbus_setting_action_play_pause_title">Memutar atau menjeda media</string>
+    <string name="columbus_setting_action_screenshot_title">Mengambil screenshot</string>
+    <string name="columbus_setting_actions_title">Ketuk bagian belakang ponsel dua kali untuk</string>
+    <string name="columbus_setting_additional_settings_title">Kekuatan Ketuk Cepat</string>
+    <string name="columbus_setting_app_selection_help_text">Pilih aplikasi yang akan dibuka saat Anda mengetuk dua kali bagian belakang ponsel. Jika aplikasi yang dipilih diuninstal, Ketuk Cepat akan dinonaktifkan hingga Anda memilih aplikasi lain.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Pilih yang akan terjadi saat Anda membuka aplikasi ini menggunakan Ketuk Cepat.</string>
+    <string name="columbus_setting_enable_switch_title">Gunakan Ketuk Cepat</string>
+    <string name="columbus_setting_sensitivity_title">Perlu ketukan yang lebih kuat</string>
+    <string name="columbus_title">Ketuk Cepat untuk memulai tindakan</string>
 </resources>

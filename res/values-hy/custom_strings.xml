@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Այս գործողությունը հասանելի է միայն սարքի սեփականատիրոջը</string>
     <string name="sp_apply_title_product_combined">Արդյո՞ք %s է</string>
     <string name="sp_apply_yes_button">Այո</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Հայտնաբերվել է արագ հպում</string>
+    <string name="columbus_gesture_enrollment_complete">Պատրաստ է</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Ոչ հիմա</string>
+    <string name="columbus_gesture_enrollment_settings">Դեպի կարգավորումներ</string>
+    <string name="columbus_gesture_enrollment_try_it">Փորձել</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Ընտրեք գործողությունը</string>
+    <string name="columbus_gesture_training_action_text">Ընտրեք, թե ինչ պետք է կատարվի արագ հպման դեպքում։ Հետագայում սա կարող եք փոխել Կարգավորումներում։</string>
+    <string name="columbus_gesture_training_action_title">Ընտրեք գործողություն արագ հպման համար</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Եկեք նորից փորձենք։ Արագ կրկնակի հպեք հեռախոսի հետևի կողմին։</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Գերազանց է։</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Այժմ դուք կարող եք օգտվել արագ հպման գործառույթից</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Ստացվե՛ց։</string>
+    <string name="columbus_gesture_training_enrolling_text">Արագ կրկնակի հպեք հեռախոսի հետևի կողմին։</string>
+    <string name="columbus_gesture_training_enrolling_title">Փորձեք արագ հպումը</string>
+    <string name="columbus_gesture_training_finished_text">Արագ հպման զգայունության պարամետրերը կարող եք փոխել կարգավորումներում։</string>
+    <string name="columbus_gesture_training_finished_title">Արագ հպումը կարգավորված է</string>
+    <string name="columbus_gesture_training_intro_text_suw">Ստեղծեք սքրինշոթ, դիտեք ծանուցումները կամ կատարեք այլ գործողություն երկու հպումով։</string>
+    <string name="columbus_gesture_training_intro_title">Հեշտությամբ կատարեք գործողություններ արագ հպման միջոցով</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Ընտրեք հավելված՝ բացելու համար</string>
+    <string name="columbus_gesture_training_launch_text">Ընտրեք հավելվածը, որն ուզում եք բացել արագ հպումով</string>
+    <string name="columbus_gesture_training_launch_title">Ընտրեք հավելված՝ բացելու համար</string>
+    <string name="columbus_launch_settings_activity_title">Արագ հպման կարգավորումներ</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s – կարգավորումներ</string>
+    <string name="columbus_setting_action_assistant_title">Օգտագործել թվային օգնականը</string>
+    <string name="columbus_setting_action_flashlight_title">Միացնել/անջատել լապտերը</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Հավելված չի ընտրվել</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Հավելվածը տեղադրված չէ</string>
+    <string name="columbus_setting_action_launch_title">Բացել հավելվածը</string>
+    <string name="columbus_setting_action_notification_title">Ցուցադրել ծանուցումները</string>
+    <string name="columbus_setting_action_open_app_title">Բացել հավելվածը</string>
+    <string name="columbus_setting_action_overview_title">Տեսնել վերջին հավելվածները</string>
+    <string name="columbus_setting_action_play_pause_title">Նվագարկել/դադարեցնել մեդիաֆայլը</string>
+    <string name="columbus_setting_action_screenshot_title">Սքրինշոթ անել</string>
+    <string name="columbus_setting_actions_title">Հեռախոսի հետևի կողմին կրկնակի հպեք հետևյալ գործողությունների համար՝</string>
+    <string name="columbus_setting_additional_settings_title">Կարճ հպման զգայունություն</string>
+    <string name="columbus_setting_app_selection_help_text">Ընտրեք հավելվածը, որը պետք է բացվի հեռախոսի հետևի կողմին կրկնակի հպելու դեպքում։ Եթե հեռացնեք այդ հավելվածը, արագ հպման գործառույթը կանջատվի, մինչև մեկ այլ հավելված ընտրեք։</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Ընտրեք, թե ինչ պետք է կատարվի հավելվածը արագ հպման միջոցով բացելու դեպքում։</string>
+    <string name="columbus_setting_enable_switch_title">Կարճ հպման օգտագործում</string>
+    <string name="columbus_setting_sensitivity_title">Պահանջել ավելի ուժգին հպումներ</string>
+    <string name="columbus_title">Կարճ հպել՝ գործողություններ սկսելու համար</string>
 </resources>

@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Това действие е ограничено само до собственика на устройството</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Да</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Разпознат е жестът „Бързо докосване“!</string>
+    <string name="columbus_gesture_enrollment_complete">Готово</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Не сега</string>
+    <string name="columbus_gesture_enrollment_settings">Към настройките</string>
+    <string name="columbus_gesture_enrollment_try_it">Изпробване</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Моля, изберете действие, което да се извършва</string>
+    <string name="columbus_gesture_training_action_text">Изберете какво да се случва при използване на жеста „Бързо докосване“. Можете да промените това по-късно от настройките.</string>
+    <string name="columbus_gesture_training_action_title">Избиране на опция за жеста „Бързо докосване“</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Да опитаме още веднъж. Бързо докоснете двукратно задната част на телефона си.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Чудесно!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Можете да започнете да използвате жеста „Бързо докосване“</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Успяхте!</string>
+    <string name="columbus_gesture_training_enrolling_text">Бързо докоснете двукратно задната част на телефона си.</string>
+    <string name="columbus_gesture_training_enrolling_title">Изпробвайте жеста „Бързо докосване“</string>
+    <string name="columbus_gesture_training_finished_text">За да промените силата на докосване, необходима за използване на жеста „Бързо докосване“, отворете настройките.</string>
+    <string name="columbus_gesture_training_finished_title">Настроихте жеста „Бързо докосване“</string>
+    <string name="columbus_gesture_training_intro_text_suw">Направете екранна снимка, вижте известията или стартирайте друго действие с двукратно докосване.</string>
+    <string name="columbus_gesture_training_intro_title">Използване на жеста „Бързо докосване“ за бързи действия</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Изберете приложение, което да се отваря</string>
+    <string name="columbus_gesture_training_launch_text">Изберете приложението, което да се отваря с жеста „Бързо докосване“.</string>
+    <string name="columbus_gesture_training_launch_title">Изберете приложение, което да се отваря</string>
+    <string name="columbus_launch_settings_activity_title">Настройки за жеста „Бързо докосване“</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Настройки за %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Достъп до дигиталния ви асистент</string>
+    <string name="columbus_setting_action_flashlight_title">Включване на фенерчето</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Няма избрано приложение</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Приложението не е инсталирано</string>
+    <string name="columbus_setting_action_launch_title">Отваряне на приложение</string>
+    <string name="columbus_setting_action_notification_title">Показване на известията</string>
+    <string name="columbus_setting_action_open_app_title">Отваряне на приложението</string>
+    <string name="columbus_setting_action_overview_title">Преглед на скорошните приложения</string>
+    <string name="columbus_setting_action_play_pause_title">Пускане или поставяне на пауза на мултимедия</string>
+    <string name="columbus_setting_action_screenshot_title">Създаване на екранна снимка</string>
+    <string name="columbus_setting_actions_title">Докоснете двукратно задната част на телефона с цел</string>
+    <string name="columbus_setting_additional_settings_title">Сила за жеста „Бързо докосване“</string>
+    <string name="columbus_setting_app_selection_help_text">Изберете приложение, което да се отваря при двукратно докосване на задната част на телефона. Ако деинсталирате съответното приложение, жестът „Бързо докосване“ се изключва, докато не изберете друго.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Изберете какво да се случва, когато отворите това приложение посредством жеста „Бързо докосване“.</string>
+    <string name="columbus_setting_enable_switch_title">Използване на жеста „Бързо докосване“</string>
+    <string name="columbus_setting_sensitivity_title">Изискване на повече сила при докосванията</string>
+    <string name="columbus_title">Бързо докосване за стартиране на действия</string>
 </resources>

@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">یہ کارروائی صرف آلہ کے مالک تک محدود ہے</string>
     <string name="sp_apply_title_product_combined">%s؟</string>
     <string name="sp_apply_yes_button">ہاں</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">فوری تھپتھپاہٹ کا پتا چلا!</string>
+    <string name="columbus_gesture_enrollment_complete">ہو گیا</string>
+    <string name="columbus_gesture_enrollment_do_it_later">ابھی نہیں</string>
+    <string name="columbus_gesture_enrollment_settings">ترتیبات پر جائیں</string>
+    <string name="columbus_gesture_enrollment_try_it">اسے آزمائیں</string>
+    <string name="columbus_gesture_training_action_no_selection_error">براہ کرم انجام دینے کے لئے ایک کارروائی منتخب کریں</string>
+    <string name="columbus_gesture_training_action_text">منتخب کریں کہ جب آپ فوری تھپتھپاہٹ کا استعمال کرتے ہیں تو کیا ہوتا ہے۔ آپ بعد میں ترتیبات میں اسے تبدیل کر سکتے ہیں۔</string>
+    <string name="columbus_gesture_training_action_title">فوری تھپتھپاہٹ کا اختیار منتخب کریں</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">آئیے ایک بار اسے پھر آزمائیں۔ اپنے فون کے پچھلے حصے پر تیزی سے دو بار تھپتھپائیں۔</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">عمدہ!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">آپ فوری تھپتھپاہٹ کا استعمال شروع کرنے کے لیے تیار ہیں</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">بالکل صحیح!</string>
+    <string name="columbus_gesture_training_enrolling_text">اپنے فون کے پچھلے حصے پر تیزی سے دو بار تھپتھپائیں۔</string>
+    <string name="columbus_gesture_training_enrolling_title">فوری تھپتھپاہٹ آزمائیں</string>
+    <string name="columbus_gesture_training_finished_text">فوری تھپتھپاہٹ کو استعمال کرنے کی خاطر تھپتھپاہٹ کی درکار قوت کو تبدیل کرنے کے لیے، ترتیبات پر جائیں۔</string>
+    <string name="columbus_gesture_training_finished_title">فوری تھپتھپاہٹ آپ نے سیٹ اپ کر لیا ہے</string>
+    <string name="columbus_gesture_training_intro_text_suw">ایک اسکرین شاٹ لیں، اطلاعات دکھائیں یا دو تھپتھپاہٹوں میں دوسری کارروائی شروع کریں۔</string>
+    <string name="columbus_gesture_training_intro_title">فوری کارروائیوں کے لیے فوری تھپتھپاہٹ</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">براہ کرم کھولنے کیلئے ایک ایپ منتخب کریں</string>
+    <string name="columbus_gesture_training_launch_text">فوری تھپتھپاہٹ کا استعمال کرتے وقت اس ایپ کو منتخب کریں جسے آپ کھولنا چاہتے ہیں۔</string>
+    <string name="columbus_gesture_training_launch_title">کھولنے کیلئے ایپ منتخب کریں</string>
+    <string name="columbus_launch_settings_activity_title">فوری تھپتھپاہٹ کی ترتیبات</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s کی ترتیبات</string>
+    <string name="columbus_setting_action_assistant_title">اپنی ڈیجیٹل اسسٹنٹ تک رسائی حاصل کریں</string>
+    <string name="columbus_setting_action_flashlight_title">فلیش لائٹ ٹوگل کریں</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">کوئی ایپ منتخب نہیں ہے</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">ایپ انسٹال نہیں ہے</string>
+    <string name="columbus_setting_action_launch_title">ایپ کھولیں</string>
+    <string name="columbus_setting_action_notification_title">اطلاعات دکھائیں</string>
+    <string name="columbus_setting_action_open_app_title">ایپ کھولیں</string>
+    <string name="columbus_setting_action_overview_title">حالیہ ایپس دیکھیں</string>
+    <string name="columbus_setting_action_play_pause_title">میڈیا چلائیں یا موقوف کریں</string>
+    <string name="columbus_setting_action_screenshot_title">اسکرین شاٹ لیں</string>
+    <string name="columbus_setting_actions_title">اس کے لئے فون کے پچھلے حصے پر دو بار تھپتھپائیں</string>
+    <string name="columbus_setting_additional_settings_title">فوری تھپتھپاہٹ کی قوت</string>
+    <string name="columbus_setting_app_selection_help_text">اپنے فون کے پچھلے حصّے پر دو بار تھپتھپانے پر کھولنے کے لیے ایک ایپ منتخب کریں۔ اگر آپ ایپ کو اَن انسٹال کرتے ہیں تو فوری تھپتھپاہٹ اس وقت تک آف رہتی ہے جب تک کہ آپ ایک مختلف ایپ منتخب نہیں کرتے ہیں۔</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">منتخب کریں کہ جب آپ فوری تھپتھپاہٹ کا استعمال کرتے ہوئے ایپ کھولتے ہیں تو کیا ہوتا ہے۔</string>
+    <string name="columbus_setting_enable_switch_title">فوری تھپتھپاہٹ کا استعمال کریں</string>
+    <string name="columbus_setting_sensitivity_title">مضبوط تھپتھپاہٹیں درکار ہیں</string>
+    <string name="columbus_title">کارروائیاں شروع کرنے کے لیے فوری تھپتھپاہٹ</string>
 </resources>

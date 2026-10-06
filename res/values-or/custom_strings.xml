@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">ଏହି କାର୍ଯ୍ୟ କେବଳ ଡିଭାଇସ ମାଲିକଙ୍କ ପାଇଁ ସୀମିତ ଅଛି</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">ହଁ</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">କୁଇକ୍ ଟାପ୍ ଚିହ୍ନଟ କରାଯାଇଛି!</string>
+    <string name="columbus_gesture_enrollment_complete">ହୋଇଗଲା</string>
+    <string name="columbus_gesture_enrollment_do_it_later">ବର୍ତ୍ତମାନ ନୁହେଁ</string>
+    <string name="columbus_gesture_enrollment_settings">ସେଟିଂସକୁ ଯାଆନ୍ତୁ</string>
+    <string name="columbus_gesture_enrollment_try_it">ଏହା ବ୍ୟବହାର କରି ଦେଖ</string>
+    <string name="columbus_gesture_training_action_no_selection_error">ଦୟାକରି ପରଫର୍ମ କରିବା ପାଇଁ ଏକ କାର୍ଯ୍ୟ ଚୟନ କରନ୍ତୁ</string>
+    <string name="columbus_gesture_training_action_text">ଆପଣ କୁଇକ୍ ଟାପ ବ୍ୟବହାର କରିବା ସମୟରେ କଣ ହୁଏ ତାହା ଚୟନ କରନ୍ତୁ। ଆପଣ ଏହାକୁ ପରେ ସେଟିଂସରେ ବଦଳାଇପାରିବେ।</string>
+    <string name="columbus_gesture_training_action_title">କୁଇକ୍ ଟାପ୍ ବିକଳ୍ପ ବାଛନ୍ତୁ</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">ଚାଲନ୍ତୁ ଏହାକୁ ଆଉ ଥରେ ଚେଷ୍ଟା କରି ଦେଖିବା। ଆପଣଙ୍କ ଫୋନର ପଛ ପଟେ ଶୀଘ୍ର ଦୁଇଥର ଟାପ୍ କରନ୍ତୁ।</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">ବଢ଼ିଆ!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">ଆପଣ କୁଇକ୍ ଟାପ୍ ବ୍ୟବହାର କରିବା ଆରମ୍ଭ କରିବାକୁ ପ୍ରସ୍ତୁତ ଅଛନ୍ତି</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">ଆପଣ ବୁଝିଲେ!</string>
+    <string name="columbus_gesture_training_enrolling_text">ଆପଣଙ୍କ ଫୋନର ପଛ ପଟେ ଶୀଘ୍ର ଦୁଇଥର ଟାପ୍ କରନ୍ତୁ।</string>
+    <string name="columbus_gesture_training_enrolling_title">କୁଇକ୍ ଟାପ୍ ବ୍ୟବହାର କରି ଦେଖନ୍ତୁ</string>
+    <string name="columbus_gesture_training_finished_text">କୁଇକ୍ ଟାପ ବ୍ୟବହାର କରିବାକୁ ଆବଶ୍ୟକ ଥିବା ଟାପ କରିବାର କ୍ଷମତା ବଦଳାଇବାକୁ, ସେଟିଂସକୁ ଯାଆନ୍ତୁ।</string>
+    <string name="columbus_gesture_training_finished_title">ଆପଣ କୁଇକ୍ ଟାପ୍ ସେଟ୍ ଅପ୍ କରିଛନ୍ତି</string>
+    <string name="columbus_gesture_training_intro_text_suw">ଦୁଇଥର ଟାପ୍ କରି ଏକ ସ୍କ୍ରିନସଟ୍ ନିଅନ୍ତୁ, ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକୁ ଦେଖାନ୍ତୁ କିମ୍ବା ଅନ୍ୟ ଏକ କାର୍ଯ୍ୟ ଆରମ୍ଭ କରନ୍ତୁ।</string>
+    <string name="columbus_gesture_training_intro_title">ଦ୍ରୁତ କାର୍ଯ୍ୟଗୁଡ଼ିକ ପାଇଁ କୁଇକ୍ ଟାପ୍</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">ଖୋଲିବା ପାଇଁ ଦୟାକରି ଏକ ଆପ୍ ଚୟନ କରନ୍ତୁ</string>
+    <string name="columbus_gesture_training_launch_text">ଆପଣ କୁଇକ୍ ଟାପ୍ ବ୍ୟବହାର କରିବା ସମୟରେ ଯେଉଁ ଆପ୍ ଖୋଲିବାକୁ ଚାହୁଁଛନ୍ତି ତାହା ଚୟନ କରନ୍ତୁ।</string>
+    <string name="columbus_gesture_training_launch_title">ଖୋଲିବା ପାଇଁ ଆପ୍ ବାଛନ୍ତୁ</string>
+    <string name="columbus_launch_settings_activity_title">କୁଇକ୍ ଟାପ ସେଟିଂସ</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s ସେଟିଂସ</string>
+    <string name="columbus_setting_action_assistant_title">ଆପଣଙ୍କ ଡିଜିଟାଲ୍ Assistantକୁ ଆକ୍ସେସ୍ କରନ୍ତୁ</string>
+    <string name="columbus_setting_action_flashlight_title">ଫ୍ଲାସଲାଇଟ ଟୋଗଲ କରନ୍ତୁ</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">କୌଣସି ଆପ୍ ଚୟନ କରାଯାଇନାହିଁ</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">ଆପ୍ ଇନଷ୍ଟଲ୍ କରାଯାଇନାହିଁ</string>
+    <string name="columbus_setting_action_launch_title">ଆପ ଖୋଲନ୍ତୁ</string>
+    <string name="columbus_setting_action_notification_title">ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ଦେଖାନ୍ତୁ</string>
+    <string name="columbus_setting_action_open_app_title">ଆପ ଖୋଲନ୍ତୁ</string>
+    <string name="columbus_setting_action_overview_title">ବର୍ତ୍ତମାନର ଆପଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ</string>
+    <string name="columbus_setting_action_play_pause_title">ମିଡିଆ ଚଲାନ୍ତୁ ବା ବିରତ କରନ୍ତୁ</string>
+    <string name="columbus_setting_action_screenshot_title">ସ୍କ୍ରିନସଟ୍ ନିଅନ୍ତୁ</string>
+    <string name="columbus_setting_actions_title">ଏହା କରିବାକୁ ଫୋନର ପଛ ପଟେ ଦୁଇଥର ଟାପ୍ କରନ୍ତୁ</string>
+    <string name="columbus_setting_additional_settings_title">କୁଇକ୍ ଟାପ୍ କ୍ଷମତା</string>
+    <string name="columbus_setting_app_selection_help_text">ଆପଣ ଆପଣଙ୍କ ଫୋନର ପଛ ପଟେ ଦୁଇଥର ଟାପ୍ କରି ଖୋଲିବାକୁ ଚାହୁଁଥିବା କୌଣସି ଆପ୍ ଚୟନ କରନ୍ତୁ। ଯଦି ଆପଣ ଏହି ଆପକୁ ଅନଇନଷ୍ଟଲ୍ କରନ୍ତି, ତେବେ ଆପଣ ଏକ ଭିନ୍ନ ଆପ୍ ଚୟନ ନକରିବା ପର୍ଯ୍ୟନ୍ତ କୁଇକ୍ ଟାପ୍ ବନ୍ଦ ରହିଥାଏ।</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">ଆପଣ କୁଇକ୍ ଟାପ୍ ବ୍ୟବହାର କରି ଏହି ଆପ୍ ଖୋଲିଲେ କଣ ହୁଏ ତାହା ଚୟନ କରନ୍ତୁ।</string>
+    <string name="columbus_setting_enable_switch_title">କୁଇକ୍ ଟାପ୍ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="columbus_setting_sensitivity_title">ଆହୁରି ଜୋରରେ ଟାପ୍ କରିବା ଆବଶ୍ୟକ</string>
+    <string name="columbus_title">କାର୍ଯ୍ୟଗୁଡ଼ିକ ଆରମ୍ଭ କରିବାକୁ କ୍ଵିକ ଟାପ ବ୍ୟବହାର କରନ୍ତୁ</string>
 </resources>

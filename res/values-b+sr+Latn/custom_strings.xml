@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Ova radnja je ograničena na vlasnika uređaja</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Da</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Otkriven je brzi dodir!</string>
+    <string name="columbus_gesture_enrollment_complete">Gotovo</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Ne sada</string>
+    <string name="columbus_gesture_enrollment_settings">Idi u Podešavanja</string>
+    <string name="columbus_gesture_enrollment_try_it">Isprobajte</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Izaberite radnju koju želite da obavite</string>
+    <string name="columbus_gesture_training_action_text">Izaberite šta se dešava kada koristite brzi dodir. To možete da promenite kasnije u Podešavanjima.</string>
+    <string name="columbus_gesture_training_action_title">Odaberite opciju brzi dodir</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Hajde da probamo to još jednom. Brzo dodirnite dvaput poleđinu telefona.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Super!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Spremni ste da počnete sa korišćenjem brzog dodira</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Tako je!</string>
+    <string name="columbus_gesture_training_enrolling_text">Brzo dodirnite dvaput poleđinu telefona.</string>
+    <string name="columbus_gesture_training_enrolling_title">Isprobajte brzi dodir</string>
+    <string name="columbus_gesture_training_finished_text">Da biste promenili jačinu dodira potrebnu za korišćenje brzog dodira, idite u Podešavanja.</string>
+    <string name="columbus_gesture_training_finished_title">Podesili ste brzi dodir</string>
+    <string name="columbus_gesture_training_intro_text_suw">Napravite snimak ekrana, prikažite obaveštenja ili započnite drugu radnju pomoću dva dodira.</string>
+    <string name="columbus_gesture_training_intro_title">Brzi dodir za brze radnje</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Izaberite aplikaciju koju želite da otvorite</string>
+    <string name="columbus_gesture_training_launch_text">Izaberite aplikaciju koju želite da otvorite kada koristite brzi dodir.</string>
+    <string name="columbus_gesture_training_launch_title">Odaberite aplikaciju koju želite da otvorite</string>
+    <string name="columbus_launch_settings_activity_title">Podešavanja brzog dodira</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Podešavanja za %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Pristupili digitalnom pomoćniku</string>
+    <string name="columbus_setting_action_flashlight_title">Uključili ili isključili lampu</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Nema izabranih aplikacija</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Aplikacija nije instalirana</string>
+    <string name="columbus_setting_action_launch_title">Otvorili aplikaciju</string>
+    <string name="columbus_setting_action_notification_title">Videli obaveštenja</string>
+    <string name="columbus_setting_action_open_app_title">Otvori aplikaciju</string>
+    <string name="columbus_setting_action_overview_title">Videli nedavne aplikacije</string>
+    <string name="columbus_setting_action_play_pause_title">Puštali ili pauzirali medije</string>
+    <string name="columbus_setting_action_screenshot_title">Napravili snimak ekrana</string>
+    <string name="columbus_setting_actions_title">Dvaput dodirnite poleđinu telefona da biste</string>
+    <string name="columbus_setting_additional_settings_title">Jačina brzog dodira</string>
+    <string name="columbus_setting_app_selection_help_text">Izaberite aplikaciju koju želite da otvorite kada dvaput dodirnete poleđinu telefona. Ako deinstalirate aplikaciju, brzi dodir se isključuje dok ne izaberete drugu aplikaciju.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Izaberite šta se dešava kada otvorite ovu aplikaciju pomoću brzog dodira.</string>
+    <string name="columbus_setting_enable_switch_title">Koristi brzi dodir</string>
+    <string name="columbus_setting_sensitivity_title">Zahtevaj jače dodire</string>
+    <string name="columbus_title">Brzi dodir za pokretanje radnji</string>
 </resources>

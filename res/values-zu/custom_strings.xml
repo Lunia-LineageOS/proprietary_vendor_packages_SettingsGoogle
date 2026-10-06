@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Lesi senzo sikhawulelwe kumnikazi wedivayisi kuphela</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Yebo</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Ukuthepha Okusheshayo kutholakele!</string>
+    <string name="columbus_gesture_enrollment_complete">Kwenziwe</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Hhayi manje</string>
+    <string name="columbus_gesture_enrollment_settings">Hamba Kumasethingi</string>
+    <string name="columbus_gesture_enrollment_try_it">Yizame</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Sicela ukhethe isenzo ozosenza</string>
+    <string name="columbus_gesture_training_action_text">Khetha ukuthi kwenzekani uma usebenzisa Ukuthepha Okusheshayo. Ungashintsha lokhu emuva kwesikhathi kumasethingi.</string>
+    <string name="columbus_gesture_training_action_title">Khetha okuthi Ukuthepha Okusheshayo</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Masiphinde sizame lokho. Thepha ngokushesha ngemuva kwefoni yakho kabili.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Kuhle!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Sewukulungele ukuqala ukusebenzisa Ukuthepha Okusheshayo</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Uzwile!</string>
+    <string name="columbus_gesture_training_enrolling_text">Thepha ngokushesha ngemuva kwefoni yakho kabili.</string>
+    <string name="columbus_gesture_training_enrolling_title">Zama Ukuthepha Okusheshayo</string>
+    <string name="columbus_gesture_training_finished_text">Ukuze ushintshe thepha amandla adingekayo wokusebenzisa Ukuthepha Okusheshayo, iya Kumasethingi.</string>
+    <string name="columbus_gesture_training_finished_title">Usethelwe Ukuthepha Kkusheshayo</string>
+    <string name="columbus_gesture_training_intro_text_suw">Thatha isithombe-skrini , bonisa izaziso, noma qalisa esinye isenzo ngokuthepha kabili.</string>
+    <string name="columbus_gesture_training_intro_title">Ukuthepha Okusheshayo kwezenzo ezisheshayo</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Sicela ukhethe i-app ozoyivula</string>
+    <string name="columbus_gesture_training_launch_text">Khetha i-app ongathanda ukuyivula uma usebenzisa Ukuthepha Okusheshayo.</string>
+    <string name="columbus_gesture_training_launch_title">Khetha i-app ozoyivula</string>
+    <string name="columbus_launch_settings_activity_title">Amasethingi Okuthepha Okusheshayo</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Amasethingi we-%1$s</string>
+    <string name="columbus_setting_action_assistant_title">Finyelela kumsizi wakho wedijithali</string>
+    <string name="columbus_setting_action_flashlight_title">Guqula i-flashlight</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Ayikho i-app ekhethiwe</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">I-app ayifakiwe</string>
+    <string name="columbus_setting_action_launch_title">Vula i-app</string>
+    <string name="columbus_setting_action_notification_title">Bonisa izaziso</string>
+    <string name="columbus_setting_action_open_app_title">Vula i-app</string>
+    <string name="columbus_setting_action_overview_title">Bona izinhlelo zokusebenza zakamuva</string>
+    <string name="columbus_setting_action_play_pause_title">Dlala noma phumuza imidiya</string>
+    <string name="columbus_setting_action_screenshot_title">Thatha isithombe-skrini</string>
+    <string name="columbus_setting_actions_title">Thepha ngemuva kwefoni kabili ukuze</string>
+    <string name="columbus_setting_additional_settings_title">Amandla Okuthepha Okusheshayo</string>
+    <string name="columbus_setting_app_selection_help_text">Khetha i-app ozoyivula lapho uthepha ngemuva kwefoni yakho kabili. Uma ukhipha i-app, Ukuthepha Okusheshayo kuyavaleka kuze kube yilapho ukhetha khona i-app ehlukile.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Khetha ukuthi kwenzekani lapho uvula le app usebenzisa Ukuthepha Okusheshayo.</string>
+    <string name="columbus_setting_enable_switch_title">Sebenzisa Ukuthepha Okusheshayo</string>
+    <string name="columbus_setting_sensitivity_title">Idinga ukuthepha okunamandla</string>
+    <string name="columbus_title">Thepha Ngokushesha ukuze uqalise izenzo</string>
 </resources>

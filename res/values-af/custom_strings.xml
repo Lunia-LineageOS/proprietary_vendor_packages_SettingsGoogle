@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Hierdie handeling is tot slegs die toesteleienaar beperk</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Ja</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Dubbeltik bespeur!</string>
+    <string name="columbus_gesture_enrollment_complete">Klaar</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Nie nou nie</string>
+    <string name="columbus_gesture_enrollment_settings">Gaan na Instellings</string>
+    <string name="columbus_gesture_enrollment_try_it">Probeer dit</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Kies asseblief \'n handeling om uit te voer</string>
+    <string name="columbus_gesture_training_action_text">Kies wat gebeur wanneer jy Dubbeltik gebruik. Jy kan dit later in Instellings verander.</string>
+    <string name="columbus_gesture_training_action_title">Kies Dubbeltik-opsie</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Kom ons probeer dit nog een keer. Tik twee keer vinnig op die agterkant van jou foon.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Mooi so!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Jy is gereed om Dubbeltik te begin gebruik</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Jy het dit!</string>
+    <string name="columbus_gesture_training_enrolling_text">Tik twee keer vinnig op die agterkant van jou foon.</string>
+    <string name="columbus_gesture_training_enrolling_title">Probeer Dubbeltik</string>
+    <string name="columbus_gesture_training_finished_text">Gaan na Instellings om te verander hoe hard jy moet tik om Dubbeltik te gebruik.</string>
+    <string name="columbus_gesture_training_finished_title">Jy het Dubbeltik opgestel</string>
+    <string name="columbus_gesture_training_intro_text_suw">Neem \'n skermkiekie, wys kennisgewings, of begin \'n ander handeling met twee tikke.</string>
+    <string name="columbus_gesture_training_intro_title">Dubbeltik vir kitshandelinge</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Kies asseblief \'n app om oop te maak</string>
+    <string name="columbus_gesture_training_launch_text">Kies die app wat jy wil oopmaak wanneer jy Dubbeltik gebruik.</string>
+    <string name="columbus_gesture_training_launch_title">Kies app om oop te maak</string>
+    <string name="columbus_launch_settings_activity_title">Dubbeltik-instellings</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s-instellings</string>
+    <string name="columbus_setting_action_assistant_title">Kry toegang tot jou digitale assistent</string>
+    <string name="columbus_setting_action_flashlight_title">Wissel flitslig</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Geen app is gekies nie</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">App is nie geïnstalleer nie</string>
+    <string name="columbus_setting_action_launch_title">Maak app oop</string>
+    <string name="columbus_setting_action_notification_title">Wys kennisgewings</string>
+    <string name="columbus_setting_action_open_app_title">Maak app oop</string>
+    <string name="columbus_setting_action_overview_title">Sien onlangse apps</string>
+    <string name="columbus_setting_action_play_pause_title">Speel of onderbreek media</string>
+    <string name="columbus_setting_action_screenshot_title">Neem skermkiekie</string>
+    <string name="columbus_setting_actions_title">Tik twee keer op agterkant van foon en</string>
+    <string name="columbus_setting_additional_settings_title">Dubbeltik-hardheid</string>
+    <string name="columbus_setting_app_selection_help_text">Kies ’n app om oop te maak wanneer jy twee keer op die agterkant van jou foon tik. As jy die app deïnstalleer, skakel Dubbeltik af totdat jy ’n ander app kies.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Kies wat gebeur as jy hierdie app met Dubbeltik oopmaak.</string>
+    <string name="columbus_setting_enable_switch_title">Gebruik Dubbeltik</string>
+    <string name="columbus_setting_sensitivity_title">Vereis harder tikke</string>
+    <string name="columbus_title">Dubbeltik om handelinge te begin</string>
 </resources>

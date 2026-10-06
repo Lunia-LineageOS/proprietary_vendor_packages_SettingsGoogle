@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Bu əməliyyatı yalnız cihaz sahibi edə bilər</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Bəli</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Sürətli Toxunuş aşkarlanıb!</string>
+    <string name="columbus_gesture_enrollment_complete">Oldu</string>
+    <string name="columbus_gesture_enrollment_do_it_later">İndi yox</string>
+    <string name="columbus_gesture_enrollment_settings">Ayarlara keçin</string>
+    <string name="columbus_gesture_enrollment_try_it">Sınayın</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Yerinə yetirmək üçün əməliyyat seçin</string>
+    <string name="columbus_gesture_training_action_text">Sürətli Toxunuş işlətdikdə hansı əməliyyatın yerinə yetirələcəyini seçin. Bunu daha sonra ayarlarda dəyişə bilərsiniz.</string>
+    <string name="columbus_gesture_training_action_title">Sürətli Toxunuş seçimi edin</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Gəlin bunu bir dəfə də sınayaq. Telefonunuzun arxasına sürətlə iki dəfə toxunun.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Əla!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Sürətli Toxunuş başlatmağa hazırsınız</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Anladınız!</string>
+    <string name="columbus_gesture_training_enrolling_text">Telefonunuzun arxasına sürətlə iki dəfə toxunun.</string>
+    <string name="columbus_gesture_training_enrolling_title">Sürətli Toxunuşu sınayın</string>
+    <string name="columbus_gesture_training_finished_text">Sürətli Toxunuş istifadə etmək üçün lazım olan toxunuş gücünü dəyişmək məqsədilə Ayarlara keçin.</string>
+    <string name="columbus_gesture_training_finished_title">Sürətli Toxunuşu ayarlamısınız</string>
+    <string name="columbus_gesture_training_intro_text_suw">İki toxunuş ilə ekran şəkli çəkin, bildirişləri göstərin, yaxud başqa bir əməliyyatı başladın.</string>
+    <string name="columbus_gesture_training_intro_title">Cəld əməliyyatlar üçün Sürətli Toxunuş</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Açmaq üçün tətbiq seçin</string>
+    <string name="columbus_gesture_training_launch_text">Sürətli Toxunuş istifadə edərkən açmaq istədiyiniz tətbiqi seçin.</string>
+    <string name="columbus_gesture_training_launch_title">Açmaq üçün tətbiq seçin</string>
+    <string name="columbus_launch_settings_activity_title">Sürətli Toxunuş ayarları</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s ayarları</string>
+    <string name="columbus_setting_action_assistant_title">Rəqəmsal assistentinizə daxil olun</string>
+    <string name="columbus_setting_action_flashlight_title">Fənəri dəyişdirin</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Tətbiq seçilməyib</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Tətbiq quraşdırılmayıb</string>
+    <string name="columbus_setting_action_launch_title">Tətbiqi açın</string>
+    <string name="columbus_setting_action_notification_title">Bildirişləri göstərin</string>
+    <string name="columbus_setting_action_open_app_title">Tətbiqi açın</string>
+    <string name="columbus_setting_action_overview_title">Son tətbiqlərə baxın</string>
+    <string name="columbus_setting_action_play_pause_title">Medianı oxudun və ya ona pauza verin</string>
+    <string name="columbus_setting_action_screenshot_title">Skrinşot çəkin</string>
+    <string name="columbus_setting_actions_title">Aşağıdakı əməliyyat üçün telefonun arxasına iki dəfə toxunun</string>
+    <string name="columbus_setting_additional_settings_title">Sürətli Toxunuş gücü</string>
+    <string name="columbus_setting_app_selection_help_text">Telefonunuzun arxasına iki dəfə toxunaraq açmaq üçün tətbiq seçin. Tətbiqin quraşdırılmışını ləğv etsəniz, fərqli bir tətbiq seçənə qədər Sürətli Toxunuş deaktiv olur.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Sürətli Toxunuş istifadə edərək bu tətbiqi açdıqda hansı əməliyyatın yerinə yetirələcəyini seçin.</string>
+    <string name="columbus_setting_enable_switch_title">Sürətli Toxunuş işlədin</string>
+    <string name="columbus_setting_sensitivity_title">Daha güclü toxunuş tələb edilsin</string>
+    <string name="columbus_title">Fəaliyyətləri başlatmaq üçün Cəld Toxunun</string>
 </resources>

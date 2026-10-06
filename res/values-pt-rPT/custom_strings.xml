@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Esta ação está restrita apenas ao proprietário do dispositivo</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Sim</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Quick Tap detetado!</string>
+    <string name="columbus_gesture_enrollment_complete">Concluir</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Agora não</string>
+    <string name="columbus_gesture_enrollment_settings">Aceder às Definições</string>
+    <string name="columbus_gesture_enrollment_try_it">Experimentar</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Selecione uma ação para realizar</string>
+    <string name="columbus_gesture_training_action_text">Selecione o que acontece quando utiliza o Quick Tap. Pode alterar esta opção mais tarde nas definições.</string>
+    <string name="columbus_gesture_training_action_title">Escolha a opção Quick Tap</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Vamos tentar novamente. Toque duas vezes rapidamente na parte posterior do telemóvel.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Boa!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Tem tudo pronto para começar a utilizar o Quick Tap</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">É isso mesmo.</string>
+    <string name="columbus_gesture_training_enrolling_text">Toque duas vezes rapidamente na parte posterior do telemóvel.</string>
+    <string name="columbus_gesture_training_enrolling_title">Experimente o Quick Tap</string>
+    <string name="columbus_gesture_training_finished_text">Para alterar a intensidade do toque necessária para utilizar o Quick Tap, aceda às Definições.</string>
+    <string name="columbus_gesture_training_finished_title">Configurou o Quick Tap</string>
+    <string name="columbus_gesture_training_intro_text_suw">Tire uma captura de ecrã, vejas as notificações ou inicie outra ação com dois toques.</string>
+    <string name="columbus_gesture_training_intro_title">Utilize o Quick Tap para ações rápidas</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Selecione uma app para abrir</string>
+    <string name="columbus_gesture_training_launch_text">Selecione a app que quer abrir quando utiliza o Quick Tap.</string>
+    <string name="columbus_gesture_training_launch_title">Escolha a app para abrir</string>
+    <string name="columbus_launch_settings_activity_title">Definições do Quick Tap</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Definições de %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Aceder ao assistente digital</string>
+    <string name="columbus_setting_action_flashlight_title">Ativar/desativar lanterna</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Nenhuma app selecionada</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">App não instalada</string>
+    <string name="columbus_setting_action_launch_title">Abrir apps</string>
+    <string name="columbus_setting_action_notification_title">Ver notificações</string>
+    <string name="columbus_setting_action_open_app_title">Abrir app</string>
+    <string name="columbus_setting_action_overview_title">Ver apps recentes</string>
+    <string name="columbus_setting_action_play_pause_title">Abrir ou pausar conteúdo multimédia</string>
+    <string name="columbus_setting_action_screenshot_title">Fazer captura de ecrã</string>
+    <string name="columbus_setting_actions_title">Toque duas vezes na parte posterior do telemóvel para</string>
+    <string name="columbus_setting_additional_settings_title">Intensidade do Quick Tap</string>
+    <string name="columbus_setting_app_selection_help_text">Selecione uma app para abrir quando tocar duas vezes na parte posterior do telemóvel. Se desinstalar a app, o Quick Tap fica desativado até selecionar uma app diferente.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Selecione o que acontece quando abre esta app com o Quick Tap.</string>
+    <string name="columbus_setting_enable_switch_title">Usar o Quick Tap</string>
+    <string name="columbus_setting_sensitivity_title">Exigir toques mais fortes</string>
+    <string name="columbus_title">Quick Tap para iniciar ações</string>
 </resources>

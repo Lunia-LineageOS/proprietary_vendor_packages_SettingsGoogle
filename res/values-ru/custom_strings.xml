@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Это действие доступно только владельцу устройства.</string>
     <string name="sp_apply_title_product_combined">Это %s?</string>
     <string name="sp_apply_yes_button">Да</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Короткое касание распознано.</string>
+    <string name="columbus_gesture_enrollment_complete">ОК</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Не сейчас</string>
+    <string name="columbus_gesture_enrollment_settings">Открыть настройки</string>
+    <string name="columbus_gesture_enrollment_try_it">Попробовать</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Выберите действие, которое нужно выполнить.</string>
+    <string name="columbus_gesture_training_action_text">Вы можете выбрать действие, которое выполняется при коротком касании. Этот параметр можно будет изменить в настройках.</string>
+    <string name="columbus_gesture_training_action_title">Выберите действие для короткого касания</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Попробуйте ещё раз. Быстрым движением дважды коснитесь задней панели телефона.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Отлично!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Все готово для использования короткого касания.</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Поздравляем!</string>
+    <string name="columbus_gesture_training_enrolling_text">Быстрым движением дважды коснитесь задней панели телефона.</string>
+    <string name="columbus_gesture_training_enrolling_title">Попробуйте короткое касание</string>
+    <string name="columbus_gesture_training_finished_text">Чтобы изменить силу нажатия для использования короткого касания, перейдите в настройки.</string>
+    <string name="columbus_gesture_training_finished_title">Короткое касание настроено</string>
+    <string name="columbus_gesture_training_intro_text_suw">Делайте скриншоты, открывайте уведомления и не только – всего в два касания.</string>
+    <string name="columbus_gesture_training_intro_title">Легко выполняйте действия с помощью короткого касания</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Выберите приложение, которое хотите открыть.</string>
+    <string name="columbus_gesture_training_launch_text">Выберите приложение, которое будет запускаться коротким касанием.</string>
+    <string name="columbus_gesture_training_launch_title">Выберите приложение, которое хотите открыть</string>
+    <string name="columbus_launch_settings_activity_title">Настройки короткого касания</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Настройки: %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Включить цифрового помощника</string>
+    <string name="columbus_setting_action_flashlight_title">Включить/отключить фонарик</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Приложение не выбрано</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Приложение не установлено</string>
+    <string name="columbus_setting_action_launch_title">Открыть приложение</string>
+    <string name="columbus_setting_action_notification_title">Посмотреть уведомления</string>
+    <string name="columbus_setting_action_open_app_title">Открыть приложение</string>
+    <string name="columbus_setting_action_overview_title">Посмотреть недавние приложения</string>
+    <string name="columbus_setting_action_play_pause_title">Начать или приостановить воспроизведение</string>
+    <string name="columbus_setting_action_screenshot_title">Сделать скриншот</string>
+    <string name="columbus_setting_actions_title">Дважды коснитесь задней панели телефона, чтобы:</string>
+    <string name="columbus_setting_additional_settings_title">Интенсивность</string>
+    <string name="columbus_setting_app_selection_help_text">Выберите приложение, которое будет открываться при двойном касании задней панели телефона. Если вы удалите его, функция короткого касания будет отключена, пока вы не выберете другое приложение.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Выберите действие, которое будет выполняться после запуска приложения коротким касанием.</string>
+    <string name="columbus_setting_enable_switch_title">Короткое касание</string>
+    <string name="columbus_setting_sensitivity_title">Нужны более интенсивные касания</string>
+    <string name="columbus_title">Короткое касание для выполнения действий</string>
 </resources>

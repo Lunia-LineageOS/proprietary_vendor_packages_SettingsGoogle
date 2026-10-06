@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">આ ઍક્શન માત્ર ડિવાઇસના માલિક સુધી મર્યાદિત છે</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">હા</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">ક્વિક ટૅપ સુવિધાની ભાળ મળી!</string>
+    <string name="columbus_gesture_enrollment_complete">થઈ ગયું</string>
+    <string name="columbus_gesture_enrollment_do_it_later">હમણાં નહીં</string>
+    <string name="columbus_gesture_enrollment_settings">સેટિંગ પર જાઓ</string>
+    <string name="columbus_gesture_enrollment_try_it">અજમાવી જુઓ</string>
+    <string name="columbus_gesture_training_action_no_selection_error">કૃપા કરીને કરવાની કોઈ ક્રિયા પસંદ કરો</string>
+    <string name="columbus_gesture_training_action_text">જ્યારે તમે ક્વિક ટૅપ સુવિધાનો ઉપયોગ કરો ત્યારે શું થાય તે પસંદ કરો. તમે આને પછીથી સેટિંગમાં જઈને બદલી શકો છો.</string>
+    <string name="columbus_gesture_training_action_title">ક્વિક ટૅપ સુવિધાના વિકલ્પો પસંદ કરો</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">ચાલો હજી એક વખત તે અજમાવી જોઈએ. તાત્કાલિક તમારા ફોનની પાછળની બાજુ પર બે વાર ટૅપ કરો.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">સરસ!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">તમે ક્વિક ટૅપ સુવિધાનો ઉપયોગ કરવાનું શરૂ કરવા માટે તૈયાર છો</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">તમને સમજાઈ ગયું!</string>
+    <string name="columbus_gesture_training_enrolling_text">તાત્કાલિક તમારા ફોનની પાછળની બાજુ પર બે વાર ટૅપ કરો.</string>
+    <string name="columbus_gesture_training_enrolling_title">ક્વિક ટૅપ સુવિધા અજમાવી જુઓ</string>
+    <string name="columbus_gesture_training_finished_text">ક્વિક ટૅપ સુવિધાનો ઉપયોગ કરવા માટે જરૂરી ટૅપની પ્રબળતા બદલવા માટે, સેટિંગમાં જાઓ.</string>
+    <string name="columbus_gesture_training_finished_title">તમે ક્વિક ટૅપ સુવિધાનું સેટઅપ કર્યું છે</string>
+    <string name="columbus_gesture_training_intro_text_suw">બે વખત ટૅપ કરીને સ્ક્રીનશૉટ લો, નોટિફિકેશન બતાવો કે અન્ય કોઈ ક્રિયા શરૂ કરો.</string>
+    <string name="columbus_gesture_training_intro_title">ઝડપી શૉર્ટકટ માટે ક્વિક ટૅપ સુવિધા</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">કૃપા કરીને ખોલવા માટે કોઈ ઍપ પસંદ કરો</string>
+    <string name="columbus_gesture_training_launch_text">જ્યારે તમે ક્વિક ટૅપ સુવિધાનો ઉપયોગ કરો ત્યારે તમે જે ઍપ ખોલવા માગતા હો, તે ઍપ પસંદ કરો.</string>
+    <string name="columbus_gesture_training_launch_title">ખોલવા માટે ઍપ પસંદ કરો</string>
+    <string name="columbus_launch_settings_activity_title">ક્વિક ટૅપ સુવિધાના સેટિંગ</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s સેટિંગ</string>
+    <string name="columbus_setting_action_assistant_title">તમારું ડિજિટલ આસિસ્ટન્ટ ઍક્સેસ કરો</string>
+    <string name="columbus_setting_action_flashlight_title">ફ્લૅશલાઇટને ટૉગલ કરો</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">કોઈ ઍપ પસંદ કરેલી નથી</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">ઍપ ઇન્સ્ટૉલ કરેલી નથી</string>
+    <string name="columbus_setting_action_launch_title">ઍપ ખોલો</string>
+    <string name="columbus_setting_action_notification_title">નોટિફિકેશન બતાવો</string>
+    <string name="columbus_setting_action_open_app_title">ઍપ ખોલો</string>
+    <string name="columbus_setting_action_overview_title">તાજેતરની ઍપ જુઓ</string>
+    <string name="columbus_setting_action_play_pause_title">મીડિયા ચલાવો અથવા થોભાવો</string>
+    <string name="columbus_setting_action_screenshot_title">સ્ક્રીનશૉટ લો</string>
+    <string name="columbus_setting_actions_title">આવું કરવા ફોનની પાછળની બાજુ પર બે વાર ટૅપ કરો</string>
+    <string name="columbus_setting_additional_settings_title">ક્વિક ટૅપની પ્રબળતા</string>
+    <string name="columbus_setting_app_selection_help_text">જ્યારે તમે તમારા ફોનની પાછળની બાજુ પર બે વાર ટૅપ કરો, ત્યારે ખોલવા માટેની ઍપ પસંદ કરો. જો તમે ઍપ અનઇન્સ્ટૉલ કરો છો, તો જ્યાર સુધી તમે કોઈ અલગ ઍપ પસંદ ન કરો, ત્યાર સુધી ક્વિક ટૅપ સુવિધા બંધ રહેશે.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">જ્યારે તમે ક્વિક ટૅપ સુવિધાનો ઉપયોગ કરીને આ ઍપ ખોલો, ત્યારે શું થાય તે પસંદ કરો.</string>
+    <string name="columbus_setting_enable_switch_title">ક્વિક ટૅપ સુવિધાનો ઉપયોગ કરો</string>
+    <string name="columbus_setting_sensitivity_title">વધુ પ્રબળ ટૅપની જરૂર છે</string>
+    <string name="columbus_title">ઍક્શન શરૂ કરવા માટે ક્વિક ટૅપ કરો</string>
 </resources>

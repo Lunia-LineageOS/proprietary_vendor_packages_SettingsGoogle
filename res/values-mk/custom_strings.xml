@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Ова дејство е ограничено само на сопственикот на уредот</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Да</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Откриен е „Брз допир“!</string>
+    <string name="columbus_gesture_enrollment_complete">Готово</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Не сега</string>
+    <string name="columbus_gesture_enrollment_settings">Оди во „Поставки“</string>
+    <string name="columbus_gesture_enrollment_try_it">Испробајте</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Изберете дејство за извршување</string>
+    <string name="columbus_gesture_training_action_text">Изберете што да се случува кога користите „Брз допир“. Ова може да го промените подоцна во поставките.</string>
+    <string name="columbus_gesture_training_action_title">Изберете ја опцијата „Брз допир“</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Да пробаме уште еднаш. Набрзина допрете ја задната страна на телефонот двапати.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Одлично!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Спремни сте да започнете со користење на „Брз допир“</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Успеавте!</string>
+    <string name="columbus_gesture_training_enrolling_text">Набрзина допрете ја задната страна на телефонот двапати.</string>
+    <string name="columbus_gesture_training_enrolling_title">Испробајте „Брз допир“</string>
+    <string name="columbus_gesture_training_finished_text">За да ја измените силата на допирот потребна за користење на „Брз допир“, одете во „Поставки“.</string>
+    <string name="columbus_gesture_training_finished_title">Поставивте „Брз допир“</string>
+    <string name="columbus_gesture_training_intro_text_suw">Направете слика од екранот, прегледајте известувања или започнете друго дејство со два допири.</string>
+    <string name="columbus_gesture_training_intro_title">„Брз допир“ за брзи дејства</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Изберете апликација за да ја отворите</string>
+    <string name="columbus_gesture_training_launch_text">Изберете ја апликацијата што сакате да ја отворате со користење на „Брз допир“.</string>
+    <string name="columbus_gesture_training_launch_title">Изберете апликација за отворање</string>
+    <string name="columbus_launch_settings_activity_title">Поставки за „Брз допир“</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Поставки за %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Пристап до дигиталниот помошник</string>
+    <string name="columbus_setting_action_flashlight_title">Вклучување/исклучување на светилката</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Не е избрана апликација</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Апликацијата не е инсталирана</string>
+    <string name="columbus_setting_action_launch_title">Отворање апликација</string>
+    <string name="columbus_setting_action_notification_title">Прикажувај известувања</string>
+    <string name="columbus_setting_action_open_app_title">Отвори ја апликацијата</string>
+    <string name="columbus_setting_action_overview_title">Приказ на неодамнешните апликации</string>
+    <string name="columbus_setting_action_play_pause_title">Пуштање или паузирање аудиовизуелни содржини</string>
+    <string name="columbus_setting_action_screenshot_title">Зачувување слика од екранот</string>
+    <string name="columbus_setting_actions_title">Допрете ја двапати задната страна на телефонот за</string>
+    <string name="columbus_setting_additional_settings_title">Сила за „Брз допир“</string>
+    <string name="columbus_setting_app_selection_help_text">Изберете ја апликацијата што сакате да се отвори кога ќе ја допрете задната страна на телефонот двапати. Ако ја деинсталирате апликацијата, „Брз допир“ ќе се исклучи додека не изберете друга апликација.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Изберете што да се случува кога ќе ја отворите апликацијава со „Брз допир“.</string>
+    <string name="columbus_setting_enable_switch_title">Користи „Брз допир“</string>
+    <string name="columbus_setting_sensitivity_title">Барај посилни допири</string>
+    <string name="columbus_title">„Брз допир“ за започнување дејства</string>
 </resources>

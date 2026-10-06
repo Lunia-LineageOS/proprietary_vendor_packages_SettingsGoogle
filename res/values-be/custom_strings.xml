@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Гэта дзеянне даступнае толькі ўладальніку прылады</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Так</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Выяўлены Хуткі дотык!</string>
+    <string name="columbus_gesture_enrollment_complete">Гатова</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Не зараз</string>
+    <string name="columbus_gesture_enrollment_settings">Перайсці ў Налады</string>
+    <string name="columbus_gesture_enrollment_try_it">Паспрабаваць</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Выберыце дзеянне для выканання</string>
+    <string name="columbus_gesture_training_action_text">Выберыце, што павінна адбыцца, калі вы скарыстаеце Хуткі дотык. Пазней вы можаце змяніць свой выбар у наладах.</string>
+    <string name="columbus_gesture_training_action_title">Выберыце дзеянне для Хуткага дотыку</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Паспрабуем яшчэ раз. Двойчы дакраніцеся да задняй панэлі тэлефона.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Выдатна!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Усё гатова для выкарыстання Хуткага дотыку</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Зразумела.</string>
+    <string name="columbus_gesture_training_enrolling_text">Двойчы дакраніцеся да задняй панэлі тэлефона.</string>
+    <string name="columbus_gesture_training_enrolling_title">Паспрабуйце Хуткі дотык</string>
+    <string name="columbus_gesture_training_finished_text">Каб змяніць сілу націску, патрэбную для выкарыстання Хуткага дотыку, адкрыйце Налады.</string>
+    <string name="columbus_gesture_training_finished_title">Вы наладзілі Хуткі дотык</string>
+    <string name="columbus_gesture_training_intro_text_suw">Рабіце здымкі экрана, праглядайце апавяшчэнні ці запускайце іншае дзеянне двума дотыкамі.</string>
+    <string name="columbus_gesture_training_intro_title">Хуткі дотык для хуткіх дзеянняў</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Выберыце праграму, якую трэба адкрыць</string>
+    <string name="columbus_gesture_training_launch_text">Выберыце праграму, якая павінна адкрывацца пры выкарыстанні Хуткага дотыку.</string>
+    <string name="columbus_gesture_training_launch_title">Выбраць праграму, якую трэба адкрыць</string>
+    <string name="columbus_launch_settings_activity_title">Налады Хуткага дотыку</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s: налады</string>
+    <string name="columbus_setting_action_assistant_title">Адкрыць лічбавага памочніка</string>
+    <string name="columbus_setting_action_flashlight_title">Уключыць/выключыць ліхтарык</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Праграмы не выбраны</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Праграма не ўсталявана</string>
+    <string name="columbus_setting_action_launch_title">Адкрыць праграму</string>
+    <string name="columbus_setting_action_notification_title">Паказаць апавяшчэнні</string>
+    <string name="columbus_setting_action_open_app_title">Адкрыць праграму</string>
+    <string name="columbus_setting_action_overview_title">Паказаць нядаўнія праграмы</string>
+    <string name="columbus_setting_action_play_pause_title">Прайграць або прыпыніць прайграванне медыязмесціва</string>
+    <string name="columbus_setting_action_screenshot_title">Зрабіць здымак экрана</string>
+    <string name="columbus_setting_actions_title">Двойчы націснуць на заднюю частку тэлефона, каб</string>
+    <string name="columbus_setting_additional_settings_title">Сіла націску пры Хуткім дотыку</string>
+    <string name="columbus_setting_app_selection_help_text">Выберыце праграму, якая павінна адкрыцца падчас двайнога дотыку да задняй панэлі тэлефона. Калі вы выдаліце праграму, Хуткі дотык не будзе працаваць, пакуль вы не выбераце іншую праграму.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Выберыце, што павінна адбыцца, калі вы адкрыеце гэту праграму з дапамогай Хуткага дотыку.</string>
+    <string name="columbus_setting_enable_switch_title">Выкарыстоўваць Хуткі дотык</string>
+    <string name="columbus_setting_sensitivity_title">Патрабаваць мацнейшыя дотыкі</string>
+    <string name="columbus_title">Хуткі дотык для пачатку дзеянняў</string>
 </resources>

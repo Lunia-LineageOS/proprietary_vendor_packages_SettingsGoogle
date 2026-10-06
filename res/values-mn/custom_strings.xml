@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Энэ үйлдлийг зөвхөн төхөөрөмжийн өмчлөгч хийж болно</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Тийм</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Шуурхай товшилт илэрлээ!</string>
+    <string name="columbus_gesture_enrollment_complete">Дууссан</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Одоо биш</string>
+    <string name="columbus_gesture_enrollment_settings">Тохиргоо руу очих</string>
+    <string name="columbus_gesture_enrollment_try_it">Туршиж үзэх</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Гүйцэтгэх үйлдэл сонгоно уу</string>
+    <string name="columbus_gesture_training_action_text">Таныг Шуурхай товшилтыг ашиглах үед хийгдэх үйлдлийг сонгоно уу. Үүнийг дараа нь тохиргоо хэсэгт өөрчлөх боломжтой.</string>
+    <string name="columbus_gesture_training_action_title">Шуурхай товшилтын сонголтыг сонгоно уу</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Үүнийг дахин нэг удаа оролдож үзье. Утасныхаа ард хоёр удаа шуурхай товшино уу.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Сайн байна!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Та Шуурхай товшилтыг ашиглаж эхлэхэд бэлэн боллоо</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Та зөв хийсэн байна!</string>
+    <string name="columbus_gesture_training_enrolling_text">Утасныхаа ард хоёр удаа шуурхай товшино уу.</string>
+    <string name="columbus_gesture_training_enrolling_title">Шуурхай товшилтыг туршина уу</string>
+    <string name="columbus_gesture_training_finished_text">Шуурхай товшилтыг ашиглахад шаардлагатай товшилтын хүчийг өөрчлөхийн тулд Тохиргоо руу очно уу.</string>
+    <string name="columbus_gesture_training_finished_title">Та Шуурхай товшилтыг тохирууллаа</string>
+    <string name="columbus_gesture_training_intro_text_suw">Хоёр товшилтоор дэлгэцийн агшин авах, мэдэгдэл харуулах эсвэл өөр үйлдэл эхлүүлнэ үү.</string>
+    <string name="columbus_gesture_training_intro_title">Шуурхай үйлдэл хийх бол Шуурхай товшилтыг ашиглана уу</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Нээх апп сонгоно уу</string>
+    <string name="columbus_gesture_training_launch_text">Та Шуурхай товшилтыг ашиглах үедээ нээхийг хүсэж буй аппаа сонгоно уу.</string>
+    <string name="columbus_gesture_training_launch_title">Нээх апп сонгоно уу</string>
+    <string name="columbus_launch_settings_activity_title">Шуурхай товшилтын тохиргоо</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s-н тохиргоо</string>
+    <string name="columbus_setting_action_assistant_title">Дижитал туслахдаа хандах</string>
+    <string name="columbus_setting_action_flashlight_title">Гар чийдэн асаах/унтраах</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Ямар ч апп сонгоогүй байна</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Аппыг суулгаагүй</string>
+    <string name="columbus_setting_action_launch_title">Аппыг нээх</string>
+    <string name="columbus_setting_action_notification_title">Мэдэгдэл харуулах</string>
+    <string name="columbus_setting_action_open_app_title">Апп нээх</string>
+    <string name="columbus_setting_action_overview_title">Саяхны аппуудыг харах</string>
+    <string name="columbus_setting_action_play_pause_title">Медиаг тоглуулах эсвэл түр зогсоох</string>
+    <string name="columbus_setting_action_screenshot_title">Дэлгэцийн агшныг дарах</string>
+    <string name="columbus_setting_actions_title">Дараахыг хийхийн тулд утасныхаа арыг хоёр товшино уу</string>
+    <string name="columbus_setting_additional_settings_title">Шуурхай товшилтын хүч</string>
+    <string name="columbus_setting_app_selection_help_text">Та утасныхаа ард хоёр товших үедээ нээх аппыг сонгоно уу. Тус аппыг устгасан тохиолдолд таныг өөр апп сонгох хүртэл Шуурхай товшилтыг унтраана.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Та Шуурхай товшилтыг ашиглан энэ аппыг нээх үед хийгдэх үйлдлийг сонгоно уу.</string>
+    <string name="columbus_setting_enable_switch_title">Шуурхай товшилтыг ашиглах</string>
+    <string name="columbus_setting_sensitivity_title">Илүү хүчтэй товшилт шаардлагатай</string>
+    <string name="columbus_title">Үйлдлийг эхлүүлэх Шуурхай товшилт</string>
 </resources>

@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Denne handlingen er bare tilgjengelig for eieren av enheten</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Ja</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Hurtigtrykk er registrert</string>
+    <string name="columbus_gesture_enrollment_complete">Ferdig</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Ikke nå</string>
+    <string name="columbus_gesture_enrollment_settings">Gå til Innstillinger</string>
+    <string name="columbus_gesture_enrollment_try_it">Prøv nå</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Velg en handling som skal utføres</string>
+    <string name="columbus_gesture_training_action_text">Velg hva som skjer når du bruker hurtigtrykk. Du kan endre dette senere i innstillingene.</string>
+    <string name="columbus_gesture_training_action_title">Velg et alternativ for hurtigtrykk</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Vi gjør et nytt forsøk. Trykk raskt to ganger på baksiden av telefonen.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Bra!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Du er klar til å bruke hurtigtrykk</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Det er riktig.</string>
+    <string name="columbus_gesture_training_enrolling_text">Trykk raskt to ganger på baksiden av telefonen.</string>
+    <string name="columbus_gesture_training_enrolling_title">Prøv hurtigtrykk</string>
+    <string name="columbus_gesture_training_finished_text">Du kan endre trykkstyrken som kreves for å bruke hurtigtrykk, i innstillingene.</string>
+    <string name="columbus_gesture_training_finished_title">Du har konfigurert hurtigtrykk</string>
+    <string name="columbus_gesture_training_intro_text_suw">Ta et skjermbilde, vis varsler eller start en annen handling med to trykk.</string>
+    <string name="columbus_gesture_training_intro_title">Hurtigtrykk for snarveier</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Velg en app du vil åpne</string>
+    <string name="columbus_gesture_training_launch_text">Velg appen du vil åpne når du bruker hurtigtrykk.</string>
+    <string name="columbus_gesture_training_launch_title">Velg appen du vil åpne</string>
+    <string name="columbus_launch_settings_activity_title">Innstillinger for hurtigtrykk</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Innstillinger for %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Åpne den digitale assistenten</string>
+    <string name="columbus_setting_action_flashlight_title">Slå lommelykten på/av</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Ingen app er valgt</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Appen er ikke installert</string>
+    <string name="columbus_setting_action_launch_title">Åpne app</string>
+    <string name="columbus_setting_action_notification_title">Vis varsler</string>
+    <string name="columbus_setting_action_open_app_title">Åpne appen</string>
+    <string name="columbus_setting_action_overview_title">Se nylige apper</string>
+    <string name="columbus_setting_action_play_pause_title">Spill av eller sett medier på pause</string>
+    <string name="columbus_setting_action_screenshot_title">Ta skjermbilde</string>
+    <string name="columbus_setting_actions_title">Trykk to ganger bak på telefonen for å gjøre dette</string>
+    <string name="columbus_setting_additional_settings_title">Hurtigtrykkstyrke</string>
+    <string name="columbus_setting_app_selection_help_text">Velg en app du vil åpne når du trykker to ganger på baksiden av telefonen. Hvis du avinstallerer appen, slås hurtigtrykk av til du velger en annen app.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Velg hva som skjer når du åpner denne appen med hurtigtrykk.</string>
+    <string name="columbus_setting_enable_switch_title">Bruk hurtigtrykk</string>
+    <string name="columbus_setting_sensitivity_title">Krev hardere trykk</string>
+    <string name="columbus_title">Hurtigtrykk for å starte handlinger</string>
 </resources>

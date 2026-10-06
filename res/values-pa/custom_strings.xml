@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">ਇਹ ਕਾਰਵਾਈ ਸਿਰਫ਼ ਡੀਵਾਈਸ ਦੇ ਮਾਲਕ ਤੱਕ ਹੀ ਸੀਮਤ ਹੈ</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">ਹਾਂ</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">ਕਵਿੱਕ ਟੈਪ ਦਾ ਪਤਾ ਲੱਗਿਆ!</string>
+    <string name="columbus_gesture_enrollment_complete">ਹੋ ਗਿਆ</string>
+    <string name="columbus_gesture_enrollment_do_it_later">ਹੁਣੇ ਨਹੀਂ</string>
+    <string name="columbus_gesture_enrollment_settings">ਸੈਟਿੰਗਾਂ \'ਤੇ ਜਾਓ</string>
+    <string name="columbus_gesture_enrollment_try_it">ਇਹ ਵਰਤ ਕੇ ਦੇਖੋ</string>
+    <string name="columbus_gesture_training_action_no_selection_error">ਕਿਰਪਾ ਕਰਕੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਕਾਰਵਾਈ ਚੁਣੋ</string>
+    <string name="columbus_gesture_training_action_text">ਚੁਣੋ ਕਿ ਜਦੋਂ ਤੁਸੀਂ ਕਵਿੱਕ ਟੈਪ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋ ਤਾਂ ਕੀ ਹੁੰਦਾ ਹੈ। ਤੁਸੀਂ ਬਾਅਦ ਵਿੱਚ ਇਸਨੂੰ ਸੈਟਿੰਗਾਂ ਵਿੱਚੋਂ ਬਦਲ ਸਕਦੇ ਹੋ।</string>
+    <string name="columbus_gesture_training_action_title">ਕਵਿੱਕ ਟੈਪ ਵਿਕਲਪ ਚੁਣੋ</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">ਆਓ ਇਸਨੂੰ ਇੱਕ ਵਾਰ ਹੋਰ ਅਜ਼ਮਾਈਏ। ਆਪਣੇ ਫ਼ੋਨ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਤੇਜ਼ੀ ਨਾਲ ਦੋ ਵਾਰ ਟੈਪ ਕਰੋ।</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">ਵਧੀਆ!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">ਤੁਸੀਂ ਕਵਿੱਕ ਟੈਪ ਵਰਤਣ ਲਈ ਤਿਆਰ ਹੋ</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">ਤੁਸੀਂ ਸਮਝ ਲਿਆ!</string>
+    <string name="columbus_gesture_training_enrolling_text">ਆਪਣੇ ਫ਼ੋਨ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਤੇਜ਼ੀ ਨਾਲ ਦੋ ਵਾਰ ਟੈਪ ਕਰੋ।</string>
+    <string name="columbus_gesture_training_enrolling_title">ਕਵਿੱਕ ਟੈਪ ਵਰਤ ਕੇ ਦੇਖੋ</string>
+    <string name="columbus_gesture_training_finished_text">ਕਵਿੱਕ ਟੈਪ ਵਰਤਣ ਲਈ ਲੋੜੀਂਦੀ ਟੈਪ ਤੀਬਰਤਾ ਨੂੰ ਬਦਲਣ ਵਾਸਤੇ ਸੈਟਿੰਗਾਂ \'ਤੇ ਜਾਓ।</string>
+    <string name="columbus_gesture_training_finished_title">ਤੁਸੀਂ ਕਵਿੱਕ ਟੈਪ ਨੂੰ ਸੈੱਟਅੱਪ ਕਰ ਲਿਆ ਹੈ</string>
+    <string name="columbus_gesture_training_intro_text_suw">ਸਕ੍ਰੀਨਸ਼ਾਟ ਲਓ, ਸੂਚਨਾਵਾਂ ਦਿਖਾਓ ਜਾਂ ਦੋ ਟੈਪਾਂ ਵਿੱਚ ਕੋਈ ਹੋਰ ਕਾਰਵਾਈ ਸ਼ੁਰੂ ਕਰੋ।</string>
+    <string name="columbus_gesture_training_intro_title">ਤਤਕਾਲ ਕਾਰਵਾਈਆਂ ਲਈ ਕਵਿੱਕ ਟੈਪ</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">ਕਿਰਪਾ ਕਰਕੇ ਖੋਲ੍ਹਣ ਲਈ ਕਿਸੇ ਐਪ ਦੀ ਚੋਣ ਕਰੋ</string>
+    <string name="columbus_gesture_training_launch_text">ਉਹ ਐਪ ਚੁਣੋ ਜਿਸਨੂੰ ਤੁਸੀਂ ਕਵਿੱਕ ਟੈਪ ਦੀ ਵਰਤੋਂ ਨਾਲ ਖੋਲ੍ਹਣਾ ਚਾਹੁੰਦੇ ਹੋ।</string>
+    <string name="columbus_gesture_training_launch_title">ਖੋਲ੍ਹਣ ਲਈ ਐਪ ਚੁਣੋ</string>
+    <string name="columbus_launch_settings_activity_title">ਕਵਿੱਕ ਟੈਪ ਸੈਟਿੰਗਾਂ</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s ਸੈਟਿੰਗਾਂ</string>
+    <string name="columbus_setting_action_assistant_title">ਆਪਣੀ ਡਿਜੀਟਲ ਅਸਿਸਟੈਂਟ ਤੱਕ ਪਹੁੰਚ ਕਰੋ</string>
+    <string name="columbus_setting_action_flashlight_title">ਫਲੈਸ਼ਲਾਈਟ ਨੂੰ ਟੌਗਲ ਕਰੋ</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">ਕੋਈ ਐਪ ਨਹੀਂ ਚੁਣੀ ਗਈ</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">ਐਪ ਸਥਾਪਤ ਨਹੀਂ ਕੀਤੀ ਗਈ</string>
+    <string name="columbus_setting_action_launch_title">ਐਪ ਖੋਲ੍ਹੋ</string>
+    <string name="columbus_setting_action_notification_title">ਸੂਚਨਾਵਾਂ ਦਿਖਾਓ</string>
+    <string name="columbus_setting_action_open_app_title">ਐਪ ਖੋਲ੍ਹੋ</string>
+    <string name="columbus_setting_action_overview_title">ਹਾਲੀਆ ਐਪਾਂ ਦੇਖੋ</string>
+    <string name="columbus_setting_action_play_pause_title">ਮੀਡੀਆ ਚਲਾਓ ਜਾਂ ਰੋਕੋ</string>
+    <string name="columbus_setting_action_screenshot_title">ਸਕ੍ਰੀਨਸ਼ਾਟ ਲਓ</string>
+    <string name="columbus_setting_actions_title">ਇਸ ਦੇ ਲਈ ਫ਼ੋਨ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਦੋ ਵਾਰ ਟੈਪ ਕਰੋ</string>
+    <string name="columbus_setting_additional_settings_title">ਕਵਿੱਕ ਟੈਪ ਦੀ ਤੀਬਰਤਾ</string>
+    <string name="columbus_setting_app_selection_help_text">ਉਹ ਐਪ ਚੁਣੋ ਜਿਸਨੂੰ ਤੁਸੀਂ ਆਪਣੇ ਫ਼ੋਨ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਦੋ ਵਾਰ ਟੈਪ ਕਰ ਕੇ ਖੋਲ੍ਹਣਾ ਚਾਹੁੰਦੇ ਹੋ। ਜੇ ਤੁਸੀਂ ਐਪ ਨੂੰ ਅਣਸਥਾਪਤ ਕਰਦੇ ਹੋ, ਤਾਂ ਕਵਿੱਕ ਟੈਪ ਉਦੋਂ ਤੱਕ ਬੰਦ ਹੋ ਜਾਂਦਾ ਹੈ, ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਕੋਈ ਹੋਰ ਐਪ ਨਹੀਂ ਚੁਣਦੇ।</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">ਚੁਣੋ ਕਿ ਜਦੋਂ ਤੁਸੀਂ ਕਵਿੱਕ ਟੈਪ ਦੀ ਵਰਤੋਂ ਨਾਲ ਇਸ ਐਪ ਨੂੰ ਖੋਲ੍ਹਦੇ ਹੋ ਤਾਂ ਕੀ ਹੁੰਦਾ ਹੈ।</string>
+    <string name="columbus_setting_enable_switch_title">ਕਵਿੱਕ ਟੈਪ ਵਰਤੋ</string>
+    <string name="columbus_setting_sensitivity_title">ਮਜ਼ਬੂਤ ਟੈਪਾਂ ਦੀ ਲੋੜ ਹੈ</string>
+    <string name="columbus_title">ਕਾਰਵਾਈਆਂ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਕਵਿੱਕ ਟੈਪ</string>
 </resources>

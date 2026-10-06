@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Kitendo hiki kinaweza kufanywa tu na mwenye kifaa</string>
     <string name="sp_apply_title_product_combined">Ungependa kuweka %s?</string>
     <string name="sp_apply_yes_button">Ndiyo</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Kipengele cha Kugusa Haraka kimetambuliwa!</string>
+    <string name="columbus_gesture_enrollment_complete">Nimemaliza</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Si sasa</string>
+    <string name="columbus_gesture_enrollment_settings">Nenda kwenye Mipangilio</string>
+    <string name="columbus_gesture_enrollment_try_it">Ijaribu</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Tafadhali chagua kitendo cha kutekeleza</string>
+    <string name="columbus_gesture_training_action_text">Chagua kinachofanyika unapotumia kipengele cha Kugusa Haraka. Unaweza kubadilisha baadaye katika mipangilio.</string>
+    <string name="columbus_gesture_training_action_title">Teua chaguo la Kugusa Haraka</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Hebu jaribu tena hatua hii. Gusa nyuma ya simu yako mara mbili kwa haraka.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Safi!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Uko tayari kuanza kutumia kipengele cha Kugusa Haraka</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Umeelewa!</string>
+    <string name="columbus_gesture_training_enrolling_text">Gusa nyuma ya simu yako mara mbili kwa haraka.</string>
+    <string name="columbus_gesture_training_enrolling_title">Jaribu kipengele cha Kugusa Haraka</string>
+    <string name="columbus_gesture_training_finished_text">Ili ubadilishe nguvu za kugusa zinazohitajika kutumia kipengele cha Kugusa Haraka, nenda kwenye Mipangilio.</string>
+    <string name="columbus_gesture_training_finished_title">Umeweka mipangilio ya kipengele cha Kugusa Haraka</string>
+    <string name="columbus_gesture_training_intro_text_suw">Piga picha ya skrini, onyesha arifa au uanzishe kitendo kingine kwa kugusa mara mbili.</string>
+    <string name="columbus_gesture_training_intro_title">Tumia kipengele cha Kugusa Haraka ili utekeleze vitendo vya haraka</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Tafadhali chagua programu ili ufungue</string>
+    <string name="columbus_gesture_training_launch_text">Chagua programu unayotaka kufungua unapotumia kipengele cha Kugusa Haraka.</string>
+    <string name="columbus_gesture_training_launch_title">Chagua programu ili ufungue</string>
+    <string name="columbus_launch_settings_activity_title">Mipangilio ya Kugusa Haraka</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Mipangilio ya %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Kufikia programu yako ya kiratibu dijitali</string>
+    <string name="columbus_setting_action_flashlight_title">Kuwasha au kuzima tochi</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Hujachagua programu yoyote</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Programu haijasakinishwa</string>
+    <string name="columbus_setting_action_launch_title">Kufungua programu</string>
+    <string name="columbus_setting_action_notification_title">Kuonyesha arifa</string>
+    <string name="columbus_setting_action_open_app_title">Fungua programu</string>
+    <string name="columbus_setting_action_overview_title">Kuona programu za hivi majuzi</string>
+    <string name="columbus_setting_action_play_pause_title">Kucheza au kusimamisha maudhui</string>
+    <string name="columbus_setting_action_screenshot_title">Kupiga picha ya skrini</string>
+    <string name="columbus_setting_actions_title">Gusa nyuma ya simu mara mbili ili</string>
+    <string name="columbus_setting_additional_settings_title">Nguvu za kipengele cha Kugusa Haraka</string>
+    <string name="columbus_setting_app_selection_help_text">Chagua programu unayotaka kufungua unapogusa sehemu ya nyuma ya simu yako mara mbili. Ukiondoa programu hiyo, kipengele cha Kugusa Haraka huzimwa hadi utakapochagua programu tofauti.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Chagua kinachofanyika unapofungua programu hii ukitumia kipengele cha Kugusa Haraka.</string>
+    <string name="columbus_setting_enable_switch_title">Tumia kipengele cha Kugusa Haraka</string>
+    <string name="columbus_setting_sensitivity_title">Ihitaji kugusa kwa nguvu</string>
+    <string name="columbus_title">Kugusa Haraka ili kuanzisha vitendo</string>
 </resources>

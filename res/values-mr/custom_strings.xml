@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">ही कृती फक्त डिव्हाइसच्या मालकापुरती मर्यादित आहे</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">होय</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">क्विक टॅप डिटेक्ट केले!</string>
+    <string name="columbus_gesture_enrollment_complete">पूर्ण झाले</string>
+    <string name="columbus_gesture_enrollment_do_it_later">आता नको</string>
+    <string name="columbus_gesture_enrollment_settings">सेटिंग्ज वर जा</string>
+    <string name="columbus_gesture_enrollment_try_it">हे वापरून पहा</string>
+    <string name="columbus_gesture_training_action_no_selection_error">कृपया करण्यासाठी एखादी कृती निवडा</string>
+    <string name="columbus_gesture_training_action_text">तुम्ही क्विक टॅप वापरता तेव्हा, काय होईल ते निवडा. तुम्ही हे नंतर सेटिंग्जमध्ये बदलू शकता.</string>
+    <string name="columbus_gesture_training_action_title">क्विक टॅप पर्याय निवडा</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">ते आणखी एकदा करून पाहू या. तुमच्या फोनच्या मागच्या बाजूला झटपट दोनदा टॅप करा.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">छान!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">तुम्ही क्विक टॅप वापरण्यास तयार आहात</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">तुम्हाला समजले!</string>
+    <string name="columbus_gesture_training_enrolling_text">तुमच्या फोनच्या मागच्या बाजूला झटपट दोनदा टॅप करा.</string>
+    <string name="columbus_gesture_training_enrolling_title">क्विक टॅप वापरून पहा</string>
+    <string name="columbus_gesture_training_finished_text">क्विक टॅप वापरण्यासाठी आवश्यक टॅप सामर्थ्य बदलण्याकरिता, सेटिंग्ज वर जा.</string>
+    <string name="columbus_gesture_training_finished_title">तुम्ही क्विक टॅप सेट केले आहे</string>
+    <string name="columbus_gesture_training_intro_text_suw">दोनदा टॅप करून स्क्रीनशॉट काढा, सूचना दाखवा किंवा दुसरी कृती सुरू करा.</string>
+    <string name="columbus_gesture_training_intro_title">झटपट कृतींसाठी क्विक टॅप</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">कृपया उघडण्यासाठी एखादे ॲप निवडा</string>
+    <string name="columbus_gesture_training_launch_text">तुम्ही क्विक टॅप वापरता तेव्हा, तुम्हाला उघडायचे असलेले ॲप निवडा.</string>
+    <string name="columbus_gesture_training_launch_title">उघडण्यासाठी ॲप निवडा</string>
+    <string name="columbus_launch_settings_activity_title">क्विक टॅप सेटिंग्ज</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s सेटिंग्ज</string>
+    <string name="columbus_setting_action_assistant_title">तुमचा डिजिटल असिस्टंट अ‍ॅक्सेस करा</string>
+    <string name="columbus_setting_action_flashlight_title">फ्लॅशलाइट टॉगल करा</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">कोणतेही अ‍ॅप निवडलेले नाही</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">ॲप इंस्टॉल केलेले नाही</string>
+    <string name="columbus_setting_action_launch_title">अ‍ॅप उघडा</string>
+    <string name="columbus_setting_action_notification_title">नोटिफिकेशन दाखवा</string>
+    <string name="columbus_setting_action_open_app_title">अ‍ॅप उघडा</string>
+    <string name="columbus_setting_action_overview_title">अलीकडील ॲप्स पहा</string>
+    <string name="columbus_setting_action_play_pause_title">मीडिया प्ले करा किंवा थांबवा</string>
+    <string name="columbus_setting_action_screenshot_title">स्क्रीनशॉट घ्या</string>
+    <string name="columbus_setting_actions_title">यासाठी फोनच्या मागच्या बाजूला दोनदा टॅप करा</string>
+    <string name="columbus_setting_additional_settings_title">क्विक टॅप सामर्थ्य</string>
+    <string name="columbus_setting_app_selection_help_text">तुम्ही तुमच्या फोनच्या मागच्या बाजूला दोनदा टॅप करता, तेव्हा उघडण्यासाठी ॲप निवडा. तुम्ही ॲप अनइंस्टॉल केल्यास, दुसरे ॲप निवडेपर्यंत क्विक टॅप बंद राहील.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">तुम्ही हे ॲप क्विक टॅप वापरून उघडता तेव्हा, काय होईल ते निवडा.</string>
+    <string name="columbus_setting_enable_switch_title">क्विक टॅप वापरा</string>
+    <string name="columbus_setting_sensitivity_title">जोरात टॅप करणे आवश्यक आहे</string>
+    <string name="columbus_title">कृती सुरू करण्यासाठी, क्विक टॅप करा</string>
 </resources>

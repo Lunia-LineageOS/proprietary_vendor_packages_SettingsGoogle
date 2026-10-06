@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Denne handling er kun tilgængelig for enhedens ejer</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Ja</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Kviktryk blev registreret</string>
+    <string name="columbus_gesture_enrollment_complete">Luk</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Ikke nu</string>
+    <string name="columbus_gesture_enrollment_settings">Gå til Indstillinger</string>
+    <string name="columbus_gesture_enrollment_try_it">Prøv det</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Vælg en handling, der skal udføres</string>
+    <string name="columbus_gesture_training_action_text">Vælg, hvad der skal ske, når du bruger Kviktryk. Du kan ændre dette senere i indstillingerne.</string>
+    <string name="columbus_gesture_training_action_title">Vælg muligheden Kviktryk</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Lad os prøve det igen. Tryk hurtigt to gange på bagsiden af din telefon.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Sådan!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Du er klar til at bruge Kviktryk</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Det er korrekt!</string>
+    <string name="columbus_gesture_training_enrolling_text">Tryk hurtigt to gange på bagsiden af din telefon.</string>
+    <string name="columbus_gesture_training_enrolling_title">Prøv Kviktryk</string>
+    <string name="columbus_gesture_training_finished_text">Hvis du vil ændre den styrke, der skal anvendes for at bruge Kviktryk, skal du gå til Indstillinger.</string>
+    <string name="columbus_gesture_training_finished_title">Du har konfigureret Kviktryk</string>
+    <string name="columbus_gesture_training_intro_text_suw">Tag et screenshot, se notifikationer, eller begynd en anden handling med to tryk.</string>
+    <string name="columbus_gesture_training_intro_title">Kviktryk til smarte genveje</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Vælg en app, der skal åbnes</string>
+    <string name="columbus_gesture_training_launch_text">Vælg den app, der skal åbnes, når du bruger Kviktryk</string>
+    <string name="columbus_gesture_training_launch_title">Vælg, hvilken app der skal åbnes</string>
+    <string name="columbus_launch_settings_activity_title">Indstillinger for Kviktryk</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Indstillinger for %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Få adgang til din digitale assistent</string>
+    <string name="columbus_setting_action_flashlight_title">Tænd/sluk lommelygte</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Der er ikke valgt nogen app</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Appen er ikke installeret</string>
+    <string name="columbus_setting_action_launch_title">Åbn app</string>
+    <string name="columbus_setting_action_notification_title">Vis notifikationer</string>
+    <string name="columbus_setting_action_open_app_title">Åbn appen</string>
+    <string name="columbus_setting_action_overview_title">Se nyligt brugte apps</string>
+    <string name="columbus_setting_action_play_pause_title">Afspil eller sæt medie på pause</string>
+    <string name="columbus_setting_action_screenshot_title">Tag screenshot</string>
+    <string name="columbus_setting_actions_title">Tryk to gange på bagsiden af telefonen</string>
+    <string name="columbus_setting_additional_settings_title">Styrke for Kviktryk</string>
+    <string name="columbus_setting_app_selection_help_text">Vælg en app, der skal åbnes, når du trykker to gange på bagsiden af din telefon. Hvis du afinstallerer appen, deaktiveres Kviktryk, indtil du vælger en anden app.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Vælg, hvad der skal ske, når du åbner denne app ved hjælp af Kviktryk.</string>
+    <string name="columbus_setting_enable_switch_title">Brug Kviktryk</string>
+    <string name="columbus_setting_sensitivity_title">Kræv hårdere tryk</string>
+    <string name="columbus_title">Kviktryk til at starte handlinger</string>
 </resources>

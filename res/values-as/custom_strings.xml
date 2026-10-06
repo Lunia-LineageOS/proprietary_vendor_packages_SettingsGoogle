@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">এই কাৰ্যটো কেৱল ডিভাইচৰ গৰাকীয়েহে কৰিব পাৰে</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">হয়</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">কুইক টেপ চিনাক্ত কৰা হৈছে!</string>
+    <string name="columbus_gesture_enrollment_complete">হ’ল</string>
+    <string name="columbus_gesture_enrollment_do_it_later">এতিয়া নহয়</string>
+    <string name="columbus_gesture_enrollment_settings">ছেটিঙলৈ যাওক</string>
+    <string name="columbus_gesture_enrollment_try_it">এইটো কৰি চাওক</string>
+    <string name="columbus_gesture_training_action_no_selection_error">অনুগ্ৰহ কৰি সম্পাদন কৰিবলৈ এটা কাৰ্য বাছনি কৰক</string>
+    <string name="columbus_gesture_training_action_text">আপুনি কুইক টেপ ব্যৱহাৰ কৰিলে কি হয় সেয়া বাছনি কৰক। আপুনি পাছত ছেটিঙলৈ গৈ এইটো সলনি কৰিব পাৰিব।</string>
+    <string name="columbus_gesture_training_action_title">কুইক টেপৰ বিকল্প বাছনি কৰক</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">সেইটো আৰু এবাৰ চেষ্টা কৰোঁ আহক। আপোনাৰ ফ’নটোৰ পিছফালে ক্ষিপ্ৰতাৰে দুবাৰ টিপক।</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">সুন্দৰ!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">আপুনি কুইক টেপ ব্যৱহাৰ কৰিবলৈ সাজু</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">আপুনি বুজি পাইছে!</string>
+    <string name="columbus_gesture_training_enrolling_text">আপোনাৰ ফ’নটোৰ পিছফালে ক্ষিপ্ৰতাৰে দুবাৰ টিপক।</string>
+    <string name="columbus_gesture_training_enrolling_title">কুইক টেপ ব্যৱহাৰ কৰি চাওক</string>
+    <string name="columbus_gesture_training_finished_text">কুইক টেপ ব্যৱহাৰ কৰিবলৈ প্ৰয়োজন হোৱা টিপাৰ জোৰটো সলনি কৰিবলৈ ছেটিঙলৈ যাওক।</string>
+    <string name="columbus_gesture_training_finished_title">আপুনি কুইক টেপ ছেট আপ কৰিলে</string>
+    <string name="columbus_gesture_training_intro_text_suw">দুবাৰ টিপি এটা স্ক্ৰীনশ্বট লওক, জাননী দেখুৱাওক অথবা অন্য এটা কাৰ্য আৰম্ভ কৰক।</string>
+    <string name="columbus_gesture_training_intro_title">ক্ষিপ্ৰ কাৰ্যৰ বাবে কুইক টেপ</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">অনুগ্ৰহ কৰি খুলিবলৈ এটা এপ্‌ বাছনি কৰক</string>
+    <string name="columbus_gesture_training_launch_text">আপুনি কুইক টেপ ব্যৱহাৰ কৰিলে খুলিব বিচৰা এপ্‌টো বাছনি কৰক।</string>
+    <string name="columbus_gesture_training_launch_title">খুলিবলৈ এটা এপ্‌ বাছনি কৰক</string>
+    <string name="columbus_launch_settings_activity_title">কুইক টেপৰ ছেটিং</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$sৰ ছেটিং</string>
+    <string name="columbus_setting_action_assistant_title">আপোনাৰ ডিজিটেল সহায়ক এক্সেছ কৰক</string>
+    <string name="columbus_setting_action_flashlight_title">ফ্লেশ্বলাইট ট’গল কৰক</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">কোনো এপ্‌ বাছনি কৰা হোৱা নাই</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">এপ্‌টো ইনষ্টল কৰা হোৱা নাই</string>
+    <string name="columbus_setting_action_launch_title">এপ্‌টো খোলক</string>
+    <string name="columbus_setting_action_notification_title">জাননী দেখুৱাওক</string>
+    <string name="columbus_setting_action_open_app_title">এপ্‌ খোলক</string>
+    <string name="columbus_setting_action_overview_title">শেহতীয়া এপ্‌সমূহ চাওক</string>
+    <string name="columbus_setting_action_play_pause_title">মিডিয়া প্লে’ অথবা পজ কৰক</string>
+    <string name="columbus_setting_action_screenshot_title">স্ক্ৰীনশ্বট লওক</string>
+    <string name="columbus_setting_actions_title">এয়া কৰিবলৈ ফ’নৰ পিছফালে দুবাৰ টিপক</string>
+    <string name="columbus_setting_additional_settings_title">কুইক টেপৰ জোৰ</string>
+    <string name="columbus_setting_app_selection_help_text">আপুনি নিজৰ ফ’নটোৰ পিছফালে দুবাৰ টিপিলে খোল খাবলৈ এটা এপ্‌ বাছনি কৰক। যদি আপুনি এপ্‌টো আনইনষ্টল কৰে তেন্তে, আপুনি এটা পৃথক এপ্‌ বাছনি নকৰা পৰ্যন্ত কুইক টেপ অফ হৈ থাকিব।</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">কুইক টেপ ব্যৱহাৰ কৰি এই এপ্‌টো খুলিলে কি হয় সেয়া বাছনি কৰক।</string>
+    <string name="columbus_setting_enable_switch_title">কুইক টেপ ব্যৱহাৰ কৰক</string>
+    <string name="columbus_setting_sensitivity_title">আৰু জোৰেৰে টিপাৰ প্ৰয়োজন</string>
+    <string name="columbus_title">কাৰ্য আৰম্ভ কৰিবলৈ কুইক টেপ</string>
 </resources>

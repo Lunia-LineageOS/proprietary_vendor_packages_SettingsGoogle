@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Limitado lang sa may-ari ng device ang aksyong ito</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Oo</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">May na-detect na Quick Tap!</string>
+    <string name="columbus_gesture_enrollment_complete">Tapos na</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Huwag muna</string>
+    <string name="columbus_gesture_enrollment_settings">Pumunta sa Mga Setting</string>
+    <string name="columbus_gesture_enrollment_try_it">Subukan</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Pumili ng gagawing pagkilos</string>
+    <string name="columbus_gesture_training_action_text">Piliin kung ano ang mangyayari kapag ginamit mo ang Quick Tap. Mababago mo ito sa ibang pagkakataon sa mga setting.</string>
+    <string name="columbus_gesture_training_action_title">Piliin ang opsyong Quick Tap</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Subukan ulit natin iyon. Mabilis na i-tap nang dalawang beses ang likod ng iyong telepono.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Magaling!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Handa ka nang gamitin ang Quick Tap</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Nakuha mo!</string>
+    <string name="columbus_gesture_training_enrolling_text">Mabilis na i-tap nang dalawang beses ang likod ng iyong telepono.</string>
+    <string name="columbus_gesture_training_enrolling_title">Subukan ang Quick Tap</string>
+    <string name="columbus_gesture_training_finished_text">Para baguhin ang lakas ng pag-tap na kinakailangan para gamitin ang Quick Tap, pumunta sa Mga Setting.</string>
+    <string name="columbus_gesture_training_finished_title">Na-set up mo ang Quick Tap</string>
+    <string name="columbus_gesture_training_intro_text_suw">Kumuha ng screenshot, ipakita ang mga notification, o magsimula ng ibang pagkilos sa dalawang pag-tap.</string>
+    <string name="columbus_gesture_training_intro_title">Quick Tap para sa mabibilis na pagkilos</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Pumili ng bubuksang app</string>
+    <string name="columbus_gesture_training_launch_text">Piliin ang app na gusto mong buksan kapag ginagamit mo ang Quick Tap.</string>
+    <string name="columbus_gesture_training_launch_title">Pumili ng bubuksang app</string>
+    <string name="columbus_launch_settings_activity_title">Mga setting ng Quick Tap</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Mga setting ng %1$s</string>
+    <string name="columbus_setting_action_assistant_title">I-access ang iyong digital na assistant</string>
+    <string name="columbus_setting_action_flashlight_title">I-toggle ang flashlight</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Walang piniling app</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Hindi naka-install ang app</string>
+    <string name="columbus_setting_action_launch_title">Buksan ang app</string>
+    <string name="columbus_setting_action_notification_title">Magpakita ng mga notification</string>
+    <string name="columbus_setting_action_open_app_title">Buksan ang app</string>
+    <string name="columbus_setting_action_overview_title">Tingnan ang mga kamakailang app</string>
+    <string name="columbus_setting_action_play_pause_title">Mag-play o mag-pause ng media</string>
+    <string name="columbus_setting_action_screenshot_title">Kumuha ng screenshot</string>
+    <string name="columbus_setting_actions_title">I-tap nang dalawang beses ang likod ng telepono para</string>
+    <string name="columbus_setting_additional_settings_title">Lakas ng Quick Tap</string>
+    <string name="columbus_setting_app_selection_help_text">Pumili ng app na bubuksan kapag na-tap mo nang dalawang beses ang likod ng iyong telepono. Kung ia-uninstall mo ang app, mao-off ang Quick Tap hanggang pumili ka ng ibang app.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Piliin kung ano ang mangyayari kapag binuksan mo ang app na ito gamit ang Quick Tap.</string>
+    <string name="columbus_setting_enable_switch_title">Gamitin ang Quick Tap</string>
+    <string name="columbus_setting_sensitivity_title">Kailanganin ang mas malalakas na pag-tap</string>
+    <string name="columbus_title">Mag-Quick Tap para magsimula ng mga aksyon</string>
 </resources>

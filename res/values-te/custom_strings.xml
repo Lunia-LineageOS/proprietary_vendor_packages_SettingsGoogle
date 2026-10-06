@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">ఈ చర్య డివైజ్ ఓనర్‌కు మాత్రమే పరిమితం చేయబడింది</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">వర్తింపజేయండి</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">క్విక్ ట్యాప్ గుర్తించడం జరిగింది!</string>
+    <string name="columbus_gesture_enrollment_complete">పూర్తయింది</string>
+    <string name="columbus_gesture_enrollment_do_it_later">ఇప్పుడు కాదు</string>
+    <string name="columbus_gesture_enrollment_settings">సెట్టింగ్‌లకు వెళ్లు</string>
+    <string name="columbus_gesture_enrollment_try_it">దీన్ని ట్రై చేయి</string>
+    <string name="columbus_gesture_training_action_no_selection_error">అమలు చేయడానికి ఒక చర్యను ఎంచుకోండి</string>
+    <string name="columbus_gesture_training_action_text">మీరు క్విక్ ట్యాప్‌ను ఉపయోగించినప్పుడు ఏమి జరుగుతుందో ఎంచుకోండి. మీరు దీన్ని తర్వాత సెట్టింగ్‌లలో మార్చవచ్చు.</string>
+    <string name="columbus_gesture_training_action_title">క్విక్ ట్యాప్ ఆప్షన్‌ను ఎంచుకోండి</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">దానిని మరోసారి ట్రై చేయండి. మీ ఫోన్ వెనుక భాగాన్ని రెండుసార్లు త్వరగా ట్యాప్ చేయండి.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">పనితీరు బాగుంది!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">మీరు క్విక్ ట్యాప్‌ను ఉపయోగించడం నేర్చుకున్నారు</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">మీకు అర్థమైందా!</string>
+    <string name="columbus_gesture_training_enrolling_text">మీ ఫోన్ వెనుక భాగాన్ని రెండుసార్లు త్వరగా ట్యాప్ చేయండి.</string>
+    <string name="columbus_gesture_training_enrolling_title">క్విక్ ట్యాప్‌ను ట్రై చేయండి</string>
+    <string name="columbus_gesture_training_finished_text">క్విక్ ట్యాప్‌ను ఉపయోగించడానికి అవసరమైన ట్యాప్ సామర్థ్యాన్ని మార్చడానికి, సెట్టింగ్‌లకు వెళ్లండి.</string>
+    <string name="columbus_gesture_training_finished_title">మీరు క్విక్ ట్యాప్‌ను సెటప్ చేశారు</string>
+    <string name="columbus_gesture_training_intro_text_suw">స్క్రీన్ షాట్ తీసుకోండి, నోటిఫికేషన్‌లను చూపండి లేదా రెండు ట్యాప్‌లలో మరొక చర్యను ప్రారంభించండి.</string>
+    <string name="columbus_gesture_training_intro_title">త్వరిత చర్యల కోసం క్విక్ ట్యాప్</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">తెరవడానికి దయచేసి యాప్‌ను ఎంచుకోండి</string>
+    <string name="columbus_gesture_training_launch_text">మీరు క్విక్ ట్యాప్‌ను ఉపయోగించినప్పుడు తెరవాలనుకుంటున్న యాప్‌ను ఎంచుకోండి.</string>
+    <string name="columbus_gesture_training_launch_title">తెరవడానికి యాప్‌ను ఎంచుకోండి</string>
+    <string name="columbus_launch_settings_activity_title">క్విక్ ట్యాప్ సెట్టింగ్‌లు</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s సెట్టింగ్‌లు</string>
+    <string name="columbus_setting_action_assistant_title">మీ డిజిటల్ అసిస్టెంట్‌ను యాక్సెస్ చేయండి</string>
+    <string name="columbus_setting_action_flashlight_title">ఫ్లాష్‌లైట్‌ను టోగుల్ చేయండి</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">ఏ యాప్‌నూ ఎంచుకోలేదు</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">యాప్ ఇన్‌స్టాల్ చేయబడలేదు</string>
+    <string name="columbus_setting_action_launch_title">యాప్‌ను తెరవండి</string>
+    <string name="columbus_setting_action_notification_title">నోటిఫికేషన్‌లను చూపండి</string>
+    <string name="columbus_setting_action_open_app_title">యాప్‌ను తెరవండి</string>
+    <string name="columbus_setting_action_overview_title">ఇటీవలి యాప్‌లను చూడండి</string>
+    <string name="columbus_setting_action_play_pause_title">మీడియాను ప్లే చేయండి లేదా పాజ్ చేయండి</string>
+    <string name="columbus_setting_action_screenshot_title">స్క్రీన్‌షాట్‌ను తీయండి</string>
+    <string name="columbus_setting_actions_title">ఇలా చేయడానికి ఫోన్ వెనుక రెండుసార్లు ట్యాప్ చేయండి</string>
+    <string name="columbus_setting_additional_settings_title">క్విక్ ట్యాప్ సామర్థ్యం</string>
+    <string name="columbus_setting_app_selection_help_text">మీ ఫోన్ వెనుక భాగంలో రెండుసార్లు ట్యాప్ చేయడం ద్వారా మీరు తెరవాలనుకుంటున్న యాప్‌ను ఎంచుకోండి. మీరు యాప్‌ను అన్‌ఇన్‌స్టాల్ చేసినట్లయితే, మీరు వేరే యాప్‌ను ఎంచుకునే దాకా క్విక్ ట్యాప్ ఆఫ్ చేయబడుతుంది.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">మీరు క్విక్ ట్యాప్‌ను ఉపయోగించి ఈ యాప్‌ను తెరిచినప్పుడు ఏమి జరుగుతుందో ఎంచుకోండి.</string>
+    <string name="columbus_setting_enable_switch_title">క్విక్ ట్యాప్‌ను ఉపయోగించండి</string>
+    <string name="columbus_setting_sensitivity_title">గట్టిగా ట్యాప్ చేయడం అవసరం</string>
+    <string name="columbus_title">చర్యలను ప్రారంభించడానికి క్విక్ ట్యాప్ చేయండి</string>
 </resources>

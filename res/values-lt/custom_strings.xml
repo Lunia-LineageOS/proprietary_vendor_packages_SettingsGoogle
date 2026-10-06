@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Šis veiksmas ribojamas tik įrenginio savininkui</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Taip</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Aptikta „Quick Tap“!</string>
+    <string name="columbus_gesture_enrollment_complete">Atlikta</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Ne dabar</string>
+    <string name="columbus_gesture_enrollment_settings">Eiti į nustatymus</string>
+    <string name="columbus_gesture_enrollment_try_it">Išbandyti</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Pasirinkite norimą atlikti veiksmą</string>
+    <string name="columbus_gesture_training_action_text">Pasirinkite, kas nutinka naudojant „Quick Tap“. Tai vėliau galėsite pakeisti nustatymuose.</string>
+    <string name="columbus_gesture_training_action_title">Pasirinkite „Quick Tap“ parinktį</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Pabandykime dar kartą. Sparčiai dukart palieskite telefono nugarėlę.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Šaunu!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Esate pasirengę pradėti naudoti „Quick Tap“</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Supratote!</string>
+    <string name="columbus_gesture_training_enrolling_text">Sparčiai dukart palieskite telefono nugarėlę.</string>
+    <string name="columbus_gesture_training_enrolling_title">Išbandykite „Quick Tap“</string>
+    <string name="columbus_gesture_training_finished_text">Jei norite pakeisti lietimo intensyvumą, reikalingą norint naudoti „Quick Tap“, eikite į nustatymus.</string>
+    <string name="columbus_gesture_training_finished_title">Nustatėte „Quick Tap“</string>
+    <string name="columbus_gesture_training_intro_text_suw">Sukurkite ekrano kopiją, rodykite pranešimus arba pradėkite kitą veiksmą paliesdami du kartus.</string>
+    <string name="columbus_gesture_training_intro_title">„Quick Tap“ spartiesiems veiksmams</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Pasirinkite norimą atidaryti programą</string>
+    <string name="columbus_gesture_training_launch_text">Pasirinkite programą, kurią norite atidaryti, kai naudojate „Quick Tap“.</string>
+    <string name="columbus_gesture_training_launch_title">Norimos atidaryti programos pasirinkimas</string>
+    <string name="columbus_launch_settings_activity_title">„Quick Tap“ nustatymai</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">„%1$s“ nustatymai</string>
+    <string name="columbus_setting_action_assistant_title">Skaitmeninio pagelbiklio pasiekiamumas</string>
+    <string name="columbus_setting_action_flashlight_title">Perjungti žibintuvėlį</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Nepasirinkta jokių programų</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Programa neįdiegta</string>
+    <string name="columbus_setting_action_launch_title">Programos atidarymas</string>
+    <string name="columbus_setting_action_notification_title">Pranešimų rodymas</string>
+    <string name="columbus_setting_action_open_app_title">Atidaryti programą</string>
+    <string name="columbus_setting_action_overview_title">Žr. naujausias programas</string>
+    <string name="columbus_setting_action_play_pause_title">Medijos leidimas arba pristabdymas</string>
+    <string name="columbus_setting_action_screenshot_title">Ekrano kopijos kūrimas</string>
+    <string name="columbus_setting_actions_title">Veiksmų atlikimas dukart palietus telefono nugarėlę</string>
+    <string name="columbus_setting_additional_settings_title">„Quick Tap“ intensyvumas</string>
+    <string name="columbus_setting_app_selection_help_text">Pasirinkite programą, kuri bus atidaryta dukart palietus telefono nugarėlę. Jei pašalinsite programą, „Quick Tap“ bus išjungta, kol pasirinksite kitą programą.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Pasirinkite, kas nutinka, kai atidarote šią programą naudodami „Quick Tap“.</string>
+    <string name="columbus_setting_enable_switch_title">Naudoti „Quick Tap“</string>
+    <string name="columbus_setting_sensitivity_title">Intensyvesnių palietimų reikalavimas</string>
+    <string name="columbus_title">Veiksmų pradžia naudojant „Quick Tap“</string>
 </resources>

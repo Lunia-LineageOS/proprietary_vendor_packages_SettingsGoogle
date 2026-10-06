@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Bu amal faqat qurilma egasiga tegishli</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Ha</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Tezkor teginish aniqlandi!</string>
+    <string name="columbus_gesture_enrollment_complete">Tayyor</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Hozir emas</string>
+    <string name="columbus_gesture_enrollment_settings">Sozlamalarni ochish</string>
+    <string name="columbus_gesture_enrollment_try_it">Sinash</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Bajarish uchun amalni tanlang</string>
+    <string name="columbus_gesture_training_action_text">Tezkor teginishdan foydalanilganda nimalar yuz berishini tanlang. Buni keyinroq sozlamalardan oʻzgartirishingiz mumkin.</string>
+    <string name="columbus_gesture_training_action_title">Tezkor teginishni tanlash parametri</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Yana bir marta urining. Telefonning orqa tomoniga tezkor tegining.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Yaxshi!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Tezkor teginishdan foydalanishni boshlashingiz mumkin</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Tushunarli!</string>
+    <string name="columbus_gesture_training_enrolling_text">Telefonning orqa tomoniga tezkor tegining.</string>
+    <string name="columbus_gesture_training_enrolling_title">Tezkor teginishdan foydalaning</string>
+    <string name="columbus_gesture_training_finished_text">Tezkor teginishdan foydalanish uchun zarur teginish uzunligini Sozlamalar orqali oʻzgartirish mumkin.</string>
+    <string name="columbus_gesture_training_finished_title">Tezkor teginish sozlandi</string>
+    <string name="columbus_gesture_training_intro_text_suw">Ikki marta teginish bilan skrinshot oling, bildirishnomalar chiqaring yoki boshqa amalni boshlang.</string>
+    <string name="columbus_gesture_training_intro_title">Tezkor amallar uchun Tezkor teginish</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Ochish uchun ilovani tanlang</string>
+    <string name="columbus_gesture_training_launch_text">Tezkor teginishdan foydalanganda qaysi ilova ochilishini tanlang.</string>
+    <string name="columbus_gesture_training_launch_title">Ochish uchun ilovani tanlang</string>
+    <string name="columbus_launch_settings_activity_title">Qisqa teginish sozlamalari</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s sozlamalari</string>
+    <string name="columbus_setting_action_assistant_title">Raqamli assistentdan foydalanish</string>
+    <string name="columbus_setting_action_flashlight_title">Fonar tugmasi</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Hech qanday ilova belgilanmagan</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Ilova oʻrnatilmadi</string>
+    <string name="columbus_setting_action_launch_title">Ilovani ochish</string>
+    <string name="columbus_setting_action_notification_title">Bildirishnomalarni chiqarish</string>
+    <string name="columbus_setting_action_open_app_title">Ilovani ochish</string>
+    <string name="columbus_setting_action_overview_title">Yaqinda ishlatilgan ilovalarni chiqarish</string>
+    <string name="columbus_setting_action_play_pause_title">Media ijrosi yoki pauza</string>
+    <string name="columbus_setting_action_screenshot_title">Skrinshot olish</string>
+    <string name="columbus_setting_actions_title">Telefonning orqa tomoniga teginilganda qaysi amal bajarilsin</string>
+    <string name="columbus_setting_additional_settings_title">Tezkor teginish kuchi</string>
+    <string name="columbus_setting_app_selection_help_text">Telefonning orqa tomoniga tezkor ikki marta teginganda ochish uchun ilovani tanlang. Agar ilova oʻchirib tashlansa, Tezkor teginish to boshqa ilova tanlanmaguncha faolsizlantiriladi.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Tezkor teginish yordamida bu ilova ochilganda nimalar boʻlishini tanlang.</string>
+    <string name="columbus_setting_enable_switch_title">Tezkor teginishdan foydalanish</string>
+    <string name="columbus_setting_sensitivity_title">Kuchliroq teginishni talab etish</string>
+    <string name="columbus_title">Qisqa teginib amal bajarish</string>
 </resources>

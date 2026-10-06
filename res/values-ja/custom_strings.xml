@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">この操作を行えるのはデバイスの所有者のみです</string>
     <string name="sp_apply_title_product_combined">%s ですか？</string>
     <string name="sp_apply_yes_button">はい</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">クイックタップが検出されました。</string>
+    <string name="columbus_gesture_enrollment_complete">完了</string>
+    <string name="columbus_gesture_enrollment_do_it_later">後で</string>
+    <string name="columbus_gesture_enrollment_settings">設定に移動</string>
+    <string name="columbus_gesture_enrollment_try_it">試してみる</string>
+    <string name="columbus_gesture_training_action_no_selection_error">実行するアクションを選択してください</string>
+    <string name="columbus_gesture_training_action_text">クイックタップを使用したときのアクションを選択してください。このアクションは後から [設定] で変更できます。</string>
+    <string name="columbus_gesture_training_action_title">クイックタップ オプションの選択</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">もう一度やってみましょう。スマートフォンの背面をすばやく 2 回タップしてください。</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">成功です</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">クイックタップを使用できるようになりました</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">できました</string>
+    <string name="columbus_gesture_training_enrolling_text">スマートフォンの背面をすばやく 2 回タップしてください。</string>
+    <string name="columbus_gesture_training_enrolling_title">クイックタップを使ってみる</string>
+    <string name="columbus_gesture_training_finished_text">クイックタップを使用するために必要なタップの強さを変更するには、[設定] に移動してください。</string>
+    <string name="columbus_gesture_training_finished_title">クイックタップの設定完了</string>
+    <string name="columbus_gesture_training_intro_text_suw">スクリーンショットを撮影したり、通知を表示したり、別のアクションを開始したりするには、2 回タップしてください。</string>
+    <string name="columbus_gesture_training_intro_title">クイックタップでクイック操作</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">開くアプリを選択してください</string>
+    <string name="columbus_gesture_training_launch_text">クイックタップを使用したときに開くアプリを選択してください。</string>
+    <string name="columbus_gesture_training_launch_title">開くアプリの選択</string>
+    <string name="columbus_launch_settings_activity_title">クイックタップの設定</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">「%1$s」の設定</string>
+    <string name="columbus_setting_action_assistant_title">デジタル アシスタントを起動</string>
+    <string name="columbus_setting_action_flashlight_title">ライトの ON / OFF を切り替える</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">アプリが選択されていません</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">アプリがインストールされていません</string>
+    <string name="columbus_setting_action_launch_title">アプリを開く</string>
+    <string name="columbus_setting_action_notification_title">通知を表示</string>
+    <string name="columbus_setting_action_open_app_title">アプリを開く</string>
+    <string name="columbus_setting_action_overview_title">最近使用したアプリを表示</string>
+    <string name="columbus_setting_action_play_pause_title">メディアを再生または一時停止</string>
+    <string name="columbus_setting_action_screenshot_title">スクリーンショットを撮る</string>
+    <string name="columbus_setting_actions_title">スマートフォンの背面を 2 回タップして実行するアクション</string>
+    <string name="columbus_setting_additional_settings_title">クイックタップの強さ</string>
+    <string name="columbus_setting_app_selection_help_text">スマートフォンの背面を 2 回タップしたときに開くアプリを選択してください。アプリをアンインストールした場合は、別のアプリを選択するまでクイックタップは OFF になります。</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">クイックタップを使用してこのアプリを開いたときのアクションを選択してください。</string>
+    <string name="columbus_setting_enable_switch_title">クイックタップを使用</string>
+    <string name="columbus_setting_sensitivity_title">強いタップが必要</string>
+    <string name="columbus_title">クイックタップでアクションを開始</string>
 </resources>

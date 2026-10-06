@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">רק לבעלים של המכשיר יש אפשרות לבצע את הפעולה הזו</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">כן</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">זוהתה לחיצה מהירה!</string>
+    <string name="columbus_gesture_enrollment_complete">סיום</string>
+    <string name="columbus_gesture_enrollment_do_it_later">לא עכשיו</string>
+    <string name="columbus_gesture_enrollment_settings">להגדרות</string>
+    <string name="columbus_gesture_enrollment_try_it">רוצה לנסות?</string>
+    <string name="columbus_gesture_training_action_no_selection_error">עליך לבחור פעולה לביצוע</string>
+    <string name="columbus_gesture_training_action_text">צריך לבחור פעולה שתתבצע כשמשתמשים בלחיצה מהירה. אפשר לשנות זאת מאוחר יותר בהגדרות.</string>
+    <string name="columbus_gesture_training_action_title">יש לבחור באפשרות ללחיצה מהירה</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">ננסה זאת עוד פעם. יש ללחוץ פעמיים במהירות על גב הטלפון.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">איזה יופי!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">אפשר להתחיל להשתמש בלחיצה מהירה</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">כל הכבוד!</string>
+    <string name="columbus_gesture_training_enrolling_text">יש ללחוץ פעמיים במהירות על גב הטלפון.</string>
+    <string name="columbus_gesture_training_enrolling_title">רוצה לנסות את הלחיצה המהירה?</string>
+    <string name="columbus_gesture_training_finished_text">כדי לשנות את עוצמת הלחיצה הנדרשת לשימוש בלחיצה מהירה, יש לעבור ל\'הגדרות\'.</string>
+    <string name="columbus_gesture_training_finished_title">הגדרת את הלחיצה המהירה</string>
+    <string name="columbus_gesture_training_intro_text_suw">אפשר לצלם צילום מסך, להציג התראות או להתחיל פעולה אחרת על ידי לחיצה פעמיים.</string>
+    <string name="columbus_gesture_training_intro_title">לחיצה מהירה לפעולות מהירות</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">יש לבחור אפליקציה לפתיחה</string>
+    <string name="columbus_gesture_training_launch_text">יש לבחור את האפליקציה שתיפתח כשמשתמשים בלחיצה מהירה.</string>
+    <string name="columbus_gesture_training_launch_title">בחירת אפליקציה לפתיחה</string>
+    <string name="columbus_launch_settings_activity_title">הגדרות הלחיצה המהירה</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">הגדרות %1$s</string>
+    <string name="columbus_setting_action_assistant_title">גישה אל העוזר הדיגיטלי</string>
+    <string name="columbus_setting_action_flashlight_title">החלפת המצב של הפנס</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">לא נבחרה אפליקציה</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">האפליקציה לא מותקנת</string>
+    <string name="columbus_setting_action_launch_title">פתיחת אפליקציה</string>
+    <string name="columbus_setting_action_notification_title">הצגת ההתראות</string>
+    <string name="columbus_setting_action_open_app_title">פתיחת האפליקציה</string>
+    <string name="columbus_setting_action_overview_title">צפייה באפליקציות שהיו בשימוש לאחרונה</string>
+    <string name="columbus_setting_action_play_pause_title">הפעלה או השהיה של מדיה</string>
+    <string name="columbus_setting_action_screenshot_title">צילום המסך</string>
+    <string name="columbus_setting_actions_title">לחיצה כפולה תבצע את הפעולה:</string>
+    <string name="columbus_setting_additional_settings_title">עוצמת הלחיצה המהירה</string>
+    <string name="columbus_setting_app_selection_help_text">צריך לבחור אפליקציה שתיפתח כשלוחצים פעמיים על גב הטלפון. אם מסירים את האפליקציה שנבחרה, הלחיצה המהירה מושבתת עד שבוחרים אפליקציה אחרת.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">צריך לבחור מה קורה כשפותחים את האפליקציה באמצעות הלחיצה המהירה.</string>
+    <string name="columbus_setting_enable_switch_title">שימוש בלחיצה המהירה</string>
+    <string name="columbus_setting_sensitivity_title">הגברת עוצמת הלחיצה שנדרשת</string>
+    <string name="columbus_title">לחיצה מהירה לביצוע פעולות</string>
 </resources>

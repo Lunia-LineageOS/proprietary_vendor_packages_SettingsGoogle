@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">การดำเนินการนี้จำกัดไว้ที่เจ้าของอุปกรณ์เท่านั้น</string>
     <string name="sp_apply_title_product_combined">%s ใช่ไหม</string>
     <string name="sp_apply_yes_button">ใช่</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">ตรวจพบการแตะด่วน</string>
+    <string name="columbus_gesture_enrollment_complete">เสร็จ</string>
+    <string name="columbus_gesture_enrollment_do_it_later">ไว้ทีหลัง</string>
+    <string name="columbus_gesture_enrollment_settings">ไปที่การตั้งค่า</string>
+    <string name="columbus_gesture_enrollment_try_it">ลองใช้</string>
+    <string name="columbus_gesture_training_action_no_selection_error">โปรดเลือกการดำเนินการที่จะทำ</string>
+    <string name="columbus_gesture_training_action_text">เลือกสิ่งที่จะเกิดขึ้นเมื่อใช้การแตะด่วน คุณเปลี่ยนค่านี้ภายหลังได้ในการตั้งค่า</string>
+    <string name="columbus_gesture_training_action_title">เลือกตัวเลือกการแตะด่วน</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">ลองทำอีกครั้ง แตะสองครั้งเร็วๆ ที่ด้านหลังโทรศัพท์</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">ดีมาก</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">คุณพร้อมเริ่มใช้การแตะด่วนแล้ว</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">ใช่แล้ว</string>
+    <string name="columbus_gesture_training_enrolling_text">แตะสองครั้งเร็วๆ ที่ด้านหลังโทรศัพท์</string>
+    <string name="columbus_gesture_training_enrolling_title">ลองแตะด่วน</string>
+    <string name="columbus_gesture_training_finished_text">หากต้องการเปลี่ยนความแรงที่ต้องใช้ในการแตะด่วน ให้ไปที่การตั้งค่า</string>
+    <string name="columbus_gesture_training_finished_title">คุณตั้งค่าการแตะด่วนแล้ว</string>
+    <string name="columbus_gesture_training_intro_text_suw">ถ่ายภาพหน้าจอ แสดงการแจ้งเตือน หรือเริ่มการดำเนินการอื่นด้วยการแตะสองครั้ง</string>
+    <string name="columbus_gesture_training_intro_title">การแตะด่วนเพื่อใช้งานแบบลัด</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">โปรดเลือกแอปที่จะเปิด</string>
+    <string name="columbus_gesture_training_launch_text">เลือกแอปที่ต้องการเปิดเมื่อใช้การแตะด่วน</string>
+    <string name="columbus_gesture_training_launch_title">เลือกแอปที่จะเปิด</string>
+    <string name="columbus_launch_settings_activity_title">การตั้งค่าการแตะด่วน</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">การตั้งค่า %1$s</string>
+    <string name="columbus_setting_action_assistant_title">เปิดใช้ผู้ช่วยดิจิทัล</string>
+    <string name="columbus_setting_action_flashlight_title">เปิด/ปิดไฟฉาย</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">ไม่ได้เลือกแอป</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">ไม่ได้ติดตั้งแอปนี้</string>
+    <string name="columbus_setting_action_launch_title">เปิดแอป</string>
+    <string name="columbus_setting_action_notification_title">แสดงการแจ้งเตือน</string>
+    <string name="columbus_setting_action_open_app_title">เปิดแอป</string>
+    <string name="columbus_setting_action_overview_title">ดูแอปล่าสุด</string>
+    <string name="columbus_setting_action_play_pause_title">เล่นหรือหยุดสื่อชั่วคราว</string>
+    <string name="columbus_setting_action_screenshot_title">จับภาพหน้าจอ</string>
+    <string name="columbus_setting_actions_title">แตะสองครั้งที่ด้านหลังของโทรศัพท์เพื่อ</string>
+    <string name="columbus_setting_additional_settings_title">ความแรงของการแตะด่วน</string>
+    <string name="columbus_setting_app_selection_help_text">เลือกแอปที่จะเปิดเมื่อแตะด้านหลังของโทรศัพท์ 2 ครั้ง หากคุณถอนการติดตั้งแอปดังกล่าว การแตะด่วนจะปิดไว้จนกว่าจะมีการเลือกแอปอื่น</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">เลือกสิ่งที่จะเกิดขึ้นเมื่อเปิดแอปนี้โดยใช้การแตะด่วน</string>
+    <string name="columbus_setting_enable_switch_title">ใช้การแตะด่วน</string>
+    <string name="columbus_setting_sensitivity_title">ต้องแตะให้แรงขึ้น</string>
+    <string name="columbus_title">การแตะด่วนเพื่อเริ่มการดำเนินการ</string>
 </resources>

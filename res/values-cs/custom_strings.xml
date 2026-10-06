@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Tuto akci může provést jen vlastník zařízení</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Ano</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Bylo zjištěno rychlé poklepání.</string>
+    <string name="columbus_gesture_enrollment_complete">Hotovo</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Teď ne</string>
+    <string name="columbus_gesture_enrollment_settings">Přejít do nastavení</string>
+    <string name="columbus_gesture_enrollment_try_it">Vyzkoušet</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Vyberte akci, která se má provést</string>
+    <string name="columbus_gesture_training_action_text">Vyberte, co se stane, když použijete rychlé poklepání. Akci můžete později změnit v nastavení.</string>
+    <string name="columbus_gesture_training_action_title">Vyberte možnost rychlého poklepání</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Zkuste to ještě jednou. Rychle dvakrát klepněte na zadní stranu telefonu.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Skvělé!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Můžete začít používat rychlé poklepání</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Správně.</string>
+    <string name="columbus_gesture_training_enrolling_text">Rychle dvakrát klepněte na zadní stranu telefonu.</string>
+    <string name="columbus_gesture_training_enrolling_title">Vyzkoušejte rychlé poklepání</string>
+    <string name="columbus_gesture_training_finished_text">Potřebnou sílu k použití rychlého poklepání můžete upravit v Nastavení.</string>
+    <string name="columbus_gesture_training_finished_title">Nastavili jste rychlé poklepání</string>
+    <string name="columbus_gesture_training_intro_text_suw">Dvěma klepnutími pořiďte snímek obrazovky, zobrazte si oznámení nebo proveďte jinou akci.</string>
+    <string name="columbus_gesture_training_intro_title">Rychlé akce po rychlém poklepání</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Vyberte aplikaci k otevření</string>
+    <string name="columbus_gesture_training_launch_text">Vyberte aplikace, které chcete otevírat rychlým poklepáním.</string>
+    <string name="columbus_gesture_training_launch_title">Zvolte aplikaci k otevření</string>
+    <string name="columbus_launch_settings_activity_title">Nastavení rychlého poklepání</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Nastavení akce %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Spustit digitálního asistenta</string>
+    <string name="columbus_setting_action_flashlight_title">Přepnout svítilnu</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Není vybrána žádná aplikace</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Aplikace není nainstalována</string>
+    <string name="columbus_setting_action_launch_title">Otevřít aplikaci</string>
+    <string name="columbus_setting_action_notification_title">Zobrazit oznámení</string>
+    <string name="columbus_setting_action_open_app_title">Otevřít aplikaci</string>
+    <string name="columbus_setting_action_overview_title">Zobrazit nedávné aplikace</string>
+    <string name="columbus_setting_action_play_pause_title">Přehrát nebo pozastavit média</string>
+    <string name="columbus_setting_action_screenshot_title">Pořídit snímek obrazovky</string>
+    <string name="columbus_setting_actions_title">Dvojitým klepnutím na zadní stranu telefonu:</string>
+    <string name="columbus_setting_additional_settings_title">Síla rychlého poklepání</string>
+    <string name="columbus_setting_app_selection_help_text">Vyberte aplikaci, která se otevře, když dvakrát klepnete na zadní stranu telefonu. Pokud ji odinstalujete, rychlé poklepání se vypne, dokud nevyberete jinou aplikaci.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Vyberte, co se stane, když tuto aplikaci otevřete pomocí rychlého poklepání.</string>
+    <string name="columbus_setting_enable_switch_title">Používat rychlé poklepání</string>
+    <string name="columbus_setting_sensitivity_title">Vyžadovat silnější klepnutí</string>
+    <string name="columbus_title">Rychlým poklepáním spouštět akce</string>
 </resources>

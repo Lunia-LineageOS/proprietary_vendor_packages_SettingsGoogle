@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">이 작업은 기기 소유자로 제한됩니다.</string>
     <string name="sp_apply_title_product_combined">%s인가요?</string>
     <string name="sp_apply_yes_button">예</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">더블 탭이 감지되었습니다.</string>
+    <string name="columbus_gesture_enrollment_complete">완료</string>
+    <string name="columbus_gesture_enrollment_do_it_later">나중에</string>
+    <string name="columbus_gesture_enrollment_settings">설정으로 이동</string>
+    <string name="columbus_gesture_enrollment_try_it">사용해 보기</string>
+    <string name="columbus_gesture_training_action_no_selection_error">실행할 작업을 선택하세요.</string>
+    <string name="columbus_gesture_training_action_text">더블 탭으로 실행할 작업을 선택하세요. 나중에 설정에서 변경할 수 있습니다.</string>
+    <string name="columbus_gesture_training_action_title">더블 탭 옵션 선택</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">한 번 더 해보겠습니다. 휴대전화의 뒷면을 빠르게 두 번 탭하세요.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">좋아요</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">더블 탭을 사용을 시작할 준비가 되었습니다.</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">맞아요</string>
+    <string name="columbus_gesture_training_enrolling_text">휴대전화의 뒷면을 빠르게 두 번 탭하세요.</string>
+    <string name="columbus_gesture_training_enrolling_title">더블 탭 사용해 보기</string>
+    <string name="columbus_gesture_training_finished_text">더블 탭 사용에 필요한 탭 강도를 변경하려면 설정으로 이동하세요.</string>
+    <string name="columbus_gesture_training_finished_title">더블 탭이 설정됨</string>
+    <string name="columbus_gesture_training_intro_text_suw">탭 두 번으로 스크린샷을 캡처하거나 알림을 표시하거나 다른 작업을 시작하세요.</string>
+    <string name="columbus_gesture_training_intro_title">빠른 작업을 위한 더블 탭</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">열 앱을 선택하세요.</string>
+    <string name="columbus_gesture_training_launch_text">더블 탭으로 실행하려는 앱을 선택하세요.</string>
+    <string name="columbus_gesture_training_launch_title">열 앱 선택</string>
+    <string name="columbus_launch_settings_activity_title">더블 탭 설정</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s 설정</string>
+    <string name="columbus_setting_action_assistant_title">디지털 어시스턴트에 액세스</string>
+    <string name="columbus_setting_action_flashlight_title">손전등 전환</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">선택한 앱 없음</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">앱이 설치되지 않음</string>
+    <string name="columbus_setting_action_launch_title">앱 열기</string>
+    <string name="columbus_setting_action_notification_title">알림 표시</string>
+    <string name="columbus_setting_action_open_app_title">앱 열기</string>
+    <string name="columbus_setting_action_overview_title">최근 앱 보기</string>
+    <string name="columbus_setting_action_play_pause_title">미디어 재생 또는 일시중지</string>
+    <string name="columbus_setting_action_screenshot_title">스크린샷 촬영</string>
+    <string name="columbus_setting_actions_title">휴대전화 뒷면을 두 번 탭하여 실행할 작업</string>
+    <string name="columbus_setting_additional_settings_title">더블 탭 강도</string>
+    <string name="columbus_setting_app_selection_help_text">휴대전화 뒷면을 두 번 탭하여 열 앱을 선택하세요. 선택한 앱을 제거하면 다른 앱을 선택할 때까지 더블 탭이 작동하지 않습니다.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">앱을 더블 탭으로 열 때 실행할 작업을 선택하세요.</string>
+    <string name="columbus_setting_enable_switch_title">더블 탭 사용</string>
+    <string name="columbus_setting_sensitivity_title">더 강한 탭 필요</string>
+    <string name="columbus_title">더블 탭하여 작업 시작하기</string>
 </resources>

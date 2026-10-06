@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">هذا الإجراء مخصّص لمالك الجهاز فقط</string>
     <string name="sp_apply_title_product_combined">هل المطلوب استخدام واقي الشاشة \"%s\"؟</string>
     <string name="sp_apply_yes_button">نعم</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">تم رصد \"النقرة السريعة\".</string>
+    <string name="columbus_gesture_enrollment_complete">تم</string>
+    <string name="columbus_gesture_enrollment_do_it_later">لاحقًا</string>
+    <string name="columbus_gesture_enrollment_settings">الانتقال إلى \"الإعدادات\"</string>
+    <string name="columbus_gesture_enrollment_try_it">جرّبها</string>
+    <string name="columbus_gesture_training_action_no_selection_error">يُرجى تحديد خيار لتنفيذه.</string>
+    <string name="columbus_gesture_training_action_text">اختَر ما يحدث عندما تستخدم ميزة \"النقرة السريعة\". يمكنك تغيير هذا لاحقًا في الإعدادات.</string>
+    <string name="columbus_gesture_training_action_title">حدِّد خيار ميزة \"النقرة السريعة\"</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">لنجرِّب ذلك مرة واحدة أخرى. انقر بسرعة على الجهة الخلفية للهاتف مرتين.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">أحسنت</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">أنت مستعد لبدء استخدام ميزة \"النقرة السريعة\".</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">حسنًا</string>
+    <string name="columbus_gesture_training_enrolling_text">انقر بسرعة على الجهة الخلفية للهاتف مرتين.</string>
+    <string name="columbus_gesture_training_enrolling_title">جرِّب ميزة \"النقرة السريعة\"</string>
+    <string name="columbus_gesture_training_finished_text">لتغيير قوة النقرة اللازمة لاستخدام ميزة \"النقرة السريعة\"، انتقِل إلى \"الإعدادات\".</string>
+    <string name="columbus_gesture_training_finished_title">تم إعداد ميزة \"النقرة السريعة\"</string>
+    <string name="columbus_gesture_training_intro_text_suw">يمكنك أخذ لقطة شاشة أو إظهار الإشعارات أو بدء إجراء آخر بنقرتين.</string>
+    <string name="columbus_gesture_training_intro_title">ميزة \"النقرة السريعة\" لتنفيذ الإجراءات السريعة</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">يُرجى اختيار تطبيق لفتحه.</string>
+    <string name="columbus_gesture_training_launch_text">اختَر التطبيق الذي تريد فتحه عندما تستخدم ميزة \"النقرة السريعة\".</string>
+    <string name="columbus_gesture_training_launch_title">اختيار تطبيق لفتحه</string>
+    <string name="columbus_launch_settings_activity_title">إعدادات ميزة \"النقرة السريعة\"</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">إعدادات %1$s</string>
+    <string name="columbus_setting_action_assistant_title">الوصول إلى المساعد الرقمي</string>
+    <string name="columbus_setting_action_flashlight_title">تشغيل/إطفاء ضوء الفلاش</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">لم يتم اختيار أي تطبيق</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">التطبيق ليس مثبتًا.</string>
+    <string name="columbus_setting_action_launch_title">فتح التطبيق</string>
+    <string name="columbus_setting_action_notification_title">عرض الإشعارات</string>
+    <string name="columbus_setting_action_open_app_title">فتح التطبيق</string>
+    <string name="columbus_setting_action_overview_title">عرض التطبيقات المستخدمة مؤخرًا</string>
+    <string name="columbus_setting_action_play_pause_title">تشغيل الوسائط أو إيقافها مؤقتًا</string>
+    <string name="columbus_setting_action_screenshot_title">أخذ لقطة شاشة</string>
+    <string name="columbus_setting_actions_title">انقر على الجهة الخلفية للهاتف مرتين من أجل</string>
+    <string name="columbus_setting_additional_settings_title">قوة \"النقرة السريعة\"</string>
+    <string name="columbus_setting_app_selection_help_text">اختَر تطبيقًا لفتحه عندما تنقر على الجهة الخلفية للهاتف مرتين. إذا ألغيت تثبيت التطبيق، سيتم إيقاف ميزة \"النقرة السريعة\" حتى تختار تطبيقًا آخر.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">اختَر ما يحدث عندما تفتح هذا التطبيق باستخدام ميزة \"النقرة السريعة\".</string>
+    <string name="columbus_setting_enable_switch_title">استخدام ميزة \"النقرة السريعة\"</string>
+    <string name="columbus_setting_sensitivity_title">يجب النقر بقوة أكبر</string>
+    <string name="columbus_title">النقر سريعًا لبدء الإجراءات</string>
 </resources>

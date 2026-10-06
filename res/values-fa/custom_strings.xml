@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">فقط مالک دستگاه می‌تواند این کنش را انجام دهد</string>
     <string name="sp_apply_title_product_combined">‫%s؟</string>
     <string name="sp_apply_yes_button">بله</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">«ضربه سریع» شناسایی شد!</string>
+    <string name="columbus_gesture_enrollment_complete">تمام</string>
+    <string name="columbus_gesture_enrollment_do_it_later">حالا نه</string>
+    <string name="columbus_gesture_enrollment_settings">رفتن به «تنظیمات»</string>
+    <string name="columbus_gesture_enrollment_try_it">امتحان کنید</string>
+    <string name="columbus_gesture_training_action_no_selection_error">لطفاً کنشی را برای اجرا انتخاب کنید</string>
+    <string name="columbus_gesture_training_action_text">انتخاب کنید وقتی از «ضربه سریع» استفاده می‌کنید چه اتفاقی بیفتد. می‌توانید این مورد را بعداً در تنظیمات تغییر دهید.</string>
+    <string name="columbus_gesture_training_action_title">انتخاب گزینه «ضربه سریع»</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">بیایید یک‌بار دیگر آن را امتحان کنیم. دو تک‌ضرب به پشت تلفن بزنید.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">عالی!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">حالا می‌توانید از «تک‌ضرب سریع» استفاده کنید</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">درست است!</string>
+    <string name="columbus_gesture_training_enrolling_text">دو تک‌ضرب به پشت تلفن بزنید.</string>
+    <string name="columbus_gesture_training_enrolling_title">«ضربه سریع» را امتحان کنید</string>
+    <string name="columbus_gesture_training_finished_text">برای تغییر دادن شدت ضربه لازم برای استفاده از «ضربه سریع»، به «تنظیمات» بروید.</string>
+    <string name="columbus_gesture_training_finished_title">«ضربه سریع» را راه‌اندازی کردید</string>
+    <string name="columbus_gesture_training_intro_text_suw">با دو تک‌ضرب، نماگرفت ثبت کنید، اعلان‌ها را نمایش دهید، یا کنش دیگری را شروع کنید.</string>
+    <string name="columbus_gesture_training_intro_title">«ضربه سریع» برای کنش‌های سریع</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">لطفاً برنامه‌ای را برای باز شدن انتخاب کنید</string>
+    <string name="columbus_gesture_training_launch_text">برنامه‌ای را که می‌خواهید هنگام استفاده از «ضربه سریع» باز شود انتخاب کنید.</string>
+    <string name="columbus_gesture_training_launch_title">انتخاب برنامه برای باز شدن</string>
+    <string name="columbus_launch_settings_activity_title">تنظیمات «تک‌ضرب سریع»</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">تنظیمات %1$s</string>
+    <string name="columbus_setting_action_assistant_title">دسترسی به دستیار دیجیتالی</string>
+    <string name="columbus_setting_action_flashlight_title">روشن/ خاموش کردن چراغ قوه</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">برنامه‌ای انتخاب نشده است</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">برنامه نصب نشد</string>
+    <string name="columbus_setting_action_launch_title">باز کردن برنامه</string>
+    <string name="columbus_setting_action_notification_title">نشان دادن اعلان‌ها</string>
+    <string name="columbus_setting_action_open_app_title">باز کردن برنامه</string>
+    <string name="columbus_setting_action_overview_title">مشاهده برنامه‌های اخیر</string>
+    <string name="columbus_setting_action_play_pause_title">پخش یا توقف موقت رسانه</string>
+    <string name="columbus_setting_action_screenshot_title">گرفتن نماگرفت</string>
+    <string name="columbus_setting_actions_title">دو تک‌ضرب زدن به پشت تلفن برای</string>
+    <string name="columbus_setting_additional_settings_title">شدت «تک‌ضرب سریع»</string>
+    <string name="columbus_setting_app_selection_help_text">برنامه‌ای را انتخاب کنید تا هنگامی که به پشت تلفن دو تک‌ضرب می‌زنید باز شود. اگر برنامه را حذف نصب کنید، تا زمانی‌که برنامه دیگری را انتخاب نکنید، «تک‌ضرب سریع» خاموش می‌ماند.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">انتخاب کنید که هنگام باز کردن این برنامه بااستفاده از «ضربه سریع»، چه اتفاقی بیفتد.</string>
+    <string name="columbus_setting_enable_switch_title">استفاده از «تک‌ضرب سریع»</string>
+    <string name="columbus_setting_sensitivity_title">درخواست تک‌ضرب‌های محکم‌تر</string>
+    <string name="columbus_title">«تک‌ضرب سریع» برای شروع کنش‌ها</string>
 </resources>

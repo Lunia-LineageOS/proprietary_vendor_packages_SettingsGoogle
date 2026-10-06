@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Šo darbību drīkst veikt tikai ierīces īpašnieks.</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Jā</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Tika konstatēts ātrais pieskāriens.</string>
+    <string name="columbus_gesture_enrollment_complete">Gatavs</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Vēlāk</string>
+    <string name="columbus_gesture_enrollment_settings">Atvērt iestatījumus</string>
+    <string name="columbus_gesture_enrollment_try_it">Izmēģināt</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Atlasiet veicamo darbību</string>
+    <string name="columbus_gesture_training_action_text">Atlasiet darbību, kas jāveic, kad tiek izmantots ātrais pieskāriens. Vēlāk varat veikt izmaiņas sadaļā Iestatījumi.</string>
+    <string name="columbus_gesture_training_action_title">Izvēlieties ātrā pieskāriena opciju</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Mēģināsim vēl vienu reizi. Ātri veiciet dubultskārienu uz tālruņa aizmugures.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Lieliski!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Varat sākt izmantot ātro pieskārienu!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Pareizi!</string>
+    <string name="columbus_gesture_training_enrolling_text">Ātri veiciet dubultskārienu uz tālruņa aizmugures.</string>
+    <string name="columbus_gesture_training_enrolling_title">Izmēģiniet ātro pieskārienu</string>
+    <string name="columbus_gesture_training_finished_text">Lai mainītu ātrā pieskāriena izmantošanai nepieciešamo pieskāriena stiprumu, pārejiet uz sadaļu Iestatījumi.</string>
+    <string name="columbus_gesture_training_finished_title">Jūs esat iestatījis ātro pieskārienu</string>
+    <string name="columbus_gesture_training_intro_text_suw">Izveidojiet ekrānuzņēmumu, skatiet paziņojumus vai sāciet citu darbību ar diviem pieskārieniem.</string>
+    <string name="columbus_gesture_training_intro_title">Izmantojiet ātro pieskārienu, lai veiktu ātrās darbības</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Atlasiet atveramo lietotni</string>
+    <string name="columbus_gesture_training_launch_text">Atlasiet lietotni, kuru vēlaties atvērt, kad izmantojat ātro pieskārienu.</string>
+    <string name="columbus_gesture_training_launch_title">Atveramās lietotnes izvēle</string>
+    <string name="columbus_launch_settings_activity_title">Ātrā pieskāriena iestatījumi</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Darbības “%1$s” iestatījumi</string>
+    <string name="columbus_setting_action_assistant_title">Piekļūt digitālajam asistentam</string>
+    <string name="columbus_setting_action_flashlight_title">Ieslēgt/izslēgt lukturīti</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Nav atlasīta neviena lietotne</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Lietotne nav instalēta</string>
+    <string name="columbus_setting_action_launch_title">Atvērt lietotni</string>
+    <string name="columbus_setting_action_notification_title">Rādīt paziņojumus</string>
+    <string name="columbus_setting_action_open_app_title">Atvērt lietotni</string>
+    <string name="columbus_setting_action_overview_title">Skatīt nesen izmantotās lietotnes</string>
+    <string name="columbus_setting_action_play_pause_title">Atskaņot multivides saturu / apturēt atskaņošanu</string>
+    <string name="columbus_setting_action_screenshot_title">Izveidot ekrānuzņēmumu</string>
+    <string name="columbus_setting_actions_title">Veicot dubultskārienu uz tālruņa aizmugures, var:</string>
+    <string name="columbus_setting_additional_settings_title">Ātrā pieskāriena stiprums</string>
+    <string name="columbus_setting_app_selection_help_text">Atlasiet lietotni, kas jāatver, kad ātri veicat dubultskārienu uz tālruņa aizmugures. Ja atinstalēsiet lietotni, ātrais pieskāriens tiks izslēgts, līdz atlasīsiet citu lietotni.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Atlasiet darbību, kas jāveic, ja atverat šo lietotni, izmantojot ātro pieskārienu.</string>
+    <string name="columbus_setting_enable_switch_title">Izmantot ātro pieskārienu</string>
+    <string name="columbus_setting_sensitivity_title">Reaģēt tikai uz stiprākiem pieskārieniem</string>
+    <string name="columbus_title">Ātrais pieskāriens, lai sāktu darbības</string>
 </resources>

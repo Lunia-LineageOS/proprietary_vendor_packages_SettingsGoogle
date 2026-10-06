@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">சாதன உரிமையாளர் மட்டுமே இதைச் செய்ய முடியும்</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">ஆம்</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">\'விரைவுத் தட்டல்\' சைகை கண்டறியப்பட்டது!</string>
+    <string name="columbus_gesture_enrollment_complete">முடிந்தது</string>
+    <string name="columbus_gesture_enrollment_do_it_later">இப்போது வேண்டாம்</string>
+    <string name="columbus_gesture_enrollment_settings">அமைப்புகளுக்கு செல்</string>
+    <string name="columbus_gesture_enrollment_try_it">முயல்க</string>
+    <string name="columbus_gesture_training_action_no_selection_error">செயல்படுத்த ஒரு செயல்பாட்டைத் தேர்ந்தெடுங்கள்</string>
+    <string name="columbus_gesture_training_action_text">\'விரைவுத் தட்டல்\' சைகையைப் பயன்படுத்தும்போது என்ன நடக்க வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும். இதைப் பிறகு அமைப்புகளில் மாற்றிக்கொள்ளலாம்.</string>
+    <string name="columbus_gesture_training_action_title">\'விரைவுத் தட்டல்\' விருப்பத்தைத் தேர்வு செய்தல்</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">மீண்டும் ஒருமுறை முயலுங்கள். உங்கள் மொபைலின் பின்புறத்தை விரைவாக இருமுறை தட்டுங்கள்.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">அருமை!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">\'விரைவுத் தட்டல்\' சைகையை நீங்கள் பயன்படுத்தத் தொடங்கலாம்</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">சரியாகச் செய்தீர்கள்!</string>
+    <string name="columbus_gesture_training_enrolling_text">உங்கள் மொபைலின் பின்புறத்தை விரைவாக இருமுறை தட்டுங்கள்.</string>
+    <string name="columbus_gesture_training_enrolling_title">விரைவுத் தட்டல் சைகையைப் பயன்படுத்திப் பாருங்கள்</string>
+    <string name="columbus_gesture_training_finished_text">\'விரைவுத் தட்டல்\' சைகையைப் பயன்படுத்துவதற்குத் தேவையான தட்டல் வலிமையை மாற்ற அமைப்புகளுக்குச் செல்லவும்.</string>
+    <string name="columbus_gesture_training_finished_title">\'விரைவுத் தட்டல்\' சைகையை அமைத்துவிட்டீர்கள்</string>
+    <string name="columbus_gesture_training_intro_text_suw">இரண்டு தட்டலில் ஸ்கிரீன்ஷாட் எடுக்கலாம், அறிவிப்புகளைக் காட்டலாம், மற்றொரு செயல்பாட்டைத் தொடங்கலாம்.</string>
+    <string name="columbus_gesture_training_intro_title">விரைவுச் செயல்பாடுகளுக்கான \'விரைவுத் தட்டல்\'</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">திறக்க ஓர் ஆப்ஸைத் தேர்ந்தெடுங்கள்</string>
+    <string name="columbus_gesture_training_launch_text">\'விரைவுத் தட்டல்\' சைகையைப் பயன்படுத்தும்போது நீங்கள் திறக்க விரும்பும் ஆப்ஸைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="columbus_gesture_training_launch_title">திறக்க ஆப்ஸைத் தேர்ந்தெடுங்கள்</string>
+    <string name="columbus_launch_settings_activity_title">\'விரைவுத் தட்டல்\' அமைப்புகள்</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s அமைப்புகள்</string>
+    <string name="columbus_setting_action_assistant_title">டிஜிட்டல் அசிஸ்டண்ட்டை அணுகுதல்</string>
+    <string name="columbus_setting_action_flashlight_title">ஃபிளாஷ்லைட்டை ஆன்/ஆஃப் செய்தல்</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">ஆப்ஸ் எதுவும் தேர்ந்தெடுக்கப்படவில்லை</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">ஆப்ஸ் நிறுவப்படவில்லை</string>
+    <string name="columbus_setting_action_launch_title">ஆப்ஸைத் திறத்தல்</string>
+    <string name="columbus_setting_action_notification_title">அறிவிப்புகளைக் காட்டுதல்</string>
+    <string name="columbus_setting_action_open_app_title">ஆப்ஸைத் திற</string>
+    <string name="columbus_setting_action_overview_title">சமீபத்திய ஆப்ஸைப் பார்த்தல்</string>
+    <string name="columbus_setting_action_play_pause_title">மீடியாவைப் பிளே செய்தல்/இடைநிறுத்துதல்</string>
+    <string name="columbus_setting_action_screenshot_title">ஸ்கிரீன்ஷாட் எடுத்தல்</string>
+    <string name="columbus_setting_actions_title">மொபைலின் பின்புறம் இருமுறை தட்டி</string>
+    <string name="columbus_setting_additional_settings_title">\'விரைவுத் தட்டல்\' வலிமை</string>
+    <string name="columbus_setting_app_selection_help_text">உங்கள் மொபைலின் பின்புறத்தில் இருமுறை தட்டும்போது திறக்க வேண்டிய ஆப்ஸைத் தேர்ந்தெடுக்கவும். ஆப்ஸை நிறுவல் நீக்கினால் நீங்கள் வேறொரு ஆப்ஸைத் தேர்ந்தெடுக்கும் வரை \'விரைவுத் தட்டல்\' முடக்கப்பட்டிருக்கும்.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">\'விரைவுத் தட்டல்\' சைகையைப் பயன்படுத்தி இந்த ஆப்ஸைத் திறக்கும்போது என்ன நடக்க வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="columbus_setting_enable_switch_title">விரைவுத் தட்டலைப் பயன்படுத்து</string>
+    <string name="columbus_setting_sensitivity_title">பலமாகத் தட்டுதல் அவசியம்</string>
+    <string name="columbus_title">செயல்களைத் தொடங்க விரைவாகத் தட்டுதல்</string>
 </resources>

@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">এই অ্যাকশন শুধু ডিভাইসের মালিকই করতে পারেন</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">হ্যাঁ</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">\'কুইক ট্যাপ\' জেশচার শনাক্ত করা হয়েছে!</string>
+    <string name="columbus_gesture_enrollment_complete">হয়ে গেছে</string>
+    <string name="columbus_gesture_enrollment_do_it_later">এখন নয়</string>
+    <string name="columbus_gesture_enrollment_settings">\'সেটিংস\'-এ যান</string>
+    <string name="columbus_gesture_enrollment_try_it">ব্যবহার করে করুন</string>
+    <string name="columbus_gesture_training_action_no_selection_error">পারফর্ম করার জন্য একটি অ্যাকশন বেছ নিন</string>
+    <string name="columbus_gesture_training_action_text">আপনি \'কুইক ট্যাপ\' জেশচার ব্যবহার করলে কী হবে তা বেছে নিন। আপনি এটিকে সেটিংস থেকে পরে পরিবর্তন করতে পারবেন।</string>
+    <string name="columbus_gesture_training_action_title">\'কুইক ট্যাপ\' বিকল্প বেছে নিন</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">আরও একবার এটা করে দেখুন। দুইবার আপনার ফোনের পিছনে দ্রুত ট্যাপ করুন।</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">সাবাস!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">আপনি \'কুইক ট্যাপ\' জেশচার ব্যবহার করার জন্য প্রস্তুত</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">এখনই করছি!</string>
+    <string name="columbus_gesture_training_enrolling_text">দুইবার আপনার ফোনের পিছনে দ্রুত ট্যাপ করুন।</string>
+    <string name="columbus_gesture_training_enrolling_title">\'কুইক ট্যাপ\' জেশচার ব্যবহার করে দেখুন</string>
+    <string name="columbus_gesture_training_finished_text">\'কুইক ট্যাপ\' জেশচারের জন্য যে ট্যাপ স্ট্রেন্থ দরকার, তাতে পরিবর্তন করার জন্য \'সেটিংস\' বিকল্পে যান।</string>
+    <string name="columbus_gesture_training_finished_title">আপনি \'কুইক ট্যাপ\' জেশচার সেট-আপ করে নিয়েছেন</string>
+    <string name="columbus_gesture_training_intro_text_suw">দুটি ট্যাপেই স্ক্রিনশট নিন, বিজ্ঞপ্তি দেখুন বা অন্য অ্যাকশন শুরু করুন।</string>
+    <string name="columbus_gesture_training_intro_title">দ্রুত অ্যাকশনের জন্য \'কুইক ট্যাপ\' জেশচার</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">খোলার জন্য একটি অ্যাপ বেছে নিন</string>
+    <string name="columbus_gesture_training_launch_text">\'কুইক ট্যাপ\' জেশচার ব্যবহার করার সময় যে অ্যাপ খুলতে চান, সেটি বেছে নিন।</string>
+    <string name="columbus_gesture_training_launch_title">খোলার জন্য অ্যাপ বেছে নিন</string>
+    <string name="columbus_launch_settings_activity_title">\'কুইক ট্যাপ\' সেটিংস</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s সেটিংস</string>
+    <string name="columbus_setting_action_assistant_title">আপনার ডিজিটাল অ্যাসিস্ট্যান্ট অ্যাক্সেস করুন</string>
+    <string name="columbus_setting_action_flashlight_title">ফ্ল্যাশলাইট টগল করুন</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">কোনও অ্যাপ বেছে নেওয়া হয়নি</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">অ্যাপটি ইনস্টল করা হয়নি</string>
+    <string name="columbus_setting_action_launch_title">অ্যাপ খুলুন</string>
+    <string name="columbus_setting_action_notification_title">বিজ্ঞপ্তিগুলি দেখুন</string>
+    <string name="columbus_setting_action_open_app_title">অ্যাপ খুলুন</string>
+    <string name="columbus_setting_action_overview_title">সাম্প্রতিক অ্যাপ দেখুন</string>
+    <string name="columbus_setting_action_play_pause_title">মিডিয়া প্লে বা পজ করুন</string>
+    <string name="columbus_setting_action_screenshot_title">স্ক্রিনশট নিন</string>
+    <string name="columbus_setting_actions_title">এর জন্য ফোনের পিছনে দুইবার ট্যাপ করুন</string>
+    <string name="columbus_setting_additional_settings_title">\'কুইক ট্যাপ\' জেসচারের জন্য উপযুক্ত ট্যাপ স্ট্রেন্থ</string>
+    <string name="columbus_setting_app_selection_help_text">আপনার ফোনের পিছনে দুইবার ট্যাপ করলে যে অ্যাপটি খুলবে সেটি বেছে নিন। আপনি যদি অ্যাপ আনইনস্টল করেন, তাহলে অন্য অ্যাপ বেছে না নেওয়া পর্যন্ত \'কুইক ট্যাপ\' ফিচার বন্ধ করা থাকবে।</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">\'কুইক ট্যাপ\' জেশচার ব্যবহার করে এই অ্যাপ খুললে কী হবে তা বেছে নিন।</string>
+    <string name="columbus_setting_enable_switch_title">\'কুইক ট্যাপ\' জেসচার ব্যবহার করুন</string>
+    <string name="columbus_setting_sensitivity_title">আরও জোরে ট্যাপ করতে হবে</string>
+    <string name="columbus_title">\'কুইক ট্যাপ\' করে অ্যাকশন নিতে শুরু করুন</string>
 </resources>

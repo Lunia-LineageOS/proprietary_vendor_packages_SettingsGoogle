@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">ይህ እርምጃ ለመሣሪያው ባለቤት ብቻ የተገደበ ነው</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">አዎ</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">ፈጣን መታ ማድረግ ተገኝቷል!</string>
+    <string name="columbus_gesture_enrollment_complete">ተጠናቅቋል</string>
+    <string name="columbus_gesture_enrollment_do_it_later">አሁን አይደለም</string>
+    <string name="columbus_gesture_enrollment_settings">ወደ ቅንብሮች ሂድ</string>
+    <string name="columbus_gesture_enrollment_try_it">ሞክረው</string>
+    <string name="columbus_gesture_training_action_no_selection_error">እባክዎ አንድ የሚያከናውኑትን እርምጃ ይምረጡ</string>
+    <string name="columbus_gesture_training_action_text">ፈጣን መታ ማድረግን በሚጠቀሙበት ጊዜ ምን እንደሚከሰት ይምረጡ። ይህን በኋላ በቅንብሮች ውስጥ መቀየር ይችላሉ።</string>
+    <string name="columbus_gesture_training_action_title">ፈጣን መታ ማድረግን ይምረጡ</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">እስቲ ይህን አንዴ እንደገና እንሞክረው። በፍጥነት የስልክዎን ጀርባ ሁለቴ መታ ያድርጉት።</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">ጥሩ!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">ፈጣን መታ ማድረግን ለመጠቀም ዝግጁ ነዎት</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">ገብተዎታል!</string>
+    <string name="columbus_gesture_training_enrolling_text">በፍጥነት የስልክዎን ጀርባ ሁለቴ መታ ያድርጉት።</string>
+    <string name="columbus_gesture_training_enrolling_title">ፈጣን መታ ማድረግን ይሞክሩ</string>
+    <string name="columbus_gesture_training_finished_text">ፈጣን መታ ማድረግን ለመጠቀም የሚያስፈልገውን መታ የማድረግ ጥንካሬ ለመቀየር ወደ ቅንብሮች ይሂዱ።</string>
+    <string name="columbus_gesture_training_finished_title">ፈጣን መታ ማድረግን አቀናብረዋል</string>
+    <string name="columbus_gesture_training_intro_text_suw">ሁለቴ መታ በማድረግ ቅጽበታዊ ገፅ እይታን ያንሱ፣ ማሳወቂያዎችን ያሳዩ ወይም ሌላ እርምጃ ይጀምሩ።</string>
+    <string name="columbus_gesture_training_intro_title">ፈጣን መታ ማድረግ ለፈጣን እርምጃዎች</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">እባክዎ አንድ የሚከፍቱትን መተግበሪያ ይምረጡ</string>
+    <string name="columbus_gesture_training_launch_text">በፈጣን መታ በሚያደርጉበት ጊዜ እንዲከፈቱ የሚፈልጓቸውን መተግበሪያዎች ይምረጡ።</string>
+    <string name="columbus_gesture_training_launch_title">የሚከፍቱትን መተግበሪያ ይምረጡ</string>
+    <string name="columbus_launch_settings_activity_title">የፈጣን መታ ማድረግ ቅንብሮች</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">የ%1$s ቅንብሮች</string>
+    <string name="columbus_setting_action_assistant_title">የእርስዎን ዲጂታል ረዳት ይድረሱበት</string>
+    <string name="columbus_setting_action_flashlight_title">የባትሪ ብርሃኑን ይቀያይሩ</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">ምንም መተግበሪያ አልተመረጠም</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">መተግበሪያ አልተጫነም</string>
+    <string name="columbus_setting_action_launch_title">መተግበሪያን ክፈት</string>
+    <string name="columbus_setting_action_notification_title">ማሳወቂያዎችን አሳይ</string>
+    <string name="columbus_setting_action_open_app_title">መተግበሪያ ክፈት</string>
+    <string name="columbus_setting_action_overview_title">የቅርብ ጊዜ መተግበሪያዎችን ይመልከቱ</string>
+    <string name="columbus_setting_action_play_pause_title">ሚዲያን ያጫውቱ ወይም ባለበት ያቁሙ</string>
+    <string name="columbus_setting_action_screenshot_title">ቅጽበታዊ ገጽ ዕይታን ያንሱ</string>
+    <string name="columbus_setting_actions_title">የሚከተለውን ለማድረግ የስልክ ጀርባን ሁለቴ መታ ያድርጉ፦</string>
+    <string name="columbus_setting_additional_settings_title">የፈጣን መታ ማድረግ ጥንካሬ</string>
+    <string name="columbus_setting_app_selection_help_text">የስልክዎን ጀርባ ሁለት ጊዜ መታ ሲያደርጉት የሚከፈተውን መተግበሪያ ይምረጡ። መተግበሪያውን ካራገፉት ሌላ መተግበሪያ እስከሚመርጡ ድረስ ፈጣን መታ ማድረግ ይጠፋል።</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">ፈጣን መታ ማድረግን በመጠቀም ይህን መተግበሪያ ሲከፍቱት ጊዜ ምን እንደሚከሰት ይምረጡ።</string>
+    <string name="columbus_setting_enable_switch_title">ፈጣን መታ ማድረግን ይጠቀሙ</string>
+    <string name="columbus_setting_sensitivity_title">ጠንከር ያሉ መታ ማድረጎችን ይጠይቁ</string>
+    <string name="columbus_title">እርምጃዎችን ለመጀመር ፈጣን መታ ያድርጉ</string>
 </resources>

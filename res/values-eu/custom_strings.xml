@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Gailuaren jabeak soilik egin dezake ekintza hau</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Bai</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Sakatze bizkorra hauteman da.</string>
+    <string name="columbus_gesture_enrollment_complete">Eginda</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Orain ez</string>
+    <string name="columbus_gesture_enrollment_settings">Joan Ezarpenak atalera</string>
+    <string name="columbus_gesture_enrollment_try_it">Probatu</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Hautatu zer egin nahi duzun</string>
+    <string name="columbus_gesture_training_action_text">Hautatu zer gertatuko den sakatze bizkorra erabiltzen duzunean. Ondoren, ezarpenetan alda dezakezu.</string>
+    <string name="columbus_gesture_training_action_title">Aukeratu sakatze bizkorra</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Proba ezazu berriro. Sakatu telefonoaren atzealdea birritan bizkor.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Ederki!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Prest zaude sakatze bizkorra erabiltzen hasteko</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Bikain!</string>
+    <string name="columbus_gesture_training_enrolling_text">Sakatu telefonoaren atzealdea birritan bizkor.</string>
+    <string name="columbus_gesture_training_enrolling_title">Probatu sakatze bizkorra</string>
+    <string name="columbus_gesture_training_finished_text">Sakatze bizkorra erabiltzeko behar den indarra aldatzeko, joan Ezarpenak atalera.</string>
+    <string name="columbus_gesture_training_finished_title">Konfiguratu duzu sakatze bizkorra</string>
+    <string name="columbus_gesture_training_intro_text_suw">Atera pantaila-argazki bat, erakutsi jakinarazpenak edo hasi beste ekintza bat birritan sakatuta.</string>
+    <string name="columbus_gesture_training_intro_title">Sakatze bizkorrarekin ekintza bizkorrak egiteko</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Hautatu zein aplikazio ireki nahi duzun</string>
+    <string name="columbus_gesture_training_launch_text">Hautatu zer aplikazio irekiko den sakatze bizkorra erabiltzen duzunean.</string>
+    <string name="columbus_gesture_training_launch_title">Aukeratu zein aplikazio ireki nahi duzun</string>
+    <string name="columbus_launch_settings_activity_title">Sakatze bizkorraren ezarpenak</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">\"%1$s\" ekintzaren ezarpenak</string>
+    <string name="columbus_setting_action_assistant_title">Atzitu laguntzaile digitala</string>
+    <string name="columbus_setting_action_flashlight_title">Piztu/Itzali linterna</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Ez da hautatu aplikaziorik</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Aplikazioa ez dago instalatuta</string>
+    <string name="columbus_setting_action_launch_title">Ireki aplikazioa</string>
+    <string name="columbus_setting_action_notification_title">Erakutsi jakinarazpenak</string>
+    <string name="columbus_setting_action_open_app_title">Ireki aplikazioa</string>
+    <string name="columbus_setting_action_overview_title">Ikusi azkenaldiko aplikazioak</string>
+    <string name="columbus_setting_action_play_pause_title">Erreproduzitu edo pausatu multimedia-edukia</string>
+    <string name="columbus_setting_action_screenshot_title">Atera pantaila-argazki bat</string>
+    <string name="columbus_setting_actions_title">Sakatu birritan telefonoaren atzealdea hau egiteko:</string>
+    <string name="columbus_setting_additional_settings_title">Sakatze bizkorraren indarra</string>
+    <string name="columbus_setting_app_selection_help_text">Hautatu zer aplikazio irekiko den telefonoaren atzealdea birritan sakatzen duzunean. Aplikazioa desinstalatzen baduzu, beste aplikazio bat hautatu arte desaktibatu egingo da sakatze bizkorra.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Hautatu zer gertatuko den aplikazioa sakatze bizkorra erabiliz irekitzen duzunean.</string>
+    <string name="columbus_setting_enable_switch_title">Erabili Sakatze bizkorra</string>
+    <string name="columbus_setting_sensitivity_title">Eskatu indar handiagoz sakatzeko</string>
+    <string name="columbus_title">Sakatu bizkor ekintzak gauzatzeko</string>
 </resources>

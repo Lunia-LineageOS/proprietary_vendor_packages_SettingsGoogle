@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Бул аракетти түзмөктүн ээси гана аткара алат</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Ооба</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Тез баскылоо аныкталды!</string>
+    <string name="columbus_gesture_enrollment_complete">Бүттү</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Азыр эмес</string>
+    <string name="columbus_gesture_enrollment_settings">Параметрлерге өтүү</string>
+    <string name="columbus_gesture_enrollment_try_it">Байкап көрүү</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Аткаруу үчүн аракет тандаңыз</string>
+    <string name="columbus_gesture_training_action_text">Тез баскылаганда аткарылчу аракетти тандай аласыз. Бул параметрди кийинчерээк жөндөөлөрдөн өзгөртсөңүз болот.</string>
+    <string name="columbus_gesture_training_action_title">Тез баскылаганда аткарылчу аракетти тандаңыз</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Дагы бир жолу аракет кылып көрүңүз. Телефонуңуздун аркасын эки жолу тез басыңыз.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Сонун!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Тез баскылоо функциясын колдоно берсеңиз болот</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Түшүнүктүү!</string>
+    <string name="columbus_gesture_training_enrolling_text">Телефонуңуздун аркасын эки жолу тез басыңыз.</string>
+    <string name="columbus_gesture_training_enrolling_title">Тез баскылап көрүңүз</string>
+    <string name="columbus_gesture_training_finished_text">Функцияны колдонууда канчалык катуу басуу керектигин жөндөөлөрдөн өзгөртө аласыз.</string>
+    <string name="columbus_gesture_training_finished_title">Тез баскылоону орноттуңуз</string>
+    <string name="columbus_gesture_training_intro_text_suw">Эки жолу басуу менен скриншот тартып, билдирмелерди көрүп жана башка аракеттерди жасаңыз.</string>
+    <string name="columbus_gesture_training_intro_title">Тез баскылап ар кандай нерселерди оңой жасай аласыз</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Ачуу үчүн колдонмо тандаңыз</string>
+    <string name="columbus_gesture_training_launch_text">Тез баскылаганда ачыла турган колдонмону тандаңыз.</string>
+    <string name="columbus_gesture_training_launch_title">Ачуу үчүн колдонмо тандаңыз</string>
+    <string name="columbus_launch_settings_activity_title">Тез баскылоо параметрлери</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s параметрлери</string>
+    <string name="columbus_setting_action_assistant_title">Санариптик жардамчыны күйгүзүү</string>
+    <string name="columbus_setting_action_flashlight_title">Колчыракты өчүрүү/күйгүзүү</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Бар да колдонмо тандалган жок</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Колдонмо орнотулган эмес</string>
+    <string name="columbus_setting_action_launch_title">Колдонмону ачуу</string>
+    <string name="columbus_setting_action_notification_title">Билдирмелерди көрсөтүү</string>
+    <string name="columbus_setting_action_open_app_title">Колдонмону ачуу</string>
+    <string name="columbus_setting_action_overview_title">Акыркы колдонмолорду көрүү</string>
+    <string name="columbus_setting_action_play_pause_title">Медиа файлды ойнотуу же тындыруу</string>
+    <string name="columbus_setting_action_screenshot_title">Скриншот тартуу</string>
+    <string name="columbus_setting_actions_title">Телефонуңуздун аркасын эки жолу басып:</string>
+    <string name="columbus_setting_additional_settings_title">Баскылоо күчү</string>
+    <string name="columbus_setting_app_selection_help_text">Телефондун аркасын эки жолу басканда ачыла турган колдонмону тандаңыз. Колдонмону түзмөктөн чыгарып салсаңыз, башка колдонмо тандалмайынча тез баскылоо функциясы өчүп турат.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Бул колдонмону тез баскылап ачкандан кийин аткарыла турган аракетти тандаңыз.</string>
+    <string name="columbus_setting_enable_switch_title">Тез баскылоону иштетүү</string>
+    <string name="columbus_setting_sensitivity_title">Катуураак басууну талап кылуу</string>
+    <string name="columbus_title">Тез баскылап, аракеттерди аткарып баштоо</string>
 </resources>

@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Бұл әрекет құрылғының иесіне ғана қолжетімді.</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Иә</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Жылдам түрту қимылы анықталды.</string>
+    <string name="columbus_gesture_enrollment_complete">Дайын</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Қазір емес</string>
+    <string name="columbus_gesture_enrollment_settings">Параметрлерге өту</string>
+    <string name="columbus_gesture_enrollment_try_it">Пайдаланып көру</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Орындалатын әрекетті таңдаңыз.</string>
+    <string name="columbus_gesture_training_action_text">Жылдам түрту қимылын пайдалану кезінде не болатынын таңдаңыз. Мұны кейінірек \"Параметрлер\" бөлімінен өзгертуге болады.</string>
+    <string name="columbus_gesture_training_action_title">Жылдам түрту опциясын таңдау</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Тағы бір рет қайталап көрейік. Телефоныңыздың артқы жағын жылдам екі рет түртіңіз.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Жақсы!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Жылдам түрту қимылын пайдалануға дайынсыз.</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Түсінікті!</string>
+    <string name="columbus_gesture_training_enrolling_text">Телефоныңыздың артқы жағын жылдам екі рет түртіңіз.</string>
+    <string name="columbus_gesture_training_enrolling_title">Жылдам түрту қимылын пайдаланып көріңіз</string>
+    <string name="columbus_gesture_training_finished_text">Жылдам түрту күшін өзгерту үшін \"Параметрлер\" бөліміне өтіңіз.</string>
+    <string name="columbus_gesture_training_finished_title">Жылдам түрту параметрі реттелді</string>
+    <string name="columbus_gesture_training_intro_text_suw">Екі рет түртіп, скриншот жасаңыз, хабарландыруларды көріңіз немесе басқа әрекетті бастаңыз.</string>
+    <string name="columbus_gesture_training_intro_title">Жылдам түртіп, әрекеттерді жылдам орындау</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Ашылатын қолданбаны таңдаңыз.</string>
+    <string name="columbus_gesture_training_launch_text">Жылдам түрту қимылын пайдалану кезінде ашылатын қолданбаны таңдаңыз.</string>
+    <string name="columbus_gesture_training_launch_title">Ашылатын қолданбаны таңдаңыз</string>
+    <string name="columbus_launch_settings_activity_title">Жылдам түрту параметрлері</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s параметрлері</string>
+    <string name="columbus_setting_action_assistant_title">Цифрлық көмекшіні пайдалану</string>
+    <string name="columbus_setting_action_flashlight_title">Қолшамды қосу/өшіру</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Ешқандай қолданба таңдалмады.</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Қолданба орнатылмаған.</string>
+    <string name="columbus_setting_action_launch_title">Қолданбаны ашу</string>
+    <string name="columbus_setting_action_notification_title">Хабарландыруларды көрсету</string>
+    <string name="columbus_setting_action_open_app_title">Қолданбаны ашу</string>
+    <string name="columbus_setting_action_overview_title">Соңғы қолданбаларды көру</string>
+    <string name="columbus_setting_action_play_pause_title">Медиафайлды ойнату немесе кідірту</string>
+    <string name="columbus_setting_action_screenshot_title">Скриншот жасау</string>
+    <string name="columbus_setting_actions_title">Телефонның артқы жағын екі рет түрткенде орындалатын әрекет:</string>
+    <string name="columbus_setting_additional_settings_title">Жылдам түрту күші</string>
+    <string name="columbus_setting_app_selection_help_text">Телефоныңыздың артқы жағын екі рет түрту кезінде ашылатын қолданбаны таңдаңыз. Егер қолданбаны жойсаңыз, жылдам түрту қимылы басқа қолданбаны таңдағанға дейін өшіп тұрады.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Бұл қолданбаны жылдам түрту арқылы ашу кезінде не болатынын таңдаңыз.</string>
+    <string name="columbus_setting_enable_switch_title">Жылдам түрту қимылын пайдалану</string>
+    <string name="columbus_setting_sensitivity_title">Қаттырақ түртуді талап ету</string>
+    <string name="columbus_title">Әрекеттерді бастау үшін жылдам түрту</string>
 </resources>

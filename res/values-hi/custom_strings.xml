@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">यह कार्रवाई सिर्फ़ डिवाइस का मालिक कर सकता है</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">हां</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">क्विक टैप की सुविधा का पता चला!</string>
+    <string name="columbus_gesture_enrollment_complete">सेट अप हो गया</string>
+    <string name="columbus_gesture_enrollment_do_it_later">अभी नहीं</string>
+    <string name="columbus_gesture_enrollment_settings">\'सेटिंग\' पर जाएं</string>
+    <string name="columbus_gesture_enrollment_try_it">इसे आज़माएं</string>
+    <string name="columbus_gesture_training_action_no_selection_error">कृपया कोई कार्रवाई चुनें</string>
+    <string name="columbus_gesture_training_action_text">चुनें कि जब आप क्विक टैप की सुविधा का इस्तेमाल करते हैं, तो क्या कार्रवाई की जाए. आप जब चाहें, सेटिंग में जाकर इसे बदल सकते हैं.</string>
+    <string name="columbus_gesture_training_action_title">क्विक टैप की सुविधा का विकल्प चुनें</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">आइए इसे एक बार फिर से करते हैं. अपने फ़ोन के पीछे वाले हिस्से पर, दो बार फटाफट टैप करें.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">बहुत बढ़िया!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">आप \'क्विक टैप\' का इस्तेमाल करना सीख गए हैं</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">आप समझ गए!</string>
+    <string name="columbus_gesture_training_enrolling_text">अपने फ़ोन के पीछे वाले हिस्से पर, दो बार फटाफट टैप करें.</string>
+    <string name="columbus_gesture_training_enrolling_title">\'क्विक टैप\' आज़माएं</string>
+    <string name="columbus_gesture_training_finished_text">अगर आप \'क्विक टैप\' का इस्तेमाल करने के लिए, टैप करने की ज़रूरी संख्या में बदलाव करना चाहते हैं, तो \'सेटिंग\' पर जाएं.</string>
+    <string name="columbus_gesture_training_finished_title">आपने क्विक टैप की सुविधा सेट अप कर दी है</string>
+    <string name="columbus_gesture_training_intro_text_suw">दो बार टैप करके, स्क्रीनशॉट लें, सूचनाएं देखें या कोई दूसरा काम करें.</string>
+    <string name="columbus_gesture_training_intro_title">तेज़ी से कार्रवाइयां करने के लिए \'क्विक टैप\'</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">कोई ऐप्लिकेशन चुनें</string>
+    <string name="columbus_gesture_training_launch_text">वह ऐप्लिकेशन चुनें जिसे आप \'क्विक टैप\' इस्तेमाल करके खोलना चाहते हैं.</string>
+    <string name="columbus_gesture_training_launch_title">ऐप्लिकेशन खोलने के लिए उसे चुनें</string>
+    <string name="columbus_launch_settings_activity_title">क्विक टैप की सेटिंग</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s की सेटिंग</string>
+    <string name="columbus_setting_action_assistant_title">अपनी डिजिटल असिस्टेंट को ऐक्सेस करें</string>
+    <string name="columbus_setting_action_flashlight_title">फ़्लैशलाइट को टॉगल करें</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">कोई ऐप्लिकेशन नहीं चुना गया</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">ऐप्लिकेशन इंस्टॉल नहीं हुआ</string>
+    <string name="columbus_setting_action_launch_title">ऐप्लिकेशन खोलें</string>
+    <string name="columbus_setting_action_notification_title">सूचनाएं दिखाएं</string>
+    <string name="columbus_setting_action_open_app_title">ऐप्लिकेशन खोलें</string>
+    <string name="columbus_setting_action_overview_title">हाल ही में इस्तेमाल किए गए ऐप्लिकेशन देखें</string>
+    <string name="columbus_setting_action_play_pause_title">मीडिया चलाएं या रोकें</string>
+    <string name="columbus_setting_action_screenshot_title">स्क्रीनशॉट लें</string>
+    <string name="columbus_setting_actions_title">फ़ोन के पिछले हिस्से पर दो बार टैप करके</string>
+    <string name="columbus_setting_additional_settings_title">क्विक टैप का इस्तेमाल करने के लिए, किस तरह से टैप करना है</string>
+    <string name="columbus_setting_app_selection_help_text">वह ऐप्लिकेशन चुनें जिसे फ़ोन के पीछे के हिस्से पर दो बार टैप करके खोलना है. चुने गए ऐप्लिकेशन को अनइंस्टॉल कर दिए जाने पर, क्विक टैप तब तक के लिए बंद हो जाता है, जब तक कोई दूसरा ऐप्लिकेशन नहीं चुना जाता.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">चुनें कि क्विक टैप से ऐप्लिकेशन खोलने पर क्या कार्रवाई की जाए.</string>
+    <string name="columbus_setting_enable_switch_title">क्विक टैप का इस्तेमाल करें</string>
+    <string name="columbus_setting_sensitivity_title">इस सुविधा को चालू करने के लिए, ज़ोर से टैप करना है</string>
+    <string name="columbus_title">कार्रवाइयां शुरू करने के लिए, क्विक टैप का इस्तेमाल करें</string>
 </resources>

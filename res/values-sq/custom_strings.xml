@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Ky veprim është i kufizuar vetëm për zotëruesin e pajisjes</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Po</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">U zbulua \"Trokitja e shpejtë\"!</string>
+    <string name="columbus_gesture_enrollment_complete">U krye</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Jo tani</string>
+    <string name="columbus_gesture_enrollment_settings">Shko te \"Cilësimet\"</string>
+    <string name="columbus_gesture_enrollment_try_it">Provoje</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Zgjidh një veprim për t\'u kryer</string>
+    <string name="columbus_gesture_training_action_text">Zgjidh se çfarë ndodh kur përdor \"Trokitjen e shpejtë\". Këtë mund ta ndryshosh më vonë te cilësimet.</string>
+    <string name="columbus_gesture_training_action_title">Zgjidh opsionin \"Trokitja e shpejtë\"</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Le ta provojmë këtë edhe një herë. Trokit shpejt dy herë pjesën e pasme të telefonit.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Bukur!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Je gati të fillosh të përdorësh \"Trokitjen e shpejtë\"</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Në rregull!</string>
+    <string name="columbus_gesture_training_enrolling_text">Trokit shpejt dy herë pjesën e pasme të telefonit.</string>
+    <string name="columbus_gesture_training_enrolling_title">Provo \"Trokitjen e shpejtë\"</string>
+    <string name="columbus_gesture_training_finished_text">Për të ndryshuar forcën e trokitjes që nevojitet për të përdorur \"Trokitjen e shpejtë\", shko te \"Cilësimet\".</string>
+    <string name="columbus_gesture_training_finished_title">Ke konfiguruar \"Trokitjen e shpejtë\"</string>
+    <string name="columbus_gesture_training_intro_text_suw">Nxirr një pamje ekrani, shfaq njoftimet ose fillo një veprim tjetër në dy trokitje.</string>
+    <string name="columbus_gesture_training_intro_title">Përdor \"Trokitjen e shpejtë\" për veprimet e shpejta</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Zgjidh një aplikacion për ta hapur</string>
+    <string name="columbus_gesture_training_launch_text">Zgjidh aplikacionin që dëshiron të hapësh kur përdor \"Trokitjen e shpejtë\".</string>
+    <string name="columbus_gesture_training_launch_title">Zgjidh aplikacionin për ta hapur</string>
+    <string name="columbus_launch_settings_activity_title">Cilësimet e \"Trokitjes së shpejtë\"</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Cilësimet e %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Qasu tek asistenti yt dixhital</string>
+    <string name="columbus_setting_action_flashlight_title">Aktivizo/çaktivizo blicin</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Nuk është zgjedhur asnjë aplikacion</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Aplikacioni nuk u instalua</string>
+    <string name="columbus_setting_action_launch_title">Hap aplikacionin</string>
+    <string name="columbus_setting_action_notification_title">Shfaq njoftimet</string>
+    <string name="columbus_setting_action_open_app_title">Hap aplikacionin</string>
+    <string name="columbus_setting_action_overview_title">Shiko aplikacionet e fundit</string>
+    <string name="columbus_setting_action_play_pause_title">Luaj ose vendos në pauzë median</string>
+    <string name="columbus_setting_action_screenshot_title">Nxirr një pamje të ekranit</string>
+    <string name="columbus_setting_actions_title">Duke trokitur dy herë pjesën e pasme të telefonit:</string>
+    <string name="columbus_setting_additional_settings_title">Forca e \"Trokitjes së shpejtë\"</string>
+    <string name="columbus_setting_app_selection_help_text">Zgjidh një aplikacion për ta hapur kur troket dy herë në pjesën e pasme të telefonit tënd. Nëse e çinstalon aplikacionin, \"Trokitja e shpejtë\" çaktivizohet derisa të zgjedhësh një aplikacion tjetër.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Zgjidh se çfarë ndodh kur e hap këtë aplikacion duke përdorur \"Trokitjen e shpejtë\".</string>
+    <string name="columbus_setting_enable_switch_title">Përdor \"Trokitjen e shpejtë\"</string>
+    <string name="columbus_setting_sensitivity_title">Kërko trokitje më të forta</string>
+    <string name="columbus_title">\"Trokit shpejt\" për të filluar veprimet</string>
 </resources>

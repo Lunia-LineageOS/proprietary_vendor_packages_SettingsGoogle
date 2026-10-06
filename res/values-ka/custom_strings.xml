@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">ამ მოქმედების შესრულება შეუძლია მხოლოდ მოწყობილობის მფლობელს</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">დიახ</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">გამოვლინდა „სწრაფი შეხება“!</string>
+    <string name="columbus_gesture_enrollment_complete">მზადაა</string>
+    <string name="columbus_gesture_enrollment_do_it_later">ახლა არა</string>
+    <string name="columbus_gesture_enrollment_settings">პარამეტრებზე გადასვლა</string>
+    <string name="columbus_gesture_enrollment_try_it">ცდა</string>
+    <string name="columbus_gesture_training_action_no_selection_error">გთხოვთ, აირჩიოთ შესასრულებელი მოქმედება</string>
+    <string name="columbus_gesture_training_action_text">აირჩიეთ, რა მოხდეს, „სწრაფი შეხების“ გამოყენებისას. ამის შეცვლა მოგვიანებით პარამეტრებიდან შეგიძლიათ.</string>
+    <string name="columbus_gesture_training_action_title">აირჩიეთ სწრაფი შეხების ვარიანტი</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">კიდევ ერთხელ ცადეთ. სწრაფად შეეხეთ ორჯერ თქვენი ტელეფონის უკანა მხარეს.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">მშვენიერია!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">თქვენ მზად ხართ, დაიწყოთ სწრაფი შეხების გამოყენება</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">გასაგებია!</string>
+    <string name="columbus_gesture_training_enrolling_text">სწრაფად შეეხეთ ორჯერ თქვენი ტელეფონის უკანა მხარეს.</string>
+    <string name="columbus_gesture_training_enrolling_title">ცადეთ სწრაფი შეხება</string>
+    <string name="columbus_gesture_training_finished_text">სწრაფი შეხების გამოყენებისთვის საჭირო შეხების სიძლიერის შესაცვლელად გადადით პარამეტრებზე.</string>
+    <string name="columbus_gesture_training_finished_title">თქვენ დააყენეთ „სწრაფი შეხება“</string>
+    <string name="columbus_gesture_training_intro_text_suw">გადაიღეთ ეკრანის ანაბეჭდი, გამოაჩინეთ შეტყობინებები ან დაიწყეთ სხვა მოქმედება მხოლოდ ორი შეხებით.</string>
+    <string name="columbus_gesture_training_intro_title">სწრაფი შეხება სწრაფი მოქმედებებისთვის</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">აირჩიეთ აპი გასახსნელად</string>
+    <string name="columbus_gesture_training_launch_text">აირჩიეთ აპი, რომლის გახსნაც გსურთ სწრაფი შეხების გამოყენებისას.</string>
+    <string name="columbus_gesture_training_launch_title">აირჩიეთ აპი გასახსნელად</string>
+    <string name="columbus_launch_settings_activity_title">„სწრაფი შეხების“ პარამეტრები</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s — პარამეტრები</string>
+    <string name="columbus_setting_action_assistant_title">თქვენს ციფრულ ასისტენტზე წვდომა</string>
+    <string name="columbus_setting_action_flashlight_title">ფარანის გადართვა</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">აპი არჩეული არ არის</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">აპი დაუინსტალირებელია</string>
+    <string name="columbus_setting_action_launch_title">აპის გახსნა</string>
+    <string name="columbus_setting_action_notification_title">შეტყობინებების ჩვენება</string>
+    <string name="columbus_setting_action_open_app_title">აპის გახსნა</string>
+    <string name="columbus_setting_action_overview_title">ბოლოს გამოყენებული აპების ნახვა</string>
+    <string name="columbus_setting_action_play_pause_title">მედიის დაკვრა ან დაპაუზება</string>
+    <string name="columbus_setting_action_screenshot_title">ეკრანის ანაბეჭდის გადაღება</string>
+    <string name="columbus_setting_actions_title">ორმაგად შეეხეთ ტელეფონის უკანა მხარეს, რომ შეძლოთ</string>
+    <string name="columbus_setting_additional_settings_title">„სწრაფი შეხების“ სიძლიერე</string>
+    <string name="columbus_setting_app_selection_help_text">აირჩიეთ აპი, რომელიც გაიხსნება თქვენი ტელეფონის უკანა მხარეზე ორმაგი შეხებით. აპის დეინსტალაციის შემთხვევაში, „სწრაფი შეხება“ გამოირთვება სხვა აპის არჩევამდე.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">აირჩიეთ, რა მოხდეს, როცა აპს „სწრაფი შეხებით“ გახსნით.</string>
+    <string name="columbus_setting_enable_switch_title">„სწრაფი შეხების“ გამოყენება</string>
+    <string name="columbus_setting_sensitivity_title">უფრო ძლიერად შეხების მოთხოვნა</string>
+    <string name="columbus_title">სწრაფად შეეხეთ მოქმედებების დასაწყებად</string>
 </resources>

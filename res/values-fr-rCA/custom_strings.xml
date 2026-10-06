@@ -220,4 +220,46 @@
     <string name="sp_apply_dialog_msg_main_user_only">Cette action est réservée au propriétaire de l\'appareil seulement</string>
     <string name="sp_apply_title_product_combined">%s?</string>
     <string name="sp_apply_yes_button">Oui</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_gesture_detected">Double toucher détecté!</string>
+    <string name="columbus_gesture_enrollment_complete">Terminé</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Plus tard</string>
+    <string name="columbus_gesture_enrollment_settings">Accéder paramètres</string>
+    <string name="columbus_gesture_enrollment_try_it">Essayer</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Veuillez sélectionner une action à effectuer</string>
+    <string name="columbus_gesture_training_action_text">Sélectionnez l\'action à effectuer lorsque vous utilisez le double toucher. Vous pourrez modifier ce choix plus tard dans les paramètres.</string>
+    <string name="columbus_gesture_training_action_title">Choisissez une option pour le double toucher</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Essayez encore une fois. Touchez deux fois rapidement le dos de votre téléphone.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Bien!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Vous êtes prêt à commencer à utiliser le double toucher</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">C\'est ça!</string>
+    <string name="columbus_gesture_training_enrolling_text">Touchez deux fois rapidement le dos de votre téléphone.</string>
+    <string name="columbus_gesture_training_enrolling_title">Essayez le double toucher</string>
+    <string name="columbus_gesture_training_finished_text">Pour modifier la sensibilité du double toucher, sélectionnez Paramètres.</string>
+    <string name="columbus_gesture_training_finished_title">Vous avez configuré le double toucher</string>
+    <string name="columbus_gesture_training_intro_text_suw">Faites une capture d\'écran, affichez les notifications ou réalisez une autre action en touchant deux fois.</string>
+    <string name="columbus_gesture_training_intro_title">Utiliser le double toucher pour effectuer des actions rapides</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Veuillez sélectionner une appli à ouvrir</string>
+    <string name="columbus_gesture_training_launch_text">Sélectionnez l\'appli que vous souhaitez lancer lorsque vous utilisez le double toucher.</string>
+    <string name="columbus_gesture_training_launch_title">Choisir l\'appli à ouvrir</string>
+    <string name="columbus_launch_settings_activity_title">Paramètres du double toucher</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Paramètres de %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Accéder à votre assistant numérique</string>
+    <string name="columbus_setting_action_flashlight_title">Activer ou désactiver la lampe de poche</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Aucune appli sélectionnée</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">L\'appli n\'a pas été installée</string>
+    <string name="columbus_setting_action_launch_title">Ouvrir une appli</string>
+    <string name="columbus_setting_action_notification_title">Afficher les notifications</string>
+    <string name="columbus_setting_action_open_app_title">Ouvrir l\'appli</string>
+    <string name="columbus_setting_action_overview_title">Voir les applis récentes</string>
+    <string name="columbus_setting_action_play_pause_title">Faire jouer ou mettre en pause le contenu multimédia</string>
+    <string name="columbus_setting_action_screenshot_title">Prendre une capture d\'écran</string>
+    <string name="columbus_setting_actions_title">Touchez deux fois le dos du téléphone pour</string>
+    <string name="columbus_setting_additional_settings_title">Sensibilité du Double toucher</string>
+    <string name="columbus_setting_app_selection_help_text">Sélectionnez une appli à ouvrir quand vous touchez deux fois le dos de votre téléphone. Si vous désinstallez l\'appli, le double toucher sera désactivé tant que vous ne sélectionnerez pas une autre appli.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Sélectionnez l\'action à effectuer quand vous ouvrez cette appli avec le double toucher.</string>
+    <string name="columbus_setting_enable_switch_title">Utiliser le Double toucher</string>
+    <string name="columbus_setting_sensitivity_title">Exiger une pression plus forte</string>
+    <string name="columbus_title">Double toucher pour démarrer les actions</string>
 </resources>
