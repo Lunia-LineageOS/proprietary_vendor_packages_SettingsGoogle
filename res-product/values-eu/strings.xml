@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Hurrengo pantailan, eutsi telefonoari begien parean</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Aurpegi bidez desblokeatzea erabiltzean, litekeena da telefonoari zuzenago begiratu behar izatea.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Erabili aurpegia telefonoa desblokeatzeko edo zeu zarela egiaztatzeko, hala nola aplikazioetan saioa hastean edo erosketak onartzean.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Telefonoari begiratuz gero, desblokeatu egin daiteke, halako asmorik izan ez arren. Zure antz handia duen norbaitek ere (biki batek, esaterako) desblokea dezake telefonoa. Halaber, telefonoa aurpegiaren parean jartzen badizute, baliteke hura desblokeatzea.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Telefonoari begiratuz gero, desblokeatu egin daiteke, halako asmorik izan ez arren. Haren antz handia duen norbaitek ere (biki batek, esaterako) desblokea dezake telefonoa, edo telefonoa aurpegiaren parean jartzen badiote.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Baliteke haurraren telefonoa haren aurpegiaren bidez desblokeatzea ez izatea eredu, PIN edo pasahitz konplexu bat erabiltzea bezain segurua</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Baliteke telefonoa aurpegi bidez desblokeatzeko eginbidea ez izatea eredu, PIN edo pasahitz konplexu bat bezain segurua.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Baliteke begiak irekita edukitzeko eskatzea aurpegi bidez desblokeatzeko eginbideak, telefonoa desblokeatze edo zeu zarela egiaztatze aldera. Ezarpenetan aktibatu edo desaktiba dezakezu aukera hori.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Baliteke haurrak begiak irekita edukitzeko eskatzea aurpegi bidez desblokeatzeko eginbideak, telefonoa desblokeatze edo hura dela egiaztatze aldera. Ezarpenetan aktibatu edo desaktiba dezakezue aukera hori bai zuk, bai haurrak berak.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Aurpegi bidez desblokeatzeko eginbideak zure aurpegiaren eredu esklusibo bat sortzen du zeu zarela egiaztatzeko. Konfigurazio-prozesuan aurpegi-eredu hori sortzeko, aurpegiaren argazkiak aterako dituzu, zenbait ikuspegitatik.\n\nAurpegi bidez desblokeatzea erabiltzen duzunean, zure aurpegi-eredua eguneratzeko erabiltzen dira irudiak. Aurpegi-eredua sortzeko erabilitako irudiak ez dira inoiz biltegiratzen, baina aurpegi-eredua telefonoan gordetzen da, modu seguruan, eta ez da inoiz ateratzen telefonotik. Guztia telefonoan prozesatzen da, modu seguruan.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Aurpegi bidez desblokeatzeko eginbideak haurraren aurpegiaren eredu esklusibo bat sortzen du hura dela egiaztatzeko. Konfigurazio-prozesuan aurpegi-eredu hori sortzeko, aurpegiaren argazkiak aterako ditu haurrak, ikuspegi batetik baino gehiagotatik.\n\nAurpegi bidez desblokeatzeko eginbidea erabiltzen duenean, haren aurpegi-eredua eguneratzeko erabiltzen dira irudiak. Aurpegi-eredua sortzeko erabilitako irudiak ez dira biltegiratzen, baina aurpegi-eredua telefonoan biltegiratzen da segurtasun osoz, eta ez da inoiz ateratzen bertatik. Guztia telefonoan prozesatzen da, modu seguruan.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Aurpegi-eredua ezabatzeko edo aurpegi bidez desblokeatzeko eginbidea desaktibatzeko, joan Ezarpenak atalera. Ezabatu arte, telefonoan biltegiratuta egongo dira aurpegi-ereduak.&lt;br&gt;&lt;br&gt;Lortu informazio gehiago hemen: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Haurrak eta zuk haren aurpegi-eredua ezabatu nahi baduzue edo aurpegi bidez desblokeatzeko eginbidea desaktibatu nahi baduzue, joan ezarpenetara. Ezabatu arte, telefonoan biltegiratuta egongo dira aurpegi-ereduak.&lt;br&gt;&lt;br&gt;Lortu informazio gehiago hemen: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Erabili aurpegia telefonoa desblokeatzeko eta zeu zarela egiaztatzeko; adibidez, aplikazioetan saioa hastean edo erosketak onartzean.\n\nKontuan izan:\nAurpegi bakar bat konfigura dezakezu aldiko. Beste bat gehitzeko, ezabatu orain dagoena.\n\nTelefonoari begiratuz gero, baliteke hura desblokeatzea, horretarako asmorik ez baduzu ere.\n\nZure antz handia dutenek ere desblokea dezakete telefonoa; esate baterako, biki batek.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Hatz-markaren eredua ezabatzeko edo Pixel Imprint desaktibatzeko, joan Ezarpenak atalera. Ezabatu arte, telefonoan gordeko dira hatz-markaren ereduak.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Haurrak eta zuk haren hatz-markaren eredua ezabatu nahi baduzue edo Pixel Imprint desaktibatu nahi baduzue, joan Ezarpenak atalera. Ezabatu arte, telefonoan gordeko dira hatz-markaren ereduak.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint bidez, hatz-marka erabil dezakezu erosketak baimentzeko edo aplikazioetan saioa hasteko.\n\nAukeratu kontuz noren hatz-markak gehitzen dituzun. Gehitutako hatz-marka guztiekin egin ahalko dira arestian aipatutako ekintzak.\n\nOharra: ezin duzu erabili hatz-marka gailua desblokeatzeko. Informazio gehiago lortzeko, jarri erakundearen administratzailearekin harremanetan.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Bateria egokitua eginbideak telefonoaren erabileratik ikasten du aplikazioek bateria erabiltzeko duten modua etengabe optimizatzeko. Bateriaren iraupena luzatzeko, baliteke errendimendua okertzea eta jakinarazpenak atzeratzea.</string>
     <string name="smart_battery_summary" product="tablet">Bateria egokitua eginbideak tabletaren erabileratik ikasten du aplikazioek bateria erabiltzeko duten modua etengabe optimizatzeko. Bateriaren iraupena luzatzeko, baliteke errendimendua okertzea eta jakinarazpenak atzeratzea.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Pantaila eta ukipena</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Eman aurpegi bidez desblokeatzeko baimena</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Konfiguratu Aurpegi bidez desblokeatzea</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Lortu Aurpegi bidez desblokeatzea eginbideari buruzko informazio gehiago</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Erosotasun handiagorako, konfiguratu Aurpegi bidez desblokeatzea ordezko metodo gisa, hatzak bustita edo hotz dauzkazunerako.\n\nZure hatz-markak gailuan soilik gordetzen dira eta ez zaizkio bidaltzen inoiz Google-ri.</string>
 </resources>

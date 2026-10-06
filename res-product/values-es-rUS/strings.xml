@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">En la pantalla siguiente, sostén el teléfono a la altura de los ojos</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Si utilizas la función Desbloqueo facial, tendrás que centrar mejor la cabeza frente al teléfono.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Usa tu rostro para desbloquear el teléfono o verificar tu identidad, como cuando accedes a apps o apruebas compras.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Es posible desbloquear el teléfono sin querer solo por mirarlo. También pueden desbloquearlo personas que se parezcan mucho a ti, como un gemelo, o alguien que lo ponga frente a tu rostro.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Es posible que el teléfono se desbloquee si lo mira aunque no sea su intención. También pueden desbloquearlo personas que se parezcan mucho a él, como un gemelo, o alguien que lo ponga frente a su rostro.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Usar el rostro de tu hijo para desbloquear su teléfono puede ser menos seguro que establecer un buen patrón, PIN o contraseña</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Es posible que el desbloqueo facial sea menos seguro que un patrón, un PIN o una contraseña complejos.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">El Desbloqueo facial podría requerir que tengas los ojos abiertos para desbloquear el teléfono o verificar tu identidad. Puedes activar esta opción en cualquier momento, en Configuración.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">El Desbloqueo facial podría requerir que tu hijo tenga los ojos abiertos para desbloquear el teléfono o verificar su identidad. Tu hijo y tú pueden activar esta opción en cualquier momento en Configuración.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">La función Desbloqueo facial crea un modelo único de tu rostro para verificar tu identidad. Para crear el modelo durante la configuración, deberás tomar fotos de tu rostro desde diferentes ángulos.\n\nCuando usas la función Desbloqueo facial, se utilizan imágenes para actualizar el modelo de tu rostro. Las imágenes que se usan para crear el modelo no se almacenan, a diferencia del modelo en sí, que se guarda de manera segura en el teléfono y nunca sale de él. Todo el proceso se lleva a cabo en el teléfono de manera segura.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">La función Desbloqueo facial crea un modelo único del rostro de tu hijo para verificar su identidad. A fin de crear el modelo durante la configuración, tu hijo deberá tomar fotos de su rostro desde distintos ángulos.\n\nCuando usa la función Desbloqueo facial, se utilizan imágenes para actualizar el modelo de su rostro. Las imágenes que se usan para crear el modelo no se almacenan, a diferencia del modelo en sí, que lo hace de manera segura en el teléfono y nunca sale de él. Todo el proceso se lleva a cabo en el teléfono de forma segura.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Puedes borrar el modelo de rostro o desactivar la función Desbloqueo facial en cualquier momento en Configuración. Los modelos de rostro se almacenan en el teléfono hasta que los borras.&lt;br&gt;&lt;br&gt;Más información en &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Tu hijo y tú pueden borrar el modelo de rostro o desactivar la función Desbloqueo facial en cualquier momento en Configuración. Los modelos de rostro se almacenan en el teléfono hasta que alguien los borra.&lt;br&gt;&lt;br&gt;Más información en &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Usa tu rostro para desbloquear el teléfono o verificar tu identidad, por ejemplo, cuando accedes a apps o apruebas compras.\n\nTen en cuenta lo siguiente:\nSolo puedes tener un rostro configurado a la vez. Para agregar otro rostro, borra el actual.\n\nPuedes desbloquear el teléfono por accidente cuando lo miras.\n\nTambién puede desbloquearlo alguien que se parezca mucho a ti, como un hermano gemelo.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Puedes borrar el modelo de tu huella dactilar o desactivar Pixel Imprint en cualquier momento en Configuración. Los modelos de huella dactilar se almacenan en el teléfono hasta que los borras.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Tu hijo y tú pueden borrar su modelo de huella dactilar o desactivar Pixel Imprint en cualquier momento desde Configuración. Los modelos de la huella dactilar se almacenan en el teléfono hasta que se borran.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Con Nexus Imprint, puedes usar tu huella dactilar para autorizar compras y acceder a las apps.\n\nTen cuidado con las personas que agregas, ya que todas las huellas dactilares que agregues podrán realizar estas acciones.\n\nNota: No puedes utilizar tu huella dactilar para desbloquear este dispositivo. Para obtener más información, comunícate con el administrador de tu organización.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">La función Batería adaptable registra el uso que haces del teléfono para optimizar de manera continua la forma en que las apps usan la batería. Podría reducir el rendimiento y retrasar las notificaciones para extender la duración de la batería.</string>
     <string name="smart_battery_summary" product="tablet">La función Batería adaptable aprende del uso que haces de la tablet para optimizar de manera continua la forma en que las apps usan la batería. Podría reducir el rendimiento y retrasar las notificaciones para extender la duración de la batería.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Pantalla y tacto</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Permitir el Desbloqueo facial</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Configura el Desbloqueo facial</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Más información sobre el Desbloqueo facial</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Para mayor comodidad, configura el Desbloqueo facial como método alternativo para cuando tus dedos estén mojados o fríos.\n\nLas huellas dactilares se almacenan únicamente en el dispositivo y nunca se envían a Google.</string>
 </resources>

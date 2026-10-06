@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">На следећем екрану држите телефон у висини очију</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Када користите откључавање лицем, глава треба да буде директно испред телефона.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Користите лице да бисте откључавали телефон или потврђивали идентитет, на пример, када се пријављујете у апликације или одобравате куповину.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Ако погледате телефон, можете и нехотице да га откључате. Телефон може да откључа и неко ко много личи на вас, попут идентичног близанца, или неко ко га приближи вашем лицу.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Ако погледа телефон, може и нехотице да га откључа. Телефон може да откључа и неко ко много личи на дете, попут идентичног близанца, или неко ко га приближи лицу детета.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Коришћење лица детета за откључавање телефона може да буде мање безбедно од јаког шаблона, PIN-а или лозинке</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Коришћење лица за откључавање телефона може да буде мање безбедно него јак шаблон, PIN или лозинка</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Откључавање лицем ће можда захтевати да вам очи буду отворене да би се телефон откључао или ради потврде вашег идентитета. У било ком тренутку можете да укључите ову опцију у Подешавањима.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Откључавање лицем ће можда захтевати да очи детета буду отворене да би се телефон откључао или ради потврде дететовог идентитета. Ви и ваше дете у било ком тренутку можете да укључите ову опцију у Подешавањима.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Откључавање лицем прави јединствени модел вашег лица ради потврде идентитета. Да бисте тај модел лица направили током подешавања, треба да сликате лице из различитих углова.\n\nКада користите Откључавање лицем, слике се користе за ажурирање модела лица. Слике које се користе за прављење модела лица никада се не чувају, али се модел лица безбедно чува на телефону и остаје само на њему. Цео процес обраде се безбедно одвија на телефону.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Откључавање лицем прави јединствени модел дететовог лица ради потврде идентитета. Да би направило тај модел лица током подешавања, дете треба да слика лице из различитих углова.\n\nКада дете користи откључавање лицем, слике се користе за ажурирање модела лица. Слике које се користе за прављење модела лица се не чувају, али се модел лица безбедно чува на телефону и увек остаје на њему. Читав процес обраде се безбедно одвија на телефону.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">У сваком тренутку можете да избришете модел лица или да искључите откључавање лицем у Подешавањима. Модели лица се чувају на телефону док их не избришете.&lt;br&gt;&lt;br&gt;Сазнајте више на &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Ви и дете можете да избришете модел лица или да искључите откључавање лицем у сваком тренутку у Подешавањима. Модели лица се чувају на телефону док их не избришете.&lt;br&gt;&lt;br&gt;Сазнајте више на &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Користите лице да бисте откључали телефон или потврдили идентитет, на пример, када се пријављујете у апликације или одобравате куповину.\n\nИмајте на уму:\nМожете да имате подешено само једно лице. Да бисте променили лице, избришите актуелно.\n\nАко погледате телефон, можете нехотице да га откључате.\n\nТелефон може да откључа неко ко много личи на вас, на пример, идентични близанац.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">У сваком тренутку можете да избришете модел отиска прста или да искључите Pixel Imprint у Подешавањима. Модели отисака прстију се чувају на телефону док их не избришете.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Ви и дете можете да избришете модел отиска прста детета или да искључите Pixel Imprint у сваком тренутку у Подешавањима. Модели отисака прстију се чувају на телефону док се не избришу.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Уз Nexus Imprint можете да користите отисак прста за одобравање куповина или пријављивање у апликације.\n\nПажљиво бирајте чије отиске прста ћете додати. Сви отисци прста које додате моћи ће да изврше горенаведене радње.\n\nНапомена: Не можете да користите отисак прста за откључавање овог уређаја. Више информација потражите од администратора организације.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Прилагодљива батерија учи из вашег коришћења телефона да би стално оптимизовала начин на који апликације користе батерију. Да би продужила трајање батерије, можда ће смањити перформансе и одложити обавештења.</string>
     <string name="smart_battery_summary" product="tablet">Прилагодљива батерија учи из вашег коришћења таблета да би стално оптимизовала начин на који апликације користе батерију. Да би продужила трајање батерије, можда ће смањити перформансе и одложити обавештења.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Екран и додир</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Дозволите откључавање лицем</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Подесите откључавање лицем</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Сазнајте више о откључавању лицем</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Ради додатне практичности, подесите откључавање лицем као резервни начин за ситуације када су вам прсти мокри или хладни.\n\nОтисци прста се чувају само на уређају и никада се не шаљу Google-у.</string>
 </resources>

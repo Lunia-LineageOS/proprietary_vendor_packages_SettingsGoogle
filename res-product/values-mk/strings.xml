@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">На следниот екран, држете го телефонот во висина на очите</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Кога користите „Отклучување со лик“, можеби ќе треба да ја поставите главата подиректно пред телефонот.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Користете го вашиот лик за да го отклучувате телефонот или да потврдувате дека сте вие, како кога се најавувате на апликации или одобрувате купување.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Поглед кон телефонот може да го отклучи и кога немате таква намера. Телефонот може да го отклучи и некој што многу наликува на вас, на пример, идентичен близнак или ако некој го доближи до вашиот лик.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Ако гледа во телефонот, тој може да се отклучи дури и ако детето нема таква намера. Телефонот може да го отклучи и некој што многу наликува на детето, на пример, идентичен близнак или ако некој го задржи пред ликот на детето.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Користењето на ликот на детето за отклучување на телефонот може да биде помалку безбедно од силна шема, PIN или лозинка</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Користењето на вашиот лик за отклучување на телефонот може да биде помалку безбедно од силна шема, PIN или лозинка</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">„Отклучување со лик“ може да бара очите да ви бидат отворени за да го отклучи телефонот или да го потврди вашиот идентитет. Може да ја вклучите опцијава во „Поставки“ во секое време.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">„Отклучување со лик“ може да бара очите на детето да бидат отворени за да го отклучи телефонот или да го потврди неговиот идентитет. Вие и вашето дете може да ја вклучите опцијава во „Поставки“ во секое време.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">„Отклучувањето со лик“ создава уникатен модел од вашиот лик заради потврда на вашиот идентитет. За да го создадете моделов на лик при поставувањето, ќе снимите слики од вашиот лик од различни агли.\n\nКога ја користите „Отклучување со лик“, сликите се користат за ажурирање на вашиот модел на лик. Сликите што се користат за создавање на вашиот модел на лик никогаш не се складираат, а самиот модел се складира безбедно на телефонот и никогаш не го напушта. Целата обработка се одвива безбедно во телефонот.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">„Отклучувањето со лик“ создава уникатен модел на ликот на вашето дете заради потврда на неговиот идентитет. За да го создаде моделов на лик при поставувањето, детето ќе сними слики од својот лик од различни агли.\n\nКога го користи „Отклучувањето со лик“, сликите се користат за ажурирање на неговиот модел на лик. Сликите што се користат за создавање на моделот на лик на детето не се складираат, а самиот модел се складира безбедно во телефонот и никогаш не го напушта. Целата обработка се одвива безбедно во телефонот.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Може да го избришете моделот на лик или да го исклучите „Отклучувањето со лик“ во секое време во „Поставки“. Моделите на лик се складираат во телефонот додека не ги избришете.&lt;br&gt;&lt;br&gt;Дознајте повеќе на &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Вие и вашето дете може да го избришете неговиот модел на лик или да го исклучите „Отклучувањето со лик“ во секое време во „Поставки“. Моделите на лик се складираат во телефонот додека не се избришат.&lt;br&gt;&lt;br&gt;Дознајте повеќе на &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Користете го вашиот лик за да го отклучите телефонот или да го потврдите вашиот идентитет, како кога се најавувате на апликации или одобрувате купување.\n\nИмајте предвид:\nможе да имате поставено само еден лик истовремено. За да додадете друг лик, избришете го тековниот.\n\nАко гледате во телефонот, може да го отклучите дури и ако немате таква намера.\n\nТелефонот може да го отклучи некој што многу личи на вас, на пример, идентичен близнак.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Може да го избришете моделот на отпечатокот или да го исклучите Pixel Imprint во секое време во „Поставки“. Моделите на отпечатокот се складирани во телефонот додека не ги избришете.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Вие и вашето дете може да го избришете неговиот модел на отпечаток или да ја исклучите Pixel Imprint во секое време во „Поставки“. Моделите на отпечаток се складираат во телефонот додека не се избришат.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Со Nexus Imprint, може да го користите вашиот отпечаток за да одобрувате купувања или да се најавувате на апликации.\n\nВнимавајте чии отпечатоци ги додавате. Секој додаден отпечаток ќе може да ги прави овие работи.\n\nЗабелешка: Не може да го користите отпечатокот за да го отклучувате уредов. За повеќе информации, контактирајте со администраторот на организацијата.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">„Адаптивна батерија“ учи како го користите телефонот за постојано да го оптимизира начинот на кој апликациите ја користат батеријата. За да го продолжува траењето на батеријата, може да ја намалува изведбата и да ги одложува известувањата.</string>
     <string name="smart_battery_summary" product="tablet">„Адаптивната батерија“ учи од користењето на вашиот таблет за континуирано оптимизирање на начинот на кој апликациите ја користат батеријата. За да се продолжи траењето на батеријата, може да ја намали изведбата и да ги одложи известувањата.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Екран и допир</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Дозволете „Отклучување со лик“</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Поставете „Отклучување со лик“</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Дознајте повеќе за „Отклучување со лик“</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">За дополнителна практичност, поставете ја „Отклучување со лик“ како резервна опција кога прстите ви се влажни или ладни.\n\nВашите отпечатоци се складираат само на уредот и никогаш не се испраќаат до Google.</string>
 </resources>

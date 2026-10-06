@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Ko bo prikazan naslednji zaslon, držite telefon v višini oči.</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Ko uporabljate odklepanje z obrazom, boste morda morali glavo nastaviti naravnost pred telefon.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Z obrazom odklenite telefon ali potrdite svojo identiteto, na primer ob prijavi v aplikacije ali odobritvi nakupa.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Če pogledate proti telefonu, ga boste morda nenamerno odklenili. Telefon lahko odklene tudi nekdo, ki vam je zelo podoben, na primer enojajčni dvojček, ali nekdo, ki telefon podrži pred vašim obrazom.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Če pogleda proti telefonu, ga bo morda nenamerno odklenil. Telefon lahko odklene tudi nekdo, ki je otroku zelo podoben, na primer enojajčni dvojček, ali nekdo, ki telefon podrži pred njegovim obrazom.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Če otrok odklepa telefon z obrazom, je to morda manj varno od zapletenega vzorca, kode PIN ali gesla.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Odklepanje telefona z obrazom je morda manj varno od odklepanja z zapletenim vzorcem, kodo PIN ali geslom.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Odklepanje z obrazom lahko za odklepanje telefona ali potrditev identitete zahteva, da so vaše oči odprte. To možnost lahko kadar koli vklopite v nastavitvah.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Odklepanje z obrazom lahko za odklepanje telefona ali potrditev identitete zahteva, da so otrokove oči odprte. Vi in otrok lahko to možnost kadar koli vklopite v nastavitvah.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Odklepanje z obrazom ustvari edinstven model vašega obraza, s katerim potrdite svojo identiteto. Za ustvarjanje modela obraza med postopkom nastavitve morate posneti svoj obraz iz različnih kotov.\n\nKo uporabljate odklepanje z obrazom, se model obraza posodablja s slikami iz teh interakcij. Slike, iz katerih je ustvarjen model obraza, se nikoli ne shranijo, model obraza pa se varno shrani v telefon in ga nikoli ne zapusti. Celotna obdelava je izvedena varno v telefonu.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Odklepanje z obrazom ustvari edinstven model otrokovega obraza, s katerim potrdi svojo identiteto. Za ustvarjanje modela obraza med postopkom nastavitve mora otrok posneti svoj obraz iz različnih kotov.\n\nKo uporablja odklepanje z obrazom, se model obraza posodablja s slikami iz teh interakcij. Slike, iz katerih je ustvarjen model obraza, se ne shranijo, model obraza pa se varno shrani v telefon in ga nikoli ne zapusti. Celotna obdelava je izvedena varno v telefonu.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">V nastavitvah lahko kadar koli izbrišete model obraza ali izklopite odklepanje z obrazom. Modeli obraza so shranjeni v telefonu, dokler jih ne izbrišete.&lt;br&gt;&lt;br&gt;Preberite več o tem na &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Vi in otrok lahko v nastavitvah kadar koli izbrišete model obraza ali izklopite odklepanje z obrazom. Modeli obraza so shranjeni v telefonu, dokler niso izbrisani.&lt;br&gt;&lt;br&gt;Preberite več o tem na &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Z obrazom odklenite telefon ali potrdite svojo identiteto, na primer ob prijavi v aplikacije ali za odobritev nakupa.\n\nUpoštevajte:\nNaenkrat je lahko nastavljen le en obraz. Če želite dodati nov obraz, morate obstoječega izbrisati.\n\nČe pogledate proti telefonu, ga boste morda nenamerno odklenili.\n\nTelefon lahko odklene nekdo, ki vam je zelo podoben, na primer enojajčni dvojček.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">V nastavitvah lahko kadar koli izbrišete model prstnega odtisa ali izklopite funkcijo Pixel Imprint. Modeli prstnih odtisov so shranjeni v telefonu, dokler jih ne izbrišete.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">V nastavitvah lahko vi in otrok kadar koli izbrišete model prstnega odtisa ali izklopite funkcijo Pixel Imprint. Modeli prstnih odtisov so shranjeni v telefonu, dokler niso izbrisani.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint omogoča uporabo prstnega odtisa za odobritev nakupov ali prijavo v aplikacije.\n\nPazite, čigave prstne odtise boste dodali, saj ta dejanja lahko izvajajo vsi dodani prstni odtisi.\n\nOpomba: Prstnega odtisa ne morete uporabiti za odklepanje te naprave. Za več informacij se obrnite na skrbnika v organizaciji.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Prilagodljivo varčevanje z energijo baterije se uči na podlagi vaše uporabe telefona, da lahko nenehno optimizira, kako aplikacije porabljajo energijo baterije. Zaradi podaljšanja časa delovanja baterije bo zmogljivost delovanja morda zmanjšana, obvestila pa zakasnjena.</string>
     <string name="smart_battery_summary" product="tablet">Prilagodljivo varčevanje z energijo baterije se uči na podlagi vaše uporabe tabličnega računalnika, da lahko nenehno optimizira, kako aplikacije porabljajo energijo baterije. Zaradi podaljšanja časa delovanja baterije bo zmogljivost delovanja morda zmanjšana, obvestila pa zakasnjena.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Zaslon in dotik</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Omogočanje odklepanja z obrazom</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Nastavitev odklepanja z obrazom</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Preberite več o odklepanju z obrazom</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Za večjo priročnost nastavite odklepanje z obrazom kot nadomestno možnost za primere, ko imate mokre ali hladne prste.\n\nVaši prstni odtisi so shranjeni samo v napravi in se nikoli ne pošljejo Googlu.</string>
 </resources>

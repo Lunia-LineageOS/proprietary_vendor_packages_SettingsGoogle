@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">在下一界面，请将手机举至与眼睛齐平</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">使用人脸解锁时，请尽量让脸正对手机。</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">您可以用脸部解锁手机或在需要时验证自己的身份，例如在登录应用或批准购买交易时。</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">目视手机可能会让手机在您并未要求的情况下解锁。长相与您非常相似的人（例如您的同卵兄弟姐妹）可能也能解锁您的手机。此外，如果有人将手机对准您的脸，手机也可能会解锁。</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">目视手机可能会让手机在孩子并未要求的情况下解锁。长相与孩子非常相似的人（例如孩子的同卵兄弟姐妹）可能也能解锁孩子的手机。此外，如果有人将手机对准孩子的脸，手机也可能会解锁。</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">使用孩子的脸部来解锁手机，在安全性上可能不及安全系数高的解锁图案、数字密码或混合密码</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">使用人脸解锁手机，在安全性上可能不及安全系数高的解锁图案、数字密码或混合密码</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">如果使用人脸解锁功能，系统可能会要求您睁着眼睛以便解锁手机或验证身份。您可以随时在“设置”中开启此选项。</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">如果使用人脸解锁功能，系统可能会要求您的孩子睁着眼睛以便解锁手机或验证身份。您和孩子可以随时在“设置”中开启此选项。</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">人脸解锁功能会创建一个独一无二的脸部模型，用于验证您的身份。在设置过程中，为了创建脸部模型，您需要拍摄不同角度的脸部图像。\n\n使用人脸解锁功能时产生的图像会用于更新您的脸部模型。系统绝不会存储创建脸部模型时所用的图像，但会将您的脸部模型安全地存储在您的手机上，绝不会外泄。整个处理过程都在您的手机上完成，安全有保证。</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">人脸解锁功能会为您的孩子创建一个独一无二的脸部模型，用于验证其身份。在设置过程中，为了创建脸部模型，您的孩子需要拍摄不同角度的脸部图像。\n\n在您的孩子使用人脸解锁功能时，系统会使用图像来更新其脸部模型。系统绝不会存储孩子用来创建脸部模型的图像，只会将脸部模型安全地存储在手机上，并且绝不会外泄。整个处理过程都是在手机上安全进行。</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">您可以随时在“设置”部分删除自己的脸部模型或关闭人脸解锁功能。脸部模型会存储在手机上，直到您将其删除为止。&lt;br&gt;&lt;br&gt;如需了解详情，请访问 &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;。</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">您和孩子可以随时在“设置”部分删除自己的脸部模型或关闭人脸解锁功能。脸部模型会存储在手机上，直到被删除为止。&lt;br&gt;&lt;br&gt;如需了解详情，请访问 &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;。</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">您可以通过刷脸来解锁手机或验证身份，以便登录应用或批准购买交易等。\n\n注意：\n同一时间只能设置有 1 张面孔。如需添加其他面孔，请先删除当前的面孔。\n\n目视手机可能会让手机在您并未要求的情况下解锁。\n\n长相与您非常相似的人（例如您的同卵兄弟姐妹）可能也能解锁您的手机。\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">您可以随时在“设置”部分删除自己的指纹模型或关闭 Pixel Imprint 功能。指纹模型会存储在手机上，直到您将其删除为止。</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">您和您的孩子可以随时在“设置”部分删除自己的指纹模型或关闭 Pixel Imprint 功能。指纹模型会存储在手机上，直到被删除为止为止。</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">借助 Nexus Imprint，您可以使用指纹授权购买交易或登录应用。\n\n请务必谨慎添加指纹，因为添加的任何指纹都能用来执行上述操作。\n\n请注意：您无法使用指纹解锁此设备。如需了解详情，请与组织管理员联系。</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">自动调节电池用量功能会根据手机使用情况，不断优化应用的用电方式。为延长电池续航时间，该功能可能会降低性能并延迟发送通知。</string>
     <string name="smart_battery_summary" product="tablet">“自适应电池”功能会根据平板电脑使用情况不断优化应用对电池的使用方式。为了延长电池续航时间，该功能可能会降低性能并延迟发送通知。</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">显示和触控</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">允许使用人脸解锁功能</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">设置人脸解锁</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">详细了解人脸解锁</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">建议将人脸解锁设置为备用解锁方式，方便在手指潮湿或冰冷时解锁。\n\n您的指纹信息只会存储在设备上，绝不会发送给 Google。</string>
 </resources>

@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Op het volgende scherm houd je je telefoon op ooghoogte</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Als je Ontgrendelen via gezichtsherkenning gebruikt, moet je je hoofd misschien dichter bij je telefoon houden.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Gebruik je gezicht om je telefoon te ontgrendelen of om te bevestigen dat jij het bent, bijvoorbeeld als je inlogt bij apps of een aankoop goedkeurt</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">De telefoon kan worden ontgrendeld als je ernaar kijkt, ook als dat niet je bedoeling was. Je telefoon kan ook worden ontgrendeld door iemand anders die veel op je lijkt, zoals een tweelingbroer of -zus, of als iemand de telefoon voor je gezicht houdt.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Je kind kan de telefoon ontgrendelen door ernaar te kijken, ook als dat niet de bedoeling was. De telefoon van je kind kan ook worden ontgrendeld door iemand anders die veel op je kind lijkt, zoals een tweelingbroer of -zus, of als iemand de telefoon voor het gezicht van je kind houdt.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Het gezicht van je kind gebruiken om de telefoon te ontgrendelen zorgt misschien voor minder goede beveiliging dan een sterk patroon, een sterke pincode of een sterk wachtwoord</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Je telefoon ontgrendelen met je gezicht is misschien minder veilig dan een sterk patroon of wachtwoord, of een sterke pincode.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Ontgrendelen via gezichtsherkenning kan vereisen dat je ogen open zijn om de telefoon te ontgrendelen of voor verificatie. Je kunt deze optie op elk moment aanzetten via Instellingen.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Ontgrendelen via gezichtsherkenning kan vereisen dat de ogen van je kind open zijn om de telefoon te ontgrendelen of voor verificatie. Jij en je kind kunnen deze optie op elk moment aanzetten via Instellingen.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Ontgrendelen via gezichtsherkenning maakt een uniek model van je gezicht om te verifiëren dat jij het bent. Dit gezichtsmodel wordt tijdens het instellen gemaakt door vanuit verschillende hoeken foto\'s van je gezicht te maken.\n\nAls je Ontgrendelen via gezichtsherkenning gebruikt, worden foto\'s gebruikt om je gezichtsmodel te updaten. De foto\'s die worden gebruikt om je gezichtsmodel te maken, worden nooit opgeslagen, maar het gezichtsmodel zelf wordt beveiligd op je telefoon opgeslagen en verlaat je telefoon nooit. Alle verwerking vindt beveiligd plaats op je telefoon.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Ontgrendelen via gezichtsherkenning maakt een uniek model van het gezicht van je kind voor verificatie. Dit gezichtsmodel wordt tijdens het instellen gemaakt door vanuit verschillende hoeken foto\'s van het gezicht van je kind te maken.\n\nAls je kind Ontgrendelen via gezichtsherkenning gebruikt, worden foto\'s gebruikt om het gezichtsmodel van je kind te updaten. De foto\'s die worden gebruikt om je gezichtsmodel te maken, worden niet opgeslagen, maar het gezichtsmodel zelf wordt beveiligd opgeslagen op de telefoon en verlaat deze nooit. Alle verwerking vindt beveiligd plaats op de telefoon.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Je kunt op elk moment je gezichtsmodel verwijderen of Ontgrendelen via gezichtsherkenning uitzetten in Instellingen. Gezichtsmodellen worden opgeslagen op de telefoon totdat je ze verwijdert.&lt;br&gt;&lt;br&gt;Ga voor meer informatie naar &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Jij en je kind kunnen op elk moment het gezichtsmodel van het kind verwijderen of Ontgrendelen via gezichtsherkenning uitzetten in Instellingen. Gezichtsmodellen worden opgeslagen op de telefoon totdat ze worden verwijderd.&lt;br&gt;&lt;br&gt;Bekijk meer informatie op &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Gebruik je gezicht om je telefoon te ontgrendelen of te laten verifiëren dat jij het bent, bijvoorbeeld als je inlogt bij apps of een aankoop goedkeurt.\n\nGoed om te weten:\nJe kunt maar één gezicht tegelijk instellen. Verwijder dus het huidige gezicht om een ander gezicht toe te voegen.\n\nAls je naar de telefoon kijkt, kun je deze onbedoeld ontgrendelen.\n\nJe telefoon kan worden ontgrendeld door iemand die veel op je lijkt, zoals een broer of zus.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Je kunt op elk moment je vingerafdrukmodel verwijderen of Pixel Imprint uitzetten via Instellingen. Vingerafdrukmodellen worden opgeslagen op de telefoon totdat je ze verwijdert.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Jij en je kind kunnen op elk moment het vingerafdrukmodel van je kind verwijderen of Pixel Imprint uitzetten in Instellingen. Vingerafdrukmodellen worden opgeslagen op de telefoon totdat ze worden verwijderd.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Met Nexus Imprint kun je je vingerafdruk gebruiken om aankopen te autoriseren of in te loggen bij apps.\n\nDit kan met alle vingerafdrukken die zijn toegevoegd aan je apparaat, dus wees voorzichtig met wie je toevoegt.\n\nOpmerking: Je kunt je vingerafdruk niet gebruiken om dit apparaat te ontgrendelen. Neem contact op met de beheerder van je organisatie voor meer informatie.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Aangepast batterijgebruik leert van je telefoongebruik om voortdurend te optimaliseren hoe apps de batterij gebruiken. De functie kan de prestaties beperken en meldingen vertragen om de levensduur van de batterij te verlengen.</string>
     <string name="smart_battery_summary" product="tablet">Aangepast batterijgebruik leert van je tabletgebruik om voortdurend te optimaliseren hoe apps de batterij gebruiken. De functie kan de prestaties beperken en meldingen vertragen om de levensduur van de batterij te verlengen.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Scherm en aanraken</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Ontgrendelen via gezichtsherkenning toestaan</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Ontgrendelen via gezichtsherkenning instellen</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Meer informatie over Ontgrendelen via gezichtsherkenning</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Stel Ontgrendelen via gezichtsherkenning in als back-up voor als je vingers nat of koud zijn.\n\nJe vingerafdrukken worden alleen op het apparaat opgeslagen en nooit naar Google gestuurd.</string>
 </resources>

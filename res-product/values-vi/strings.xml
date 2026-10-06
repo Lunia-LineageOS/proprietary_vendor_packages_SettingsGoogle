@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Trên màn hình tiếp theo, hãy cầm điện thoại ngang tầm mắt</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Khi dùng tính năng Mở khoá bằng khuôn mặt, bạn có thể phải hướng thẳng đầu về phía trước điện thoại.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Bạn có thể dùng khuôn mặt để mở khoá điện thoại hoặc xác minh danh tính, chẳng hạn như khi đăng nhập vào các ứng dụng hoặc phê duyệt một giao dịch mua.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Việc nhìn vào điện thoại có thể khiến điện thoại mở khoá ngay cả khi bạn không định làm vậy. Người khác có thể mở khoá điện thoại của bạn nếu họ giơ điện thoại ra trước mặt bạn. Việc này cũng xảy ra trong trường hợp người mở khoá trông giống bạn, chẳng hạn như anh chị em ruột giống hệt bạn.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Việc nhìn vào điện thoại có thể khiến điện thoại mở khoá ngay cả khi con bạn không định làm vậy. Người khác có thể mở khoá điện thoại của con nếu họ giơ chiếc điện thoại đó ra trước mặt con. Việc này cũng xảy ra trong trường hợp người mở khoá trông giống con, chẳng hạn như anh chị em ruột giống hệt con.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Việc sử dụng khuôn mặt của con bạn để mở khoá điện thoại có thể kém an toàn hơn hình mở khoá, mã PIN hoặc mật khẩu mạnh.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Việc sử dụng khuôn mặt để mở khoá điện thoại có thể kém an toàn hơn hình mở khoá, mã PIN hoặc mật khẩu mạnh</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Tính năng Mở khoá bằng khuôn mặt có thể yêu cầu bạn mở mắt để mở khoá điện thoại hoặc xác minh danh tính. Bạn có thể bật tuỳ chọn này trong phần Cài đặt bất cứ khi nào.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Tính năng Mở khoá bằng khuôn mặt có thể yêu cầu con bạn mở mắt để mở khoá điện thoại hoặc xác minh danh tính. Bạn và con có thể bật tuỳ chọn này trong phần Cài đặt bất cứ khi nào.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Tính năng Mở khoá bằng khuôn mặt sẽ tạo một mẫu khuôn mặt duy nhất để xác minh danh tính của bạn. Để tạo mẫu khuôn mặt này trong khi thiết lập, bạn cần chụp ảnh khuôn mặt mình ở nhiều góc độ.\n\nKhi bạn dùng tính năng Mở khoá bằng khuôn mặt, các hình ảnh sẽ được dùng để cập nhật mẫu khuôn mặt của bạn. Các hình ảnh dùng để tạo mẫu khuôn mặt không bao giờ được lưu trữ. Tuy nhiên, mẫu khuôn mặt sẽ được lưu trữ an toàn trên điện thoại mà bạn đang sử dụng và chỉ lưu trên điện thoại đó. Toàn bộ quá trình xử lý sẽ diễn ra một cách an toàn trên điện thoại.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Tính năng Mở khoá bằng khuôn mặt tạo một mẫu khuôn mặt riêng để xác minh danh tính của con bạn. Để tạo mẫu khuôn mặt này trong quá trình thiết lập, con bạn cần chụp ảnh khuôn mặt mình ở nhiều góc độ.\n\nKhi con dùng tính năng Mở khoá bằng khuôn mặt, các hình ảnh sẽ được dùng để cập nhật mẫu khuôn mặt. Các hình ảnh dùng để tạo mẫu khuôn mặt không được lưu trữ. Tuy nhiên, mẫu khuôn mặt sẽ được lưu trữ an toàn trên điện thoại của con bạn và chỉ lưu trên điện thoại này. Toàn bộ quá trình xử lý được tiến hành trên điện thoại một cách an toàn.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Bạn có thể xoá mẫu khuôn mặt hoặc tắt tính năng Mở khoá bằng khuôn mặt trong phần Cài đặt bất cứ khi nào. Các mẫu khuôn mặt được lưu trữ trên điện thoại này cho đến khi bạn xoá.&lt;br&gt;&lt;br&gt;Tìm hiểu thêm tại &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Bạn và con bạn có thể xoá mẫu khuôn mặt của con hoặc tắt tính năng Mở khoá bằng khuôn mặt trong phần Cài đặt bất cứ khi nào. Các mẫu khuôn mặt được lưu trữ trên điện thoại này cho đến khi bị xoá.&lt;br&gt;&lt;br&gt;Tìm hiểu thêm tại &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Dùng khuôn mặt để mở khoá điện thoại hoặc xác minh danh tính, chẳng hạn như khi bạn đăng nhập vào các ứng dụng hoặc phê duyệt một giao dịch mua.\n\nLưu ý:\nMỗi lần bạn chỉ có thể thiết lập một khuôn mặt. Để thêm khuôn mặt khác, hãy xoá khuôn mặt hiện tại.\n\nViệc nhìn vào điện thoại có thể khiến điện thoại mở khoá ngay cả khi bạn không định làm vậy.\n\nNhững người trông rất giống bạn, chẳng hạn như anh chị em sinh đôi, có thể mở khoá điện thoại của bạn.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Bạn có thể xoá mẫu vân tay của mình hoặc tắt Pixel Imprint trong phần Cài đặt bất cứ khi nào. Các mẫu vân tay được lưu trữ trên điện thoại này cho đến khi bạn xoá đi.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Bạn và con bạn có thể xoá mẫu vân tay của con hoặc tắt Pixel Imprint trong phần Cài đặt bất cứ khi nào. Các mẫu vân tay được lưu trữ trên điện thoại này cho đến khi bị xoá.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Với Nexus Imprint, bạn có thể dùng vân tay của mình để cho phép mua hàng hoặc đăng nhập vào các ứng dụng.\n\nHãy cân nhắc kỹ khi thêm vân tay của những người khác. Mọi vân tay bạn thêm đều có thể thực hiện những việc này.\n\nLưu ý: Bạn không thể dùng vân tay của mình để mở khoá thiết bị này. Để biết thêm thông tin, hãy liên hệ với quản trị viên của tổ chức bạn.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Tính năng Pin thích ứng sẽ tìm hiểu cách bạn dùng điện thoại để liên tục tối ưu hoá cách ứng dụng sử dụng pin. Để kéo dài thời lượng pin, tính năng này có thể sẽ giảm mức hiệu suất và gửi thông báo chậm hơn.</string>
     <string name="smart_battery_summary" product="tablet">Tính năng Pin thích ứng sẽ tìm hiểu cách bạn dùng máy tính bảng để liên tục tối ưu hoá cách ứng dụng sử dụng pin. Để kéo dài thời lượng pin, tính năng này có thể sẽ giảm mức hiệu suất và gửi thông báo chậm hơn.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Màn hình và thao tác chạm</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Cho phép mở khoá bằng khuôn mặt</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Thiết lập tính năng Mở khoá bằng khuôn mặt</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Tìm hiểu thêm về tính năng Mở khoá bằng khuôn mặt</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Để thuận tiện hơn, hãy thiết lập tính năng Mở khoá bằng khuôn mặt làm phương thức dự phòng khi ngón tay bạn bị ướt hoặc lạnh.\n\nVân tay của bạn chỉ được lưu trữ trên thiết bị và không bao giờ được gửi cho Google.</string>
 </resources>

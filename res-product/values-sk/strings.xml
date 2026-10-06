@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Na ďalšej obrazovke držte telefón na úrovni očí</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Pri odomykaní tvárou možno budete musieť mať hlavu priamo pred telefónom.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Odomykajte telefón a overujte svoju totožnosť tvárou, napríklad pri prihlasovaní do aplikácií a schvaľovaní nákupov.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Telefón môžete neúmyselne odomknúť pohľadom. Môže ho odomknúť aj niekto, kto sa na vás podobá, napríklad vaše dvojča, alebo niekto iný, ak vám telefón pridrží pred tvárou.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Telefón sa dá pohľadom odomknúť aj náhodne. Môže ho odomknúť aj osoba, ktorá sa na dieťa podobá, napríklad dvojča, alebo niekto, kto mu ho pridrží pred tvárou.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Odomykanie telefónu dieťaťa jeho tvárou môže byť menej bezpečné ako odomykanie silným vzorom, kódom PIN alebo heslom</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Odomykanie telefónu tvárou môže byť menej bezpečné než silným vzorom, kódom PIN alebo heslom</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Odomknutie tvárou môže vyžadovať, aby ste mali pri odomykaní telefónu alebo overovaní svojej totožnosti oči otvorené. Túto možnosť môžete kedykoľvek vypnúť v Nastaveniach.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Odomknutie tvárou môže vyžadovať, aby malo vaše dieťa pri odomykaní telefónu alebo overovaní totožnosti oči otvorené. Vy a vaše dieťa môžete túto možnosť kedykoľvek vypnúť v Nastaveniach.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Odomknutie tvárou vytvorí jedinečný model vašej tváre, ktorým overíte svoju totožnosť. Tento model sa vytvorí pri nastavovaní nasnímaním vašej tváre z rôznych uhlov.\n\nPri každom odomknutí tvárou sa model tváre pomocou príslušných fotiek aktualizuje. Fotky použité na jeho vytvorenie sa za žiadnych okolností neukladajú. Model vašej tváre sa uloží v telefóne a nikdy ho neopustí. Všetko sa bezpečne spracúva v telefóne.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Odomknutie tvárou používa jedinečný model tváre vášho dieťaťa, ktorým sa overuje jeho totožnosť. Počas nastavovania musí vaše dieťa nasnímať svoju tvár z rôznych uhlov, aby bolo možné tento model tváre vytvoriť.\n\nPri používaní odomknutia tvárou sa pomocou aktuálnych snímok model tváre aktualizuje. Snímky, pomocou ktorých bol vytvorený model jeho tváre, sa neukladajú, ale model jeho tváre je bezpečne uložený v telefóne a nikdy ho neopustí. Všetko sa bezpečne spracúva v telefóne.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">V Nastaveniach môžete kedykoľvek model tváre odstrániť alebo odomknutie tvárou vypnúť. Modely tváre sú uložené v telefóne, kým ich neodstránite.&lt;br&gt;&lt;br&gt;Viac sa dozviete na &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Vy a vaše dieťa môžete kedykoľvek v Nastaveniach model tváre odstrániť alebo odomknutie tvárou vypnúť. Modely tváre sú uložené v telefóne, dokým ich neodstránite.&lt;br&gt;&lt;br&gt;Viac sa dozviete na &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Odomykajte telefón alebo overujte svoju totožnosť tvárou, napríklad keď sa prihlasujete do aplikácií alebo schvaľujete nákup.\n\nUpozornenie:\nNaraz môžete mať nastavenú iba jednu tvár. Ak chcete pridať ďalšiu tvár, odstráňte aktuálnu.\n\nTelefón môžete neúmyselne odomknúť pohľadom.\n\nTelefón môže odomknúť aj niekto, kto sa na vás veľmi podobá, napríklad dvojča.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">V Nastaveniach môžete kedykoľvek model odtlačku prsta odstrániť alebo Pixel Imprint vypnúť. Modely odtlačkov prstov sú uložené v telefóne, dokým ich neodstránite.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Vy a vaše dieťa môžete v Nastaveniach kedykoľvek model odtlačku prsta odstrániť alebo Pixel Imprint vypnúť. Modely odtlačku prsta sú uložené v telefóne, kým ich neodstránite.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Vďaka senzoru Nexus Imprint môžete schvaľovať nákupy a prihlasovať sa do aplikácií pomocou odtlačku prsta.\n\nDávajte pozor, čie odtlačky prstov pridáte. Tieto operácie budú môcť vykonávať všetky pridané odtlačky prstov.\n\nPoznámka: Odtlačok prsta nie je možné použiť na odomknutie tohto zariadenia. Ďalšie informácie vám poskytne správca vašej organizácie.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Adaptácia batérie sa učí z toho, ako telefón používate, a neustále optimalizuje, ako aplikácie využívajú batériu. Na predĺženie výdrže batérie môže znížiť výkonnosť a odložiť upozornenia.</string>
     <string name="smart_battery_summary" product="tablet">Adaptácia batérie sa učí z toho, ako tablet používate, a neustále optimalizuje, ako aplikácie využívajú batériu. Na predĺženie výdrže batérie môže znížiť výkonnosť a odložiť upozornenia.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Obrazovka a dotyk</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Povoľte odomknutie tvárou</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Nastavte odomknutie tvárou</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Ďalšie informácie o odomknutí tvárou</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Nastavte si odomknutie tvárou ako zálohu pre prípady, keď budete mať mokré alebo studené prsty.\n\nVaše odtlačky prstov sa ukladajú iba v zariadení a nikdy sa neposielajú Googlu.</string>
 </resources>

@@ -3,8 +3,83 @@
     <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
     <string name="owner_info_settings_edit_text_hint">F.eks. Jakobs Pixel.</string>
 
+    <!-- Message shown in summary field when Face Unlock is not set up. [CHAR LIMIT=54] -->
+    <string name="security_settings_face_preference_summary_none">Tryk for at konfigurere ansigtsoplåsning</string>
+
+    <!-- Introduction detail message shown in face education [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message">På den næste skærm skal du dreje hovedet, så dit ansigt scannes fra alle vinkler</string>
+
+    <!-- Button shown which shows accessibility toggles for face enrollment when clicked. [CHAR LIMIT=32] -->
+    <string name="security_settings_face_enroll_introduction_accessibility">Konfiguration for syns- og bevægelseshæmmede</string>
+
+    <!-- Message shown for a toggle which when enabled, allows the user to enroll using a simpler flow for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_accessibility_vision">Kræver, at du holder øjnene åbne</string>
+
+    <!-- Title of a section on the face enrollment introduction page that provides additional information. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_info_title">Husk!</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_glasses">Briller eller solbriller med lyse glas accepteres.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_glasses">Hvis dit barn normalt bruger briller, må barnet gerne have brillerne på under konfigurationen.</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_how_title">Sådan fungerer det</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_title">Du bestemmer</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_title">Du og dit barn har kontrollen</string>
+
+    <!-- Message shown in face enrollment dialog once enrollment is completed -->
+    <string name="security_settings_face_enroll_finish_title">Det ser fint ud</string>
+
+    <!-- Description shown on face settings page. -->
+    <string name="security_settings_face_description">Konfigurer fingeroplåsning som et alternativ for at gøre oplåsning nemmere, hvis du er iført en maske eller befinder dig et mørkt sted.\n\nDit ansigt gemmes kun på enheden og sendes aldrig til Google.</string>
+
+    <!-- Title shown for menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_preference_title">Nexus Imprint</string>
+
+    <!-- Title shown for work menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint til arbejdsprofil</string>
+
+    <!-- message shown in summary field when no fingerprints are registered -->
+    <string name="security_settings_fingerprint_preference_summary_none">Tryk for at konfigurere fingeraftryk</string>
+
+    <!-- Introduction title shown in fingerprint enrollment to introduce the fingerprint feature, when fingerprint unlock is disabled by device admin [CHAR LIMIT=40] -->
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Lås op med Nexus Imprint</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Pixel Imprint opretter en unik model af dit fingeraftryk, så din identitet kan verificeres. For at oprette denne fingeraftryksmodel under konfigurationen skal du tage billeder af dit fingeraftryk fra forskellige vinkler.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Pixel Imprint opretter en unik model af dit barns fingeraftryk, så barnets identitet kan verificeres. For at oprette denne fingeraftryksmodel under konfigurationen skal dit barn tage billeder af sit fingeraftryk fra forskellige vinkler.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment introduction to learn more about fingerprint [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Få flere oplysninger om fingeroplåsning på Pixel ved at gå til &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;.</string>
+
+    <!-- Message shown in summary field of biometric settings. [CHAR LIMIT=66] -->
+    <string name="security_settings_biometric_preference_summary_none_enrolled">Tryk for at konfigurere</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Log ind på en Google-konto for at bruge dit private område</string>
+
+    <!-- Title for suggested actions for settings up a fingerprint lock [CHAR LIMIT=46] -->
+    <string name="suggested_fingerprint_lock_settings_title">Brug Pixel Imprint</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock pattern for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pattern">Nexus Imprint og mønster</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock PIN for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pin">Nexus Imprint og pinkode</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock password for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_password">Nexus Imprint og adgangskode</string>
+
+    <!-- Title for preference that guides the user to skip fingerprint setup [CHAR LIMIT=60]-->
+    <string name="fingerprint_unlock_skip_fingerprint">Fortsæt uden Nexus Imprint</string>
 
     <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
     <string name="wifi_subscription_summary">Se eller skift abonnement for OpenRoaming</string>

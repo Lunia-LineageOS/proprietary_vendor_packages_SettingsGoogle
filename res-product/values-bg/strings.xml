@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">На следващия екран дръжте телефона на нивото на очите си</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Когато използвате функцията за отключване с лице, може да се наложи да поставите телефона точно пред главата си.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Използвайте лицето си, за да отключвате телефона или да потвърждавате самоличността си, например при влизане в приложения или одобряване на покупки.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Дори и да не възнамерявате да отключите телефона, това може да стане, когато гледате в него. Той може да бъде отключен и от някого, който много прилича на вас, например от ваш брат или сестра близнак, или ако друг човек задържи телефона пред лицето ви.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Дори и да не възнамерява да отключи телефона, това може да стане, когато детето ви гледа в него. Той може да бъде отключен и от някого, който много прилича на детето ви, например от негов брат или сестра близнак, или ако бъде задържан пред лицето му.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Отключването на телефона на детето ви с лице може да е по-малко сигурно в сравнение с надеждни фигура, PIN код или парола.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Отключването на телефона ви с лице може да е по-малко сигурно в сравнение с надеждни фигура, ПИН код или парола</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Функцията за отключване с лице може да изисква очите ви да са отворени за отключване на телефона или потвърждаване на самоличността ви. По всяко време можете да включите тази опция от настройките.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Функцията за отключване с лице може да изисква очите на детето ви да са отворени за потвърждаване на самоличността му или за отключване на телефона. По всяко време вие и детето ви можете да включите тази опция от настройките.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Функцията за отключване с лице изгражда уникален модел на лицето ви с цел потвърждаване на самоличността ви. За да създадете такъв модел по време на настройването, ще трябва да заснемете лицето си под различни ъгли.\n\nИзображенията от взаимодействията ви с функцията за отключване с лице се използват за актуализиране на съответния модел. Изображенията, ползвани за създаването му, не се запазват, но моделът на лицето ви се съхранява надеждно на телефона ви и никога не го напуска. Цялото обработване се извършва надеждно на телефона ви.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Функцията за отключване с лице изгражда уникален модел на лицето на детето ви с цел потвърждаване на самоличността му. За да създаде такъв модел по време на настройването, то ще трябва да заснеме лицето си под различни ъгли.\n\nИзображенията от взаимодействията на детето ви с функцията за отключване с лице се използват за актуализиране на съответния модел. Изображенията, ползвани за създаването му, не се запазват, но моделът на лицето се съхранява надеждно на телефона и никога не го напуска. Цялото обработване се извършва надеждно на телефона.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">По всяко време можете да изтриете модела на лицето си или да изключите функцията за отключване с лице от настройките. Моделите на лицата се съхраняват в телефона, докато не ги изтриете.&lt;br&gt;&lt;br&gt;Научете повече на адрес &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Вие и детето ви можете по всяко време да изтриете модела на лицето му или да изключите функцията за отключване с лице от настройките. Моделите на лицата се съхраняват на телефона, докато не бъдат изтрити.&lt;br&gt;&lt;br&gt;Научете повече на адрес &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Използвайте лицето си, за да отключвате телефона си и да удостоверявате самоличността си, например при влизане в приложения или одобряване на покупка.\n\nИмайте предвид следното:\nВ даден момент може да е настроено само едно лице. За да добавите друго, изтрийте текущото.\n\nМожете да отключите телефона неволно, като го погледнете.\n\nТой може да бъде отключен и от човек, който много прилича на вас, например брат или сестра близнак.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">По всяко време можете да изтриете модела на отпечатъка си или да изключите Pixel Imprint от настройките. Моделите се съхраняват на телефона, докато не ги изтриете.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Вие и детето ви можете по всяко време да изтриете модела на отпечатъка му или да изключите Pixel Imprint от настройките. Моделите на отпечатъците се съхраняват на телефона, докато не бъдат изтрити.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">С Nexus Imprint можете да използвате отпечатъка си, за да оторизирате покупки или да влизате в приложения.\n\nВнимавайте чии отпечатъци добавяте, тъй като с тях ще могат да се извършват изброените неща.\n\nЗабележка: Не можете да отключвате това устройство с отпечатъка си. За повече информация се свържете с администратора на организацията си.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Функцията за адаптивна батерия се учи от употребата на телефона ви, като непрекъснато оптимизира начина, по който приложенията използват батерията. За да удължи живота на батерията, тя може да намали ефективността и да забави известията.</string>
     <string name="smart_battery_summary" product="tablet">Функцията за адаптивна батерия се учи от употребата на таблета ви, като непрекъснато оптимизира начина, по който приложенията използват батерията. За да удължи живота на батерията, тя може да намали ефективността и да забави известията.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Екран и сензорен екран</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Разрешаване на „Отключване с лице“</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Настройване на „Отключване с лице“</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Научете повече за „Отключване с лице“</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">За допълнително удобство настройте функцията „Отключване с лице“ като резервен вариант за ситуации, в които пръстите ви са мокри или студени.\n\nОтпечатъците ви се съхраняват само на устройството и никога не се изпращат до Google.</string>
 </resources>

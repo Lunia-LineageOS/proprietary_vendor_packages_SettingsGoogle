@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">في الشاشة التالية، يُرجى رفع هاتفك إلى مستوى العينَين</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">عند استخدام ميزة \"فتح الجهاز ببصمة الوجه\"، قد يُطلب منك تثبيت رأسك أمام الهاتف مباشرةً.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">يمكنك استخدام وجهك لفتح قفل الهاتف أو لتأكيد هويتك، مثلاً عند تسجيل الدخول إلى التطبيقات أو الموافقة على عملية شراء.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">يمكن أن يؤدي النظر للهاتف إلى فتح قفله عن غير قصد. يستطيع أيضًا شخص آخر فتح قفل هاتفك إذا كان يشبهك بدرجة كبيرة، مثلاً توأم متماثل أو شقيق شديد الشبه، أو إذا قرَّب شخص الهاتف من وجهك.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">يمكن أن يؤدي نظر الطفل للهاتف إلى فتح قفله حتى إذا كان لا يقصد ذلك. يستطيع أيضًا شخص آخر فتح قفل هاتف الطفل إذا كان يشبهه بدرجة كبيرة، مثلاً توأم متماثل أو شقيق شديد الشبه، أو إذا قرَّب شخص الهاتف وجه الطفل.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">قد يكون استخدام وجه طفلك لفتح قفل هاتفه أقل أمانًا من استخدام نقش أو رقم تعريف شخصي أو كلمة مرور قوية.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">قد يكون استخدام وجهك لفتح قفل هاتفك أقل أمانًا من استخدام نقش قوي أو رقم تعريف شخصي قوي أو كلمة مرور قوية.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">يمكن أن تطلب ميزة \"فتح الجهاز ببصمة الوجه\" أن تكون عيناك مفتوحتين لفتح قفل الهاتف أو إثبات هويتك. يمكنك تفعيل هذا الخيار في أي وقت من \"الإعدادات\".</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">يمكن أن تطلب ميزة \"فتح الجهاز ببصمة الوجه\" أن تكون عينا الطفل مفتوحتين لفتح قفل الهاتف أو إثبات هويته. يمكنك أنت وطفلك تفعيل هذا الخيار في أي وقت من \"الإعدادات\".</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">تنشئ ميزة \"فتح الجهاز ببصمة الوجه\" نموذجًا فريدًا من وجهك لإثبات هويتك. لإنشاء نموذج الوجه هذا أثناء عملية الإعداد، سيتم التقاط صور لوجهك من زوايا مختلفة.\n\nعند استخدام ميزة \"فتح الجهاز ببصمة الوجه\"، تُستخدَم الصور لتعديل نموذج الوجه. ولا يتم مطلقًا تخزين هذه الصور المستخدمَة، ولكن يتم تخزين نموذج الوجه بأمان على هاتفك بدون نقله خارج الهاتف مطلقًا. تجري كل عمليات المعالجة بأمان على هاتفك.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">تنشئ ميزة \"فتح الجهاز ببصمة الوجه\" نموذجًا فريدًا من وجه طفلك لإثبات هويته. لإنشاء نموذج الوجه هذا أثناء عملية الإعداد، سيتم التقاط صور لوجه طفلك من زوايا مختلفة.\n\nعندما يستخدم الطفل ميزة \"فتح الجهاز ببصمة الوجه\"، سيتم استخدام الصور لتعديل نموذج وجهه. لا يتم تخزين الصور المستخدمة لإنشاء نموذج الوجه، ولكن يتم تخزين نموذج الوجه بأمان على الهاتف ولا يتم نقله خارج الهاتف مطلقًا. تتم كل عمليات المعالجة بأمان على الهاتف.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">‏يمكنك حذف نموذج الوجه أو إيقاف ميزة \"فتح الجهاز ببصمة الوجه\" في أي وقت من \"الإعدادات\". تظل نماذج الوجه مخزّنة على هاتفك إلى يتم حذفها.&lt;br&gt;&lt;br&gt;إليك مزيد من المعلومات على الرابط &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">‏يمكنك أنت وطفلك حذف نموذج وجهه أو إيقاف ميزة \"فتح الجهاز ببصمة الوجه\" في أي وقت من \"الإعدادات\". تظل نماذج الوجوه مخزّنة على الهاتف إلى أن يتم حذفها.&lt;br&gt;&lt;br&gt;تعرَّف على مزيد من المعلومات على الرابط &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">يمكنك استخدام وجهك لفتح قفل الهاتف أو لإثبات هويتك، مثلاً عند تسجيل الدخول إلى التطبيقات أو الموافقة على عملية شراء.\n\nملاحظة:\nلا يمكنك إعداد أكثر من وجه واحد في كل مرة. لإضافة وجه آخر، عليك حذف الوجه الحالي.\n\nقد يفتح قفل الهاتف بدون قصد بمجرد النظر إليه.\n\nويمكن لشخص يشبهك كثيرًا، مثل شقيقك التوأم، فتح قفل هاتفك.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">‏يمكنك حذف نموذج بصمة الإصبع أو إيقاف ميزة Pixel Imprint في أي وقت في \"الإعدادات\". يتم تخزين نماذج بصمات الأصابع على هاتفك حتى تحذفها.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">‏يمكنك أنت وطفلك حذف نموذج بصمة إصبعه أو إيقاف ميزة Pixel Imprint في أي وقت من \"الإعدادات\". يتم تخزين نماذج بصمة الإصبع على الهاتف حتى يتم حذفها.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">‏تتيح لك ميزة Nexus Imprint استخدام بصمة إصبعك للسماح بعمليات الشراء أو تسجيل الدخول إلى التطبيقات.\n\nعليك توخّي الحذر عند إضافة بصمات أصابع أشخاص آخرين، لأنّ أي بصمة منها تتيح لصاحبها تنفيذ تلك الإجراءات.\n\nملاحظة: لا يمكنك استخدام بصمة إصبعك لفتح قفل هذا الجهاز. للمزيد من المعلومات، يُرجى التواصل مع مشرف المؤسسة.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">تتعلّم ميزة \"البطارية التكيُّفية\" من استخدامك للهاتف وتعمل باستمرار على تحسين استهلاك التطبيقات للطاقة. ولإطالة عمر البطارية، قد تخفّض مستوى الأداء وتؤخّر الإشعارات.</string>
     <string name="smart_battery_summary" product="tablet">تطّلِع ميزة \"البطارية التكيُّفية\" على أنماط استخدام جهازك اللوحي من أجل تحسين كيفية استخدام التطبيقات للبطارية بشكل مستمر. لإطالة عمر البطارية، قد يؤدي ذلك إلى خفض الأداء وتأخير الإشعارات.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">الشاشة واللمس</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">السماح بميزة \"فتح الجهاز ببصمة الوجه\"</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">إعداد ميزة \"فتح الجهاز ببصمة الوجه\"</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">مزيد من المعلومات حول ميزة \"فتح الجهاز ببصمة الوجه\"</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">‏لمزيد من الراحة، يمكن إعداد ميزة \"فتح الجهاز ببصمة الوجه\" كخيار احتياطي إذا كانت أصابعك مبتلة أو باردة.\n\nيتم تخزين بصمات الأصابع على الجهاز فقط، ولا يتم إرسالها إلى Google مطلقًا.</string>
 </resources>

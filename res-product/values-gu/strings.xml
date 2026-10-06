@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">આગળની સ્ક્રીન પર, તમારા ફોનને તમારી આંખના લેવલ પર પકડી રાખો</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">ફેસ અનલૉક સુવિધાનો ઉપયોગ કરતી વખતે, તમારું માથું સીધું તમારા ફોનની બિલકુલ સામે રાખવાની જરૂર પડી શકે છે.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">તમારા ફોનને અનલૉક કરવા અથવા એ તમે જ છો તેની ચકાસણી કરવા માટે તમારા ચહેરાનો ઉપયોગ કરો, જેમ કે જ્યારે તમે ઍપમાં સાઇન ઇન કરો કે કોઈ ખરીદીને મંજૂરી આપો.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">જ્યારે તમે ઇચ્છતા ન હો, ત્યારે પણ ફોન સામે જોવાથી તે અનલૉક થઈ શકે છે. તમારા જેવી જ દેખાતી અન્ય વ્યક્તિ જેમ કે જોડિયા ભાઈ-બહેન દ્વારા અથવા જો કોઈ તમારા ફોનને તમારા ચહેરાની સામે પકડી રાખે તો પણ તે અનલૉક થઈ શકે છે.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">જ્યારે તેઓ ઇચ્છતા ન હોય, ત્યારે પણ ફોન સામે જોવાથી તે અનલૉક થઈ શકે છે. તેમના જેવી જ દેખાતી અન્ય વ્યક્તિ જેમ કે જોડિયા ભાઈ-બહેન દ્વારા અથવા જો કોઈ તેમના ફોનને તેમના ચહેરાની સામે પકડી રાખે તો પણ તે અનલૉક થઈ શકે છે.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">તમારા બાળકનો ફોન અનલૉક કરવા માટે તેમના ચહેરાનો ઉપયોગ કરવો એ સશક્ત પૅટર્ન, પિન અથવા પાસવર્ડનો ઉપયોગ કરવા કરતાં ઓછું સુરક્ષિત હોઈ શકે છે</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">તમારો ફોન અનલૉક કરવા માટે તમારા ચહેરાનો ઉપયોગ કરવો એ કોઈ સશક્ત પૅટર્ન, પિન કે પાસવર્ડ કરતાં કદાચ ઓછું સુરક્ષિત હોઈ શકે છે</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">ફોન અનલૉક કરવા અથવા એ તમે જ છો તેની ચકાસણી કરવા માટે, ફેસ અનલૉક સુવિધાને તમારી આંખો ખુલ્લી હોવાની જરૂર પડી શકે છે. તમે કોઈપણ સમયે સેટિંગમાં જઈને આ વિકલ્પ ચાલુ કરી શકો છો.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">ફોન અનલૉક કરવા અથવા એ તમારું બાળક જ છે તેની ચકાસણી કરવા માટે, ફેસ અનલૉક સુવિધાને તેમની આંખો ખુલ્લી હોવાની જરૂર પડી શકે છે. તમે અને તમારું બાળક કોઈપણ સમયે સેટિંગમાં જઈને આ વિકલ્પ ચાલુ કરી શકો છો.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">એ તમે જ છો તેની ચકાસણી કરવા માટે, ફેસ અનલૉક સુવિધા તમારા ચહેરાનું વિશેષ મૉડલ બનાવે છે. સેટઅપ દરમિયાન ચહેરાનું આ મૉડલ બનાવવા માટે, તમે જુદા-જુદા એંગલથી તમારા ચહેરાની છબીઓ લેશો.\n\nજ્યારે તમે ફેસ અનલૉક સુવિધાનો ઉપયોગ કરો, ત્યારે તમારા ચહેરાના મૉડલને અપડેટ કરવા માટે છબીઓનો ઉપયોગ કરવામાં આવે છે. તમારા ચહેરાનું મૉડલ બનાવવા માટે ઉપયોગમાં લેવાયેલી છબીઓ ક્યારેય પણ સ્ટોર કરવામાં આવતી નથી, પણ ચહેરાના મૉડલને તમારા ફોન પર સુરક્ષિત રીતે સ્ટોર કરવામાં આવે છે અને તે હંમેશાં તમારા ફોનમાં જ રહે છે. બધી પ્રક્રિયાઓ સુરક્ષિત રીતે તમારા ફોનમાં જ કરવામાં આવે છે.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">એ તમારું બાળક જ છે તેની ચકાસણી કરવા માટે, ફેસ અનલૉક સુવિધા તેમના ચહેરાનું વિશેષ મૉડલ બનાવે છે. સેટઅપ દરમિયાન ચહેરાનું આ મૉડલ બનાવવા માટે, તમારું બાળક જુદા-જુદા ખૂણેથી તેમના ચહેરાની છબીઓ લેશે.\n\nજ્યારે તેઓ ફેસ અનલૉક કરવાની સુવિધાનો ઉપયોગ કરે, ત્યારે તેમના ચહેરાના મૉડલને અપડેટ કરવા માટે છબીઓનો ઉપયોગ કરવામાં આવે છે. તેમના ચહેરાનું મૉડલ બનાવવા માટે ઉપયોગમાં લેવાયેલી છબીઓને સ્ટોર કરવામાં આવતી નથી, પણ ચહેરાના મૉડલને ફોન પર સુરક્ષિત રીતે સ્ટોર કરવામાં આવે છે અને તે હંમેશાં ફોનમાં જ રહે છે. બધી પ્રક્રિયાઓ સુરક્ષિત રીતે ફોનમાં જ કરવામાં આવે છે.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">સેટિંગમાં જઈને તમે કોઈપણ સમયે તમારા ચહેરાનું મૉડલ ડિલીટ કરી શકો છો અથવા ફેસ અનલૉક સુવિધા બંધ કરી શકો છો. જ્યાં સુધી ચહેરાના મૉડલ તમે ડિલીટ ન કરો, ત્યાં સુધી તેને ફોન પર સ્ટોર કરવામાં આવે છે.&lt;br&gt;&lt;br&gt;&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; પર વધુ જાણો.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">સેટિંગમાં જઈને તમે અને તમારું બાળક કોઈપણ સમયે તેમના ચહેરાનું મૉડલ ડિલીટ કરી શકો છો અથવા ફેસ અનલૉક સુવિધા બંધ કરી શકો છો. જ્યાં સુધી ચહેરાનાં મૉડલ ડિલીટ ન કરવામાં આવે, ત્યાં સુધી તેને ફોન પર સ્ટોર કરવામાં આવે છે.&lt;br&gt;&lt;br&gt;&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; પર વધુ જાણો.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">તમારા ફોનને અનલૉક કરવા અથવા ઍપમાં સાઇન ઇન કરવા કે કોઈ ખરીદીને મંજૂરી આપવા આ તમે જ છો તેની ચકાસણી કરવા માટે તમારા ચહેરાનો ઉપયોગ કરો.\n\nધ્યાનમાં રાખો:\nતમે એક સમયે એક જ ચહેરાનું સેટઅપ ધરાવી શકો છો. બીજો ચહેરો ઉમેરવા માટે વર્તમાન ચહેરો ડિલીટ કરો.\n\nજ્યારે તમે ઇચ્છતા ન હો, ત્યારે પણ ફોનની સામે જોવાથી તે અનલૉક થઈ શકે છે.\n\nતમારો ફોન તમારા જેવી દેખાતી વ્યક્તિ જેમ કે તમારા જેવા જ દેખાતા સિબ્લિંગ દ્વારા પણ અનલૉક થઈ શકે છે.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">તમે તમારી ફિંગરપ્રિન્ટનું મૉડલ ડિલીટ કરી શકો છો અથવા કોઈપણ સમયે સેટિંગમાં જઈને Pixel Imprint સુવિધાને બંધ કરી શકો છો. જ્યાં સુધી તમે ફિંગરપ્રિન્ટના મૉડલ ડિલીટ ન કરો, ત્યાં સુધી તેને ફોન પર સ્ટોર કરવામાં આવે છે.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">સેટિંગમાં જઈને તમે અને તમારું બાળક કોઈપણ સમયે તેમના ફિંગરપ્રિન્ટનું મૉડલ ડિલીટ કરી શકો છો અથવા Pixel Imprint સુવિધા બંધ કરી શકો છો. જ્યાં સુધી ફિંગરપ્રિન્ટના મૉડલ ડિલીટ ન કરવામાં આવે, ત્યાં સુધી તેને ફોન પર સ્ટોર કરવામાં આવે છે.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint વડે, તમે ખરીદીઓ અધિકૃત કરવા અથવા ઍપમાં સાઇન ઇન કરવા માટે તમારી ફિંગરપ્રિન્ટનો ઉપયોગ કરી શકો છો.\n\nતમે કોની ફિંગરપ્રિન્ટ ઉમેરો છે તે બાબતે સાવચેત રહો. ઉમેરવામાં આવેલી કોઈપણ ફિંગરપ્રિન્ટ વડે આ બાબતો કરી શકાશે.\n\nનોંધ: તમે આ ડિવાઇસને અનલૉક કરવા માટે તમારી ફિંગરપ્રિન્ટનો ઉપયોગ કરી શકતા નથી. વધુ માહિતી માટે, તમારી સંસ્થાના ઍડમિનનો સંપર્ક કરો.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">ઍપ દ્વારા બૅટરીનો ઉપયોગ કેવી રીતે થાય છે તે સતત ઑપ્ટિમાઇઝ કરવા માટે અડૅપ્ટિવ બૅટરી તમારા ફોનના વપરાશમાંથી શીખે છે. બૅટરીની આવરદા વધારવા માટે, તે પર્ફોર્મન્સમાં ઘટાડો કરી શકે છે અને નોટિફિકેશન વિલંબિત કરી શકે છે.</string>
     <string name="smart_battery_summary" product="tablet">ઍપ દ્વારા બૅટરીનો ઉપયોગ કેવી રીતે થાય છે તે સતત ઑપ્ટિમાઇઝ કરવા માટે અડૅપ્ટિવ બૅટરી તમારા ટૅબ્લેટના વપરાશમાંથી શીખે છે. બૅટરી આવરદા વધારવા માટે, તે પર્ફોર્મન્સમાં ઘટાડો કરી શકે છે અને નોટિફિકેશન વિલંબિત કરી શકે છે.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ડિસ્પ્લે અને ટચ</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">ફેસ અનલૉક સુવિધાને મંજૂરી આપો</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">ફેસ અનલૉક સુવિધાનું સેટઅપ કરો</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">ફેસ અનલૉક સુવિધા વિશે વધુ જાણો</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">વધારાની સુવિધા માટે, જ્યારે તમારી આંગળીઓ ભીની કે ઠંડી હોય ત્યારે બૅકઅપ તરીકે ઉપયોગ કરવા માટે ફેસ અનલૉકનું સેટઅપ કરો.\n\nતમારી ફિંગરપ્રિન્ટ માત્ર ડિવાઇસ પર સ્ટોર કરવામાં આવે છે અને ક્યારેય તે Googleને મોકલવામાં આવતી નથી.</string>
 </resources>

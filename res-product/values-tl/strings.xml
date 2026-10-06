@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Sa susunod na screen, hawakan ang iyong telepono nang kapantay ng mata</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Kapag gumagamit ng Pag-unlock Gamit ang Mukha, baka kailanganin mong mas direktang humarap sa iyong telepono.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Gamitin ang iyong mukha para i-unlock ang telepono mo o i-verify na ikaw ito, tulad ng kapag nagsa-sign in ka sa mga app o nag-aapruba ng pagbili.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Kapag tumingin ka sa telepono, puwede itong ma-unlock nang hindi sinasadya. Ang iyong telepono ay puwede ring ma-unlock ng taong kamukha mo, tulad ng iyong kapatid na kamukhang kamukha mo, o kung may magtatapat nito sa iyong mukha.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Kapag tumingin siya sa telepono, puwede itong ma-unlock nang hindi sinasadya. Ang kanyang telepono ay puwede ring ma-unlock ng taong kamukha niya, tulad ng kanyang kapatid na kamukhang kamukha niya, o kung may magtatapat nito sa kanyang mukha.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Posibleng hindi kasing-secure ng mahirap hulaang pattern, PIN, o password ang paggamit ng mukha ng iyong anak para i-unlock ang kanyang telepono.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Posibleng hindi gaanong secure ang paggamit ng iyong mukha para i-unlock ang telepono mo kumpara sa malakas na pattern, PIN, o password</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Posibleng kailanganin ng Pag-unlock Gamit ang Mukha na bukas ang iyong mga mata para i-unlock ang telepono o i-verify na ikaw ito. Magagawa mong i-on ang opsyong ito anumang oras sa Mga Setting.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Posibleng kailanganin ng Pag-unlock Gamit ang Mukha na bukas ang mga mata ng iyong anak para i-unlock ang telepono o i-verify na siya ito. Magagawa mo at ng iyong anak na i-on ang opsyong ito anumang oras sa Mga Setting.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Gumagawa ang Pag-unlock Gamit ang Mukha ng natatanging modelo ng iyong mukha para i-verify na ikaw ito. Para magawa ang face model na ito habang nagse-set up, kukuha ka ng mga larawan ng iyong mukha mula sa iba\'t ibang anggulo.\n\nKapag ginamit mo ang Pag-unlock Gamit ang Mukha, gagamitin ang mga larawan para i-update ang iyong face model. Hindi kailanman sino-store ang mga larawang ginamit para gawin ang iyong face model, pero secure na naka-store ang face model sa telepono mo at hindi ito kailanman lalabas sa telepono. Sa iyong telepono secure na nangyayari ang lahat ng pagpoproseso.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Gumagawa ang Pag-unlock Gamit ang Mukha ng natatanging modelo ng mukha ng iyong anak para i-verify na siya iyon. Para magawa ang face model na ito habang nagse-set up, kukuha ang iyong anak ng mga larawan ng kanyang mukha mula sa iba\'t ibang anggulo.\n\nKapag ginamit niya ang Pag-unlock Gamit ang Mukha, gagamitin ang mga larawan para i-update ang kanyang face model. Hindi sino-store ang mga larawang ginamit para gawin ang kanyang face model, pero secure na naka-store ang face model sa telepono at hindi ito kailanman lalabas sa telepono. Sa telepono secure na nangyayari ang lahat ng pagpoproseso.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Puwede mong i-delete ang iyong face model o i-off ang Pag-unlock Gamit ang Mukha anumang oras sa Mga Setting. Sino-store sa telepono ang mga face model hanggang sa i-delete mo ang mga ito.&lt;br&gt;&lt;br&gt;Matuto pa sa &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Magagawa mo at ng iyong anak na i-delete ang kanyang face model o i-off ang Pag-unlock Gamit ang Mukha anumang oras sa Mga Setting. Naka-store sa telepono ang mga face model hanggang sa i-delete ang mga ito.&lt;br&gt;&lt;br&gt;Matuto pa sa &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Gamitin ang iyong mukha para i-unlock ang telepono mo o i-verify na ikaw ito, halimbawa, kapag nagsa-sign in ka sa mga app o nag-aapruba ka ng pagbili.\n\nTandaan:\nIsang mukha lang ang puwedeng naka-set up para sa iyo sa bawat pagkakataon. Para magdagdag pa ng mukha, i-delete ang kasalukuyang mukha.\n\nKapag tumingin ka sa telepono, puwede mong hindi sinasadyang ma-unlock ito.\n\nPuwedeng ma-unlock ng isang taong may malaking pagkakahawig sa iyo ang telepono mo, gaya ng kapatid na kamukha mo.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Puwede mong i-delete ang modelo ng iyong fingerprint, o i-off ang Pixel Imprint anumang oras sa Mga Setting. Naka-store sa telepono ang mga modelo ng fingerprint hanggang sa i-delete mo ang mga ito.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Magawa mo at ng iyong anak na i-delete ang modelo ng kanyang fingerprint, o i-off ang Pixel Imprint anumang oras sa Mga Setting. Naka-store sa telepono ang mga modelo ng fingerprint hanggang sa i-delete ang mga ito.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Sa Nexus Imprint, magagamit mo ang iyong fingerprint para pahintulutan ang mga pagbili at pag-sign in sa mga app.\n\nMag-ingat sa kung kaninong mga fingerprint ang idaragdag. Magagawa ng anumang idinagdag na fingerprint ang mga bagay na ito.\n\nTandaan: Hindi mo magagamit ang iyong fingerprint para ma-unlock ang device na ito. Para sa higit pang impormasyon, makipag-ugnayan sa admin ng iyong organisasyon.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Natututo ang Adaptive Battery sa paggamit mo ng telepono para patuloy na i-optimize kung paano ginagamit ng mga app ang baterya. Para mapatagal ang baterya, posibleng bawasan nito ang performance at i-delay nito ang mga notification.</string>
     <string name="smart_battery_summary" product="tablet">Natututo ang Adaptive Battery sa paggamit mo ng tablet para patuloy na i-optimize kung paano ginagamit ng mga app ang baterya. Para mapatagal ang baterya, posibleng bawasan nito ang performance at i-delay nito ang mga notification.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Display at touch</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Payagan ang Pag-unlock Gamit ang Mukha</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">I-set up ang Pag-unlock Gamit ang Mukha</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Matuto pa tungkol sa Pag-unlock Gamit ang Mukha</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Para sa karagdagang ginhawa, i-set up ang Pag-unlock Gamit ang Mukha bilang backup kapag basa o malamig ang iyong mga daliri.\n\nNaka-store lang sa device at hindi kailanman ipinapadala sa Google ang iyong mga fingerprint.</string>
 </resources>

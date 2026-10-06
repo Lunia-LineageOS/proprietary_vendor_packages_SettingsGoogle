@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">اگلی اسکرین پر، اپنے فون کو آنکھ کے سامنے پکڑے رکھیں</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">فیس اَنلاک کی خصوصیت کا استعمال کرتے وقت، آپ کے سر کو فون کے براہ راست سامنے ہونے کی ضرورت ہو سکتی ہے۔</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">اپنا فون غیر مقفل کرنے یا یہ توثیق کرنے کیلئے کہ یہ آپ ہی ہیں اپنا چہرہ استعمال کریں، جیسے جب آپ ایپس میں سائن ان کرتے ہیں یا کسی خریداری کی اجازت دیتے ہیں۔</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">فون کو غیر ارادتاً دیکھنے سے بھی یہ غیر مقفل ہو سکتا ہے۔ آپ سے بہت زیادہ مشابہ کوئی بھی شخص، جیسے کوئی ہم شکل بھائی بہن، آپ کے فون کو غیر مقفل کر سکتا ہے، یا اگر کوئی اسے آپ کے چہرے کے سامنے رکھ دے تو بھی یہ غیر مقفل ہو سکتا ہے۔</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">غیر ارادتاً طور پر بھی فون کو دیکھنا اس کو غیر فعال کر سکتا ہے۔ اس کے فون کو اس سے بہت زیادہ مشابہ کسی شخص کے ذریعے بھی غیر مقفل کیا جا سکتا ہے جیسے کوئی ہم شکل بھائی بہن یا اگر کوئی اسے اس کے چہرے کے سامنے رکھ دے تو بھی غیر مقفل ہو سکتا ہے۔</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">‏اپنے بچے کے فون کو غیر مقفل کرنے کے لیے اس کا چہرہ استعمال کرنا ایک مضبوط پیٹرن، PIN یا پاس ورڈ کی بنسبت کم محفوظ ہو سکتا ہے</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">‏اپنے فون کو غیر مقفل کرنے کے لیے اپنے چہرے کا استعمال مضبوط پیٹرن، PIN یا پاس ورڈ سے کم محفوظ ہو سکتا ہے</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">فون کو غیر مقفل کرنے یا یہ توثیق کرنے کے لیے کہ یہ آپ ہی ہیں چہرے کے ذریعے غیر مقفل کرنے کا آپ کی آنکھیں کھلی رکھنے کا تقاضہ ہو سکتا ہے۔ آپ ترتیبات میں کسی بھی وقت اس اختیار کو تبدیل کر سکتے ہیں۔</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">فون کو غیر مقفل کرنے یا اس کی توثیق کرنے کے لیے کہ یہ وہی بچہ ہے، چہرے کے ذریعے غیر مقفل کرنے کا آپ کے بچے کی آنکھیں کھلی رکھنے کا تقاضہ ہو سکتا ہے۔ آپ اور آپ کا بچہ ترتیبات میں کسی بھی وقت اس اختیار کو تبدیل کر سکتے ہیں۔</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">فیس اَنلاک کی خصوصیت آپ کے چہرے کا ایک منفرد ماڈل تخلیق کرتی ہے تاکہ یہ توثیق کی جا سکے کہ یہ آپ ہی ہیں۔ سیٹ اپ کے دوران یہ چہرے کا ماڈل تخلیق کرنے کے لیے آپ اپنے چہرے کی تصاویر مختلف زاویوں سے لیں گے۔\n\nجب آپ فیس اَنلاک کی خصوصیت استعمال کرتے ہیں تو تصاویر آپ کے چہرے کا ماڈل اپ ڈیٹ کرنے کے لیے استعمال کی جاتی ہیں۔ آپ کے چہرے کا ماڈل تخلیق کرنے کے لیے استعمال کی جانے والی تصاویر کو کبھی بھی اسٹور نہیں کیا جاتا ہے لیکن چہرے کا ماڈل آپ کے فون پر محفوظ طریقے سے اسٹور کیا جاتا ہے اور یہ کبھی بھی فون سے باہر نہیں جاتا ہے۔ آپ کے فون پر سبھی کاروائیاں محفوظ طریقے سے ہوتی ہیں۔</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">فیس اَنلاک کی خصوصیت آپ کے بچے کے چہرے کا ایک منفرد ماڈل تخلیق کرتی ہے تاکہ یہ توثیق کی جا سکے کہ یہ وہی بچہ ہے۔ سیٹ اپ کے دوران چہرے کا یہ ماڈل تخلیق کرنے کے لیے آپ کا بچہ اپنے چہرے کی تصاویر مختلف زاویوں سے لے گا۔\n\nجب وہ فیس اَنلاک کی خصوصیت کا استعمال کرتا ہے تو تصاویر اس کے چہرے کا ماڈل اپ ڈیٹ کرنے کے لیے استعمال کی جاتی ہیں۔ اس کے چہرے کا ماڈل تخلیق کرنے کے لیے استعمال کی جانے والی تصاویر کو اسٹور نہیں کیا جاتا ہے لیکن چہرے کا ماڈل فون پر محفوظ طریقے سے اسٹور کیا جاتا ہے اور یہ کبھی بھی فون سے باہر نہیں جاتا ہے۔ فون پر سبھی کارروائیاں محفوظ طریقے سے ہوتی ہیں۔</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">‏آپ کسی بھی وقت ترتیبات میں اپنے چہرے کا ماڈل حذف کر سکتے ہیں یا فیس اَنلاک آف کر سکتے ہیں۔ چہرے کے ماڈلز فون پر اس وقت تک محفوظ رہتے ہیں جب تک آپ انہیں حذف نہیں کر دیتے۔&lt;br&gt;&lt;br&gt; اس لنک &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; پر مزید جانیں۔</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">‏آپ اور آپ کا بچہ اپنے چہرے کے ماڈل کو حذف کر سکتے ہیں یا ترتیبات میں کسی بھی وقت فیس اَنلاک کو آف کر سکتے ہیں۔ چہرے کے ماڈلز فون پر اس وقت تک اسٹور ہوتے ہیں جب تک انہیں حذف نہیں کر دیا جاتا۔&lt;br&gt;&lt;br&gt;&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; پر مزید جانیں۔</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">اپنا فون غیر مقفل کرنے یا یہ توثیق کرنے کے لیے کہ یہ آپ ہی ہیں، اپنا چہرہ استعمال کریں، جیسے جب آپ ایپس میں سائن ان کرتے ہیں یا خریداری کو منظور کرتے ہیں۔\n\nذہن میں رکھیں:\nآپ ایک وقت میں صرف ایک چہرہ سیٹ کر سکتے ہیں۔ دوسرا چہرہ شامل کرنے کے لیے، موجودہ چہرے کو حذف کریں۔\n\nجب آپ کا ارادہ نہ بھی ہو تب بھی فون پر دیکھنے سے وہ غیر مقفل ہو سکتا ہے۔\n\nآپ سے بہت زیادہ مشابہ کوئی بھی شخص، جیسے کوئی ہم شکل بھائی بہن، آپ کا فون غیر مقفل کر سکتا ہے۔\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">‏آپ اپنے فنگر پرنٹ کے ماڈل کو حذف کر سکتے ہیں یا ترتیبات میں کسی بھی وقت Pixel Imprint کو آف کر سکتے ہیں۔ فنگر پرنٹ کے ماڈلز فون پر تب تک اسٹور ہوتے ہیں جب تک آپ انہیں حذف نہیں کرتے ہیں۔</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">‏آپ اور آپ کا بچہ اپنے فنگر پرنٹ ماڈل کو حذف کر سکتے ہیں یا ترتیبات میں کسی بھی وقت Pixel Imprint کو آف کر سکتے ہیں۔ فنگر پرنٹ کے ماڈلز کو فون پر تب تک اسٹور کیا جاتا ہے جب تک انہیں حذف نہیں کیا جاتا ہے۔</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">‏‫Nexus Imprint کے ساتھ، آپ اپنے فنگر پرنٹ کو خریداریوں کی اجازت دینے یا ایپس میں سائن ان کرنے کیلئے استعمال کر سکتے ہیں۔\n\nکسی کے فنگر پرنٹس شامل کرتے وقت احتیاط برتیں۔ کسی بھی شامل کردہ فنگر پرنٹ سے یہ کام کیے جا سکتے ہیں۔\n\nنوٹ: آپ اس آلہ کو غیر مقفل کرنے کیلئے اپنا فنگر پرنٹ استعمال نہیں کر سکتے۔ مزید معلومات کیلئے اپنی تنظیم کے منتظم سے رابطہ کریں۔</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">تغیر پذیر بیٹری آپ کے فون کے استعمال کی بنیاد پر ایپس بیٹری کو کس طرح استعمال کرتی ہے اسے مسلسل بہتر بنانا سیکھتی ہے۔ بیٹری لائف کو بڑھانے کے لیے، یہ کارکردگی کم کر سکتی اور اطلاعات میں تاخیر کر سکتی ہے۔</string>
     <string name="smart_battery_summary" product="tablet">تغیر پذیر بیٹری آپ کے ٹیبلیٹ کے استعمال کی بنیاد پر ایپس بیٹری کو کس طرح استعمال کرتی ہے اسے مسلسل بہتر بنانا سیکھتی ہے۔ بیٹری لائف کو بڑھانے کے لیے، یہ کارکردگی کم کر سکتی اور اطلاعات میں تاخیر کر سکتی ہے۔</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ڈسپلے اور ٹچ</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">فیس اَنلاک کی اجازت دیں</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">فیس اَنلاک سیٹ اپ کریں</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">فیس اَنلاک کے بارے میں مزید جانیں</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">‏اضافی سہولت کیلئے، آپ کی انگلیوں کی گیلے یا سرد ہونے کی صورت میں بیک اپ کیلئے فیس اَنلاک سیٹ اپ کریں۔\n\nآپ کے فنگر پرنٹس صرف آلے پر اسٹور ہوتے ہیں اور کبھی بھی Google کو نہیں بھیجے جاتے۔</string>
 </resources>

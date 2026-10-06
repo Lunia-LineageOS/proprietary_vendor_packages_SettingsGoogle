@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Кийинки экранда телефонуңузду көзүңүздүн деңгээлинде кармаңыз</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Телефондун кулпусун жүзүңүз менен ачканда, телефонду жүзүңүзгө алып келишиңиз керек.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Манжаңыздын изи менен телефонуңуздун кулпусун ачыңыз же өзүңүздү ырастаңыз (мисалы, колдонмолорго кирүүдө же кандайдыр бир нерсе сатып алып жатканда).</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Телефонду карап койсоңуз эле кулпусу ачылат. Телефонуңуздун кулпусун сизге аябай окшош адам (мисалы, эгизиңиз), ошондой эле кимдир бирөө телефонуңузду жүзүңүзгө жакын алып келип ачып алышы мүмкүн.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Ал телефонду карап койсо эле кулпусу ачылат. Анын телефонунун кулпусун ага аябай окшош адам (мисалы, эгизи), ошондой эле кимдир бирөө телефонун анын жүзүнө жакын алып келип ачып алышы мүмкүн.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Балаңыздын телефонунун кулпусун Жүзүнөн таанып ачуу функциясы менен ачуу татаал графикалык ачкыч, PIN код же сырсөз менен ачкандагыдай коопсуз болбошу мүмкүн</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Жүзүнөн таанып ачуу функциясына караганда телефонуңузду графикалык ачкыч, PIN код же сырсөз менен коргоо бир кыйла коопсуз</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Көздөрүңүз жабык болгондо жүзүнөн таанып ачуу функциясынын параметрлеринен телефондун кулпусун ачууга же өзүңүздү аныктаганга тыюу салсаңыз болот.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Жүзүнөн таанып ачуу функциясы телефондун кулпусун ачуу үчүн балаңыздан көздөрүн ачып туруусун талап кылышы мүмкүн, же болбосо, аныктыгын ырастоо керек болот. Бул функцияны Параметрлерге өтүп, өзүңүз же балаңыз каалаган убакта өчүрүп коё аласыңар.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Жүзүнөн таанып ачуу функциясы сиз экениңизди ырастоо үчүн жүзүңүздүн өзгөчө үлгүсүн түзөт. Жүздүн үлгүсүн түзүү үчүн жүзүңүздү ар тараптан сүрөткө тартышыңыз керек.\n\nЖүзүнөн таанып ачуу функциясын колдонгонуңузда жүзүңүздүн үлгүсү сүрөттөр аркылуу жаңыртылат. Жүзүңүздүн үлгүсүн түзүү үчүн колдонулган сүрөттөр эч качан сакталбайт, ал эми жүздүн үлгүсү телефонуңузда гана сакталат. Сүрөттөр телефонуңузда гана иштетилет.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Жүзүнөн таанып ачуу функциясы балаңыздын жүзүнүн үлгүсү аркылуу аны тааныйт. Мындай үлгүнү түзүү үчүн балаңыздын жүзүн ар тараптан сүрөткө тартуу керек.\n\nЖүзүнөн таанып ачуу функциясы колдонулган сайын алынган сүрөттөр менен үлгү жаңырып турат. Анын жүзүнүн үлгүсүн түзүү үчүн колдонулган сүрөттөр сакталбайт, ал эми жүзүнүн үлгүсү телефондо гана сакталат. Сүрөттөр телефондо гана иштетилет.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Жүзүңүздүн үлгүсүн же Жүзүнөн таанып ачуу функциясын Параметрлерден каалаган убакта өчүрсөңүз болот. Жүздүн үлгүлөрү өчүрүлмөйүнчө телефондо сакталат.&lt;br&gt;&lt;br&gt;Кеңири маалымат: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Балаңыз жүзүнүн үлгүсүн же Жүзүнөн таанып ачуу функциясын Параметрлерден каалаган убакта өчүрө алат. Жүздүн үлгүлөрү өчүрүлмөйүнчө телефондо сакталат.&lt;br&gt;&lt;br&gt;Кеңири маалымат: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Жүзүңүз менен телефонуңуздун кулпусун ачып же өзүңүздү ырастаңыз (мисалы, колдонмолорго кирүү же кандайдыр бир нерсени сатып алуу үчүн).\n\nКөңүл буруңуз:\nБир убакта бир гана жүздүн үлгүсүн кошо аласыз. Башка жүздүн үлгүсүн кошуу үчүн учурдагысын өчүрүңүз.\n\nЭкранды карап койсоңуз, түзмөгүңүздүн кулпусу ачылып калышы мүмкүн.\n\nТелефонуңуздун кулпусун сизге аябай окшош адам (мисалы, эгизиңиз) ачып алышы мүмкүн.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Манжаңыздын изинин үлгүсүн, же болбосо Pixel Imprint функциясын каалаган убакта Параметрлерге өтүп, өчүрсөңүз болот. Манжа изинин үлгүлөрү өчүрүлмөйүнчө телефонуңузда сакталат.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Балаңыз экөөңөр манжа изинин үлгүлөрүн же Pixel Imprint функциясын каалаган убакта Параметрлерге өтүп, өчүрүп койсоңор болот. Манжа изинин үлгүлөрү өчүрүлмөйүнчө телефондо сакталат.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint менен манжа изиңизди кандайдыр бир нерсени сатып алып жатканыңызды ырастап же колдонмолорго кирүү үчүн пайдалана аласыз.\n\nКимдир бирөөнүн манжа изин кошуп жатканыңызда этият болуңуз. Манжа издери кошулган адамдардын баары бул нерселерди аткара алышат.\n\nЭскертүү: Манжа изиңизди бул түзмөктүн кулпусун ачууга колдоно албайсыз. Көбүрөөк маалымат үчүн ишканаңыздын администраторуна кайрылыңыз.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Adaptive Battery телефонуңуздун колдонулушун талдап, колдонмолордун батареяны керектешин оптималдаштырып турат. Функция батареяны көбүрөөк убакытка жеткиргени менен, түзмөк начарыраак иштеп, билдирмелер кечигип келиши мүмкүн.</string>
     <string name="smart_battery_summary" product="tablet">Adaptive Battery планшетиңиздин колдонулушун талдап, колдонмолордун батареяны сарпташын оптималдаштырып турат. Бул функция батареянын кубатынын мөөнөтүн узартуу үчүн майнаптуулукту азайтып, билдирмелерди кечиктириши мүмкүн.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Экран жана тийүү</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Жүзүнөн таанып ачууга уруксат берүү</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Жүзүнөн таанып ачуу функциясын тууралоо</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Жүзүнөн таанып ачуу тууралуу кеңири маалымат</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Манжаларыңыз нымдуу же муздак болгондо колдонуу үчүн Жүзүнөн таанып ачуу функциясын кошумча ыкма катары тандаңыз.\n\nМанжаңыздын издери түзмөктө гана сакталат жана эч качан Google\'га жөнөтүлбөйт.</string>
 </resources>

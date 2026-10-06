@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Hou jou foon op die volgende skerm op ooghoogte</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Wanneer jy Gesigslot gebruik, sal jou kop dalk meer direk voor jou foon moet wees.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Gebruik jou gesig om jou foon te ontsluit of te verifieer dat dit jy is, soos wanneer jy by apps aanmeld of ’n aankoop goedkeur.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">As jy na die foon kyk, kan dit ontsluit selfs al het jy nie bedoel om dit te doen nie. Jou foon kan ook ontsluit word deur iemand wat baie soos jy lyk, soos ’n identiese broer of suster, of wanneer iemand dit voor jou gesig hou.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">As jou kind na die foon kyk, kan dit ontsluit selfs al het hulle nie bedoel om dit te doen nie. Hul foon kan ook ontsluit word deur iemand wat baie soos hulle lyk, soos ’n identiese broer of suster, of wanneer iemand dit voor jou kind se gesig hou.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Die gebruik van jou kind se gesig om hul foon te ontsluit, is dalk minder veilig as ’n sterk patroon, PIN of wagwoord.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Die gebruik van jou gesig om jou foon te ontsluit, is dalk minder veilig as ’n sterk patroon, PIN of wagwoord.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Gesigslot kan vereis dat jou oë oop moet wees om die foon te ontsluit of te verifieer dat dit jy is. Jy kan hierdie opsie enige tyd in Instellings afskakel.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Gesigslot kan vereis dat jou kind se oë oop moet wees om die foon te ontsluit of te verifieer dat dit hulle is. Jy en jou kind kan enige tyd hierdie opsie in Instellings afskakel.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Gesigslot skep ’n unieke model van jou gesig om te verifieer dis jy. Jy sal jou gesig uit verskillende hoeke afneem om hierdie gesigmodel tydens die opstelling te skep.\n\nWanneer jy Gesigslot gebruik, word prente gebruik om jou gesigmodel op te dateer. Prente wat gebruik word om jou gesigmodel te skep, word nooit geberg nie. Die gesigmodel word veilig op jou foon geberg en verlaat nooit die foon nie. Alle verwerking vind veilig op jou foon plaas.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Gesigslot skep ’n unieke model van jou kind se gesig om te verifieer dat dit hulle is. Jou kind sal hul gesig tydens die opstelling uit verskillende hoeke afneem om hierdie gesigmodel te skep.\n\nWanneer jou kind Gesigslot gebruik, word prente gebruik om hul gesigmodel op te dateer. Prente wat gebruik word om hul gesigmodel te skep, word nie geberg nie. Die gesigmodel word egter veilig op die foon geberg en verlaat nooit die foon nie. Alle verwerking vind veilig op die foon plaas.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Jy kan enige tyd in Instellings jou gesigmodel uitvee of Gesigslot afskakel. Gesigmodelle word op die foon geberg totdat jy hulle uitvee.&lt;br&gt;&lt;br&gt;Kom meer te wete by &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Jy en jou kind kan enige tyd in Instellings hul gesigmodel uitvee of Gesigslot afskakel. Gesigmodelle word op die foon geberg totdat hulle uitgevee word.&lt;br&gt;&lt;br&gt;Kom meer te wete by &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Gebruik jou gesig om jou foon te ontsluit of om te verifieer dat dit jy is, soos wanneer jy by apps aanmeld of ’n aankoop goedkeur.\n\nHou in gedagte:\nNet een gesig kan op ’n slag opgestel wees. Vee die huidige gesig uit as jy ’n ander een wil byvoeg.\n\nAs jy na die foon kyk, kan dit ontsluit word wanneer dit nie die bedoeling is nie.\n\nJou foon kan ontsluit word deur iemand wat baie soos jy lyk, soos ’n identiese broer of suster.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Jy kan enige tyd in Instellings jou vingerafdrukmodel uitvee of Pixel Imprint afskakel. Vingerafdrukmodelle word op die foon geberg totdat jy hulle uitvee.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Jy en jou kind kan enige tyd in Instellings hul vingerafdrukmodel uitvee of Pixel Imprint afskakel. Vingerafdrukmodelle word op die foon geberg totdat hulle uitgevee word.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Met Nexus Imprint kan jy jou vingerafdruk gebruik om aankope te magtig of by apps aan te meld.\n\nWees versigtig wie se vingerafdrukke jy byvoeg. Enige vingerafdrukke wat bygevoeg word, sal hierdie goed kan doen.\n\nLet wel: Jy kan nie jou vingerafdruk gebruik om hierdie toestel te ontsluit nie. Kontak jou organisasie se admin vir meer inligting.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Aanpasbare Battery leer by jou foongebruik om deurlopend te optimeer hoe apps batterykrag gebruik. Dit kan werkverrigting verlaag en kennisgewings vertraag om batterylewe te verleng.</string>
     <string name="smart_battery_summary" product="tablet">Aanpasbare Battery leer by jou tabletgebruik om deurlopend te optimeer hoe apps batterykrag gebruik. Dit kan werkverrigting verlaag en kennisgewings vertraag om batterylewe te verleng.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Skerm en raak</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Laat Gesigslot toe</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Stel Gesigslot op</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Kry meer inligting oor Gesigslot</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Jy kan vir meer gerief Gesigslot opstel as ’n rugsteun vir wanneer jou vingers nat of koud is.\n\nJou vingerafdrukke word net op die toestel gestoor en nooit na Google toe gestuur nie.</string>
 </resources>

@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Pēc pāriešanas uz nākamo ekrānu turiet tālruni acu līmenī</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Izmantojot autorizāciju pēc sejas, galvai jābūt tieši pretī tālrunim.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Izmantojiet seju, lai atbloķētu tālruni vai apstiprinātu savu identitāti, piemēram, pierakstoties lietotnēs vai apstiprinot pirkumu.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Paskatoties uz tālruni, tas var tikt nejauši atbloķēts. Tālruni var atbloķēt arī jums līdzīga persona, piemēram, identiskais dvīnis, vai arī cita persona, pavēršot tālruni pret jūsu seju.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Paskatoties uz tālruni, tas var tikt nejauši atbloķēts. Tālruni var atbloķēt arī jūsu bērnam līdzīga persona, piemēram, identiskais dvīnis, vai arī cita persona, pavēršot tālruni pret bērna seju.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Autorizācijas pēc sejas izmantošana, lai atbloķētu bērna tālruni, var būt mazāk droša nekā sarežģīta kombinācija, PIN vai parole.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Tālruņa atbloķēšana, izmantojot sejas atpazīšanu, var būt mazāk droša nekā sarežģīta kombinācija, PIN vai parole</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Varat iestatīt, lai tālruņa atbloķēšana vai identitātes apstiprināšana ar autorizāciju pēc sejas darbotos tikai tad, ja jūsu acis ir atvērtas. Jebkurā laikā varat ieslēgt šo opciju sadaļā Iestatījumi.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Varat iestatīt, lai tālruņa atbloķēšana vai identitātes apstiprināšana ar autorizāciju pēc sejas darbotos tikai tad, ja bērna acis ir atvērtas. Jebkurā laikā jūs vai jūsu bērns varat šo opciju ieslēgt sadaļā Iestatījumi.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Iestatot autorizāciju pēc sejas, tiek izveidots unikāls jūsu sejas modelis jūsu identitātes apstiprināšanai. Lai iestatīšanas laikā izveidotu šo sejas modeli, jūs uzņemsiet savas sejas attēlus no dažādiem leņķiem.\n\nIzmantojot autorizāciju pēc sejas, sejas modeļa atjaunināšanai tiek izmantoti attēli. Sejas modeļa izveidei izmantotie attēli nekad netiek saglabāti, savukārt sejas modelis tiek droši glabāts jūsu tālrunī un vienmēr atrodas tikai tālrunī. Apstrāde tiek veikta drošā veidā un tikai jūsu tālrunī.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Iestatot autorizāciju pēc sejas, tiek izveidots unikāls jūsu bērna sejas modelis viņa identitātes apstiprināšanai. Lai iestatīšanas laikā izveidotu šo sejas modeli, jūsu bērns uzņems savas sejas attēlus no dažādiem leņķiem.\n\nIzmantojot autorizāciju pēc sejas, sejas modeļa atjaunināšanai tiek izmantoti attēli. Sejas modeļa izveidei izmantotie attēli netiek saglabāti, savukārt sejas modelis tiek droši glabāts jūsu bērna tālrunī un vienmēr atrodas tikai tālrunī. Apstrāde tiek veikta drošā veidā un tikai bērna tālrunī.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Varat jebkurā laikā dzēst sejas modeli vai iestatījumos izslēgt autorizāciju pēc sejas. Sejas modeļi tiek glabāti tālrunī, līdz jūs tos izdzēšat.&lt;br&gt;&lt;br&gt;Uzziniet vairāk vietnē &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Jūs un jūsu bērns varat jebkurā laikā dzēst sejas modeli vai iestatījumos izslēgt autorizāciju pēc sejas. Sejas modeļi tiek glabāti tālrunī, līdz tie tiek izdzēsti.&lt;br&gt;&lt;br&gt;Uzziniet vairāk vietnē &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Izmantojiet autorizāciju pēc sejas, lai atbloķētu tālruni vai apstiprinātu savu identitāti, piemēram, pierakstoties lietotnēs vai apstiprinot pirkumu.\n\nSvarīga informācija!\nVienlaikus var iestatīt tikai vienu seju. Lai pievienotu citu seju, dzēsiet pašreizējo seju.\n\nSkatoties uz tālruni, tas var tikt nejauši atbloķēts.\n\nJūsu tālruni var atbloķēt jums līdzīga persona, piemēram, identiskais dvīnis.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Varat jebkurā laikā izdzēst pirksta nospieduma modeli vai iestatījumos izslēgt funkciju Pixel Imprint. Pirkstu nospiedumu modeļi tiek glabāti tālrunī, līdz jūs tos izdzēšat.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Iestatījumos jūs un jūsu bērns varat jebkurā laikā dzēst pirksta nospieduma modeli vai izslēgt funkciju Pixel Imprint. Pirkstu nospiedumu modeļi tiek glabāti tālrunī, līdz tie tiek dzēsti.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Izmantojot Nexus Imprint, ar pirksta nospiedumu varat autorizēt pirkumus vai pierakstīties lietotnēs.\n\nPievienojiet tikai uzticamu personu pirkstu nospiedumus. Jebkurš pievienotais pirksta nospiedums ļauj veikt šīs darbības.\n\nPiezīme. Pirksta nospiedumu nevar izmantot šīs ierīces atbloķēšanai. Lai iegūtu plašāku informāciju, sazinieties ar savas organizācijas administratoru.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Adaptīvais akumulators nepārtraukti optimizē lietotņu patērēto akumulatora enerģiju, ņemot vērā to, kā jūs lietojat savu tālruni. Lai palielinātu akumulatora darbības ilgumu, var tikt ierobežota veiktspēja un aizkavēta paziņojumu piegāde.</string>
     <string name="smart_battery_summary" product="tablet">Adaptīvais akumulators nepārtraukti optimizē lietotņu patērēto akumulatora enerģiju, ņemot vērā to, kā jūs lietojat savu planšetdatoru. Lai palielinātu akumulatora darbības ilgumu, var tikt ierobežota veiktspēja un aizkavēta paziņojumu piegāde.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Attēlojums un skārienievade</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Autorizācijas pēc sejas atļaušana</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Autorizācijas pēc sejas iestatīšana</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Uzziniet vairāk par autorizāciju pēc sejas.</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Ērtības labad iestatiet autorizāciju pēc sejas kā rezerves iespēju, ja pirksti ir mitri vai auksti.\n\nJūsu pirkstu nospiedumi tiek glabāti tikai ierīcē un nekad netiek nosūtīti uzņēmumam Google.</string>
 </resources>

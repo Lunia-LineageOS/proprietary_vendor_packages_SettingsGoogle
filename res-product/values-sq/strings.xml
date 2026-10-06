@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Në ekranin tjetër, mbaje telefonin në nivelin e syve</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Kur përdor \"Shkyçjen me fytyrë\", mund të jetë e nevojshme që koka jote të jetë më drejtpërdrejt përpara telefonit tënd.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Përdor fytyrën tënde për të shkyçur telefonin tënd ose për të verifikuar që je ti, si p.sh. kur identifikohesh në aplikacione ose kur miraton një blerje.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Shikimi te telefoni mund ta shkyçë atë edhe nëse nuk ke për qëllim ta bësh. Telefoni yt mund të shkyçet dhe nga dikush që të ngjan shumë, si p.sh. një binjak identik, ose nëse dikush e mban telefonin në nivelin e fytyrës sate.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Shikimi drejt telefonit mund ta shkyçë atë edhe nëse nuk kishte për qëllim ta bënte. Telefoni i tij mund të shkyçet dhe nga dikush që i ngjan shumë, si p.sh. një binjak identik, ose nëse dikush ia mban telefonin në nivelin e fytyrës.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Përdorimi i fytyrës së fëmijës për të shkyçur telefonin e tij mund të jetë më pak i sigurt sesa një motiv, kod PIN apo fjalëkalim i fortë.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Përdorimi i fytyrës sate për të shkyçur telefonin mund të jetë më pak i sigurt se një motiv, kod PIN ose fjalëkalim i fortë</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">\"Shkyçja me fytyrë\" mund të kërkojë që sytë e tu të jenë të hapur për të shkyçur telefonin ose për të verifikuar që je ti. Mund ta aktivizosh këtë opsion në çdo kohë te \"Cilësimet\".</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">\"Shkyçja me fytyrë\" mund të kërkojë që sytë e fëmijës tënd të jenë të hapur për të shkyçur telefonin ose për të verifikuar që është ai fëmijë. Ti dhe fëmija yt mund ta aktivizoni këtë opsion në çdo kohë te \"Cilësimet\".</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">\"Shkyçja me fytyrë\" krijon një model unik të fytyrës sate për të verifikuar që je ti. Për ta krijuar këtë model të fytyrës gjatë konfigurimit, do të nxjerrësh imazhe të fytyrës sate nga kënde të ndryshme.\n\nKur përdor \"Shkyçjen me fytyrë\", imazhet përdoren për të përditësuar modelin e fytyrës sate. Imazhet e përdorura për të krijuar modelin e fytyrës sate nuk ruhen asnjëherë, por modeli i fytyrës sate ruhet në mënyrë të sigurt në telefonin tënd dhe nuk largohet kurrë nga telefoni. I gjithë përpunimi ndodh në mënyrë të sigurt në telefonin tënd.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">\"Shkyçja me fytyrë\" krijon një model unik të fytyrës së fëmijës tënd për të verifikuar që është ai. Për ta krijuar këtë model të fytyrës gjatë konfigurimit, fëmija nxjerr imazhe të fytyrës së tij nga kënde të ndryshme.\n\nKur të përdorë \"Shkyçjen me fytyrë\", imazhet përdoren për të përditësuar modelin e fytyrës së tij. Imazhet e përdorura për të krijuar modelin e fytyrës së fëmijës nuk ruhen, por modeli i fytyrës ruhet në mënyrë të sigurt në telefon dhe nuk largohet asnjëherë nga telefoni. I gjithë përpunimi ndodh në mënyrë të sigurt në telefon.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Mund ta fshish modelin e fytyrës sate ose ta çaktivizosh \"Shkyçjen me fytyrë\" në çdo kohë te \"Cilësimet\". Modelet e fytyrës ruhen në telefon derisa t\'i fshish.&lt;br&gt;&lt;br&gt;Mëso më shumë në &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Ti dhe fëmija yt mund ta fshini modelin e fytyrës së tij ose ta çaktivizoni \"Shkyçjen me fytyrë\" në çdo kohë te \"Cilësimet\". Modelet e fytyrës ruhen në telefon derisa të fshihen.&lt;br&gt;&lt;br&gt;Mëso më shumë në &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Përdor fytyrën tënde për të shkyçur telefonin tënd ose për të verifikuar që je ti, si p.sh. kur identifikohesh në aplikacione ose kur miraton një blerje.\n\nKi parasysh:\nMund të kesh vetëm një fytyrë të konfiguruar në të njëjtën kohë. Për të shtuar një fytyrë tjetër, fshi fytyrën aktuale.\n\nNëse shikon nga telefoni, mund ta shkyçësh pa dashje.\n\nTelefoni yt mund të shkyçet nga dikush që të ngjan shumë, si p.sh. një binjak identik.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Mund ta fshish modelin e gjurmës sate të gishtit ose ta çaktivizosh Pixel Imprint në çdo kohë te \"Cilësimet\". Modelet e gjurmëve të gishtave ruhen në telefon derisa t\'i fshish.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Ti dhe fëmija mund ta fshini modelin e gjurmës së tij të gishtit, ose ta çaktivizoni Pixel Imprint në çfarëdo kohe te \"Cilësimet\". Modelet e gjurmës së gishtit ruhen në telefon derisa të fshihen.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Me Nexus Imprint, mund të përdorësh gjurmën e gishtit për të autorizuar blerjet ose për t\'u identifikuar në aplikacione.\n\nKi kujdes se gjurmët e kujt shton. Çdo gjurmë gishti e shtuar do të mund t\'i kryejë këto gjëra.\n\nShënim. Nuk mund ta përdorësh gjurmën tënde të gishtit për të shkyçur këtë pajisje. Për më shumë informacione, kontakto me administratorin e organizatës sate.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">\"Bateria me përshtatje\" mëson nga përdorimi i telefonit tënd për të optimizuar vazhdimisht mënyrën se si aplikacionet e përdorin baterinë. Për të rritur kohëzgjatjen e baterisë, ajo mund të reduktojë performancën dhe të vonojë njoftimet.</string>
     <string name="smart_battery_summary" product="tablet">\"Bateria me përshtatje\" mëson nga përdorimi i tabletit tënd për të optimizuar vazhdimisht mënyrën se si aplikacionet e përdorin baterinë. Për të rritur kohëzgjatjen e baterisë, ajo mund të reduktojë performancën dhe të vonojë njoftimet.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Ekrani dhe prekja</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Lejo \"Shkyçjen me fytyrë\"</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Konfiguro \"Shkyçjen me fytyrë\"</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Mëso më shumë rreth \"Shkyçjes me fytyrë\"</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Për më shumë lehtësi, konfiguro \"Shkyçjen me fytyrë\" si rezervë për rastet kur i ke gishtat të lagur ose të ftohtë.\n\nGjurmët e tua të gishtave ruhen vetëm në pajisje dhe nuk i dërgohen asnjëherë Google.</string>
 </resources>

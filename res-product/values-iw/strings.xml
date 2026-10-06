@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">במסך הבא צריך להחזיק את הטלפון בגובה העיניים</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">כדי לפתוח את הנעילה באמצעות זיהוי הפנים, צריך למקם את הראש ישירות מול הטלפון.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">אפשר להשתמש בזיהוי פנים כדי לבטל את הנעילה של הטלפון או כדי לאמת זהות, למשל בכניסה לאפליקציות או באישור רכישה.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">מבט לטלפון עשוי לבטל את הנעילה גם אם לא התכוונת. הנעילה יכולה להיפתח גם אם מישהו שמאוד דומה לך (למשל אח או אחות תאומים) יסתכל לטלפון, או אם מישהו יחזיק את הטלפון מול הפנים שלך.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">מבט לטלפון עשוי לבטל נעילה גם כשהם לא מתכוונים לבטל אותה. יכול להיות שהנעילה תתבטל גם אם מישהו שמאוד דומה להם (למשל אח או אחות תאומים) יסתכל לטלפון, או אם מישהו יחזיק את הטלפון מול הפנים שלהם.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">ביטול הנעילה של הטלפון באמצעות זיהוי הפנים של הילדים עלול להיות פחות בטוח משימוש בקו ביטול נעילה, בסיסמה או בקוד אימות חזקים</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">ביטול הנעילה של הטלפון באמצעות זיהוי הפנים עלול להיות פחות בטוח משימוש בקו ביטול נעילה, בסיסמה או בקוד אימות חזקים.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">אחת האפשרויות בהגדרות של התכונה \'פתיחה ע\"י זיהוי הפנים\' היא להגדיר שהעיניים שלך צריכות להיות פקוחות כדי שהנעילה של הטלפון תתבטל או כדי שהזהות שלך תאומת. ניתן להפעיל את האפשרות הזו בכל שלב ב\'הגדרות\'.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">אחת האפשרויות בהגדרות של התכונה \'פתיחה ע\"י זיהוי הפנים\' היא לדרוש שהעיניים של הילד או הילדה יהיו פקוחות כדי שהנעילה של הטלפון תתבטל או כדי שהזהות שלהם תאומת. גם ההורה וגם הילד או הילדה יכולים להפעיל את האפשרות הזו בכל שלב ב\'הגדרות\'.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">המערכת יוצרת תבנית ייחודית של הפנים ומשתמשת בה כדי לאמת את הזהות שלך. כדי ליצור את התבנית הזו בתהליך ההגדרה, עליך לצלם את הפנים שלך מזוויות שונות.\n\nהמערכת משתמשת בתמונות כדי לעדכן את התבנית, והתמונות האלה לא נשמרות. התבנית לזיהוי הפנים נשמרת באופן מאובטח בטלפון ואף פעם לא נשלחת או מועברת ממנו. כל פעולות העיבוד מתבצעות בטלפון באופן מאובטח.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">כשמפעילים את התכונה \'פתיחה ע\"י זיהוי הפנים\' המערכת יוצרת תבנית ייחודית של הפנים של הילד או הילדה כדי לאמת את הזהות שלהם. כדי ליצור את התבנית הזו לזיהוי הפנים במהלך ההגדרה, הילד או הילדה יצטרכו לצלם את הפנים שלהם מזוויות שונות.\n\nכשהם ישתמשו בתכונה \'פתיחה ע\"י זיהוי הפנים\', המערכת תיצור תמונות כדי לעדכן את התבנית לזיהוי הפנים שלהם. התמונות שמשמשות ליצירת התבנית לזיהוי הפנים שלהם לא נשמרות. התבנית לזיהוי הפנים נשמרת באופן מאובטח בטלפון ואף פעם לא נשלחת או מועברת ממנו. כל פעולות העיבוד מתבצעות בטלפון באופן מאובטח.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">‏בכל שלב אפשר להיכנס להגדרות ולמחוק את התבנית לזיהוי הפנים, או להשבית את התכונה \'פתיחה בזיהוי הפנים\'. התבניות לזיהוי הפנים נשמרות בטלפון עד שמוחקים אותן.&lt;br&gt;&lt;br&gt;מידע נוסף זמין בכתובת &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">‏לך ולילד או לילדה שלך יש אפשרות להיכנס בכל שלב להגדרות ולמחוק את התבנית לזיהוי הפנים, או להשבית את התכונה \'פתיחה ע\"י זיהוי הפנים\'. התבניות לזיהוי הפנים נשמרות בטלפון עד שמוחקים אותן.&lt;br&gt;&lt;br&gt;מידע נוסף זמין בכתובת &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">אפשר להשתמש בזיהוי הפנים כדי לבטל את הנעילה של הטלפון או לאמת את הזהות, למשל אם רוצים להיכנס לחשבון באפליקציות או לאשר רכישה.\n\nחשוב לזכור:\nניתן להגדיר פנים של אדם אחד בלבד כל פעם. כדי להוסיף פנים אחרות, צריך למחוק את הפנים הנוכחיות.\n\nמבט לטלפון עלול לבטל את הנעילה בלי כוונה.\n\nנעילת הטלפון עלולה להתבטל על ידי מישהו שדומה לך מאוד, כמו אח או אחות תאומים.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">‏בכל שלב אפשר להיכנס להגדרות ולמחוק את התבנית של טביעת האצבע, או להשבית את Pixel Imprint. התבניות של טביעת האצבע נשמרות בטלפון עד שמוחקים אותן.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">‏לך ולילד או לילדה שלך יש אפשרות להיכנס בכל שלב להגדרות ולמחוק את התבנית של טביעת האצבע, או להשבית את Pixel Imprint. התבניות של טביעת האצבע נשמרות בטלפון עד שהן נמחקות.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">‏עם Nexus Imprint ניתן להשתמש בטביעת האצבע שלך כדי לאשר רכישות או להיכנס לאפליקציות.\n\nיש לשים לב כשמוסיפים טביעות אצבע של אנשים. כל מי שהוספת טביעת אצבע שלו יוכל לבצע את הפעולות האלה.\n\nהערה: אי אפשר להשתמש בטביעת האצבע שלך כדי לבטל את הנעילה של המכשיר הזה. לקבלת מידע נוסף, יש לפנות למנהל המערכת בארגון שלך.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">התכונה \"אופטימיזציה של ניצול הסוללה\" נעזרת בנתוני השימוש בטלפון כדי לשפר את האופן שבו אפליקציות משתמשות בסוללה. כדי להאריך את חיי הסוללה, התכונה עשויה לצמצם את רמת הביצועים ואת הפעילות ברקע.</string>
     <string name="smart_battery_summary" product="tablet">התכונה \'אופטימיזציה של ניצול הסוללה\' נעזרת בנתוני השימוש בטאבלט כדי לבצע ברציפות אופטימיזציה של האופן שבו אפליקציות משתמשות בסוללה. כדי להאריך את חיי הסוללה, התכונה עשויה לצמצם את רמת הביצועים ואת הפעילות ברקע.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">תצוגה ומגע</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">הרשאה להשתמש בתכונה \"פתיחה בזיהוי פנים\"</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">הגדרת התכונה \"פתיחה בזיהוי פנים\"</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">מידע נוסף על התכונה \"פתיחה בזיהוי פנים\"</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">‏כדי שיהיה לך קל יותר, אפשר להגדיר את התכונה \"פתיחה בזיהוי פנים\" כגיבוי, למקרה שהאצבעות שלך רטובות או קרות.\n\nטביעות האצבע נשמרות רק במכשיר ואף פעם לא נשלחות אל Google.</string>
 </resources>

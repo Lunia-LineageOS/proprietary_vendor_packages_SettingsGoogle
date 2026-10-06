@@ -3,8 +3,83 @@
     <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
     <string name="owner_info_settings_edit_text_hint">Hal., Pixel ni Joe.</string>
 
+    <!-- Message shown in summary field when Face Unlock is not set up. [CHAR LIMIT=54] -->
+    <string name="security_settings_face_preference_summary_none">I-tap para i-set up ang mukha</string>
+
+    <!-- Introduction detail message shown in face education [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message">Sa susunod na screen, i-rotate ang iyong ulo para ma-capture ang lahat ng angle ng mukha mo</string>
+
+    <!-- Button shown which shows accessibility toggles for face enrollment when clicked. [CHAR LIMIT=32] -->
+    <string name="security_settings_face_enroll_introduction_accessibility">Kung may problema sa mata/galaw ng ulo</string>
+
+    <!-- Message shown for a toggle which when enabled, allows the user to enroll using a simpler flow for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_accessibility_vision">Kailangang nakadilat ang mga mata</string>
+
+    <!-- Title of a section on the face enrollment introduction page that provides additional information. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_info_title">Tandaan</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_glasses">Ayos lang ang salamin o hindi madilim na sunglasses.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_glasses">Kung karaniwang nagsusuot ng salamin sa mata ang iyong anak, puwede niya itong isuot habang nagse-set up.</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_how_title">Paano ito gumagana</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_title">Ikaw ang may kontrol</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_title">Ikaw at ang iyong anak ang may kontrol</string>
+
+    <!-- Message shown in face enrollment dialog once enrollment is completed -->
+    <string name="security_settings_face_enroll_finish_title">OK na!</string>
+
+    <!-- Description shown on face settings page. -->
+    <string name="security_settings_face_description">Para sa karagdagang ginhawa, i-set up ang Pag-unlock Gamit ang Fingerprint bilang backup kapag may suot kang mask o nasa madilim na lugar ka.\n\nNaka-store lang sa device ang iyong mukha at hindi ito ipinapadala sa Google.</string>
+
+    <!-- Title shown for menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_preference_title">Nexus Imprint</string>
+
+    <!-- Title shown for work menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint para sa trabaho</string>
+
+    <!-- message shown in summary field when no fingerprints are registered -->
+    <string name="security_settings_fingerprint_preference_summary_none">I-tap upang mag-set up ng fingerprint</string>
+
+    <!-- Introduction title shown in fingerprint enrollment to introduce the fingerprint feature, when fingerprint unlock is disabled by device admin [CHAR LIMIT=40] -->
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">I-unlock gamit ang Nexus Imprint</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Gumagawa ang Pixel Imprint ng natatanging modelo ng iyong fingerprint para i-verify na ikaw ito. Para magawa ang modelo ng fingerprint na ito habang nagse-set up, kukuha ka ng mga larawan ng iyong fingerprint mula sa iba\'t ibang posisyon.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Gumagawa ang Pixel Imprint ng natatanging modelo ng fingerprint ng iyong anak para i-verify na siya ito. Para magawa ang modelo ng fingerprint na ito habang nagse-set up, kukuha siya ng mga larawan ng kanyang fingerprint mula sa iba\'t ibang posisyon.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment introduction to learn more about fingerprint [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Matuto pa tungkol sa pag-unlock gamit ang fingerprint sa Pixel sa &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;.</string>
+
+    <!-- Message shown in summary field of biometric settings. [CHAR LIMIT=66] -->
+    <string name="security_settings_biometric_preference_summary_none_enrolled">I-tap para i-set up</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Mag-sign in sa isang Google Account para gamitin sa iyong pribadong space</string>
+
+    <!-- Title for suggested actions for settings up a fingerprint lock [CHAR LIMIT=46] -->
+    <string name="suggested_fingerprint_lock_settings_title">Gamitin ang Pixel Imprint</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock pattern for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pattern">Nexus Imprint + Pattern</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock PIN for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pin">Nexus Imprint + PIN</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock password for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_password">Nexus Imprint + Password</string>
+
+    <!-- Title for preference that guides the user to skip fingerprint setup [CHAR LIMIT=60]-->
+    <string name="fingerprint_unlock_skip_fingerprint">Magpatuloy nang walang Nexus Imprint</string>
 
     <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
     <string name="wifi_subscription_summary">Tingnan o baguhin ang subscription sa OpenRoaming</string>

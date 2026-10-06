@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Nella prossima schermata, tieni lo smartphone all\'altezza degli occhi</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Quando usi lo Sblocco con il Volto, è possibile che tu debba tenere la testa in posizione più frontale rispetto allo smartphone.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Usa il volto per sbloccare il telefono o per verificare la tua identità, ad esempio per accedere alle app o approvare un acquisto.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Se guardi direttamente lo smartphone, potresti sbloccarlo anche senza volerlo. Il tuo smartphone può essere sbloccato anche da qualcuno che ti assomiglia molto, ad esempio un gemello, o se viene rivolto verso il tuo viso.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Se guarda direttamente il telefono, potrebbe sbloccarlo anche senza volerlo. Il suo telefono può essere sbloccato anche da qualcuno che assomiglia molto a tuo figlio, ad esempio un gemello, o se viene rivolto verso il suo volto.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">L\'uso del volto di tuo figlio per sbloccare il suo telefono potrebbe essere meno sicuro dell\'uso di una sequenza, un PIN o una password efficaci</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">L\'uso del tuo volto per sbloccare lo smartphone potrebbe essere meno sicuro dell\'uso di una sequenza, un PIN o una password efficaci.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">La funzionalità di Sblocco con il Volto può richiedere che i tuoi occhi siano aperti per sbloccare il telefono o verificare la tua identità. Puoi attivare questa opzione in qualsiasi momento nelle Impostazioni.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">La funzionalità di Sblocco con il Volto può richiedere che gli occhi di tuo figlio siano aperti per sbloccare il telefono o verificare la sua identità. Tu e tuo figlio potete attivare questa opzione in qualsiasi momento nelle Impostazioni.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Sblocco con il Volto crea un modello univoco del tuo volto per verificare la tua identità. Per creare il modello del volto durante la configurazione, dovrai acquisire immagini del tuo volto da diverse angolazioni.\n\nQuando utilizzi Sblocco con il Volto, le immagini vengono usate per aggiornare il modello del volto. Le immagini usate per creare il modello del volto non vengono mai memorizzate, ma il modello del volto viene memorizzato in modo sicuro sul tuo smartphone e non viene mai trasferito. L\'intera elaborazione avviene in modo sicuro sul tuo smartphone.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">La funzionalità di Sblocco con il Volto crea un modello univoco del volto di tuo figlio per verificare la sua identità. Per creare il modello del volto durante la configurazione, tuo figlio dovrà acquisire immagini del suo volto da diverse angolazioni.\n\nQuando utilizza lo Sblocco con il Volto, le immagini vengono usate per aggiornare il modello del volto. Le immagini usate per creare il suo modello del volto non vengono archiviate, ma il modello del volto viene memorizzato in modo sicuro sul telefono e non viene mai spostato. L\'intera elaborazione avviene in modo sicuro sul telefono.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Puoi eliminare il modello del volto o disattivare lo sblocco con il volto in qualsiasi momento nelle Impostazioni. I modelli del volto rimangono memorizzati sullo smartphone finché non li elimini.&lt;br&gt;&lt;br&gt;Scopri di più all\'indirizzo &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Tu e tuo figlio potete eliminare il modello del volto o disattivare lo Sblocco con il Volto in qualsiasi momento nelle Impostazioni. I modelli del volto rimangono memorizzati sul telefono finché non vengono eliminati.&lt;br&gt;&lt;br&gt;Scopri di più all\'indirizzo &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Usa il tuo volto per sbloccare lo smartphone o verificare la tua identità, ad esempio quando vuoi accedere alle app o approvare un acquisto.\n\nTieni presente che:\nPuoi configurare un solo volto alla volta. Per aggiungere un altro volto devi eliminare quello attuale.\n\nSe guardi direttamente lo smartphone, potresti sbloccarlo anche senza volerlo.\n\nIl tuo smartphone può essere sbloccato da qualcuno che ti assomiglia molto, ad esempio un gemello o una gemella.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Puoi eliminare il modello dell\'impronta o disattivare Pixel Imprint in qualsiasi momento nelle Impostazioni. I modelli delle impronte rimangono memorizzati sul telefono finché non li elimini.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Tu e tuo figlio potete eliminare il modello dell\'impronta o disattivare Pixel Imprint in qualsiasi momento nelle Impostazioni. I modelli delle impronte rimangono memorizzati sul telefono finché non vengono eliminati.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Con Nexus Imprint puoi utilizzare la tua impronta per autorizzare gli acquisti o accedere alle app.\n\nScegli con attenzione chi aggiungere: le operazioni sopra elencate possono essere svolte con qualsiasi impronta aggiunta.\n\nNota: non puoi utilizzare la tua impronta per sbloccare il dispositivo. Per ulteriori informazioni, contatta l\'amministratore dell\'organizzazione.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Batteria Adattiva apprende dall\'utilizzo del tuo smartphone per ottimizzare continuamente il modo in cui le app usano la batteria. Per estendere la durata della batteria, potrebbe ridurre le prestazioni e ritardare le notifiche.</string>
     <string name="smart_battery_summary" product="tablet">Batteria Adattiva apprende dall\'utilizzo del tuo tablet per ottimizzare continuamente il modo in cui le app usano la batteria. Per estendere la durata della batteria, potrebbe ridurre le prestazioni e ritardare le notifiche.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Display e tocco</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Consenti Sblocco con il Volto</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Configura lo Sblocco con il Volto</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Scopri di più su Sblocco con il Volto</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Per una maggiore praticità, configura lo Sblocco con il Volto come metodo alternativo per quando hai le dita bagnate o fredde.\n\nLe tue impronte vengono memorizzate solo sul dispositivo e non vengono mai inviate a Google.</string>
 </resources>

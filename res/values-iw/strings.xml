@@ -3,8 +3,83 @@
     <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
     <string name="owner_info_settings_edit_text_hint">‏לדוגמה, ה-Pixel של יוסי.</string>
 
+    <!-- Message shown in summary field when Face Unlock is not set up. [CHAR LIMIT=54] -->
+    <string name="security_settings_face_preference_summary_none">יש ללחוץ כדי להגדיר זיהוי פנים</string>
+
+    <!-- Introduction detail message shown in face education [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message">במסך הבא, עליך לסובב את הראש כדי לצלם את הפנים מכל הזוויות</string>
+
+    <!-- Button shown which shows accessibility toggles for face enrollment when clicked. [CHAR LIMIT=32] -->
+    <string name="security_settings_face_enroll_introduction_accessibility">הגדרה לבעלי לקות ראייה או מגבלה בתנועת הראש</string>
+
+    <!-- Message shown for a toggle which when enabled, allows the user to enroll using a simpler flow for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_accessibility_vision">העיניים צריכות להיות פתוחות</string>
+
+    <!-- Title of a section on the face enrollment introduction page that provides additional information. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_info_title">חשוב לזכור</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_glasses">אפשר להרכיב משקפיים או משקפי שמש בגוון בהיר.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_glasses">אם הילד או הילדה שלך מרכיבים בדרך כלל משקפיים, הם יכולים להרכיב אותם במהלך ההגדרה.</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_how_title">איך זה עובד</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_title">השליטה בידיים שלך</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_title">השליטה נמצאת בידיים שלך ושל הילד או הילדה</string>
+
+    <!-- Message shown in face enrollment dialog once enrollment is completed -->
+    <string name="security_settings_face_enroll_finish_title">נראה טוב!</string>
+
+    <!-- Description shown on face settings page. -->
+    <string name="security_settings_face_description">‏כדי שיהיה יותר נוח לפתוח את המכשיר בכל מצב, כדאי להגדיר פתיחה בטביעת אצבע כגיבוי למקרים שלובשים מסיכה או נמצאים במקום חשוך.\n\nנתוני הפנים מאוחסנים רק במכשיר ולא נשלחים אף פעם ל-Google.</string>
+
+    <!-- Title shown for menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_preference_title">Nexus Imprint</string>
+
+    <!-- Title shown for work menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_work_fingerprint_preference_title">‏Pixel Imprint לעבודה</string>
+
+    <!-- message shown in summary field when no fingerprints are registered -->
+    <string name="security_settings_fingerprint_preference_summary_none">יש ללחוץ כדי להגדיר טביעת אצבע</string>
+
+    <!-- Introduction title shown in fingerprint enrollment to introduce the fingerprint feature, when fingerprint unlock is disabled by device admin [CHAR LIMIT=40] -->
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">‏ביטול נעילה באמצעות Nexus Imprint</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">‏הפיצ\'ר Pixel Imprint יוצר תבנית ייחודית של טביעת האצבע שלך כדי לאמת את זהותך. תהליך היצירה של תבנית לטביעת האצבע כולל צילום תמונות של טביעת האצבע שלך מזוויות שונות.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">‏הפיצ\'ר Pixel Imprint יוצר תבנית ייחודית של טביעת האצבע של הילד או הילדה כדי לאמת את זהותם. כדי ליצור את התבנית הזו לטביעת האצבע במהלך ההגדרה, יהיה עליהם לצלם תמונות של טביעת האצבע מזוויות שונות.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment introduction to learn more about fingerprint [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">‏מידע נוסף על פתיחה בטביעת אצבע ב-Pixel זמין בכתובת &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;.</string>
+
+    <!-- Message shown in summary field of biometric settings. [CHAR LIMIT=66] -->
+    <string name="security_settings_biometric_preference_summary_none_enrolled">אפשר ללחוץ כדי להגדיר</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">‏צריך להיכנס לחשבון Google כדי להשתמש במרחב הפרטי</string>
+
+    <!-- Title for suggested actions for settings up a fingerprint lock [CHAR LIMIT=46] -->
+    <string name="suggested_fingerprint_lock_settings_title">‏שימוש ב-Pixel Imprint</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock pattern for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pattern">‏Nexus Imprint וקו ביטול נעילה</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock PIN for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pin">‏Nexus Imprint וקוד אימות</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock password for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_password">‏Nexus Imprint וסיסמה</string>
+
+    <!-- Title for preference that guides the user to skip fingerprint setup [CHAR LIMIT=60]-->
+    <string name="fingerprint_unlock_skip_fingerprint">‏המשך ללא Nexus Imprint</string>
 
     <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
     <string name="wifi_subscription_summary">‏הצגה או שינוי של מינוי OpenRoaming</string>

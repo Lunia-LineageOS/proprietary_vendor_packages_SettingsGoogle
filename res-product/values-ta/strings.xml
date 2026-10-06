@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">அடுத்த திரையில், மொபைலைக் கண்களுக்கு நேராகப் பிடிக்கவும்</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">முகம் காட்டித் திறத்தல் அம்சத்தைப் பயன்படுத்தும்போது உங்கள் முகத்தை மொபைலுக்கு முன் நேராக வைக்க வேண்டியிருக்கும்.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">உங்கள் முகத்தைக் காட்டி மொபைலை அன்லாக் செய்யலாம் அல்லது ஆப்ஸில் உள்நுழைதல், பர்ச்சேஸை அங்கீகரித்தல் போன்ற செயல்பாடுகளின்போது அதைச் செய்வது நீங்கள்தான் என்பதை உறுதிப்படுத்தலாம்.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">தற்செயலாக மொபைலைப் பார்க்கும்போதும் அது அன்லாக் ஆகிவிடலாம். மேலும் உங்கள் சாயலில் இருப்பவரோ (எ.கா. ஒரே தோற்றமுடைய உடன்பிறந்தவர்) வேறொருவர் உங்கள் முகத்திற்கு நேராக மொபைலைக் காட்டியோ அதை அன்லாக் செய்துவிடலாம்.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">தற்செயலாக மொபைலைப் பார்க்கும்போதும் அது அன்லாக் ஆகிவிடலாம். மேலும் உங்கள் பிள்ளையின் சாயலில் இருப்பவரோ (எ.கா. ஒரே தோற்றமுடைய உடன்பிறந்தவர்) வேறொருவர் உங்கள் பிள்ளையின் முகத்திற்கு நேராக மொபைலைக் காட்டியோ அதை அன்லாக் செய்துவிடலாம்.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">உங்கள் பிள்ளையின் மொபைலை அன்லாக் செய்ய அவரின் முகத்தைப் பயன்படுத்துவது வலுவான பேட்டர்ன், பின் (PIN) அல்லது கடவுச்சொல்லைப் பயன்படுத்துவதைவிட பாதுகாப்பு குறைவானதாக இருக்கலாம்</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">மொபைலை அன்லாக் செய்ய முகத்தைப் பயன்படுத்துவது வலுவான பேட்டர்ன், பின் (PIN), கடவுச்சொல் போன்றவற்றைப் பயன்படுத்துவதைவிட பாதுகாப்பு குறைவானதாக இருக்கலாம்</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">முகம் காட்டித் திறத்தல் அம்சம் மூலம் மொபைலை அன்லாக் செய்யவோ உங்கள் அடையாளத்தைச் சரிபார்க்கவோ உங்களின் கண்களைத் திறந்த நிலையில் வைக்க வேண்டியிருக்கலாம். அமைப்புகளில் இந்த விருப்பத்தை நீங்கள் எப்போது வேண்டுமானாலும் இயக்கிக்கொள்ளலாம்.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">முகம் காட்டித் திறத்தல் அம்சம் மூலம் மொபைலை அன்லாக் செய்யவோ உங்கள் பிள்ளையின் அடையாளத்தைச் சரிபார்க்கவோ அவர் தனது கண்களைத் திறந்த நிலையில் வைக்க வேண்டியிருக்கலாம். அமைப்புகளில் எப்போது வேண்டுமானாலும் நீங்களும் உங்கள் பிள்ளையும் இந்த விருப்பத்தை இயக்கலாம்.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">நீங்கள்தான் என்பதை உறுதிப்படுத்த, முகம் காட்டித் திறத்தல் அம்சம் உங்கள் முகத்தின் தனித்துவமான பதிவை உருவாக்கும். அமைவின்போது இந்த முகத் தோற்றப் பதிவை உருவாக்க, பல்வேறு கோணங்களில் உங்கள் முகத்தைப் படமெடுப்பீர்கள்.\n\nமுகம் காட்டித் திறத்தல் அம்சத்தைப் பயன்படுத்தும்போது உங்கள் முகத் தோற்றப் பதிவைப் புதுப்பிக்க அந்தப் படங்கள் பயன்படுத்தப்படும். முகத் தோற்றப் பதிவை உருவாக்கப் பயன்படுத்தப்படும் படங்கள் ஒருபோதும் சேமிக்கப்படாது. ஆனால் முகத் தோற்றப் பதிவு உங்கள் மொபைலில் பாதுகாப்பாகச் சேமிக்கப்படும், அது ஒருபோதும் பகிரப்படாது. செயலாக்கம் முழுவதும் உங்கள் மொபைலிலேயே பாதுகாப்பாக நடைபெறும்.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">உங்கள் பிள்ளைதான் என்பதை உறுதிப்படுத்த, முகம் காட்டித் திறத்தல் அம்சம் அவரின் தனித்துவமான முகத் தோற்றப் பதிவை உருவாக்கும். அமைவின்போது இந்த முகத் தோற்றப் பதிவை உருவாக்க, உங்கள் பிள்ளை தனது முகத்தை வெவ்வேறு கோணங்களில் படமெடுப்பார்.\n\nமுகம் காட்டித் திறத்தல் அம்சத்தைப் பயன்படுத்தும்போது அவரின் முகத் தோற்றப் பதிவைப் புதுப்பிப்பதற்கு அந்தப் படங்கள் பயன்படுத்தப்படும். முகத் தோற்றப் பதிவை உருவாக்கப் பயன்படுத்தப்படும் படங்கள் சேமிக்கப்படாது. ஆனால் முகத் தோற்றப் பதிவு உங்கள் மொபைலில் பாதுகாப்பாகச் சேமிக்கப்படும், அது ஒருபோதும் பகிரப்படாது. செயலாக்கம் முழுவதும் மொபைலிலேயே பாதுகாப்பாக நடைபெறும்.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">அமைப்புகளில் எப்போது வேண்டுமானாலும் உங்கள் முகத் தோற்றப் பதிவை நீங்கள் நீக்கலாம் அல்லது முகம் காட்டித் திறத்தல் அம்சத்தை முடக்கலாம். முகத் தோற்றப் பதிவுகளை நீங்கள் நீக்கும் வரை அவை மொபைலிலேயே சேமிக்கப்பட்டிருக்கும்.&lt;br&gt;&lt;br&gt;மேலும் அறிந்துகொள்ள &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; இணைப்பிற்குச் செல்லுங்கள்.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">அமைப்புகளில் எப்போது வேண்டுமானாலும் உங்கள் பிள்ளையின் முகத் தோற்றப் பதிவை நீங்களும் அவரும் நீக்கலாம் அல்லது முகம் காட்டித் திறத்தல் அம்சத்தை முடக்கலாம். முகத் தோற்றப் பதிவுகள் நீக்கப்படும் வரை அவை மொபைலிலேயே சேமிக்கப்பட்டிருக்கும்.&lt;br&gt;&lt;br&gt;மேலும் அறிந்துகொள்ள &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; இணைப்பிற்குச் செல்லுங்கள்.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">உங்கள் முகத்தைக் காட்டி மொபைலை அன்லாக் செய்யலாம் அல்லது ஆப்ஸில் உள்நுழைதல், பர்ச்சேஸை அங்கீகரித்தல் போன்ற செயல்பாடுகளின்போது அதைச் செய்வது நீங்கள்தான் என்பதை உறுதிப்படுத்தலாம்.\n\nகவனத்திற்கு:\nஒரு சமயத்தில் ஒரு முகத்தை மட்டுமே அமைக்க முடியும். மற்றொரு முகத்தைச் சேர்க்க, தற்போது சேர்த்துள்ள முகத்தை நீக்குங்கள்.\n\nநீங்கள் தற்செயலாக மொபைலைப் பார்க்கும்போதும் அது அன்லாக் செய்யப்படலாம்.\n\nகிட்டத்தட்ட உங்கள் சாயலில் இருப்பவராலும் உங்கள் மொபைலை அன்லாக் செய்துவிட முடியும் (எ.கா. ஒரே தோற்றமுடைய உடன்பிறந்தவர்).\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">அமைப்புகளில் எப்போது வேண்டுமானாலும் உங்கள் கைரேகைப் பதிவை நீங்கள் நீக்கிக்கொள்ளலாம் அல்லது Pixel Imprint அம்சத்தை முடக்கிக்கொள்ளலாம். கைரேகைப் பதிவுகளை நீங்கள் நீக்கும் வரை அவை மொபைலிலேயே சேமிக்கப்பட்டிருக்கும்.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">அமைப்புகளில் எப்போது வேண்டுமானாலும் உங்கள் பிள்ளையின் கைரேகைப் பதிவை நீங்களும் அவரும் நீக்கலாம் அல்லது Pixel Imprint அம்சத்தை முடக்கலாம். நீக்கப்படும் வரை கைரேகைப் பதிவுகள் மொபைலிலேயே சேமிக்கப்பட்டிருக்கும்.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint மூலம், பர்ச்சேஸை அங்கீகரிக்க அல்லது ஆப்ஸில் உள்நுழைய, உங்கள் கைரேகையைப் பயன்படுத்தலாம்.\n\nசேர்க்கப்பட்ட எந்தக் கைரேகையையும் பயன்படுத்தி இவற்றைச் செய்ய முடியும் என்பதால், யாருடைய கைரேகைகளைச் சேர்க்கிறீர்கள் என்பதில் கவனமாக இருங்கள்.\n\nகுறிப்பு: இந்தச் சாதனத்தை அன்லாக் செய்ய, உங்கள் கைரேகையைப் பயன்படுத்த முடியாது. மேலும் தகவலுக்கு, உங்கள் நிறுவனத்தின் நிர்வாகியைத் தொடர்புகொள்ளுங்கள்.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">பேட்டரியை ஆப்ஸ் பயன்படுத்தும் விதத்தைத் தொடர்ந்து மேம்படுத்த, உங்கள் மொபைல் உபயோகத்தில் இருந்து அடாப்டிவ் பேட்டரி கற்றுக்கொள்கிறது. பேட்டரி ஆயுளை நீட்டிக்க, இது செயல்திறனைக் குறைத்து அறிவிப்புகளைத் தாமதப்படுத்தலாம்.</string>
     <string name="smart_battery_summary" product="tablet">பேட்டரியை ஆப்ஸ் பயன்படுத்தும் விதத்தைத் தொடர்ந்து மேம்படுத்த, உங்கள் டேப்லெட் உபயோகத்தில் இருந்து அடாப்டிவ் பேட்டரி கற்றுக்கொள்கிறது. பேட்டரி ஆயுளை நீட்டிக்க, இது செயல்திறனைக் குறைத்து அறிவிப்புகளைத் தாமதப்படுத்தலாம்.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">டிஸ்ப்ளே &amp; தொடுதல்</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">முகம் காட்டித் திறத்தலை அனுமதியுங்கள்</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">முகம் காட்டித் திறத்தலை அமையுங்கள்</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">முகம் காட்டித் திறத்தல் பற்றி மேலும் அறிக</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">கூடுதல் சௌகரியத்திற்கு, உங்கள் விரல்கள் ஈரமாக/குளிர்ச்சியாக இருக்கும்போது பயன்படுத்துவதற்கான மாற்று முறையாக முகம் காட்டித் திறத்தல் அம்சத்தை அமைத்துக்கொள்ளலாம்.\n\nஉங்கள் கைரேகைகள் சாதனத்தில் மட்டுமே சேமிக்கப்படும், ஒருபோதும் Googleளுக்கு அனுப்பப்படாது.</string>
 </resources>

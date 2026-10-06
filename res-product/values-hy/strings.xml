@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Հաջորդ էկրանին հեռախոսը պահեք աչքերի մակարդակին</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Դեմքով ապակողպման համար կարող է պահանջվել, որ գլուխն ավելի ուղիղ պահեք հեռախոսի առջև։</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Օգտագործեք ձեր դեմքը՝ հեռախոսն ապակողպելու կամ ձեր ինքնությունը հաստատելու համար (օր․՝ հավելվածներ մտնելիս կամ գնումներ հաստատելիս)։</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Նայելով հեռախոսին՝ դուք կարող եք պատահաբար ապակողպել սարքը։ Ձեր հեռախոսը կարող է ապակողպվել ձեզ շատ նման մեկ ուրիշի (օրինակ՝ ձեր երկվորյակ եղբոր կամ քրոջ) կողմից, կամ եթե էկրանը ձեր դեմքին է ուղղված։</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Նայելով հեռախոսին՝ երեխան կարող է պատահաբար ապակողպել սարքը։ Երեխայի հեռախոսը կարող է ապակողպվել նրան շատ նման մեկ ուրիշի (օրինակ՝ հարազատ եղբոր կամ քրոջ) կողմից կամ եթե էկրանը նրա դեմքին է ուղղված։</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Երեխայի հեռախոսում ապակողպման հուսալի նախշը, PIN կոդը կամ գաղտնաբառը կարող է դեմքով ապակողպումից ավելի ապահով լինել</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Ձեր հեռախոսում ապակողպման հուսալի նախշը, PIN կոդը կամ գաղտնաբառը կարող է դեմքով ապակողպումից ավելի ապահով լինել</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Դեմքով ապակողպման միջոցով հեռախոսն ապակողպելու կամ ինքնությունը հաստատելու համար կարող է պահանջվել, որ ձեր աչքերը բաց լինեն։ Դուք ցանկացած ժամանակ կարող եք միացնել այս գործառույթը կարգավորումներում։</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Դեմքով ապակողպման միջոցով հեռախոսն ապակողպելու կամ ինքնությունը հաստատելու համար կարող է պահանջվել, որ ձեր երեխայի աչքերը բաց լինեն։ Դուք և ձեր երեխան ցանկացած ժամանակ կարող եք միացնել այս գործառույթը կարգավորումներում։</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Դեմքով ապակողպումը ստեղծում է ձեր դեմքի եզակի նմուշ՝ ձեր ինքնությունը հաստատելու համար։ Կարգավորման ժամանակ դեմքի նմուշը ստեղծելու համար դուք պետք է լուսանկարեք ձեր դեմքը տարբեր անկյուններից։\n\nՁեր դեմքի նմուշը թարմացվում է դեմքով ապակողպման ընթացքում ստացված պատկերների հիման վրա։ Դեմքի նմուշը ստեղծելու ժամանակ արված լուսանկարները չեն պահվում, իսկ դեմքի նմուշը պահվում է միայն ձեր հեռախոսում։ Բոլոր մշակումները կատարվում են անմիջապես ձեր հեռախոսում։</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Դեմքով ապակողպումը ստեղծում է ձեր երեխայի դեմքի եզակի նմուշը՝ նրա ինքնությունը հաստատելու համար։ Կարգավորման ժամանակ դեմքի նմուշը ստեղծելու համար երեխան պետք է լուսանկարի իր դեմքը մի քանի անկյուններից։\n\nԵրեխայի դեմքի նմուշը թարմացվում է դեմքով ապակողպման ընթացքում ստացված պատկերների հիման վրա։ Դեմքի նմուշը ստեղծելու ժամանակ արված լուսանկարները չեն պահվում, իսկ դեմքի նմուշը պահվում է միայն հեռախոսում։ Բոլոր մշակումները կատարվում են անմիջապես հեռախոսում։</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Դուք ցանկացած պահի կարող եք ջնջել ձեր դեմքի նմուշը կամ անջատել դեմքով ապակողպումը սարքի կարգավորումներում։ Դեմքի նմուշները պահվում են սարքում, մինչև ինքներդ ջնջեք դրանք։&lt;br&gt;&lt;br&gt;Իմացեք ավելին &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; էջում։</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Դուք և ձեր երեխան ցանկացած պահի կարող եք ջնջել իր դեմքի նմուշը կամ անջատել դեմքով ապակողպումը սարքի կարգավորումներում։ Դեմքի նմուշները պահվում են հեռախոսում, մինչև ինքներդ ջնջեք դրանք։&lt;br&gt;&lt;br&gt;Իմացեք ավելին &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; էջում։</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Օգտագործեք ձեր դեմքը՝ հեռախոսն ապակողպելու կամ ձեր ինքնությունը հաստատելու համար, օրինակ՝ հավելվածներում մուտք գործելիս կամ որևէ գնում հաստատելիս։\n\nՆկատի ունեցեք․\nՄիաժամանակ կարելի է միայն մեկ դեմքի նմուշ կարգավորել։ Այլ դեմքի նմուշ ավելացնելու համար ջնջեք ընթացիկ նմուշը։\n\nՀեռախոսին նայելու դեպքում կարող եք ապակողպել էկրանը, նույնիսկ եթե մտադրված չեք դա անել։\n\nՀնարավոր է, որ հեռախոսը կարողանա ապակողպել ձեզ շատ նման մեկ ուրիշը, օրինակ՝ ձեր հարազատ եղբայրը կամ քույրը։\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Դուք ցանկացած ժամանակ կարող եք ջնջել ձեր մատնահետքի նմուշը կամ անջատել Pixel Imprint-ը Կարգավորումներում։ Մատնահետքի նմուշները պահվում են հեռախոսում, մինչև ինքներդ ջնջեք դրանք։</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Դուք և ձեր երեխան ցանկացած պահի կարող եք ջնջել իր մատնահետքի նմուշը կամ անջատել Pixel Imprint-ը սարքի կարգավորումներում։ Մատնահետքի նմուշները կպահվեն հեռախոսում, մինչև որ ջնջեք դրանք։</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint-ը թույլ է տալիս օգտագործել ձեր մատնահետքը՝ գնումները թույլատրելու և հավելվածներ մուտք գործելու համար։\n\nԶգույշ եղեք մատնահետքեր ավելացնելիս, քանի որ այս գործողությունները հնարավոր է կատարել ցանկացած ավելացված մատնահետքի միջոցով։\n\nՆշում. այս սարքն ապակողպելու համար չեք կարող օգտագործել ձեր մատնահետքը։ Լրացուցիչ տեղեկություններ ստանալու համար դիմեք ձեր կազմակերպության ադմինիստրատորին։</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Հարմարվող մարտկոցն օգտվում է հեռախոսի օգտագործման տվյալներից, որպեսզի շարունակաբար օպտիմալացնի հավելվածների կողմից մարտկոցի օգտագործումը։ Մարտկոցի աշխատաժամանակը երկարացնելու համար այն կարող է նվազեցնել սարքի արտադրողականությունը և հապաղումով ցուցադրել ծանուցումները։</string>
     <string name="smart_battery_summary" product="tablet">Հարմարվող մարտկոցն օգտվում է պլանշետի օգտագործման տվյալներից, որպեսզի շարունակաբար օպտիմալացնի հավելվածների կողմից մարտկոցի օգտագործումը։ Մարտկոցի աշխատաժամանակը երկարացնելու համար այն կարող է նվազեցնել սարքի արտադրողականությունը և ցուցադրել ծանուցումները հապահղումով։</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Էկրան և հպում</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Թույլատրեք դեմքով ապակողպումը</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Կարգավորեք դեմքով ապակողպումը</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Իմանալ ավելին դեմքով ապակողպման մասին</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Էկրանի ապակողպման համար ընտրեք դեմքով ապակողպումը այնպիսի դեպքերի համար, երբ մատները սառած կամ թաց լինեն։\n\nՁեր մատնահետքերը պահվում են միայն սարքում և չեն փոխանցվում Google-ին։</string>
 </resources>

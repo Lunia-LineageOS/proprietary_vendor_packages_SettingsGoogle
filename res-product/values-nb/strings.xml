@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Hold telefonen i øyehøyde på den neste skjermen</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Når du bruker ansiktslås, må du kanskje ha hodet rett foran telefonen.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Bruk ansiktet til å låse opp telefonen eller bekrefte at du er deg, for eksempel når du logger på apper eller godkjenner kjøp.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Hvis du ser på telefonen, kan du låse den opp selv om det ikke er meningen. Telefonen kan også låses opp av noen som ligner veldig på deg, for eksempel en tvilling, eller hvis noen holder den mot ansiktet ditt.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Hvis hen ser på telefonen, kan hen låse den opp selv om det ikke er meningen. Telefonen til barnet kan også låses opp av noen som ligner veldig, for eksempel en tvilling, eller hvis noen holder den mot barnets ansikt.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Bruk av barnets ansikt til å låse opp telefonen kan være mindre sikkert enn et sterkt mønster, en sterk PIN-kode eller et sterkt passord.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Bruk av ansiktet for å låse opp telefonen kan være mindre sikkert enn et sterkt mønster, en sterk PIN-kode eller et sterkt passord.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Ansiktslås kan kreve at du har øynene åpne for å låse opp telefonen eller bekrefte at du er deg. Du kan når som helst slå på dette alternativet i innstillingene.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Ansiktslås kan kreve at barnet ditt har øynene åpne for å låse opp telefonen eller bekrefte at det er hen. Du og barnet ditt kan når som helst slå på dette alternativet i innstillingene.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Ansiktslåsen lager en unik modell av ansiktet ditt for å bekrefte identiteten din. For å lage denne ansiktsmodellen under konfigureringen tar du bilder av ansiktet ditt fra forskjellige vinkler.\n\nNår du bruker ansiktslåsen, brukes bilder for å oppdatere ansiktsmodellen. Bildene som brukes for å lage ansiktsmodellen, lagres aldri, men ansiktsmodellen lagres trygt på telefonen og forlater den aldri. All behandling skjer på en sikker måte på telefonen.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Ansiktslås lager en unik modell av ansiktet til barnet for å bekrefte barnets identitet. For å lage denne ansiktsmodellen under konfigureringen tar barnet bilder av ansiktet sitt fra forskjellige vinkler.\n\nNår hen bruker ansiktslås, bruker systemet bilder til å oppdatere ansiktsmodellen. Bildene som brukes til å lage ansiktsmodellen, lagres ikke, men ansiktsmodellen lagres trygt på telefonen og forlater aldri telefonen. All behandling skjer på en sikker måte på telefonen.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Du kan når som helst slette ansiktsmodellen din eller slå av ansiktslås i innstillingene. Ansiktsmodeller lagres på telefonen til du sletter dem.&lt;br&gt;&lt;br&gt;Finn ut mer på &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Du og barnet ditt kan når som helst slette ansiktsmodellen til barnet eller slå av ansiktslås i innstillingene. Ansiktsmodeller lagres på telefonen til de slettes.&lt;br&gt;&lt;br&gt;Finn ut mer på &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Bruk ansiktet til å låse opp telefonen eller bekrefte at det er deg, for eksempel når du logger på apper eller godkjenner kjøp.\n\nMerk:\nDu kan bare ha ett ansikt konfigurert om gangen. For å legge til et annet ansikt, slett det nåværende ansiktet.\n\nHvis du ser på telefonen, kan den låses opp, selv om det ikke er meningen.\n\nTelefonen kan låses opp av noen som ligner veldig på deg, for eksempel en tvilling.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Du kan når som helst slette fingeravtrykkmodellen din eller slå av Pixel Imprint i innstillingene. Fingeravtrykkmodeller lagres på telefonen til du sletter dem.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Du og barnet ditt kan når som helst slette fingeravtrykkmodellen til barnet eller slå av Pixel Imprint i innstillingene. Fingeravtrykkmodeller lagres på telefonen til de slettes.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Med Nexus Imprint kan du bruke fingeravtrykket ditt til å autorisere kjøp eller logge på apper.\n\nTenk over hvilke fingeravtrykk du legger til. Alle fingeravtrykkene du legger til, kan gjøre alt dette.\n\nMerk: Du kan ikke bruke fingeravtrykket ditt til å låse opp denne enheten. For mer informasjon, kontakt administratoren for organisasjonen din.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Tilpasset batteri lærer av telefonbruken din og optimaliserer hele tiden appenes batteribruk. For å forlenge batterilevetiden kan ytelsen bli redusert og varsler bli forsinket.</string>
     <string name="smart_battery_summary" product="tablet">Tilpasset batteri lærer av nettbrettbruken din for å kontinuerlig optimalisere hvordan apper bruker batteri. For å forlenge batterilevetiden kan ytelsen reduseres og varsler forsinkes.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Skjerm og trykk</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Tillat ansiktslås</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Konfigurer ansiktslås</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Finn ut mer om ansiktslåsen</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">For å gjøre det enda enklere kan du konfigurere ansiktslås som reserveløsning når du har våte eller kalde fingre.\n\nFingeravtrykkene lagres bare på enheten og sendes aldri til Google.</string>
 </resources>

@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Di layar berikutnya, pegang ponsel sejajar dengan mata</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Saat menggunakan Buka dengan Wajah, kepala Anda mungkin harus lebih lurus menghadap ke ponsel.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Gunakan wajah untuk membuka kunci ponsel atau memverifikasi diri Anda, seperti saat login ke aplikasi atau menyetujui pembelian.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Dengan melihat ponsel, Anda dapat membuka kuncinya meski tidak bermaksud melakukannya. Ponsel Anda juga dapat dibuka kuncinya oleh seseorang yang sangat mirip dengan Anda, seperti saudara kembar identik, atau jika seseorang mendekatkannya ke wajah Anda.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Dengan melihat ponsel, anak Anda dapat membuka kuncinya meski tidak bermaksud melakukannya. Ponselnya juga dapat dibuka kuncinya oleh seseorang yang sangat mirip dengannya, seperti saudara kembar identik, atau jika seseorang mendekatkannya ke wajah anak Anda.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Menggunakan wajah anak Anda untuk membuka kunci ponselnya mungkin kurang aman dibandingkan dengan pola, PIN, atau sandi yang kuat</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Menggunakan wajah Anda untuk membuka kunci ponsel mungkin kurang aman dibandingkan dengan pola, PIN, atau sandi yang kuat</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Mata Anda harus terbuka agar terdeteksi oleh Buka dengan Wajah untuk membuka kunci ponsel atau memverifikasi diri Anda. Anda dapat mengaktifkan opsi ini kapan saja di Setelan.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Mata anak Anda harus terbuka agar terdeteksi oleh Buka dengan Wajah untuk membuka kunci ponsel atau memverifikasi diri anak. Anda dan anak Anda dapat mengaktifkan opsi ini kapan saja di Setelan.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Buka dengan Wajah membuat model unik wajah Anda untuk memverifikasi diri Anda. Untuk membuat model wajah ini selama penyiapan, Anda perlu mengambil gambar wajah dari berbagai sudut.\n\nSaat Anda menggunakan Buka dengan Wajah, gambar digunakan untuk memperbarui model wajah Anda. Gambar yang digunakan untuk membuat model wajah tidak pernah disimpan, tetapi model wajah disimpan secara aman di ponsel dan tidak pernah dikirim ke luar ponsel. Semua pemrosesan dilakukan secara aman di ponsel Anda.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Buka dengan Wajah membuat model unik dari wajah anak Anda untuk memverifikasi dirinya. Untuk membuat model wajah ini selama penyiapan, anak Anda perlu mengambil gambar wajah dari berbagai sudut.\n\nSaat dia menggunakan Buka dengan Wajah, gambar digunakan untuk memperbarui model wajahnya. Gambar yang digunakan untuk membuat model wajah tidak disimpan, tetapi model wajahnya disimpan secara aman di ponsel dan tidak pernah dikirim ke luar ponsel. Semua pemrosesan dilakukan secara aman di ponsel.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Anda dapat menghapus model wajah atau menonaktifkan Buka dengan Wajah kapan saja di Setelan. Model wajah disimpan di ponsel hingga Anda menghapusnya.&lt;br&gt;&lt;br&gt;Pelajari lebih lanjut di &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Anda dan anak Anda dapat menghapus model wajahnya atau menonaktifkan Buka dengan Wajah kapan saja di Setelan. Model wajah akan disimpan di ponsel hingga dihapus.&lt;br&gt;&lt;br&gt;Pelajari lebih lanjut di &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Gunakan wajah Anda untuk membuka kunci ponsel atau memverifikasi diri Anda, seperti saat login ke aplikasi atau menyetujui pembelian.\n\nPerlu diingat:\nAnda hanya dapat menyiapkan satu wajah dalam satu waktu. Untuk menambahkan wajah lain, hapus wajah saat ini.\n\nDengan melihat ponsel, Anda dapat membuka kuncinya meski tidak bermaksud melakukannya.\n\nPonsel dapat dibuka kuncinya oleh seseorang yang sangat mirip dengan Anda, seperti saudara kembar identik.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Anda dapat menghapus model sidik jari atau menonaktifkan Pixel Imprint kapan saja di Setelan. Model sidik jari akan disimpan di ponsel hingga Anda menghapusnya.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Anda dan anak Anda dapat menghapus model sidik jarinya atau menonaktifkan Pixel Imprint kapan saja di Setelan. Model sidik jari akan disimpan di ponsel hingga dihapus.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Dengan Pixel Imprint, Anda dapat menggunakan sidik jari untuk memberi otorisasi pembelian atau login ke aplikasi.\n\nBerhati-hatilah dengan sidik jari yang Anda tambahkan. Sidik jari yang ditambahkan dapat melakukan semua ini.\n\nCatatan: Anda tidak dapat menggunakan sidik jari Anda untuk membuka kunci perangkat. Untuk informasi selengkapnya, hubungi admin organisasi Anda.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Baterai Adaptif mempelajari penggunaan ponsel untuk terus mengoptimalkan penggunaan baterai oleh aplikasi. Untuk memperpanjang masa pakai baterai, Baterai Adaptif mungkin menurunkan performa dan menjeda notifikasi.</string>
     <string name="smart_battery_summary" product="tablet">Baterai Adaptif mempelajari penggunaan tablet untuk terus mengoptimalkan cara aplikasi menggunakan baterai. Untuk memperpanjang masa pakai baterai, Baterai Adaptif dapat menurunkan performa dan menjeda notifikasi.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Layar &amp; sentuhan</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Izinkan Buka dengan Wajah</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Siapkan fitur Buka dengan Wajah</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Pelajari lebih lanjut fitur Buka dengan Wajah</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Agar lebih mudah, siapkan Buka dengan Wajah sebagai cadangan saat jari Anda basah atau dingin.\n\nSidik jari Anda hanya disimpan di perangkat dan tidak pernah dikirim ke Google.</string>
 </resources>

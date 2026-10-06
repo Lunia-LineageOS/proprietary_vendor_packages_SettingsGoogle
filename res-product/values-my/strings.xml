@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">နောက်စခရင်တွင် ဖုန်းကို မျက်လုံးနှင့် တစ်တန်းတည်းထား၍ ကိုင်ပါ</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">‘မျက်နှာပြ လော့ခ်ဖွင့်ခြင်း’ အသုံးပြုသည့်အခါ သင့်ခေါင်းသည် ဖုန်းရှေ့တည့်တည့်တွင် ရှိရမည်။</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">အက်ပ်များသို့ လက်မှတ်ထိုးဝင်ချိန် (သို့) ဝယ်ယူမှုအတည်ပြုချိန်များတွင် သင်ဖြစ်ကြောင်းအတည်ပြုရန် (သို့) သင့်ဖုန်းကိုဖွင့်ရန် သင့်မျက်နှာကို သုံးနိုင်သည်။</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">ဖုန်းကို ကြည့်မိရုံဖြင့် မရည်ရွယ်ဘဲ ပွင့်သွားနိုင်သည်။ အမြွှာကဲ့သို့ သင်နှင့်အလွန်တူသူကလည်း သင့်ဖုန်းကိုဖွင့်နိုင်သည် (သို့) တစ်စုံတစ်ယောက်က စက်ပစ္စည်းကို သင့်မျက်နှာရှေ့ကိုင်ထားလျှင် ပွင့်နိုင်သည်။</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">ဖုန်းကို ကြည့်မိရုံဖြင့် မရည်ရွယ်ဘဲ ပွင့်သွားနိုင်သည်။ အမြွှာကဲ့သို့ သူနှင့်အလွန်တူသူကလည်း သူ့ဖုန်းကို လော့ခ်ဖွင့်နိုင်သည် (သို့) တစ်စုံတစ်ယောက်က ဖုန်းကို သူ့မျက်နှာရှေ့ကိုင်ထားလျှင် ပွင့်နိုင်သည်။</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">သင့်ကလေး၏ မျက်နှာသုံး၍ ဖုန်းကိုလော့ခ်ဖွင့်ခြင်းသည် ခိုင်မာသည့်ပုံဖော်ခြင်း၊ ပင်နံပါတ် (သို့) စကားဝှက်လောက် မလုံခြုံနိုင်ပါ</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">သင့်မျက်နှာသုံး၍ ဖုန်းကိုဖွင့်ခြင်းသည် ခိုင်မာသည့်ပုံဖော်ခြင်း၊ ပင်နံပါတ် (သို့) စကားဝှက်လောက် မလုံခြုံနိုင်ပါ</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">ဖုန်းကိုဖွင့်ရန် (သို့) သင်ဖြစ်ကြောင်း အတည်ပြုရန်အတွက် သင်၏မျက်လုံးများဖွင့်ရန် ‘မျက်နှာပြ လော့ခ်ဖွင့်ခြင်း’ က သတ်မှတ်နိုင်သည်။ ဤနည်းလမ်းကို ဆက်တင်များတွင် အချိန်မရွေးဖွင့်နိုင်သည်။</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">ဖုန်းကိုဖွင့်ရန် (သို့) သင့်ကလေးဖြစ်ကြောင်း အတည်ပြုရန်အတွက် သူ၏မျက်လုံးများဖွင့်ရန် ‘မျက်နှာပြ လော့ခ်ဖွင့်ခြင်း’ က သတ်မှတ်နိုင်သည်။ သင်နှင့် သင့်ကလေးက ဤနည်းလမ်းကို ဆက်တင်များတွင် အချိန်မရွေးဖွင့်နိုင်သည်။</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">သင်ဖြစ်ကြောင်းအတည်ပြုရန် ‘မျက်နှာပြ လော့ခ်ဖွင့်ခြင်း’ က သင့်မျက်နှာ၏ သီးခြားနမူနာကို ပြုလုပ်သည်။ စနစ်ထည့်သွင်းနေစဉ် ဤမျက်နှာနမူနာကို ပြုလုပ်ရန်အတွက် သင့်မျက်နှာကို ရှုထောင့်အမျိုးမျိုးမှ ပုံများရိုက်ကူးမည်။\n\n‘မျက်နှာပြ လော့ခ်ဖွင့်ခြင်း’ သုံးသောအခါ သင့်မျက်နှာနမူနာကို အပ်ဒိတ်လုပ်ရန် ပုံများကို သုံးသည်။ သင်၏မျက်နှာနမူနာပြုလုပ်ရန် သုံးသောပုံများကို သိုမှီးခြင်း လုံးဝမပြုလုပ်ဘဲ မျက်နှာနမူနာကို ဖုန်းတွင်သာ လုံခြုံစွာသိမ်းထားသည်။ လုပ်ဆောင်ချက်အားလုံး သင့်ဖုန်းတွင်း၌ လုံခြုံစွာ ဖြစ်ပေါ်သည်။</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">‘မျက်နှာပြ လော့ခ်ဖွင့်ခြင်း’ က သင့်ကလေးကို သူဖြစ်ကြောင်းအတည်ပြုရန် သူ့မျက်နှာ၏ သီးခြားနမူနာကို ပြုလုပ်သည်။ စနစ်ထည့်သွင်းနေစဉ် ဤမျက်နှာနမူနာကို ပြုလုပ်ရန်အတွက် သင့်ကလေး၏မျက်နှာကို ရှုထောင့်အမျိုးမျိုးမှ ပုံများရိုက်ကူးမည်။\n\nသူက ‘မျက်နှာပြ လော့ခ်ဖွင့်ခြင်း’ သုံးသောအခါ သူ၏မျက်နှာနမူနာကို အပ်ဒိတ်လုပ်ရန် ပုံများကို သုံးသည်။ သူ၏မျက်နှာနမူနာပြုလုပ်ရန် သုံးထားသောပုံများကို မသိမ်းပါ။ သို့သော် မျက်နှာနမူနာကို ဖုန်းတွင် လုံခြုံစွာသိမ်းပြီး ဖုန်းအတွင်း၌သာ ထားပါသည်။ လုပ်ဆောင်ချက်အားလုံး ဖုန်းတွင် လုံခြုံစွာ ဖြစ်ပေါ်သည်။</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">ဆက်တင်များတွင် မျက်နှာနမူနာကို ဖျက်ခြင်း (သို့) ‘မျက်နှာပြ လော့ခ်ဖွင့်ခြင်း’ ကို ပိတ်ခြင်းတို့ အချိန်မရွေး လုပ်နိုင်သည်။ မျက်နှာနမူနာများကို သင်မဖျက်မချင်း ဖုန်းတွင် သိမ်းထားသည်။&lt;br&gt;&lt;br&gt;ပိုမိုလေ့လာရန်- &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">သင်နှင့် သင့်ကလေးက ဆက်တင်များတွင် မျက်နှာနမူနာကို ဖျက်ခြင်း (သို့) ‘မျက်နှာပြ လော့ခ်ဖွင့်ခြင်း’ ကို ပိတ်ခြင်းတို့ အချိန်မရွေး လုပ်နိုင်သည်။ မျက်နှာနမူနာများကို မဖျက်မချင်း ဖုန်းတွင်သိမ်းသည်။&lt;br&gt;&lt;br&gt;&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; တွင် ပိုမိုလေ့လာနိုင်သည်။</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">သင့်ဖုန်းကိုဖွင့်ရန် (သို့) အက်ပ်များသို့ လက်မှတ်ထိုးဝင်စဉ်၊ ပစ္စည်းဝယ်ယူစဉ် စသည်တွင် သင်ဖြစ်ကြောင်းအတည်ပြုရန် မျက်နှာသုံးပါ။\n\nသတိပြုရန်-\nတစ်ကြိမ်လျှင် မျက်နှာတစ်ခုသာ စနစ်ထည့်သွင်းနိုင်သည်။ မျက်နှာနောက်တစ်ခု ထည့်ရန် လက်ရှိမျက်နှာကို ဖျက်ပါ။\n\nသင့်ဖုန်းကို မတော်တဆကြည့်မိရုံဖြင့် ဖုန်းပွင့်သွားနိုင်သည်။\n\nအမြွှာကဲ့သို့သော သင်နှင့်အလွန်တူသူက သင့်ဖုန်းကို ဖွင့်နိုင်သည်။\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">ဆက်တင်များတွင် သင့်လက်ဗွေနမူနာကို ဖျက်ခြင်း (သို့) Pixel Imprint ကို ပိတ်ခြင်းတို့ အချိန်မရွေး လုပ်နိုင်သည်။ လက်ဗွေနမူနာများကို သင်မဖျက်မချင်း ဖုန်းတွင်သိမ်းသည်။</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">သင်နှင့် သင့်ကလေးက ဆက်တင်များတွင် လက်ဗွေနမူနာကို ဖျက်ခြင်း (သို့) Pixel Imprint ကို ပိတ်ခြင်းတို့ အချိန်မရွေး လုပ်နိုင်သည်။ လက်ဗွေနမူနာများကို မဖျက်မချင်း ဖုန်းတွင် သိမ်းထားသည်။</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint ဖြင့် ဝယ်ယူမှုများကို ခွင့်ပြုရန် (သို့) အက်ပ်များသို့ လက်မှတ်ထိုးဝင်ရန် သင့်လက်ဗွေကို သုံးနိုင်သည်။\n\nလက်ဗွေများကို သတိထား၍ ထည့်သွင်းပါ။ ထည့်ထားသောလက်ဗွေတိုင်းသည် ဤအရာများကို လုပ်ဆောင်နိုင်မည်။\n\nမှတ်ချက်- ဤစက်ပစ္စည်းဖွင့်ရန် သင့်လက်ဗွေကို အသုံးမပြုနိုင်ပါ။ ပိုမိုသိရှိရန် သင့်အဖွဲ့အစည်း၏ စီမံခန့်ခွဲသူကို ဆက်သွယ်ပါ။</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">‘အလိုက်အထိုက် ဘက်ထရီအားထိန်း’ သည် အက်ပ်များ ဘက်ထရီအသုံးပြုပုံ စဉ်ဆက်မပြတ်ပိုကောင်းအောင်လုပ်ရန် သင့်ဖုန်းအသုံးပြုမှုမှ လေ့လာသည်။ ဘက်ထရီ သက်တမ်းရှည်စေရန် ၎င်းသည် စွမ်းဆောင်ရည်ကို လျှော့ချပြီး အကြောင်းကြားချက်များကို ရွှေ့ဆိုင်းနိုင်သည်။</string>
     <string name="smart_battery_summary" product="tablet">‘အလိုက်အထိုက် ဘက်ထရီအားထိန်း’ သည် အက်ပ်များ ဘက်ထရီအသုံးပြုပုံ စဉ်ဆက်မပြတ်ပိုကောင်းအောင်လုပ်ရန် သင့်တက်ဘလက်အသုံးပြုမှုမှ လေ့လာသည်။ ဘက်ထရီ သက်တမ်းရှည်စေရန် ၎င်းသည် စွမ်းဆောင်ရည်ကို လျှော့ချပြီး အကြောင်းကြားချက်များကို ရွှေ့ဆိုင်းနိုင်သည်။</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ဖန်သားပြင်၊ တို့ထိခြင်း</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">‘မျက်နှာပြလော့ခ်ဖွင့်ခြင်း’ ခွင့်ပြုရန်</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">မျက်နှာပြလော့ခ်ဖွင့်ခြင်း စနစ်ထည့်သွင်းပါ</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">‘မျက်နှာပြလော့ခ်ဖွင့်ခြင်း’ အကြောင်း ပိုလေ့လာရန်</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">ပိုမိုအဆင်ပြေရန်အတွက် လက်ချောင်းများ စိုစွတ်နေ (သို့) အေးနေချိန်တွင် အရန်နည်းလမ်းအဖြစ် သုံးရန် ‘မျက်နှာပြလော့ခ်ဖွင့်ခြင်း’ စနစ်ထည့်သွင်းပါ။\n\nသင့်လက်ဗွေများကို စက်ပေါ်တွင်သာ သိမ်းထားပြီး Google သို့ ဘယ်တော့မှ မပို့ပါ။</string>
 </resources>

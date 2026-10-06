@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Kitame ekrane laikykite telefoną akių lygyje</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Naudojant atrakinimą pagal veidą, galva turi būti laikoma tiesiai priešais telefoną.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Naudodami atrakinimą pagal veidą atrakinkite telefoną ar patvirtinkite savo tapatybę, pvz., kai prisijungiate prie programų ar patvirtinate pirkinį.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Žiūrėdami į telefoną galite jį atrakinti net neketindami to daryti. Be to, telefoną gali atrakinti į jus labai panašus asmuo, pvz., identiškas dvynys, arba galima atrakinti, kai kas nors laiko telefoną jums prie veido.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Žiūrint į telefoną galima jį atrakinti net neketinant to daryti. Be to, telefoną gali atrakinti į vaiką labai panašus asmuo, pvz., identiškas dvynys, arba galima atrakinti, kai kas nors laiko telefoną vaikui prie veido.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Atrakinti telefoną vaiko veidu gali būti ne taip saugu kaip naudojant sudėtingą atrakinimo piešinį, PIN kodą ar slaptažodį</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Telefono atrakinimo pagal veidą metodas gali būti ne toks saugus kaip sudėtingas atrakinimo piešinys, PIN kodas ar slaptažodis</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Atrakinimo pagal veidą funkcijai gali reikėti, kad būtumėte atsimerkę, taip bus galima atrakinti telefoną ar patvirtinti jūsų tapatybę. Bet kada galite įjungti šią parinktį skiltyje „Nustatymai“.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Atrakinimo pagal veidą funkcijai gali reikėti, kad vaikas būtų atsimerkęs, taip bus galima atrakinti telefoną ar patvirtinti jo tapatybę. Jūs ir jūsų vaikas bet kada galite įjungti šią parinktį skiltyje „Nustatymai“.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Naudojant atrakinimą pagal veidą kuriamas unikalus jūsų veido modelis, kad būtų galima patvirtinti jūsų tapatybę. Kad sukurtumėte šį veido modelį nustatydami, turite sukurti veido vaizdų iš skirtingų kampų.\n\nNaudojant atrakinimą pagal veidą vaizdai naudojami jūsų veido modeliui atnaujinti. Vaizdai, kurie naudojami jūsų veido modeliui kurti, niekada nesaugomi, bet veido modelis saugiai saugomas telefone ir visada lieka jame. Visas apdorojimo procesas saugiai vykdomas telefone.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Naudojant atrakinimą pagal veidą kuriamas unikalus jūsų vaiko veido modelis, kad būtų galima patvirtinti vaiko tapatybę. Norint sukurti šį veido modelį nustatant, reikia sukurti vaiko veido vaizdų iš skirtingų kampų.\n\nNaudojant atrakinimą pagal veidą vaizdai naudojami veido modeliui atnaujinti. Vaizdai, kurie naudojami veido modeliui kurti, nesaugomi, bet veido modelis saugiai saugomas telefone ir visada lieka jame. Visas apdorojimo procesas saugiai vykdomas telefone.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Galite bet kada ištrinti veido modelį ar išjungti atrakinimą pagal veidą skiltyje „Nustatymai“. Veido modeliai saugomi telefone, kol juos ištrinate.&lt;br&gt;&lt;br&gt;Sužinokite daugiau adresu &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Jūs ir jūsų vaikas galite bet kada ištrinti veido modelį arba išjungti atrakinimą pagal veidą „Nustatymų“ skiltyje. Veido modeliai saugomi telefone, kol juos ištrinate.&lt;br&gt;&lt;br&gt;Sužinokite daugiau adresu &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Naudodami atrakinimo pagal veidą funkciją atrakinkite telefoną arba patvirtinkite savo tapatybę, pvz., kai prisijungiate prie programų ar patvirtinate pirkinį.\n\nNepamirškite toliau nurodytų dalykų.\nVienu metu gali būti nustatytas tik vienas veidas. Jei norite pridėti kitą veidą, ištrinkite esamą.\n\nŽiūrint į telefoną jis gali būti atrakintas, kai to neketinate atlikti.\n\nTelefoną gali atrakinti į jus labai panašus asmuo, pvz., identiškas dvynys.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Galite bet kada ištrinti piršto atspaudo modelį arba išjungti „Pixel Imprint“ „Nustatymų“ skiltyje. Piršto atspaudo modeliai saugomi telefone, kol juos ištrinate.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Jūs ir jūsų vaikas galite bet kada ištrinti piršto atspaudo modelį arba išjungti „Pixel Imprint“ „Nustatymų“ skiltyje. Piršto atspaudo modeliai saugomi telefone, kol ištrinami.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Naudodami „Pixel Imprint“ galite įgalioti pirkimo veiksmus arba prisijungti prie programų piršto atspaudu.\n\nAtidžiai rinkitės, kieno piršto atspaudus pridedate. Bet kuriuo pridėtu piršto atspaudu galima atlikti visus šiuos veiksmus.\n\nPastaba: negalite atrakinti šio įrenginio piršto atspaudu. Jei norite gauti daugiau informacijos, susisiekite su organizacijos administratoriumi.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Prisitaikantis akumuliatorius mokosi iš jūsų telefono naudojimo, kad nuolat optimizuotų programų akumuliatoriaus energijos vartojimą. Kad akumuliatorius veiktų ilgiau, gali būti sumažintas našumas ir atidėti pranešimai.</string>
     <string name="smart_battery_summary" product="tablet">Prisitaikantis akumuliatorius mokosi iš jūsų planšetinio kompiuterio naudojimo, kad nuolat optimizuotų programų akumuliatoriaus energijos vartojimą. Kad akumuliatorius veiktų ilgiau, gali būti sumažintas našumas ir atidėti pranešimai.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Ekranas ir palietimo funkcija</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Atrakinimo pagal veidą leidimas</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Atrakinimo pagal veidą nustatymas</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Sužinokite daugiau apie atrakinimą pagal veidą</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Kad būtų patogiau, nustatykite atrakinimą pagal veidą kaip atsarginį metodą, kai pirštai šlapi arba sušalę.\n\nPirštų atspaudai saugomi tik įrenginyje ir niekada nesiunčiami „Google“.</string>
 </resources>

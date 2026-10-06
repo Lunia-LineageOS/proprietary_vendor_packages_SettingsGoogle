@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Növbəti ekranda telefonunuzu göz səviyyəsində saxlayın</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Üz ilə Kiliddən Açmadan istifadə etdikdə başınızı telefonun qarşısında sabit saxlamalısınız.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Tətbiqlərə daxil olmaq və ya alışı təsdiqləmək kimi hallarda telefonu kiliddən çıxarmaq və ya kimlik doğrulaması üçün üzünüzü istifadə edin.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Hətta telefon ekranına təsadüfən baxmaqla telefonu kiliddən çıxara bilərsiniz. Telefonunuz sizə çox bənzəyən biri (məsələn, əkiz bacı/qardaş) tərəfindən, yaxud sizə doğru yönəldilərək də kiliddən çıxarıla bilər.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Övladınız telefona baxmaqla istəmədən telefonu kiliddən çıxara bilər. Övladınızın telefonu ona çox bənzəyən biri (məsələn, əkiz bacı/qardaş) tərəfindən, yaxud onün üzünə tutularaq də kiliddən çıxarıla bilər.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Övladınızın telefonunu kiliddən çıxarmaq üçün onun üzündən istifadə etmək güclü model, PIN kod və ya paroldan daha az güvənli ola bilər.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Telefonunuzu kiliddən çıxarmaq üçün üzünüzdən istifadə etmək güclü model, PIN və ya parol qədər təhlükəsiz olmaya bilər.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Üz ilə kiliddən çıxarma telefonu kiliddən çıxarmaq, yaxud kimliyinizi doğrulamaq üçün gözlərinizin açıq olmasını tələb edə bilər. Bu seçimi Ayarlarda istənilən vaxt yandıra bilərsiniz.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Üz ilə kiliddən çıxarma telefonu kiliddən çıxarmaq, yaxud uşağınızın özü olduğunu doğrulamaq üçün onun gözlərinin açıq olmasını tələb edə bilər. Siz və uşağınız Ayarlarda bu seçimi istənilən vaxt yandıra bilərsiniz.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Üz ilə kiliddən açma funksiyası kimliyinizi doğrulamaq üçün üzünüzün unikal modelini yaradır. Ayarlama zamanı bu üz modelini yaratmaq üçün müxtəlif bucaqlardan üzünüzün şəkillərini çəkəcəksiniz.\n\nÜz ilə kiliddən açma istifadə etdikdə üz modelinizi güncəlləmək üçün şəkillərdən istifadə olunur. Üz modelinizi yaratmaq üçün istifadə edilən şəkillər saxlanılmır, lakin üz modeli telefonunuzda təhlükəsiz qaydada saxlanılır və telefondan başqa yerə göndərilmir. Bütün emal prosesi telefonunuzda təhlükəsiz qaydada baş verir.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Üz ilə kiliddən çıxarma övladınızı doğrulamaq üçün onun üzünün unikal modelini yaradır. Ayarlama zamanı bu üz modelini yaratmaq üçün övladınız müxtəlif bucaqlardan üzünün şəkillərini çəkəcək.\n\nÜz ilə kiliddən çıxarmadan istifadə etdikdə, onun üz modelini güncəlləmək üçün şəkillərdən istifadə olunur. Onun üz modelini yaratmaq üçün istifadə edilən şəkillər saxlanılmır, lakin üz modeli telefonda təhlükəsiz qaydada saxlanılır və heç vaxt telefondan başqa yerə göndərilmir. Bütün emal prosesi telefonda təhlükəsiz qaydada baş verir.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Ayarlarda istənilən vaxt üz modelinizi silə, yaxud Üz ilə Kiliddən Çıxarmanı deaktiv edə bilərsiniz. Üz modelləri silinənə qədər telefonda saxlanılır.&lt;br&gt;&lt;br&gt;Ətraflı məlumat: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Siz və övladınız ayarlarda istənilən vaxt üz modeli silə, yaxud Üz ilə kiliddən çıxarmanı deaktiv edə bilərsiniz. Üz modelləri silinənə qədər telefonda saxlanılır.&lt;br&gt;&lt;br&gt;Ətraflı məlumat: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Üz ilə telefonu kiliddən çıxarın, yaxud tətbiqlərə daxil olarkən və ya alışı təsdiqləyərkən kimliyinizi doğrulayın.\n\nUnutmayın:\nEyni anda yalnız bir üz ayarlamaq olar. Başqa üz əlavə etmək üçün hazırkı üzü silin.\n\nTelefona baxdıqda istəmədiyiniz halda telefon kiliddən çıxarıla bilər.\n\nTelefonun kilidi sizə çox oxşayan biri (məsələn, çox bənzəyən bacı və ya qardaş) tərəfindən açıla bilər.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Ayarlarda istənilən vaxt barmaq izi modelinizi silə, yaxud Pixel Imprint\'i deaktiv edə bilərsiniz. Barmaq izi modelləri siz onları silənə qədər telefonunuzda saxlanılır.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Siz və övladınız ayarlarda istənilən vaxt barmaq izi modelinizi silə, yaxud Pixel Imprint\'i deaktiv edə bilərsiniz. Barmaq izi modelləri silinənə qədər telefonda saxlanılır.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint ilə alışları təsdiqləmək və ya tətbiqlərə daxil olmaq üçün barmaq izindən istifadə edə bilərsiniz.\n\nKimin barmaq izini əlavə etdiyinizə diqqət edin. Əlavə edilən istənilən barmaq izi ilə aşağıdakıları etmək mümkün olacaq.\n\nQeyd: Bu cihazı kiliddən çıxarmaq üçün barmaq izindən istifadə edə bilməzsiniz. Ətraflı məlumat üçün təşkilatın admini ilə əlaqə saxlayın.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Adaptiv Batareya tətbiqlərin batareya istifadəsini davamlı optimallaşdırmaq üçün telefon istifadəsinə əsaslanır. Batareya ömrünü uzatmaq üçün performansı azalda və bildirişləri ləngidə bilər.</string>
     <string name="smart_battery_summary" product="tablet">Adaptiv Batareya tətbiqlərin batareya istifadəsini davamlı optimallaşdırmaq üçün planşet istifadəsinə əsaslanır. Batareya ömrünü uzatmaq üçün performansı azalda və bildirişləri ləngidə bilər.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Displey və toxunuş</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Üz ilə Kiliddən Açmağa icazə verin</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Üz ilə Kiliddən Açmanı ayarlayın</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Üz ilə Kiliddən Açma haqqında ətraflı məlumat</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Əlavə rahatlıq üçün barmaqlarınız yaş və ya soyuq olduqda istifadə etmək məqsədilə Üz ilə Kiliddən Açma funksiyasını yedək kimi ayarlayın.\n\nBarmaq izləriniz yalnız cihazda saxlanılır və Google-a göndərilmir.</string>
 </resources>

@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Sur l\'écran suivant, tenez votre téléphone à la hauteur des yeux.</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Lorsque vous utilisez la fonctionnalité Déverrouillage par reconnaissance faciale, il se peut que vous deviez placer votre visage plus directement en face de votre téléphone.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Utilisez votre visage pour déverrouiller votre téléphone ou vérifier qu\'il s\'agit bien de vous, par exemple pour vous connecter à des applis ou approuver un achat.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Le téléphone peut être déverrouillé si vous le regardez, même si ce n\'est pas votre intention. Il peut être déverrouillé par une personne qui vous ressemble beaucoup, comme un jumeau identique, ou si quelqu\'un le tient devant votre visage.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Il peut déverrouiller le téléphone en le regardant, même si ce n\'est pas son intention. Son téléphone peut aussi être déverrouillé par une personne qui lui ressemble beaucoup, comme un jumeau identique, ou si quelqu\'un le tient devant son visage.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">L\'utilisation du visage de votre enfant pour déverrouiller son téléphone peut être moins sûre qu\'un schéma, un NIP ou un mot de passe fort</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">L\'utilisation de votre visage pour déverrouiller votre téléphone peut être moins sûre qu\'un schéma, un NIP ou un mot de passe fort</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Le déverrouillage par reconnaissance faciale peut exiger que vos yeux soient ouverts pour déverrouiller le téléphone ou vérifier qu\'il s\'agit bien de vous. Vous pouvez activer cette option en tout temps dans Paramètres.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Le déverrouillage par reconnaissance faciale peut exiger que les yeux de votre enfant soient ouverts pour déverrouiller le téléphone ou vérifier qu\'il s\'agit bien de lui. Vous et votre enfant pouvez activer cette option en tout temps dans Paramètres.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Le Déverrouillage par reconnaissance faciale crée un modèle unique de votre visage pour confirmer qu\'il s\'agit bien de vous. Pour créer ce modèle facial durant la configuration, l\'appareil vous demandera de capturer des images de votre visage sous différents angles.\n\nLorsque vous utilisez le Déverrouillage par reconnaissance faciale, les images sont utilisées pour mettre à jour votre modèle facial. Les images utilisées pour créer votre modèle facial ne sont jamais stockées, contrairement au modèle facial, qui est stocké de façon sécuritaire sur votre téléphone et ne le quitte jamais. Tous les traitements sont exécutés de façon sécuritaire sur votre téléphone.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Le déverrouillage par reconnaissance faciale crée un modèle unique du visage de votre enfant pour vérifier qu\'il s\'agit bien de lui. Pour créer ce modèle durant la configuration, l\'appareil demandera à votre enfant de capturer des images de son visage sous différents angles.\n\nLorsqu\'il utilise le déverrouillage par reconnaissance faciale, les images sont utilisées pour mettre à jour son modèle facial. Les images utilisées pour créer son modèle facial ne sont pas stockées, contrairement au modèle facial, qui est stocké de façon sécuritaire sur le téléphone et ne le quitte jamais. Tous les traitements sont sécurisés sur le téléphone.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Vous pouvez supprimer votre modèle facial ou désactiver le Déverrouillage par reconnaissance faciale en tout temps dans Paramètres. Les modèles faciaux sont stockés sur le téléphone jusqu\'à ce que vous les supprimiez.&lt;br&gt;&lt;br&gt;Apprenez-en plus sur la page &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Vous et votre enfant pouvez supprimer son modèle facial ou désactiver le Déverrouillage par reconnaissance faciale en tout temps dans Paramètres. Les modèles faciaux sont stockés sur le téléphone jusqu\'à ce qu\'ils soient supprimés.&lt;br&gt;&lt;br&gt;Apprenez-en plus sur la page &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Utilisez votre visage pour déverrouiller votre téléphone ou confirmer qu\'il s\'agit bien de vous, comme pour vous connecter à des applis ou pour approuver un achat.\n\nGardez à l\'esprit :\nUn seul visage peut être configuré à la fois. Pour ajouter un autre visage, supprimez le visage actuel.\n\nLe fait de regarder le téléphone pourrait le déverrouiller même si vous ne cherchiez pas à le faire.\n\nVotre téléphone peut être déverrouillé par quelqu\'un qui vous ressemble beaucoup, comme un frère ou une sœur identique.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Vous pouvez supprimer votre modèle d\'empreinte digitale ou désactiver la fonctionnalité Pixel Imprint à tout moment dans Paramètres. Les modèles d\'empreinte digitale sont stockés sur le téléphone jusqu\'à ce que vous les supprimiez.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Vous et votre enfant pouvez supprimer son modèle d\'empreinte digitale ou désactiver la fonctionnalité Pixel Imprint en tout temps dans Paramètres. Les modèles d\'empreinte digitale sont stockés sur le téléphone jusqu\'à ce qu\'ils soient supprimés.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Avec Nexus Imprint, vous pouvez utiliser votre empreinte digitale pour autoriser des achats ou vous connecter à des applis.\n\nChoisissez avec soin les personnes dont vous ajoutez les empreintes digitales. Toutes les personnes dont l\'empreinte est ajoutée peuvent effectuer ces opérations.\n\nRemarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouiller cet appareil. Pour en savoir plus, communiquez avec l\'administrateur de votre organisation.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">La Pile adaptative apprend de votre utilisation du téléphone pour optimiser en permanence la façon dont les applis utilisent la pile. Pour prolonger l\'autonomie de la pile, cette fonctionnalité pourrait réduire les performances et retarder les notifications.</string>
     <string name="smart_battery_summary" product="tablet">La Pile adaptative apprend de votre utilisation de la tablette pour optimiser en permanence la façon dont les applis utilisent la pile. Pour prolonger l\'autonomie de la pile, cette fonctionnalité pourrait réduire les performances et retarder les notifications.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Affichage et toucher</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Autoriser le Déverr. par reconn. faciale</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Configurer Déverr. par reconn. faciale</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">En savoir plus sur le Déverrouillage par reconnaissance faciale</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Pour plus de commodité, configurez le Déverrouillage par reconnaissance faciale comme solution de rechange lorsque vos doigts sont mouillés ou froids.\n\nVos empreintes digitales sont uniquement stockées sur l\'appareil et ne sont jamais envoyées à Google.</string>
 </resources>

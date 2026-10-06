@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">ਅਗਲੀ ਸਕ੍ਰੀਨ \'ਤੇ, ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਅੱਖਾਂ ਦੀ ਸੇਧ ਵਿੱਚ ਰੱਖੋ</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">ਫ਼ੇਸ ਅਣਲਾਕ ਵਰਤਣ ਵੇਲੇ, ਸ਼ਾਇਦ ਤੁਹਾਡੇ ਸਿਰ ਨੂੰ ਤੁਹਾਡੇ ਫ਼ੋਨ ਦੇ ਸਾਹਮਣੇ ਜ਼ਿਆਦਾ ਸਿੱਧਾ ਰੱਖਣ ਦੀ ਲੋੜ ਪਵੇ।</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">ਆਪਣਾ ਫ਼ੋਨ ਅਣਲਾਕ ਕਰਨ ਜਾਂ ਆਪਣੀ ਪਛਾਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਆਪਣਾ ਚਿਹਰਾ ਵਰਤੋ, ਜਿਵੇਂ ਕਿ ਜਦੋਂ ਤੁਸੀਂ ਐਪਾਂ ਵਿੱਚ ਸਾਈਨ-ਇਨ ਕਰਦੇ ਹੋ ਜਾਂ ਕਿਸੇ ਖਰੀਦ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੰਦੇ ਹੋ।</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">ਫ਼ੋਨ ਵੱਲ ਦੇਖਦੇ ਸਾਰ ਹੀ ਇਹ ਅਣਲਾਕ ਹੋ ਸਕਦਾ ਹੈ ਭਾਵੇਂ ਇੰਝ ਕਰਨ ਦਾ ਤੁਹਾਡਾ ਇਰਾਦਾ ਵੀ ਨਾ ਹੋਵੇ। ਤੁਹਾਡੇ ਨਾਲ ਬਹੁਤ ਜ਼ਿਆਦਾ ਮਿਲਦੇ-ਜੁਲਦੇ ਚਿਹਰੇ ਵਾਲੇ ਕਿਸੇ ਵਿਅਕਤੀ ਵੱਲੋਂ ਵੀ ਤੁਹਾਡਾ ਫ਼ੋਨ ਅਣਲਾਕ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, ਜਿਵੇਂ ਕਿ ਤੁਹਾਡੇ ਵਰਗੇ ਦਿਸਣ ਵਾਲੇ ਭੈਣ-ਭਰਾ ਜਾਂ ਜੇ ਇਹ ਕਿਸੇ ਨੇ ਤੁਹਾਡੇ ਚਿਹਰੇ ਦੇ ਸਾਹਮਣੇ ਕੀਤਾ ਹੈ।</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">ਫ਼ੋਨ ਵੱਲ ਦੇਖਦੇ ਸਾਰ ਹੀ ਇਹ ਅਣਲਾਕ ਹੋ ਸਕਦਾ ਹੈ ਭਾਵੇਂ ਇੰਝ ਕਰਨ ਦਾ ਉਸਦਾ ਇਰਾਦਾ ਵੀ ਨਾ ਹੋਵੇ। ਇਸ ਤੋਂ ਇਲਾਵਾ ਬਹੁਤ ਜ਼ਿਆਦਾ ਮਿਲਦੇ-ਜੁਲਦੇ ਚਿਹਰੇ ਵਾਲੇ ਕਿਸੇ ਵਿਅਕਤੀ ਵੱਲੋਂ ਵੀ ਉਸਦਾ ਫ਼ੋਨ ਅਣਲਾਕ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, ਜਿਵੇਂ ਕਿ ਉਸਦੇ ਵਰਗੇ ਦਿਸਣ ਵਾਲੇ ਭੈਣ-ਭਰਾ ਜਾਂ ਜੇ ਕਿਸੇ ਨੇ ਇਸਨੂੰ ਉਸਦੇ ਚਿਹਰੇ ਦੇ ਸਾਹਮਣੇ ਕੀਤਾ ਹੋਵੇ।</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">ਤੁਹਾਡੇ ਬੱਚੇ ਦੇ ਫ਼ੋਨ ਨੂੰ ਅਣਲਾਕ ਕਰਨ ਲਈ ਉਸਦੇ ਚਿਹਰੇ ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਕਿਸੇ ਮਜ਼ਬੂਤ ਪੈਟਰਨ, ਪਿੰਨ ਜਾਂ ਪਾਸਵਰਡ ਨਾਲੋਂ ਘੱਟ ਸੁਰੱਖਿਅਤ ਹੋ ਸਕਦਾ ਹੈ</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਅਣਲਾਕ ਕਰਨ ਲਈ ਆਪਣਾ ਚਿਹਰਾ ਵਰਤਣਾ ਕਿਸੇ ਮਜ਼ਬੂਤ ਪੈਟਰਨ, ਪਿੰਨ ਜਾਂ ਪਾਸਵਰਡ ਤੋਂ ਘੱਟ ਸੁਰੱਖਿਅਤ ਹੋ ਸਕਦਾ ਹੈ</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">ਫ਼ੋਨ ਨੂੰ ਅਣਲਾਕ ਕਰਨ ਜਾਂ ਤੁਹਾਡੀ ਪਛਾਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ, ਫ਼ੇਸ ਅਣਲਾਕ ਵਿਸ਼ੇਸ਼ਤਾ ਵਾਸਤੇ ਤੁਹਾਡੀਆਂ ਅੱਖਾਂ ਖੁੱਲ੍ਹੀਆਂ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ। ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ ਕਿਸੇ ਵੇਲੇ ਵੀ ਇਸ ਵਿਕਲਪ ਨੂੰ ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ।</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">ਫ਼ੋਨ ਨੂੰ ਅਣਲਾਕ ਕਰਨ ਜਾਂ ਤੁਹਾਡੇ ਬੱਚੇ ਦੀ ਪਛਾਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ, ਫ਼ੇਸ ਅਣਲਾਕ ਵਿਸ਼ੇਸ਼ਤਾ ਵਾਸਤੇ ਤੁਹਾਡੇ ਬੱਚੇ ਦੀਆਂ ਅੱਖਾਂ ਖੁੱਲ੍ਹੀਆਂ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ। ਤੁਸੀਂ ਅਤੇ ਤੁਹਾਡਾ ਬੱਚਾ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ ਕਿਸੇ ਵੇਲੇ ਵੀ ਇਸ ਵਿਕਲਪ ਨੂੰ ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ।</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">ਫ਼ੇਸ ਅਣਲਾਕ ਤੁਹਾਡੀ ਪਛਾਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਤੁਹਾਡੇ ਚਿਹਰੇ ਦਾ ਇੱਕ ਵਿਲੱਖਣ ਮਾਡਲ ਬਣਾਉਂਦਾ ਹੈ। ਸੈੱਟਅੱਪ ਦੌਰਾਨ ਇਸ ਚਿਹਰੇ ਦੇ ਮਾਡਲ ਨੂੰ ਬਣਾਉਣ ਲਈ, ਤੁਸੀਂ ਵੱਖ-ਵੱਖ ਕੋਣਾਂ ਤੋਂ ਆਪਣੇ ਚਿਹਰੇ ਦੇ ਚਿੱਤਰ ਲਵੋਗੇ।\n\nਜਦੋਂ ਤੁਸੀਂ ਫ਼ੇਸ ਅਣਲਾਕ ਵਰਤਦੇ ਹੋ, ਤਾਂ ਤੁਹਾਡੇ ਚਿਹਰੇ ਦੇ ਮਾਡਲ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਚਿੱਤਰ ਵਰਤੇ ਜਾਂਦੇ ਹਨ। ਤੁਹਾਡੇ ਚਿਹਰੇ ਦਾ ਮਾਡਲ ਬਣਾਉਣ ਲਈ ਵਰਤੇ ਜਾਂਦੇ ਚਿੱਤਰ ਕਦੇ ਵੀ ਸਟੋਰ ਨਹੀਂ ਕੀਤੇ ਜਾਂਦੇ, ਪਰ ਚਿਹਰੇ ਦੇ ਮਾਡਲ ਨੂੰ ਤੁਹਾਡੇ ਫ਼ੋਨ \'ਤੇ ਸੁਰੱਖਿਅਤ ਤਰੀਕੇ ਨਾਲ ਸਟੋਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਅਤੇ ਕਦੇ ਵੀ ਫ਼ੋਨ ਤੋਂ ਬਾਹਰ ਨਹੀਂ ਜਾਂਦਾ। ਸਾਰੀ ਪ੍ਰਕਿਰਿਆ ਤੁਹਾਡੇ ਫ਼ੋਨ \'ਤੇ ਸੁਰੱਖਿਅਤ ਤਰੀਕੇ ਨਾਲ ਵਾਪਰਦੀ ਹੈ।</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">ਫ਼ੇਸ ਅਣਲਾਕ ਤੁਹਾਡੇ ਬੱਚੇ ਦੀ ਪਛਾਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਉਸਦੇ ਚਿਹਰੇ ਦਾ ਇੱਕ ਵਿਲੱਖਣ ਮਾਡਲ ਬਣਾਉਂਦਾ ਹੈ। ਸੈੱਟਅੱਪ ਦੌਰਾਨ ਇਸ ਚਿਹਰੇ ਦੇ ਮਾਡਲ ਨੂੰ ਬਣਾਉਣ ਲਈ, ਤੁਹਾਡਾ ਬੱਚਾ ਵੱਖ-ਵੱਖ ਕੋਣਾਂ ਤੋਂ ਆਪਣੇ ਚਿਹਰੇ ਦੇ ਚਿੱਤਰ ਲਵੇਗਾ।\n\nਜਦੋਂ ਉਹ ਫ਼ੇਸ ਅਣਲਾਕ ਵਰਤਦਾ ਹੈ, ਤਾਂ ਉਸਦੇ ਚਿਹਰੇ ਦੇ ਮਾਡਲ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਚਿੱਤਰ ਵਰਤੇ ਜਾਂਦੇ ਹਨ। ਉਸਦੇ ਚਿਹਰੇ ਦਾ ਮਾਡਲ ਬਣਾਉਣ ਲਈ ਵਰਤੇ ਜਾਂਦੇ ਚਿੱਤਰ ਸਟੋਰ ਨਹੀਂ ਕੀਤੇ ਜਾਂਦੇ, ਪਰ ਚਿਹਰੇ ਦੇ ਮਾਡਲ ਨੂੰ ਫ਼ੋਨ \'ਤੇ ਸੁਰੱਖਿਅਤ ਤਰੀਕੇ ਨਾਲ ਸਟੋਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਅਤੇ ਇਹ ਕਦੇ ਵੀ ਫ਼ੋਨ ਤੋਂ ਬਾਹਰ ਨਹੀਂ ਜਾਂਦਾ। ਸਾਰੀ ਪ੍ਰਕਿਰਿਆ ਫ਼ੋਨ \'ਤੇ ਸੁਰੱਖਿਅਤ ਤਰੀਕੇ ਨਾਲ ਵਾਪਰਦੀ ਹੈ।</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਕਿਸੇ ਵੇਲੇ ਵੀ ਚਿਹਰੇ ਦੇ ਮਾਡਲ ਨੂੰ ਮਿਟਾ ਸਕਦੇ ਹੋ ਜਾਂ ਫ਼ੇਸ ਅਣਲਾਕ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ। ਚਿਹਰੇ ਦੇ ਮਾਡਲ ਫ਼ੋਨ \'ਤੇ ਉਦੋਂ ਤੱਕ ਸਟੋਰ ਰਹਿੰਦੇ ਹਨ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਉਨ੍ਹਾਂ ਨੂੰ ਮਿਟਾਉਂਦੇ ਨਹੀਂ।&lt;br&gt;&lt;br&gt;&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; \'ਤੇ ਹੋਰ ਜਾਣੋ।</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">ਤੁਸੀਂ ਅਤੇ ਤੁਹਾਡਾ ਬੱਚਾ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਕਿਸੇ ਵੇਲੇ ਵੀ ਆਪਣੇ ਚਿਹਰੇ ਦੇ ਮਾਡਲ ਨੂੰ ਮਿਟਾ ਸਕਦੇ ਹੋ ਜਾਂ ਫ਼ੇਸ ਅਣਲਾਕ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ। ਚਿਹਰੇ ਦੇ ਮਾਡਲ ਫ਼ੋਨ \'ਤੇ ਉਦੋਂ ਤੱਕ ਸਟੋਰ ਰਹਿੰਦੇ ਹਨ ਜਦੋਂ ਤੱਕ ਉਨ੍ਹਾਂ ਨੂੰ ਮਿਟਾਇਆ ਨਹੀਂ ਜਾਂਦਾ।&lt;br&gt;&lt;br&gt;&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; \'ਤੇ ਹੋਰ ਜਾਣੋ।</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">ਆਪਣਾ ਫ਼ੋਨ ਅਣਲਾਕ ਕਰਨ ਜਾਂ ਆਪਣੀ ਪਛਾਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਆਪਣਾ ਚਿਹਰਾ ਵਰਤੋ, ਜਿਵੇਂ ਕਿ ਜਦੋਂ ਤੁਸੀਂ ਐਪਾਂ ਵਿੱਚ ਸਾਈਨ-ਇਨ ਕਰਦੇ ਹੋ ਜਾਂ ਕਿਸੇ ਖਰੀਦ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੰਦੇ ਹੋ।\n\nਧਿਆਨ ਵਿੱਚ ਰੱਖੋ:\nਤੁਸੀਂ ਇੱਕ ਸਮੇਂ \'ਤੇ ਇੱਕ ਹੀ ਚਿਹਰੇ ਦਾ ਸੈੱਟਅੱਪ ਕਰ ਸਕਦੇ ਹੋ। ਕੋਈ ਹੋਰ ਚਿਹਰਾ ਸ਼ਾਮਲ ਕਰਨ ਲਈ, ਪਹਿਲਾਂ ਮੌਜੂਦਾ ਚਿਹਰੇ ਨੂੰ ਮਿਟਾਓ।\n\nਫ਼ੋਨ \'ਤੇ ਦੇਖਣ ਨਾਲ ਹੀ ਫ਼ੋਨ ਅਣਲਾਕ ਹੋ ਸਕਦਾ ਹੈ, ਭਾਵੇਂ ਇੰਝ ਕਰਨ ਦਾ ਤੁਹਾਡਾ ਇਰਾਦਾ ਨਾ ਵੀ ਹੋਵੇ।\n\nਬਹੁਤ ਜ਼ਿਆਦਾ ਤੁਹਾਡੇ ਵਰਗੇ ਦਿਖਣ ਵਾਲੇ ਕਿਸੇ ਵੀ ਵਿਅਕਤੀ ਵੱਲੋਂ ਤੁਹਾਡਾ ਫ਼ੋਨ ਅਣਲਾਕ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, ਜਿਵੇਂ ਇੱਕੋ ਜਿਹੇ ਦਿਖਣ ਵਾਲੇ ਭੈਣ-ਭਰਾ।\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਕਿਸੇ ਵੇਲੇ ਵੀ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਮਾਡਲ ਨੂੰ ਮਿਟਾ ਸਕਦੇ ਹੋ ਜਾਂ Pixel Imprint ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ। ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਮਾਡਲ ਫ਼ੋਨ \'ਤੇ ਉਦੋਂ ਤੱਕ ਸਟੋਰ ਰਹਿੰਦੇ ਹਨ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਉਨ੍ਹਾਂ ਨੂੰ ਮਿਟਾਉਂਦੇ ਨਹੀਂ।</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">ਤੁਸੀਂ ਅਤੇ ਤੁਹਾਡਾ ਬੱਚਾ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਕਿਸੇ ਵੇਲੇ ਵੀ ਆਪਣੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਮਾਡਲ ਨੂੰ ਮਿਟਾ ਸਕਦੇ ਹੋ ਜਾਂ Pixel Imprint ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ। ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਮਾਡਲ ਫ਼ੋਨ \'ਤੇ ਉਦੋਂ ਤੱਕ ਸਟੋਰ ਰਹਿੰਦੇ ਹਨ ਜਦੋਂ ਤੱਕ ਉਨ੍ਹਾਂ ਨੂੰ ਮਿਟਾਇਆ ਨਹੀਂ ਜਾਂਦਾ।</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint ਨਾਲ, ਤੁਸੀਂ ਖਰੀਦਾਂ ਨੂੰ ਅਧਿਕਾਰਿਤ ਕਰਨ ਜਾਂ ਐਪਾਂ ਵਿੱਚ ਸਾਈਨ-ਇਨ ਕਰਨ ਲਈ ਆਪਣੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ।\n\nਇਸ ਬਾਰੇ ਸਾਵਧਾਨ ਰਹੋ ਕਿ ਤੁਸੀਂ ਕਿਸ ਵਿਅਕਤੀ ਦੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਸ਼ਾਮਲ ਕਰ ਰਹੇ ਹੋ। ਸ਼ਾਮਲ ਕੀਤੇ ਗਏ ਫਿੰਗਰਪ੍ਰਿੰਟ ਇਹ ਚੀਜ਼ਾਂ ਕਰਨ ਦੇ ਯੋਗ ਹੋ ਜਾਣਗੇ।\n\nਨੋਟ ਕਰੋ: ਤੁਸੀਂ ਇਸ ਡੀਵਾਈਸ ਨੂੰ ਅਣਲਾਕ ਕਰਨ ਲਈ ਆਪਣੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕਰ ਸਕਦੇ। ਜ਼ਿਆਦਾ ਜਾਣਕਾਰੀ ਲਈ, ਆਪਣੀ ਸੰਸਥਾ ਦੇ ਪ੍ਰਸ਼ਾਸਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">ਅਡੈਪਟਿਵ ਬੈਟਰੀ ਵਿਸ਼ੇਸ਼ਤਾ ਤੁਹਾਡੀ ਫ਼ੋਨ ਵਰਤੋਂ ਤੋਂ ਐਪਾਂ ਵੱਲੋਂ ਬੈਟਰੀ ਵਰਤੇ ਜਾਣ ਦੇ ਤਰੀਕੇ ਨੂੰ ਲਗਾਤਾਰ ਸੁਯੋਗ ਬਣਾਉਣਾ ਸਿੱਖਦੀ ਹੈ। ਬੈਟਰੀ ਲਾਈਫ਼ ਵਧਾਉਣ ਲਈ, ਇਹ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਘੱਟ ਕਰ ਸਕਦੀ ਹੈ ਅਤੇ ਸੂਚਨਾਵਾਂ ਵਿੱਚ ਦੇਰੀ ਕਰ ਸਕਦੀ ਹੈ।</string>
     <string name="smart_battery_summary" product="tablet">ਅਡੈਪਟਿਵ ਬੈਟਰੀ ਤੁਹਾਡੀ ਟੈਬਲੈੱਟ ਵਰਤੋਂ ਤੋਂ ਐਪਾਂ ਵੱਲੋਂ ਬੈਟਰੀ ਵਰਤੇ ਜਾਣ ਦੇ ਤਰੀਕੇ ਨੂੰ ਲਗਾਤਾਰ ਸੁਯੋਗ ਬਣਾਉਣਾ ਸਿੱਖਦੀ ਹੈ। ਬੈਟਰੀ ਲਾਈਫ਼ ਵਧਾਉਣ ਲਈ, ਇਹ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਘੱਟ ਕਰ ਸਕਦੀ ਅਤੇ ਸੂਚਨਾਵਾਂ ਵਿੱਚ ਦੇਰੀ ਕਰ ਸਕਦੀ ਹੈ।</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ਡਿਸਪਲੇ ਅਤੇ ਟੱਚ</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">ਫ਼ੇਸ ਅਣਲਾਕ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">ਫ਼ੇਸ ਅਣਲਾਕ ਦਾ ਸੈੱਟਅੱਪ ਕਰੋ</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">ਫ਼ੇਸ ਅਣਲਾਕ ਬਾਰੇ ਹੋਰ ਜਾਣੋ</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">ਵਾਧੂ ਸਹੂਲਤ ਲਈ, ਅਜਿਹੇ ਸਮਿਆਂ ਵਾਸਤੇ ਫ਼ੇਸ ਅਣਲਾਕ ਨੂੰ ਬੈਕਅੱਪ ਵਜੋਂ ਸੈੱਟ ਕਰੋ, ਜਦੋਂ ਤੁਹਾਡੀਆਂ ਉਂਗਲਾਂ ਗਿੱਲੀਆਂ ਜਾਂ ਠੰਡੀਆਂ ਹੋਣ।\n\nਤੁਹਾਡੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਸਿਰਫ਼ ਡੀਵਾਈਸ \'ਤੇ ਸਟੋਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ ਅਤੇ ਕਦੇ ਵੀ Google ਨੂੰ ਨਹੀਂ ਭੇਜੇ ਜਾਂਦੇ।</string>
 </resources>

@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Келесі экранда телефонды көз деңгейінде ұстаңыз.</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Бет тану функциясын пайдалану кезінде басты телефонның алдында тік ұстау қажет.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Телефон құлпын ашу немесе жеке басыңызды растау үшін (мысалы, қолданбаларға кіргенде не бірдеңе сатып алғанда) бет тану функциясын пайдаланыңыз.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Ашқыңыз келмесе де, телефонға қараған кезде, оның құлпы ашылып кетуі мүмкін. Құлыпты өзіңізге ұқсайтын біреу (мысалы, егіз бауырыңыз) ашып алуы мүмкін. Басқа адам телефонды бетіңізге тақаған кезде де құлып ашылады.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Ашқысы келмесе де, телефонға қараған кезде, ол ашылып кетуі мүмкін. Құлыпты оған ұқсайтын біреу (мысалы, оның егіз бауыры) ашып алуы мүмкін. Басқа адам телефонды баланың бетіне тақаған кезде де құлып ашылады.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Телефон құлпын баланың бетін пайдаланып ашу қауіпсіздік тұрғысынан PIN кодына, құпия сөзге немесе күрделі өрнекке қарағанда әлсіздеу болуы мүмкін.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Телефон құлпын бетті пайдаланып ашу қауіпсіздік тұрғысынан PIN кодына, құпия сөзге немесе күрделі өрнекке қарағанда әлсіздеу болуы мүмкін.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Бет тану функциясы телефонның құлпын ашу немесе жеке басыңызды растау үшін көзіңіздің ашық болуын талап ете алады. Бұл функцияны \"Параметрлер\" бөлімінен кез келген уақытта қоса аласыз.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Бет тану функциясы телефонның құлпын ашу немесе балаңыздың жеке басын растау үшін оның көзінің ашық болуын талап ете алады. Балаңыз екеуіңіз бұл функцияны \"Параметрлер\" бөлімінен кез келген уақытта қоса аласыздар.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Жеке басыңызды растау үшін бет тану функциясы бетіңіздің қайталанбас үлгісін жасайды. Реттеу кезінде бет үлгісін жасау үшін бетіңізді жан-жағынан суретке түсіресіз.\n\nБет тану функциясын қолданған кездегі суреттер бетіңіздің үлгісін жаңарту үшін пайдаланылады. Бет үлгісін жасау үшін қолданылған суреттер ешқашан сақталмайды, бірақ үлгінің өзі телефонда қауіпсіз сақталады және басқа ешқайда жіберілмейді. Барлық өңдеу жұмысы қауіпсіз түрде телефонда орындалады.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Балаңыздың жеке басын растау үшін бет тану функциясы оның бетінің қайталанбас үлгісін жасайды. Реттеу кезінде бет үлгісін жасау үшін балаңыз бетін жан-жағынан суретке түсіреді.\n\nОның бет тану функциясын қолданған кездегі суреттері бет үлгісін жаңарту үшін пайдаланылады. Бет үлгісін жасау үшін қолданылған суреттер сақталмайды, бірақ үлгінің өзі телефонда қауіпсіз сақталады және басқа ешқайда жіберілмейді. Барлық өңдеу жұмысы қауіпсіз түрде телефонда орындалады.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Кез келген уақытта \"Параметрлер\" бөлімінен бет үлгісін жоюға немесе бет тану функциясын өшіріп қоюға болады. Бет үлгілері өзіңіз жойғанша телефонда сақталып тұрады.&lt;br&gt;&lt;br&gt;Толық ақпарат: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Кез келген уақытта \"Параметрлер\" бөлімінен бет үлгісін жоюға немесе бет тану функциясын өшіріп қоюға болады. Мұны өзіңіз де, балаңыз да жасай алады. Бет үлгілері жойылғанша телефонда сақталып тұрады.&lt;br&gt;&lt;br&gt;Толық ақпарат: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Телефон құлпын ашу немесе жеке басыңызды растау үшін (мысалы, қолданбаларға кіру не бірдеңе сатып алу кезінде) бет тану үлгісін пайдаланыңыз.\n\nЕсіңізде болсын:\nБір уақытта тек бір бет үлгісін реттей аласыз. Басқа бет үлгісін қосу үшін қолданыстағысын өшіріңіз.\n\nӘдейі істемесеңіз де, телефонға қараған кезде, оның құлпы ашылуы мүмкін.\n\nТелефон құлпын өзіңізге ұқсайтын біреу, мысалы, егіз бауырыңыз ашып алуы мүмкін.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Кез келген уақытта \"Параметрлер\" бөлімінен саусақ ізінің үлгісін жоюға немесе Pixel Imprint функциясын өшіріп қоюға болады. Саусақ ізінің үлгілері өзіңіз жойғанша телефонда сақталып тұрады.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Кез келген уақытта \"Параметрлер\" бөлімінен саусақ ізінің үлгісін жоюға немесе Pixel Imprint функциясын өшіріп қоюға болады. Мұны өзіңіз де, балаңыз да жасай алады. Саусақ ізінің үлгілері жойылғанша телефонда сақталып тұрады.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint көмегімен сатып алу әрекеттерін мақұлдауға немесе қолданбаларға кіруге саусақ ізін пайдалана аласыз.\n\nБасқалардың саусақ іздерін енгізгенде, сақ болыңыз. Саусақ іздері енгізілген кез келген адам бұл әрекеттерді орындай алады.\n\nЕскертпе: бұл құрылғының құлпын ашу үшін саусақ ізін пайдалана алмайсыз. Қосымша ақпарат алу үшін ұйым әкімшісіне хабарласыңыз.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Батарея шығынын бейімдеу функциясы телефонды пайдалану деректерін зерттеп, қолданбалардың батареяны пайдалануын оңтайландырады. Батареяның жұмыс уақытын ұзарту үшін телефонның жұмыс өнімділігі төмендеп, хабарландырулар кідіртілуі мүмкін.</string>
     <string name="smart_battery_summary" product="tablet">Батарея шығынын бейімдеу функциясы планшетті пайдалану деректерін зерттеп, қолданбалардың батареяны пайдалануын оңтайландырады. Батареяның жұмысын ұзарту үшін жұмыс өнімділігі төмендеп, хабарландырулар кешігіп келуі мүмкін.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Дисплей және сенсор</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Бет тану функциясына рұқсат беру</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Бет тану функциясын реттеу</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Бет тану туралы толық ақпарат алыңыз</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Саусақтарыңыз су болғанда немесе суық кезде, қосымша әдіс ретінде бет тану функциясын орнатып қойған өте ыңғайлы.\n\nСаусағыңыздың іздері тек құрылғыда сақталады, еш уақытта Google-ға жіберілмейді.</string>
 </resources>

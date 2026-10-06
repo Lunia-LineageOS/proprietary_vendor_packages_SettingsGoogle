@@ -3,8 +3,83 @@
     <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
     <string name="owner_info_settings_edit_text_hint">На пр. Pixel-от на Миле.</string>
 
+    <!-- Message shown in summary field when Face Unlock is not set up. [CHAR LIMIT=54] -->
+    <string name="security_settings_face_preference_summary_none">Допрете за да поставите лик</string>
+
+    <!-- Introduction detail message shown in face education [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message">На следниот екран, ротирајте ја главата за да се снимат сите агли на вашето лице</string>
+
+    <!-- Button shown which shows accessibility toggles for face enrollment when clicked. [CHAR LIMIT=32] -->
+    <string name="security_settings_face_enroll_introduction_accessibility">Поставување за лица со слаб вид или ограничено движење на главата</string>
+
+    <!-- Message shown for a toggle which when enabled, allows the user to enroll using a simpler flow for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_accessibility_vision">Потребни се отворени очи</string>
+
+    <!-- Title of a section on the face enrollment introduction page that provides additional information. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_info_title">Имајте предвид</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_glasses">Очила или малку затемнети очила за сонце се во ред.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_glasses">Ако вашето дете вообичаено носи очила, може да ги носи при поставувањето.</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_how_title">Како функционира</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_title">Контролата е во ваши раце</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_title">Вие и вашето дете сте во контрола</string>
+
+    <!-- Message shown in face enrollment dialog once enrollment is completed -->
+    <string name="security_settings_face_enroll_finish_title">Добро е!</string>
+
+    <!-- Description shown on face settings page. -->
+    <string name="security_settings_face_description">За дополнителна погодност, поставете ја „Отклучување со отпечаток“ како резервна опција кога носите маска или сте на темно место.\n\nВашиот лик се складира само на уредот и никогаш не се испраќа до Google.</string>
+
+    <!-- Title shown for menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_preference_title">Nexus Imprint</string>
+
+    <!-- Title shown for work menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint за работа</string>
+
+    <!-- message shown in summary field when no fingerprints are registered -->
+    <string name="security_settings_fingerprint_preference_summary_none">Допрете за да поставите отпечаток</string>
+
+    <!-- Introduction title shown in fingerprint enrollment to introduce the fingerprint feature, when fingerprint unlock is disabled by device admin [CHAR LIMIT=40] -->
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Откл. со Nexus Imprint</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Pixel Imprint создава единствен модел на вашиот отпечаток за да потврди дека сте вие. За да го создадете моделов на отпечаток при поставувањето, ќе снимите слики од отпечатокот од различни положби.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Pixel Imprint создава единствен модел од отпечатокот на вашето дете за да потврди дека е тоа. За да го создаде моделот на отпечаток за време на поставувањето, детето ќе направи неколку слики од отпечатокот од различни положби.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment introduction to learn more about fingerprint [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Дознајте повеќе за „Отклучување со отпечаток“ на Pixel на &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;.</string>
+
+    <!-- Message shown in summary field of biometric settings. [CHAR LIMIT=66] -->
+    <string name="security_settings_biometric_preference_summary_none_enrolled">Допрете за да поставите</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Најавете се на сметката на Google за да ја користите со вашиот „Приватен простор“</string>
+
+    <!-- Title for suggested actions for settings up a fingerprint lock [CHAR LIMIT=46] -->
+    <string name="suggested_fingerprint_lock_settings_title">Користете Pixel Imprint</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock pattern for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pattern">Nexus Imprint + шема</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock PIN for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pin">Nexus Imprint + PIN</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock password for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_password">Nexus Imprint + лозинка</string>
+
+    <!-- Title for preference that guides the user to skip fingerprint setup [CHAR LIMIT=60]-->
+    <string name="fingerprint_unlock_skip_fingerprint">Продолжете без Nexus Imprint</string>
 
     <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
     <string name="wifi_subscription_summary">Прегледајте ја или изменете ја претплатата за OpenRoaming</string>

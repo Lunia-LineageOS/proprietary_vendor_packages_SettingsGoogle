@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">በሚቀጥለው ማያ ገጽ ላይ ስልክዎን በዓይንዎ ልክ ይያዙት</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">በመልክ መክፈትን ሲጠቀሙ የእርስዎ ጭንቅላት ይበልጥ ከስልክዎ ፊት ለፊት መሆን ሊያስፈልገው ይችላል።</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">ስልክዎን ለመክፈት ወይም እርስዎ መሆንዎን ለማረጋገጥ፣ ለምሳሌ ወደ መተግበሪያዎች ሲገቡ ወይም አንድን ግዢ ሲያጸድቁ፣ መልክዎን ይጠቀሙ።</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">እርስዎ ሳይፈልጉም እንኳ ስልኩን መመልከት ስልኩን ሊከፍተው ይችላል። ስልክዎ እንዲሁም እንደ ተመሳሳይ ወንድም/እህት ያለ እርስዎን በጣም በሚመስል ሰው ወይም አንድ ሰው ፊትዎ ላይ ከያዘው ሊከፈት ይችላል።</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">እነሱ ሳይፈልጉም እንኳ ስልኩን መመልከት ስልኩን ሊከፍተው ይችላል። ስልካቸው እንዲሁም እንደ ተመሳሳይ ወንድም/እህት ያለ እነሱን በጣም በሚመስል ሰው ወይም አንድ ሰው ፊታቸው ላይ ከያዘው ሊከፈት ይችላል።</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">የልጅዎን ስልክ ለመክፈት መልካቸውን መጠቀም ከጠንካራ ሥርዓተ ጥለት፣ ፒን ወይም የይለፍ ቃል ያነሰ ደህንነት ሊኖረው ይችላል</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">ስልክዎን ለመክፈት መልክዎን መጠቀሙ ከጠንካራ ሥርዓተ ጥለት፣ ፒን ወይም የይለፍ ቃል ያነሰ ደህንነት ሊኖረው ይችላል</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">በመልክ መክፈት ስልኩን ለመክፈት ወይም እርስዎ መሆንዎን ለማረጋገጥ የእርስዎ ዓይኖች ክፍት እንዲሆኑ ሊጠይቅ ይችላል። በማንኛውም ጊዜ በቅንብሮች ውስጥ ይህን አማራጭ ማብራት ይችላሉ።</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">በመልክ መክፈት ስልኩን ለመክፈት ወይም እነሱ መሆናቸውን ለማረጋገጥ የልጅዎ ዓይኖች ክፍት እንዲሆኑ ሊጠይቅ ይችላል። እርስዎ እና ልጅዎ በማንኛውም ጊዜ በቅንብሮች ውስጥ ይህን አማራጭ ማብራት ይችላሉ።</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">በመልክ መክፈት እርስዎ መሆንዎን ለማረጋገጥ የመልክዎን ልዩ ሞዴል ይፈጥራል። በማዋቀር ወቅት ይህን የመልክ ሞዴል ለመፍጠር እርስዎ የመልክዎን ምስሎች ከተለያዩ ማዕዘናት ያነሳሉ።\n\nበመልክ መክፈትን ሲጠቀሙ ምስሎች የመልክዎን ሞዴል ለማዘመን ጥቅም ላይ ይውላሉ። የእርስዎን የመልክ ሞዴል ለመፍጠር ጥቅም ላይ የዋሉ ምስሎች በጭራሽ አይከማቹም፣ ነገር ግን የመልክ ሞዴሉ በስልክዎ ላይ ደህንነቱ በተጠበቀ ሁኔታ ይከማቻል እና በጭራሽ ከስልኩ አይወጣም። ሁሉም ማሰናዳት በስልክዎ ላይ ደህንነቱ በተጠበቀ ሁኔታ ይከሰታል።</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">በመልክ መክፈት እሳቸው መሆናቸውን ለማረጋገጥ ልዩ የልጅዎን መልክ ሞዴል ይፈጥራል። በማዋቀር ወቅት ይህን የመልክ ሞዴል ለመፍጠር ልጅዎ የመልካቸውን ምስሎች ከተለያዩ ማዕዘናት ያነሳሉ።\n\nበመልክ መክፈትን ሲጠቀሙ ምስሎች የመልክ ሞዴላቸውን ለማዘመን ሥራ ላይ ይውላሉ። የመልክ ሞዴላቸውን ለመፍጠር ሥራ ላይ የዋሉ ምስሎች በጭራሽ አይከማቹም ነገር ግን የመልክ ሞዴሉ በስልኩ ላይ ደህንነቱ በተጠበቀ ሁኔታ የሚከማች ሲሆን በጭራሽ ከስልኩ አይወጣም። ሁሉም ማሰናዳት በስልኩ ላይ ደህንነቱ በተጠበቀ ሁኔታ ይከናወናል።</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">በማንኛውም ጊዜ በቅንብሮች ውስጥ የእርስዎን የመልክ ሞዴል መሰረዝ ወይም በመልክ መክፈትን ማጥፋት ይችላሉ። የመልክ ሞዴሎች እርስዎ እስኪሰርዟቸው ድረስ በስልኩ ላይ ይከማቻሉ።&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; ላይ &lt;br&gt;&lt;br&gt;የበለጠ ይወቁ።</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">እርስዎ እና ልጅዎ በማንኛውም ጊዜ በቅንብሮች ውስጥ የመልክ ሞዴላቸውን መሰረዝ ወይም በመልክ መክፈትን ማጥፋት ትችላላችሁ። የመልክ ሞዴሎች እስኪሰረዙ ድረስ በስልኩ ላይ ይከማቻሉ።&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; ላይ &lt;br&gt;&lt;br&gt;የበለጠ ይወቁ።</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">ስልክዎን ለመክፈት ወይም እንደ በመተግበሪያዎች ሲገቡ ወይም ግዢ ሲያጸድቁ እርስዎ መሆንዎን ለማረጋገጥ መልክዎን ይጠቀሙ።\n\nይህን ያስታውሱ፦\nበአንድ ጊዜ ማዋቀር የሚችሉት አንድ መልክ ብቻ ነው። ሌላ መልክ ለማከል የአሁኑን ይሰርዙ።\n\nስልኩን ማየት ሳያስቡት ሊከፍተው ይችላል።\n\nስልክዎ እርስዎን በጣም በሚመስል እንደ ወንድም/እህት ያለ ሰው ሊከፈት ይችላል።\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">እርስዎ በማንኛውም ጊዜ በቅንብሮች ውስጥ የጣት አሻራ ሞዴልዎን መሰረዝ ወይም Pixel Imprintን ማጥፋት ይችላሉ። የጣት አሻራ ሞዴሎች እስኪሰርዟቸው ድረስ በስልኩ ላይ ይከማቻሉ።</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">እርስዎ እና ልጅዎ በማንኛውም ጊዜ በቅንብሮች ውስጥ የጣት አሻራ ሞዴላቸውን መሰረዝ ወይም Pixel Imprintን ማጥፋት ትችላላችሁ። የጣት አሻራ ሞዴሎች እስኪሰረዙ ድረስ በስልኩ ላይ ይከማቻሉ።</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">በNexus Imprint አማካኝነት ግዢዎችን ለማጽደቅ ወይም ወደ መተግበሪያዎች ለመግባት የጣት አሻራዎን መጠቀም ይችላሉ።\n\nየማን የጣት አሻራዎች እንደሚያክሉ ላይ ይጠንቀቁ። ማናቸውም የታከሉ የጣት አሻራዎች እነዚህን ማድረግ ይችላሉ።\n\nማስታወሻ፦ ይህን መሣሪያ ለመክፈት የጣት አሻራዎን መጠቀም አይችሉም። ተጨማሪ መረጃ ለማግኘት የድርጅትዎን አስተዳዳሪ ያነጋግሩ።</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">ተለማማጅ ባትሪ መተግበሪያዎች ባትሪውን እንዴት እንደሚጠቀሙ በተከታታይ ለማመቻቸት ከስልክዎ አጠቃቀም ይማራል። የባትሪ ዕድሜን ለማራዘም፣ አፈጻጸሙን ሊቀንስ እና ማሳወቂያዎችን ሊያዘገይ ይችላል።</string>
     <string name="smart_battery_summary" product="tablet">ተለማማጅ ባትሪ መተግበሪያዎች ባትሪውን እንዴት እንደሚጠቀሙ በተከታታይ ለማመቻቸት ከጡባዊዎ አጠቃቀም ይማራል። የባትሪ ዕድሜን ለማራዘም፣ አፈጻጸሙን ሊቀንስ እና ማሳወቂያዎችን ሊያዘገይ ይችላል።</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ማሳያ እና ንክኪ</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">በመልክ መክፈትን ይፍቀዱ</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">በመልክ መክፈትን ያዋቅሩ</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">ስለ በመልክ መክፈት የበለጠ ይወቁ</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">ለተጨማሪ ምቾት፣ ጣቶችዎ እርጥብ ወይም ቀዝቃዛ በሚሆኑበት ጊዜ በመልክ መክፈትን እንደ ምትኬ ያዋቅሩ።\n\nየእርስዎ የጣት አሻራዎች በመሣሪያ ላይ ብቻ ተከማችተዋል እና መቼም ወደ Google አይላኩም።</string>
 </resources>

@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">ପରବର୍ତ୍ତୀ ସ୍କ୍ରିନରେ, ଆପଣଙ୍କ ଫୋନକୁ ଆଖି ସିଧାରେ ଧରି ରଖନ୍ତୁ</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">ଫେସ ଅନଲକ ବ୍ୟବହାର କରିବା ସମୟରେ ଆପଣଙ୍କ ମୁଣ୍ଡ ଆପଣଙ୍କ ଫୋନ ସାମ୍ନାରେ ସମ୍ପୂର୍ଣ୍ଣ ସିଧା ରହିବା ଆବଶ୍ୟକ।</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">ଆପଣ ଆପ୍ସରେ ସାଇନ ଇନ କରିବା କିମ୍ବା କୌଣସି କ୍ରୟକୁ ଅନୁମୋଦନ ଦେବା ବେଳେ, ଆପଣଙ୍କ ଫୋନକୁ ଅନଲକ କରିବା କିମ୍ବା ଏହା ଆପଣ ବୋଲି ଯାଞ୍ଚ କରିବା ପାଇଁ ଆପଣଙ୍କ ଫେସ ବ୍ୟବହାର କରନ୍ତୁ।</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">ଆପଣ ଅଜାଣତରେ ମଧ୍ୟ ଆପଣଙ୍କ ଫୋନକୁ ଦେଖିଲେ ଏହା ଅନଲକ ହୋଇପାରିବ। ଆପଣଙ୍କ ପରି ଦେଖାଯାଉଥିବା କୌଣସି ବ୍ୟକ୍ତି ଯେପରି ଯାଆଁଳା ଭାଇ/ଭଉଣୀ କିମ୍ବା କେହି ଜଣେ ଆପଣଙ୍କ ଫୋନକୁ ଆପଣଙ୍କ ଫେସ ସାମ୍ନାରେ ରଖି ମଧ୍ୟ ଏହାକୁ ଅନଲକ କରିପାରିବେ।</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">ସେ ଅଜାଣତରେ ମଧ୍ୟ ତା’ର ଫୋନକୁ ଦେଖିଲେ ଏହା ଅନଲକ ହୋଇପାରିବ। ତା ପରି ଦେଖାଯାଉଥିବା କେହି ଜଣେ ଯେପରି ଯାଆଁଳା ଭାଇ/ଭଉଣୀଙ୍କ ଦ୍ୱାରା କିମ୍ବା କୌଣସି ବ୍ୟକ୍ତି ତା’ର ଫୋନକୁ ତା’ର ଫେସ ସାମ୍ନାରେ ରଖିଲେ ମଧ୍ୟ ଏହାକୁ ଅନଲକ କରାଯାଇପାରିବ।</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">ଏକ ଜଟିଳ ପାଟର୍ନ, PIN କିମ୍ବା ପାସୱାର୍ଡ ଅପେକ୍ଷା ଆପଣଙ୍କ ପିଲାର ଫେସ ବ୍ୟବହାର କରି ତା\'ର ଫୋନକୁ ଅନଲକ କରିବା କମ ସୁରକ୍ଷିତ ହୋଇପାରେ</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">ଆପଣଙ୍କ ଫୋନକୁ ଅନଲକ କରିବା ପାଇଁ ଏକ ଜଟିଳ ପାଟର୍ନ, PIN କିମ୍ବା ପାସୱାର୍ଡ ଅପେକ୍ଷା ଆପଣଙ୍କର ଫେସ ବ୍ୟବହାର କରିବା କମ ସୁରକ୍ଷିତ ହୋଇପାରେ</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">ଫୋନକୁ ଅନଲକ କରିବା କିମ୍ବା ଏହା ଆପଣ ଅଟନ୍ତି ବୋଲି ଯାଞ୍ଚ କରିବା ପାଇଁ ଫେସ ଅନଲକ ନିମନ୍ତେ ଆପଣଙ୍କ ଆଖି ଖୋଲା ରହିବା ଆବଶ୍ୟକ ହୋଇପାରେ। ଆପଣ ଯେ କୌଣସି ସମୟରେ ସେଟିଂସରେ ଏହି ବିକଳ୍ପକୁ ବନ୍ଦ କରିପାରିବେ।</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">ଫୋନକୁ ଅନଲକ କରିବା କିମ୍ବା ଆପଣଙ୍କ ପିଲାର ପରିଚୟ ଯାଞ୍ଚ କରିବା ପାଇଁ ଫେସ ଅନଲକ ନିମନ୍ତେ ଆପଣଙ୍କ ପିଲାର ଆଖି ଖୋଲା ରହିବା ଆବଶ୍ୟକ ହୋଇପାରେ। ଆପଣ ଏବଂ ଆପଣଙ୍କ ପିଲା ଯେ କୌଣସି ସମୟରେ ସେଟିଂସରେ ଏହି ବିକଳ୍ପକୁ ବନ୍ଦ କରିପାରିବେ।</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">ଏହା ଆପଣ ବୋଲି ଯାଞ୍ଚ କରିବା ପାଇଁ ଫେସ ଅନଲକ ଆପଣଙ୍କ ଫେସର ଏକ ସ୍ୱତନ୍ତ୍ର ମଡେଲ ତିଆରି କରିଥାଏ। ସେଟଅପ ସମୟରେ ଏହି ଫେସ ମଡେଲ ତିଆରି କରିବାକୁ, ଆପଣ ବିଭିନ୍ନ ଆଙ୍ଗଲରୁ ଆପଣଙ୍କ ଫେସର ଇମେଜ ନେବେ।\n\nଆପଣ ଫେସ ଅନଲକ ବ୍ୟବହାର କରିବା ସମୟରେ, ଆପଣଙ୍କ ଫେସ ମଡେଲକୁ ଅପଡେଟ କରିବା ପାଇଁ ଇମେଜଗୁଡ଼ିକୁ ବ୍ୟବହାର କରାଯାଏ। ଆପଣଙ୍କ ଫେସ ମଡେଲ ତିଆରି କରିବା ପାଇଁ ବ୍ୟବହୃତ ଇମେଜଗୁଡ଼ିକୁ କେବେ ବି ଷ୍ଟୋର କରାଯାଏ ନାହିଁ, କିନ୍ତୁ ଫେସ ମଡେଲ ଆପଣଙ୍କ ଫୋନରେ ସୁରକ୍ଷିତ ଭାବେ ଷ୍ଟୋର କରାଯାଇଥାଏ ଏବଂ ଏହାକୁ କେବେ ବି ଫୋନରୁ କାଢ଼ି ଦିଆଯାଏ ନାହିଁ। ସମସ୍ତ ପ୍ରକ୍ରିୟାକରଣ ସୁରକ୍ଷିତ ଭାବେ ଆପଣଙ୍କ ଫୋନରେ କରାଯାଇଥାଏ।</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">ଏହା ଆପଣଙ୍କ ପିଲା ଅଟେ ବୋଲି ଯାଞ୍ଚ କରିବା ପାଇଁ ଫେସ ଅନଲକ ତା\'ର ଫେସର ଏକ ସ୍ୱତନ୍ତ୍ର ମଡେଲ ତିଆରି କରିଥାଏ। ସେଟଅପ ସମୟରେ ଏହି ଫେସ ମଡେଲ ତିଆରି କରିବା ପାଇଁ, ଆପଣଙ୍କ ପିଲା ବିଭିନ୍ନ ଆଙ୍ଗେଲରୁ ତା’ର ଫେସର ଇମେଜ ନେବ।\n\nସେ ଫେସ ଅନଲକ ବ୍ୟବହାର କରିବା ସମୟରେ, ତା’ର ଫେସ ମଡେଲକୁ ଅପଡେଟ କରିବା ପାଇଁ ଇମେଜଗୁଡ଼ିକୁ ବ୍ୟବହାର କରାଯାଏ। ତା’ର ଫେସ ମଡେଲ ତିଆରି କରିବା ପାଇଁ ବ୍ୟବହୃତ ଇମେଜଗୁଡ଼ିକୁ ଷ୍ଟୋର କରାଯାଏ ନାହିଁ, କିନ୍ତୁ ଫେସ ମଡେଲକୁ ଫୋନରେ ସୁରକ୍ଷିତ ଭାବେ ଷ୍ଟୋର କରାଯାଇଥାଏ ଏବଂ ଏହାକୁ କେବେ ବି ଫୋନରୁ କାଢ଼ି ଦିଆଯାଏ ନାହିଁ। ସମସ୍ତ ପ୍ରକ୍ରିୟାକରଣ ସୁରକ୍ଷିତ ଭାବେ ଫୋନରେ କରାଯାଇଥାଏ।</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">ଆପଣ ଆପଣଙ୍କ ଫେସ ମଡେଲକୁ ଡିଲିଟ କରିପାରିବେ କିମ୍ବା ଯେ କୌଣସି ସମୟରେ ସେଟିଂସରେ ଫେସ ଅନଲକକୁ ବନ୍ଦ କରିପାରିବେ। ଫେସ ମଡେଲଗୁଡ଼ିକୁ ଆପଣ ଡିଲିଟ ନକରିବା ପର୍ଯ୍ୟନ୍ତ ସେଗୁଡ଼ିକ ଫୋନରେ ଷ୍ଟୋର ହୋଇ ରହିଥାଏ।&lt;br&gt;&lt;br&gt;&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; ରେ ଅଧିକ ଜାଣନ୍ତୁ।</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">ଆପଣଙ୍କ ପିଲାର ଫେସ ମଡେଲକୁ ଆପଣ ଏବଂ ସେ ଡିଲିଟ କରିପାରିବେ କିମ୍ବା ଯେ କୌଣସି ସମୟରେ ସେଟିଂସରେ ଫେସ ଅନଲକକୁ ବନ୍ଦ କରିପାରିବେ। ଫେସ ମଡେଲଗୁଡ଼ିକୁ ଡିଲିଟ କରାନଯିବା ପର୍ଯ୍ୟନ୍ତ ସେଗୁଡ଼ିକ ଫୋନରେ ଷ୍ଟୋର ହୋଇ ରହିଥାଏ।&lt;br&gt;&lt;br&gt;&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;ରେ ଅଧିକ ଜାଣନ୍ତୁ।</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">ଆପଣ ଆପ୍ସରେ ସାଇନ ଇନ କରିବା କିମ୍ବା ଏକ କ୍ରୟକୁ ଅନୁମୋଦନ ଦେବା ପରି କାର୍ଯ୍ୟ କରିବା ସମୟରେ, ଆପଣଙ୍କ ଫୋନକୁ ଅନଲକ କରିବା କିମ୍ବା ଏହା ଆପଣ ବୋଲି ଯାଞ୍ଚ କରିବା ପାଇଁ ଆପଣଙ୍କ ଫେସ ବ୍ୟବହାର କରନ୍ତୁ।\n\nମନେ ରଖନ୍ତୁ:\nଆପଣ ଥରକେ କେବଳ ଗୋଟିଏ ଫେସ ସେଟ ଅପ କରିପାରିବେ। ଅନ୍ୟ ଏକ ଫେସ ଯୋଗ କରିବା ପାଇଁ ବର୍ତ୍ତମାନର ଫେସକୁ ଡିଲିଟ କରନ୍ତୁ।\n\nଆପଣ ଚାହୁଁନଥିବା ବେଳେ ମଧ୍ୟ ଆପଣଙ୍କର ଫୋନକୁ ଦେଖିଲେ ଏହା ଅନଲକ ହୋଇପାରିବ।\n\nଆପଣଙ୍କ ପରି ଦେଖାଯାଉଥିବା କେହି ଜଣେ ବ୍ୟକ୍ତି ଯେପରି ଯାଆଁଳା ଭାଇ/ଭଉଣୀଙ୍କ ଦ୍ୱାରା ଆପଣଙ୍କ ଫୋନକୁ ଅନଲକ କରାଯାଇପାରିବ।\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">ଆପଣ ଆପଣଙ୍କ ଟିପଚିହ୍ନ ମଡେଲକୁ ଡିଲିଟ କରିପାରିବେ କିମ୍ବା ଯେ କୌଣସି ସମୟରେ ସେଟିଂସରେ Pixel ଇମପ୍ରିଣ୍ଟକୁ ବନ୍ଦ କରିପାରିବେ। ଟିପଚିହ୍ନ ମଡେଲଗୁଡ଼ିକୁ ଆପଣ ଡିଲିଟ ନକରିବା ପର୍ଯ୍ୟନ୍ତ ସେଗୁଡ଼ିକ ଫୋନରେ ଷ୍ଟୋର ହୋଇ ରହିଥାଏ।</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">ଆପଣ ଏବଂ ଆପଣଙ୍କ ପିଲା ତା\'ର ଟିପଚିହ୍ନ ମଡେଲକୁ ଡିଲିଟ କରିପାରିବେ କିମ୍ବା ଯେ କୌଣସି ସମୟରେ ସେଟିଂସରେ Pixel Imprintକୁ ବନ୍ଦ କରିପାରିବେ। ଟିପଚିହ୍ନ ମଡେଲଗୁଡ଼ିକୁ ଡିଲିଟ୍ କରାନଯିବା ପର୍ଯ୍ୟନ୍ତ ସେଗୁଡ଼ିକ ଫୋନରେ ଷ୍ଟୋର୍ ହୋଇ ରହିଥାଏ।</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint ସହ, କ୍ରୟଗୁଡ଼ିକୁ ଅନୁମତି ଦେବା ପାଇଁ ଆପଣ ଆପଣଙ୍କର ଟିପଚିହ୍ନକୁ ବ୍ୟବହାର କରିପାରିବେ କିମ୍ବା ଆପ୍ସରେ ସାଇନ ଇନ କରିପାରିବେ।\n\nଆପଣ କାହାର ଟିପଚିହ୍ନଗୁଡ଼ିକ ଯୋଗ କରୁଛନ୍ତି ସେଥିପ୍ରତି ଧ୍ୟାନ ଦିଅନ୍ତୁ। ଯୋଗ କରାଯାଇଥିବା ଯେ କୌଣସି ଟିପଚିହ୍ନ ଏଗୁଡ଼ିକ କରିବାକୁ ସକ୍ଷମ ହେବ।\n\nଧ୍ୟାନ ଦିଅନ୍ତୁ: ଆପଣ ଏହି ଡିଭାଇସକୁ ଅନଲକ କରିବା ପାଇଁ ଆପଣଙ୍କର ଟିପଚିହ୍ନ ବ୍ୟବହାର କରିପାରିବେ ନାହିଁ। ଅଧିକ ସୂଚନା ପାଇଁ, ଆପଣଙ୍କର ସଂସ୍ଥାର ଆଡମିନଙ୍କ ସହ କଣ୍ଟାକ୍ଟ କରନ୍ତୁ।</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">ଆପ୍ସ ବେଟେରୀକୁ କିପରି ବ୍ୟବହାର କରେ ତାହାକୁ ନିରନ୍ତର ଭାବେ ଅପ୍ଟିମାଇଜ କରିବା ପାଇଁ ଆଡେପ୍ଟିଭ ବେଟେରୀ ଆପଣଙ୍କ ଫୋନ ବ୍ୟବହାରରୁ ଜାଣିଥାଏ। ବେଟେରୀ ଲାଇଫ ବଢ଼ାଇବା ପାଇଁ ଏହା ପରଫରମାନ୍ସକୁ ହ୍ରାସ କରିପାରେ ଏବଂ ବିଜ୍ଞପ୍ତିକୁ ବିଳମ୍ବ କରିପାରେ।</string>
     <string name="smart_battery_summary" product="tablet">ଆପ୍ସ ବେଟେରୀକୁ କିପରି ବ୍ୟବହାର କରେ ତାହାକୁ ନିରନ୍ତର ଭାବେ ଅପ୍ଟିମାଇଜ କରିବା ପାଇଁ ଆଡେପ୍ଟିଭ ବେଟେରୀ ଆପଣଙ୍କ ଟାବଲେଟ ବ୍ୟବହାରରୁ ଜାଣିଥାଏ। ବେଟେରୀ ଲାଇଫ ବଢ଼ାଇବା ପାଇଁ ଏହା ପରଫରମାନ୍ସକୁ ହ୍ରାସ କରିପାରେ ଏବଂ ବିଜ୍ଞପ୍ତିକୁ ବିଳମ୍ବ କରିପାରେ।</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ଡିସପ୍ଲେ ଓ ସ୍ପର୍ଶ</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">ଫେସ ଅନଲକକୁ ଅନୁମତି ଦିଅନ୍ତୁ</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">ଫେସ ଅନଲକ ସେଟ ଅପ କରନ୍ତୁ</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">ଫେସ ଅନଲକ ବିଷୟରେ ଅଧିକ ଜାଣନ୍ତୁ</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">ଅତିରିକ୍ତ ସୁବିଧା ପାଇଁ, ଆପଣଙ୍କ ଆଙ୍ଗୁଠି ଓଦା କିମ୍ବା ଥଣ୍ଡା ଥିବା ସମୟରେ ବେକଅପ ଭାବରେ ଫେସ ଅନଲକ ସେଟ ଅପ କରନ୍ତୁ।\n\nଆପଣଙ୍କ ଟିପଚିହ୍ନ କେବଳ ଡିଭାଇସରେ ଷ୍ଟୋର କରାଯାଇଥାଏ ଏବଂ କେବେ ବି Googleକୁ ପଠାଯାଏ ନାହିଁ।</string>
 </resources>

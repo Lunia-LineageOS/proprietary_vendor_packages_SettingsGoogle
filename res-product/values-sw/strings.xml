@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Kwenye skrini inayofuata, shikilia simu mbele ya macho yako</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Unapotumia kipengele cha Kufungua kwa uso, huenda ukahitaji kuelekeza kichwa chako moja kwa moja mbele ya simu yako.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Tumia uso wako kufungua simu yako au kuthibitisha kuwa ni wewe, kama vile unapoingia katika akaunti kwenye programu au unapoidhinisha ununuzi.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Kuangalia simu kunaweza kuifungua hata ikiwa huna lengo la kufanya hivyo. Simu yako inaweza pia kufunguliwa na mtu unayefanana naye, kama vile ndugu unayefanana naye sana au mtu mwingine akiishikilia mbele ya uso wako.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Kuangalia simu kunaweza kuifungua hata ikiwa hana lengo la kufanya hivyo. Simu yake inaweza pia kufunguliwa na mtu anayefanana naye, kama vile ndugu anayefanana naye au mtu mwingine akiishikilia mbele ya uso wake.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Kutumia uso wa mtoto wako kufungua simu yake huenda kusiwe salama ikilinganishwa na mchoro, PIN au nenosiri thabiti</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Huenda kiwango cha usalama wa kufungua simu yako kwa uso kikawa kidogo kikilinganishwa na kufungua kwa mchoro, PIN au nenosiri thabiti</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Kipengele cha Kufungua kwa Uso kinaweza kuhitaji ufungue macho ili kufungua simu au kuthibitisha kuwa ni wewe. Unaweza kuwasha chaguo hili wakati wowote katika Mipangilio.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Kipengele cha Kufungua kwa Uso kinaweza kuhitaji mtoto wako afungue macho ili kufungua simu au kuthibitisha kuwa ni yeye. Wewe na mtoto wako mnaweza kuwasha chaguo hili wakati wowote katika Mipangilio.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Kipengele cha Kufungua kwa Uso hubuni muundo wa kipekee wa uso wako ili kuthibitisha kuwa ni wewe. Ili kubuni muundo huu wa uso wakati wa kuweka mipangilio, utapiga picha za uso wako kutoka pande tofauti.\n\nUnapotumia kipengele cha Kufungua kwa Uso, picha zinatumiwa kusasisha muundo wa uso wako. Picha zinazotumiwa kubuni muundo wa uso wako hazihifadhiwi, ila muundo wa uso wako huhifadhiwa kwa njia salama kwenye simu yako na husalia mle. Mchakato wote hufanyika kwenye simu yako kwa njia salama.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Kipengele cha Kufungua kwa Uso huunda muundo wa kipekee wa uso wa mtoto wako ili kuthibitisha kuwa ni yeye. Ili kuunda muundo huu wa uso wakati wa kuweka mipangilio, mtoto wako atapiga picha za uso wake kutoka pande tofauti.\n\nAnapotumia kipengele cha Kufungua kwa Uso, picha zinatumiwa ili kusasisha muundo wa uso wake. Picha zinazotumiwa kuunda muundo wa uso wake hazihifadhiwi, ila muundo wa uso unahifadhiwa kwa njia salama na husalia kwenye simu. Mchakato wote hufanyika kwenye simu kwa njia salama.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Unaweza kufuta muundo wa uso wako au kuzima kipengele cha Kufungua kwa uso wakati wowote katika Mipangilio. Miundo ya uso inahifadhiwa kwenye simu hadi utakapoifuta.&lt;br&gt;&lt;br&gt;Pata maelezo zaidi kwenye &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Wewe na mtoto wako mnaweza kufuta muundo wa uso wake au kuzima kipengele cha Kufungua kwa Uso wakati wowote katika Mipangilio. Miundo ya uso inahifadhiwa kwenye simu hadi itakapofutwa.&lt;br&gt;&lt;br&gt;Pata maelezo zaidi kwenye &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Tumia uso wako kufungua simu yako au kuthibitisha kuwa ni wewe, kama vile unapoingia katika akaunti kwenye programu au unapoidhinisha ununuzi.\n\nKumbuka:\nUnaweza kuweka mipangilio ya uso mmoja tu kwa wakati mmoja. Ili uweke uso mwingine, futa uso uliopo kwa sasa.\n\nUkiangalia simu yako unaweza kuifungua bila kukusudia.\n\nSimu yako inaweza kufunguliwa na mtu anayefanana sana nawe, kama vile ndugu pacha.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Unaweza kufuta muundo wa alama ya kidole chako au uzime kipengele cha Pixel Imprint wakati wowote katika Mipangilio. Miundo ya alama ya kidole inahifadhiwa kwenye simu hadi utakapoifuta.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Wewe na mtoto wako mnaweza kufuta muundo wa alama ya kidole chake au kuzima kipengele cha Pixel Imprint wakati wowote katika Mipangilio. Miundo ya alama ya kidole inahifadhiwa kwenye simu hadi itakapofutwa.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Ukiwa na Nexus Imprint, unaweza kutumia alama ya kidole chako kuidhinisha ununuzi au kuingia katika programu.\n\nKuwa mwangalifu unapoweka alama za vidole. Alama moja ya kidole unayoweka inaweza kufanya mambo haya.\n\nKumbuka: Huwezi kutumia alama ya kidole chako kufungua kifaa hiki. Kwa maelezo zaidi, wasiliana na msimamizi wa shirika lako.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Betri Inayojirekebisha hujifunza kutokana na matumizi ya simu yako ili kuboresha kwa njia endelevu jinsi programu zinavyotumia betri. Ili kuongeza muda wa matumizi ya betri, inaweza kupunguza utendaji na kuchelewesha arifa.</string>
     <string name="smart_battery_summary" product="tablet">Betri Inayojirekebisha hujifunza kutokana na matumizi ya kishikwambi chako ili kuboresha kwa njia endelevu jinsi programu zinavyotumia betri. Ili kuongeza muda wa matumizi ya betri, inaweza kupunguza arifa za utendaji na kucheleweshwa.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Skrini na mguso</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Ruhusu Kufungua kwa Uso</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Weka mipangilio ya Kufungua kwa Uso</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Pata maelezo zaidi kuhusu kipengele cha Kufungua kwa Uso</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Kwa urahisi wa ziada, weka kipengele cha Kufungua kwa Uso kama njia mbadala ili ukitumie wakati vidole vyako vina majimaji au baridi.\n\nData ya alama zako za vidole huhifadhiwa tu kwenye kifaa na haitumwi kwa Google.</string>
 </resources>

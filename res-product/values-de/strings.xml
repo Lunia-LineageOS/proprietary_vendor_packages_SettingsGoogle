@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Auf dem nächsten Bildschirm musst du dein Smartphone auf Augenhöhe halten</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Wenn du die Entsperrung per Gesichtserkennung verwendest, muss sich dein Kopf möglicherweise noch direkter vor dem Smartphone befinden.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Du kannst mithilfe der Gesichtserkennung dein Smartphone entsperren oder deine Identität bestätigen, beispielsweise um dich in Apps anzumelden oder einen Kauf zu autorisieren.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Wenn du auf das Smartphone siehst, kann es entsperrt werden, selbst wenn das nicht beabsichtigt ist. Dein Smartphone kann eventuell auch von jemandem entsperrt werden, der dir sehr ähnlich sieht, beispielsweise einem eineiigen Zwilling, oder wenn jemand das Smartphone vor dein Gesicht hält.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Wenn dein Kind das Smartphone ansieht, kann es entsperrt werden, selbst wenn das nicht beabsichtigt ist. Das Smartphone kann eventuell auch von jemandem entsperrt werden, der deinem Kind sehr ähnlich sieht, etwa einem eineiigen Zwilling, oder wenn jemand das Smartphone vor das Gesicht deines Kindes hält.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Das Entsperren des Smartphones deines Kindes mit seinem Gesicht kann weniger sicher sein als ein starkes Muster oder Passwort bzw. eine starke PIN</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Das Entsperren des Smartphones per Gesichtserkennung kann weniger sicher sein als ein starkes Muster oder Passwort bzw. eine starke PIN</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Bei der Entsperrung per Gesichtserkennung musst du möglicherweise die Augen offen haben, damit deine Identität bestätigt bzw. das Smartphone entsperrt werden kann. Du kannst diese Option jederzeit in den Einstellungen aktivieren.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Bei der Entsperrung per Gesichtserkennung muss dein Kind möglicherweise die Augen offen haben, damit seine Identität bestätigt bzw. das Smartphone entsperrt werden kann. Du und dein Kind könnt diese Option jederzeit in den Einstellungen aktivieren.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Wenn du die Funktion „Entsperrung per Gesichtserkennung“ nutzen willst, wird ein eindeutiges Modell deines Gesichts erstellt, mit dem deine Identität bestätigt werden kann. Bei der Einrichtung machst du aus verschiedenen Blickwinkeln Fotos von deinem Gesicht. Daraus wird das Gesichtsmodell erstellt.\n\nJedes Mal, wenn du dein Smartphone per Gesichtserkennung entsperrst, wird das Modell mithilfe der neuen Bilder aktualisiert. Die verwendeten Fotos werden niemals gespeichert. Das Modell selbst wird auf dem Smartphone abgelegt und verbleibt dort. Die Verarbeitung der entsprechenden Daten findet unter Einhaltung aller Sicherheitsvorgaben ausschließlich auf dem Smartphone statt.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Wenn du die Funktion „Entsperrung per Gesichtserkennung“ nutzen willst, wird ein eindeutiges Modell des Gesichts deines Kindes erstellt, mit dem seine Identität bestätigt werden kann. Bei der Einrichtung macht dein Kind aus verschiedenen Blickwinkeln Fotos von seinem Gesicht. Daraus wird das Gesichtsmodell erstellt.\n\nJedes Mal, wenn dein Kind sein Smartphone per Gesichtserkennung entsperrt, wird das Modell mit neuen Fotos aktualisiert. Diese Fotos werden niemals gespeichert. Das Gesichtserkennungsmodell selbst wird sicher auf dem Smartphone abgelegt und verbleibt dort. Die entsprechenden Daten werden unter Einhaltung aller Sicherheitsvorgaben ausschließlich auf dem Smartphone verarbeitet.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Du kannst jederzeit dein Gesichtsmodell löschen oder die Funktion „Entsperrung per Gesichtserkennung“ in den Einstellungen deaktivieren. Gesichtsmodelle bleiben auf deinem Smartphone gespeichert, bis du sie löschst.&lt;br&gt;&lt;br&gt;Weitere Informationen findest du unter &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Du und dein Kind könnt jederzeit das Gesichtsmodell löschen oder die Funktion „Entsperrung per Gesichtserkennung“ in den Einstellungen deaktivieren. Gesichtsmodelle bleiben auf deinem Smartphone gespeichert, bis sie gelöscht werden.&lt;br&gt;&lt;br&gt;Weitere Informationen findest du unter &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Du kannst mithilfe der Gesichtserkennung dein Smartphone entsperren oder deine Identität bestätigen, beispielsweise um dich in Apps anzumelden oder einen Kauf zu autorisieren.\n\nHinweis:\nEs kann immer nur jeweils ein Gesicht eingerichtet sein. Wenn du ein anderes hinzufügen möchtest, lösche zuerst das aktuelle.\n\nEs kann passieren, dass das Smartphone unbeabsichtigt entsperrt wird, wenn du auf das Gerät blickst.\n\nDein Smartphone kann eventuell auch von jemandem entsperrt werden, der dir sehr ähnlich sieht, beispielsweise von einem eineiigen Zwilling.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Du kannst jederzeit dein Fingerabdruckmodell löschen oder „Pixel Imprint“ in den Einstellungen deaktivieren. Fingerabdruckmodelle bleiben auf deinem Smartphone gespeichert, bis du sie löschst.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Du und dein Kind könnt das Fingerabdruckmodell jederzeit löschen oder „Pixel Imprint“ in den Einstellungen deaktivieren. Fingerabdruckmodelle bleiben auf dem Smartphone gespeichert, bis sie gelöscht werden.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint ermöglicht dir, mithilfe deines Fingerabdrucks Käufe zu autorisieren oder dich in Apps anzumelden.\n\nÜberlege dir gut, wessen Fingerabdrücke du hinzufügst. Mit jedem hinzugefügten Fingerabdruck können alle diese Aktionen durchgeführt werden.\n\nHinweis: Du kannst deinen Fingerabdruck nicht verwenden, um dieses Gerät zu entsperren. Weitere Informationen erhältst du vom Administrator deiner Organisation.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Die Funktion „Intelligenter Akku“ lernt anhand deiner Smartphone-Nutzung und optimiert fortlaufend, wie Apps den Akku verwenden. Zur Verlängerung der Akkulaufzeit kann die Funktion die Leistung verringern oder Benachrichtigungen verzögern.</string>
     <string name="smart_battery_summary" product="tablet">Die Funktion „Intelligenter Akku“ lernt anhand deiner Tablet-Nutzung und optimiert fortlaufend, wie Apps den Akku verwenden. Zur Verlängerung der Akkulaufzeit kann die Funktion die Leistung verringern oder Benachrichtigungen verzögern.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Display &amp; Touchbedienung</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Gesichtsentsperrung zulassen</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Gesichtsentsperrung einrichten</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Weitere Informationen zur Entsperrung per Gesichtserkennung</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Als alternative Option kannst du die Entsperrung per Gesichtserkennung einrichten, um dein Gerät noch bequemer zu entsperren, wenn deine Finger nass oder kalt sind.\n\nDeine Fingerabdrücke werden nur auf deinem Gerät gespeichert und niemals an Google gesendet.</string>
 </resources>

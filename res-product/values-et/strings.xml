@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Hoidke järgmisel kuval telefoni silmade kõrgusel.</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Kui kasutate funktsiooni Näoga avamine, peate võib-olla oma pead rohkem otse telefoni ees hoidma.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Kasutage oma telefoni avamiseks või oma isiku kinnitamiseks (nt rakendustesse sisselogimisel või ostude kinnitamisel) oma nägu.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Telefoni vaatamisel võib see avaneda ka siis, kui te seda ei soovi. Teiega sarnane inimene, näiteks teie identne vend või õde, saab samuti teie telefoni avada. Telefoni saab avada ka nii, et keegi hoiab telefoni teie näo ees.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Telefoni vaatamisel võib see avaneda ka siis, kui ta seda ei soovi. Temaga sarnane inimene, näiteks tema identne vend või õde, saab samuti tema telefoni avada. Telefoni saab avada ka nii, et keegi hoiab telefoni tema näo ees.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Lapse telefoni avamiseks tema näo kasutamine võib olla vähem turvaline kui tugev muster, PIN-kood või parool.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Telefoni avamiseks näo kasutamine võib olla vähem turvaline kui tugev muster, PIN-kood või parool.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Näoga avamise funktsioon võib telefoni avamiseks või isiku kinnitamiseks nõuda, et teie silmad oleksid lahti. Selle valiku saate seadetes alati sisse lülitada.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Näoga avamise funktsioon võib telefoni avamiseks või isiku kinnitamiseks nõuda, et teie lapse silmad oleksid lahti. Selle valiku saate (või saab laps) seadetes alati sisse lülitada.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Näoga avamise funktsioon loob teie näost kordumatu mudeli, mille abil teie isik kinnitada. Näomudeli loomiseks jäädvustatakse seadistamise ajal kujutised teie näost eri nurkade all.\n\nKui kasutate näoga avamist, kasutatakse kujutisi teie näomudeli värskendamiseks. Näomudeli loomiseks kasutatavaid pilte ei salvestata mitte kunagi, kuid näomudel salvestatakse turvaliselt teie telefoni, kust seda välja ei saadeta. Kogu töötlus toimub turvaliselt teie telefonis.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Näoga avamise funktsioon loob teie lapse näost kordumatu mudeli, mille abil tema isik kinnitada. Näomudeli loomiseks jäädvustatakse seadistamise ajal kujutised tema näost eri nurkade all.\n\nKui ta kasutab näoga avamist, kasutatakse kujutisi tema näomudeli värskendamiseks. Näomudeli loomiseks kasutatavaid kujutisi ei salvestata, kuid näomudel salvestatakse turvaliselt telefoni, kust seda välja ei saadeta. Kogu töötlus toimub turvaliselt telefonis.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Seadetes saate oma näomudeli alati kustutada või näoga avamise funktsiooni välja lülitada. Näomudelid salvestatakse telefoni, kuni need kustutate.&lt;br&gt;&lt;br&gt;Lisateave: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Seadetes saate (või saab laps) näomudeli alati kustutada või näoga avamise funktsiooni välja lülitada. Näomudelid salvestatakse telefoni, kuni need kustutatakse.&lt;br&gt;&lt;br&gt;Lisateave: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Saate kasutada telefoni avamiseks või isiku kinnitamiseks (nt rakendustesse sisselogimisel või ostude kinnitamisel) oma nägu.\n\nPidage meeles järgmist.\nKorraga saab seadistada ainult ühe näo. Uue näo lisamiseks kustutage praegune nägu.\n\nTelefoni vaatamisel võib see soovimatult avaneda.\n\nVõib juhtuda, et teiega väga sarnane inimene, näiteks identne kaksik, saab teie telefoni avada.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Seadetes saate oma sõrmejäljemudeli alati kustutada või Pixel Imprinti välja lülitada. Sõrmejäljemudelid salvestatakse telefoni, kuni need kustutate.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Seadetes saate (või saab laps) sõrmejäljemudeli alati kustutada või Pixel Imprinti välja lülitada. Sõrmejäljemudelid salvestatakse telefoni, kuni need kustutatakse.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Seadmega Nexus Imprint saate ostude volitamiseks või rakendustesse sisselogimiseks kasutada oma sõrmejälge.\n\nOlge sõrmejälgede lisamisel ettevaatlik – neid toiminguid saab teha kõigi lisatud sõrmejälgedega.\n\nMärkus. Te ei saa sõrmejälge kasutada selle seadme avamiseks. Lisateabe saamiseks võtke ühendust organisatsiooni administraatoriga.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Kohanduv akuhaldur õpib teie telefoni kasutusest, et optimeerida pidevalt seda, kuidas rakendused akut kasutavad. Aku tööea pikendamiseks võib see vähendada jõudlust ja märguandeid edasi lükata.</string>
     <string name="smart_battery_summary" product="tablet">Kohanduv akuhaldur õpib teie tahvelarvuti kasutusest, et optimeerida pidevalt seda, kuidas rakendused akut kasutavad. Aku tööea pikendamiseks võib see vähendada jõudlust ja märguandeid edasi lükata.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Kuvamine ja puudutamine</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Lubage funktsioon Näoga avamine</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Näoga avamise funktsiooni seadistamine</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Lisateave funktsiooni Näoga avamine kohta</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Lisamugavuse huvides seadistage varuvariandina funktsioon Näoga avamine juhuks, kui teie sõrmed on märjad või külmad.\n\nTeie sõrmejäljed salvestatakse ainult seadmesse ja neid ei saadeta kunagi Google\'ile.</string>
 </resources>

@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">അടുത്ത സ്ക്രീനിൽ നിങ്ങളുടെ ഫോൺ കണ്ണിന് നേരെ പിടിക്കുക</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">ഫെയ്‌സ് അൺലോക്ക് ഉപയോഗിക്കുമ്പോൾ, നിങ്ങളുടെ തല കൃത്യമായും ഫോണിന് അഭിമുഖമായിരിക്കണം.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">നിങ്ങളുടെ ഫോൺ അൺലോക്ക് ചെയ്യാനോ ആപ്പുകളിലേക്ക് സൈൻ ഇൻ ചെയ്യുകയോ വാങ്ങൽ അംഗീകരിക്കുകയോ ചെയ്യുന്നത് പോലുള്ള സാഹചര്യങ്ങളിൽ ഇത് നിങ്ങൾ തന്നെയാണെന്ന് പരിശോധിച്ചുറപ്പിക്കാനോ നിങ്ങളുടെ മുഖം ഉപയോഗിക്കുക.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">തുറക്കാൻ ഉദ്ദേശിക്കാതെ നിങ്ങൾ വെറുതെ ഫോണിലേക്ക് നോക്കിയാൽ പോലും അത് അൺലോക്കാകും. ഒരേ മുഖച്ഛായയുള്ള സഹോദരങ്ങളെ പോലെ, നിങ്ങളുമായി വളരെയധികം സാമ്യമുള്ള ആർക്കും ഫോൺ അൺലോക്ക് ചെയ്യാനാകും, മാത്രമല്ല ഫോൺ നിങ്ങളുടെ മുഖത്തിനു നേരെ നീട്ടിയും മറ്റൊരാൾക്ക് അൺലോക്ക് ചെയ്യാനാകും.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">തുറക്കാൻ ഉദ്ദേശിക്കാതെ അവർ വെറുതെ ഫോണിലേക്ക് നോക്കിയാൽ പോലും അത് അൺലോക്കാകും. ഒരേ മുഖച്ഛായയുള്ള സഹോദരങ്ങളെ പോലെ, അവരുമായി വളരെയധികം സാമ്യമുള്ള ആർക്കും ഫോൺ അൺലോക്ക് ചെയ്യാനാകും, മാത്രമല്ല ഫോൺ അവരുടെ മുഖത്തിന് നേരെ നീട്ടിയും മറ്റൊരാൾക്ക് അൺലോക്ക് ചെയ്യാനാകും.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">നിങ്ങളുടെ കുട്ടിയുടെ മുഖം ഉപയോഗിച്ച് അവരുടെ ഫോൺ അൺലോക്ക് ചെയ്യുന്നത്, ശക്തമായ പാറ്റേൺ, പിൻ അല്ലെങ്കിൽ പാസ്‌വേഡ് ഉപയോഗിച്ച് അൺലോക്ക് ചെയ്യുന്നത് പോലുള്ള സുരക്ഷ നൽകുന്നില്ല</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">ഫോൺ അൺലോക്ക് ചെയ്യാൻ മുഖം ഉപയോഗിക്കുന്നത് ശക്തമായ പാറ്റേണോ പിൻ നമ്പറോ പാസ്‌വേഡോ ഉപയോഗിക്കുന്നത്ര സുരക്ഷിതമായിരിക്കണമെന്നില്ല</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">ഫോൺ അൺലോക്ക് ചെയ്യാനോ ഇത് നിങ്ങൾ തന്നെയാണെന്ന് പരിശോധിച്ചുറപ്പിക്കാനോ നിങ്ങളുടെ കണ്ണ് തുറന്നിരിക്കാൻ ഫെയ്‌സ് അൺലോക്കിന് ആവശ്യപ്പെടാം. നിങ്ങൾക്ക് ക്രമീകരണത്തിൽ ഏതുസമയത്തും ഈ ഓപ്ഷൻ ഓണാക്കാനാകും.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">ഫോൺ അൺലോക്ക് ചെയ്യാനോ ഇത് നിങ്ങളുടെ കുട്ടി തന്നെയാണെന്ന് പരിശോധിച്ചുറപ്പിക്കാനോ അവരുടെ കണ്ണ് തുറന്നിരിക്കാൻ ഫെയ്‌സ് അൺലോക്കിന് ആവശ്യപ്പെടാം. നിങ്ങൾക്കും നിങ്ങളുടെ കുട്ടിക്കും എപ്പോൾ വേണമെങ്കിലും ക്രമീകരണത്തിൽ ഈ ഓപ്ഷൻ ഓണാക്കാനാകും.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">ഇത് നിങ്ങൾ തന്നെയാണെന്ന് പരിശോധിച്ചുറപ്പിക്കുന്നതിന് ഫെയ്‌സ് അൺലോക്ക് നിങ്ങളുടെ മുഖത്തിന്റെ ഒരു തനത് മോഡൽ സൃഷ്ടിക്കുന്നു. ഈ ഫെയ്സ് മോഡൽ സൃഷ്ടിക്കാൻ, സജ്ജീകരിക്കുന്ന സമയത്ത് നിങ്ങളുടെ മുഖത്തിന്റെ വ്യത്യസ്‌ത ആംഗിളുകളിൽ നിന്നുള്ള ചിത്രങ്ങളെടുക്കണം.\n\nനിങ്ങൾ ഫെയ്‌സ് അൺലോക്ക് ഉപയോഗിക്കുമ്പോൾ നിങ്ങളുടെ ഫെയ്സ് മോഡൽ അപ്ഡേറ്റ് ചെയ്യാൻ ചിത്രങ്ങൾ ഉപയോഗിക്കുന്നു. ഫെയ്സ് മോഡൽ സൃഷ്‌ടിക്കാൻ ഉപയോഗിക്കുന്ന ചിത്രങ്ങൾ ഒരിക്കലും സംഭരിക്കില്ലെങ്കിലും നിങ്ങളുടെ ഫോണിൽ ഫെയ്സ് മോഡൽ സുരക്ഷിതമായി സംഭരിക്കുന്നു, അത് ഒരിക്കലും ഫോണിൽ നിന്ന് പുറത്ത് പോകില്ല. എല്ലാ പ്രോസസിംഗും നിങ്ങളുടെ ഫോണിൽ സുരക്ഷിതമായി നടക്കുന്നു.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">ഇത് നിങ്ങളുടെ കുട്ടി തന്നെയാണെന്ന് പരിശോധിച്ചുറപ്പിക്കാൻ ഫെയ്‌സ് അൺലോക്ക് അവരുടെ മുഖത്തിന്റെ തനത് മോഡൽ സൃഷ്‌ടിക്കുന്നു. ഈ മുഖ മോഡൽ സൃഷ്ടിക്കാൻ, സജ്ജീകരണ സമയത്ത് നിങ്ങളുടെ കുട്ടിയുടെ മുഖത്തിന്റെ വ്യത്യസ്‌ത ആംഗിളുകളിൽ നിന്നുള്ള ചിത്രങ്ങളെടുക്കണം.\n\nഅവർ ഫെയ്‌സ് അൺലോക്ക് ഉപയോഗിക്കുമ്പോൾ, അവരുടെ മുഖ മോഡൽ അപ്ഡേറ്റ് ചെയ്യാൻ ചിത്രങ്ങൾ ഉപയോഗിക്കുന്നു. അവരുടെ മുഖ മോഡൽ സൃഷ്‌ടിക്കാൻ ഉപയോഗിക്കുന്ന ചിത്രങ്ങൾ സംഭരിക്കില്ലെങ്കിലും മുഖ മോഡൽ സുരക്ഷിതമായി ഫോണിൽ സംഭരിക്കുന്നു, അത് ഒരിക്കലും ഫോണിൽ നിന്ന് പുറത്ത് പോകില്ല. എല്ലാ പ്രോസസിംഗും ഫോണിൽ സുരക്ഷിതമായി നടക്കുന്നു.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">നിങ്ങൾക്ക് ക്രമീകരണത്തിൽ ഏതുസമയത്തും മുഖ മോഡൽ ഇല്ലാതാക്കാനോ ഫെയ്‌സ് അൺലോക്ക് ഓഫാക്കാനോ കഴിയും. നിങ്ങൾ മുഖ മോഡലുകൾ ഇല്ലാതാക്കുന്നത് വരെ അവ ഫോണിൽ സംഭരിക്കുന്നു.&lt;br&gt;&lt;br&gt;ഇതിൽ നിന്ന് കൂടുതലറിയുക &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">നിങ്ങൾക്കും കുട്ടിക്കും ക്രമീകരണത്തിൽ ഏതുസമയത്തും അവരുടെ മുഖ മോഡൽ ഇല്ലാതാക്കാനോ ഫെയ്‌സ് അൺലോക്ക് ഓഫാക്കാനോ കഴിയും. മുഖ മോഡലുകൾ ഇല്ലാതാക്കുന്നത് വരെ അവ ഫോണിൽ സംഭരിക്കുന്നു.&lt;br&gt;&lt;br&gt;ഇതിൽ നിന്ന് കൂടുതലറിയുക &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">ഫോൺ അൺലോക്ക് ചെയ്യാനോ ആപ്പുകളിലേക്ക് സൈൻ ഇൻ ചെയ്യുന്നതോ വാങ്ങൽ അംഗീകരിക്കുന്നതോ പോലുള്ള സന്ദർഭങ്ങളിൽ ഇത് നിങ്ങൾ തന്നെയാണെന്ന് പരിശോധിച്ചുറപ്പിക്കാനോ നിങ്ങളുടെ മുഖം ഉപയോഗിക്കുക.\n\nഓർമ്മിക്കുക:\nഒരു സമയം ഒറ്റ മുഖം മാത്രമേ സജ്ജീകരിക്കാൻ കഴിയൂ. മറ്റൊരു മുഖം ചേർക്കാൻ, നിലവിലുള്ളത് ഇല്ലാതാക്കുക.\n\nഅൺലോക്ക് ചെയ്യാൻ ഉദ്ദേശിക്കാതെ വെറുതെ ഫോണിലേക്ക് നോക്കിയാൽ പോലും അത് അൺലോക്ക് ചെയ്യാനാകും.\n\nഒരേ മുഖച്ഛായയുള്ള സഹോദരങ്ങളെ പോലെ, നിങ്ങളുമായി വളരെയധികം സാമ്യമുള്ള ആർക്കും ഫോൺ അൺലോക്ക് ചെയ്യാനാകും.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">നിങ്ങൾക്ക് എപ്പോൾ വേണമെങ്കിലും ക്രമീകരണത്തിൽ നിങ്ങളുടെ ഫിംഗർപ്രിന്റ് മോഡൽ ഇല്ലാതാക്കാനോ Pixel Imprint ഓഫാക്കാനോ കഴിയും. നിങ്ങൾ ഇല്ലാതാക്കുന്നത് വരെ ഫിംഗർപ്രിന്റ് മോഡലുകൾ ഫോണിൽ സംഭരിക്കുന്നു.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">നിങ്ങൾക്കും കുട്ടിക്കും ക്രമീകരണത്തിൽ ഏതുസമയത്തും അവരുടെ ഫിംഗർപ്രിന്റ് മോഡൽ ഇല്ലാതാക്കാനോ Pixel Imprint ഓഫാക്കാനോ കഴിയും. ഫിംഗർപ്രിന്റ് മോഡലുകൾ ഇല്ലാതാക്കുന്നത് വരെ അവ ഫോണിൽ സംഭരിക്കുന്നു.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint ഉണ്ടെങ്കിൽ, വാങ്ങലുകൾക്ക് അംഗീകാരം നൽകാനോ ആപ്പുകളിലേക്ക് സൈൻ ഇൻ ചെയ്യാനോ നിങ്ങൾക്ക് ഫിംഗർപ്രിന്റ് ഉപയോഗിക്കാം.\n\nആരുടെയൊക്കെ ഫിംഗർപ്രിന്റുകൾ ചേർക്കുന്നു എന്ന കാര്യത്തിൽ ജാഗ്രത പുലർത്തുക. ചേർത്തിട്ടുള്ള ഏതൊരു ഫിംഗർപ്രിന്റ് ഉപയോഗിച്ചും ഈ കാര്യങ്ങൾ ചെയ്യാനാകും.\n\nശ്രദ്ധിക്കുക: ഈ ഉപകരണം അൺലോക്ക് ചെയ്യാൻ നിങ്ങളുടെ ഫിംഗർപ്രിന്റ് ഉപയോഗിക്കാനാകില്ല. കൂടുതൽ വിവരങ്ങൾക്ക് നിങ്ങളുടെ സ്ഥാപനത്തിന്റെ അഡ്‌മിനെ ബന്ധപ്പെടുക.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">ആപ്പുകൾ ബാറ്ററി ഉപയോഗിക്കുന്നത് എങ്ങനെയെന്ന് തുടർച്ചയായി ഒപ്റ്റിമൈസ് ചെയ്യാൻ നിങ്ങളുടെ ഫോൺ ഉപയോഗത്തിൽ നിന്ന് അഡാപ്റ്റീവ് ബാറ്ററി മനസ്സിലാക്കുന്നു. ബാറ്ററി ലൈഫ് കൂട്ടാൻ, ഇത് പ്രകടനം കുറയ്ക്കുകയും അറിയിപ്പുകൾ വൈകിപ്പിക്കുകയും ചെയ്തേക്കാം.</string>
     <string name="smart_battery_summary" product="tablet">ആപ്പുകൾ ബാറ്ററി ഉപയോഗിക്കുന്നത് എങ്ങനെയെന്ന് തുടർച്ചയായി ഒപ്റ്റിമൈസ് ചെയ്യാൻ നിങ്ങളുടെ ടാബ്‌ലെറ്റ് ഉപയോഗത്തിൽ നിന്ന് അഡാപ്റ്റീവ് ബാറ്ററി മനസ്സിലാക്കുന്നു. ബാറ്ററി ലൈഫ് കൂട്ടാൻ, ഇത് പ്രകടനം കുറയ്ക്കുകയും അറിയിപ്പുകൾ വൈകിപ്പിക്കുകയും ചെയ്തേക്കാം.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ഡിസ്പ്ലേയും ടച്ചും</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">ഫെയ്‌സ് അൺലോക്ക് അനുവദിക്കുക</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">ഫെയ്‌സ് അൺലോക്ക് സജ്ജീകരിക്കുക</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">ഫെയ്‌സ് അൺലോക്കിനെ കുറിച്ച് കൂടുതലറിയുക</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">അധിക സൗകര്യത്തിനായി, നിങ്ങളുടെ വിരലുകൾ നനഞ്ഞിരിക്കുമ്പോഴോ തണുത്തിരിക്കുമ്പോഴോ ഒരു ബാക്കപ്പായി ഫെയ്‌സ് അൺലോക്ക് സജ്ജീകരിക്കുക.\n\nനിങ്ങളുടെ ഫിംഗർപ്രിന്റുകൾ ഉപകരണത്തിൽ മാത്രമേ സംഭരിക്കൂ, അവ ഒരിക്കലും Google-ലേക്ക് അയയ്‌ക്കില്ല.</string>
 </resources>

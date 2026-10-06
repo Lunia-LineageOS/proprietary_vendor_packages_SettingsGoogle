@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Sonraki ekranda telefonunuzu göz hizasında tutun.</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Yüz Tanıma Kilidi\'ni kullanırken başınızın doğrudan telefonunuzun karşısında olması gerekebilir.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Telefonunuzun kilidini açmak veya uygulamalarda oturum açma ya da satın alma işlemlerini onaylama gibi durumlarda kimliğinizi doğrulamak için yüzünüzü kullanın.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Telefona baktığınızda istemeseniz bile kilidi açılabilir. Telefonunuzun kilidi, size çok benzeyen (örneğin ikiz kardeşiniz gibi) birisi tarafından veya birisi telefonunuzu yüzünüze tuttuğunda da açılabilir.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Çocuğunuz telefona baktığında istemese bile kilidi açılabilir. Telefon kilidi, çocuğunuza çok benzeyen birisi (ör. ikiz kardeşi) tarafından veya telefonu yüzüne tutularak da açılabilir.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Çocuğunuzun telefon kilidini açmak için yüzünü kullanmak, güçlü bir desen, PIN veya şifreden daha az güvenli olabilir.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Telefonunuzun kilidini yüzünüzle açmak, güçlü bir desen, PIN veya şifre kullanmak kadar güvenli olmayabilir.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Yüz Tanıma Kilidi, telefon kilidini açmak veya kimliğinizi doğrulamak için gözlerinizin açık olmasını isteyebilir. İstediğiniz zaman Ayarlar\'dan bu seçeneği açabilirsiniz.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Yüz Tanıma Kilidi, telefon kilidini açmak veya kimliğini doğrulamak için çocuğunuzun gözlerinin açık olmasını isteyebilir. Siz ve çocuğunuz, istediğiniz zaman Ayarlar\'dan bu seçeneği açabilirsiniz.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Yüz Tanıma Kilidi, kimliğinizi doğrulamak için yüzünüzün benzersiz bir modelini oluşturur. Kurulum sırasında bu yüz modelini oluşturmak için yüzünüzün farklı açılardan resimlerini çekersiniz.\n\nYüz Tanıma Kilidi\'ni kullandığınızda resimler, yüz modelinizi güncellemek için kullanılır. Yüz modelinizi oluşturmak için kullanılan resimler hiçbir zaman saklanmaz ancak yüz modeli, telefonunuzda güvenli bir şekilde saklanıp hiçbir zaman cihazdan dışarı çıkmaz. Tüm işlemler, güvenli bir şekilde telefonunuzda gerçekleşir.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Yüz Tanıma Kilidi, çocuğunuzun kimliğini doğrulamak için yüzünün benzersiz bir modelini oluşturur. Çocuğunuz, kurulum sırasında bu yüz modelini oluşturmak için yüzünün farklı açılardan resimlerini çeker.\n\nÇocuğunuz Yüz Tanıma Kilidi\'ni kullandığında resimler, yüz modelini güncellemek için kullanılır. Çocuğunuzun yüz modelini oluşturmak için kullanılan resimler saklanmaz ancak yüz modeli, telefonda güvenli bir şekilde saklanıp hiçbir zaman telefondan dışarı çıkmaz. Tüm işlemler, güvenli bir şekilde telefonda gerçekleşir.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">İstediğiniz zaman Ayarlar\'dan Yüz Tanıma Kilidi\'ni devre dışı bırakabilir veya yüz modelinizi silebilirsiniz. Yüz modelleri, siz silene kadar telefonda saklanır.&lt;br&gt;&lt;br&gt;Daha fazla bilgiyi &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; adresinde bulabilirsiniz.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Siz ve çocuğunuz, istediğiniz zaman Ayarlar\'dan Yüz Tanıma Kilidi\'ni devre dışı bırakabilir veya çocuğunuzun yüz modelini silebilirsiniz. Yüz modelleri, silinene kadar telefonda saklanır.&lt;br&gt;&lt;br&gt;Daha fazla bilgiyi &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; adresinde bulabilirsiniz.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Telefonunuzun kilidini açarken veya uygulamalarda oturum açmak ya da satın alma işlemlerini onaylamak gibi işlemler için kimliğinizi doğrularken yüzünüzü kullanın.\n\nUnutmayın:\nTek seferde yalnızca bir tane yüz tanımlayabilirsiniz. Başka bir yüz eklemek için mevcut yüzü silin.\n\nTelefona bakarsanız, istemediğiniz zamanlarda da telefonunuzun kilidi açılabilir.\n\nTelefonunuzun kilidi, ikiziniz gibi size çok benzeyen başka biri tarafından da açılabilir.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">İstediğiniz zaman parmak izi modelinizi silebilir veya Ayarlar\'da Pixel Imprint\'i devre dışı bırakabilirsiniz. Parmak izi modelleri, siz silene kadar telefonda saklanır.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Siz ve çocuğunuz, istediğiniz zaman Ayarlar\'dan Pixel Imprint\'i devre dışı bırakabilir veya çocuğunuzun parmak izi modelini silebilirsiniz. Parmak izi modelleri, silinene kadar telefonda saklanır.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint ile, satın alma işlemlerini yetkilendirmek veya uygulamalarda oturum açmak için parmak izinizi kullanabilirsiniz.\n\nTelefonunuza eklenen tüm parmak izleri bu işlemleri yapabilir; bu nedenle kimin parmak izini eklediğinize dikkat etmeniz gerekir.\n\nNot: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fazla bilgi için kuruluşunuzun yöneticisiyle iletişim kurun.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Uyarlanabilir Pil özelliği, telefon kullanımınızdan bilgi edinerek uygulamaların pili kullanma şeklini sürekli optimize eder. Pil ömrünü uzatmak için performansı düşürebilir ve bildirimleri gecikmeli gönderebilir.</string>
     <string name="smart_battery_summary" product="tablet">Uyarlanabilir Pil özelliği, tablet kullanımınızdan bilgi edinerek uygulamaların pili kullanma şeklini sürekli optimize eder. Pil ömrünü uzatmak için performansı düşürebilir ve bildirimleri gecikmeli gönderebilir.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Ekran ve dokunma</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Yüz Tanıma Kilidi\'ne izin verin</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Yüz Tanıma Kilidi\'ni kurun</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Yüz Tanıma Kilidi hakkında daha fazla bilgi</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Parmaklarınız ıslak veya soğuk olduğunda daha kolay bir kullanım için Yüz Tanıma Kilidi\'ni yedek olarak ayarlayın.\n\nParmak izleriniz yalnızca cihazda saklanır ve hiçbir zaman Google\'a gönderilmez.</string>
 </resources>

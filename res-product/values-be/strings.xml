@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Калі адкрыецца наступны экран, трымайце тэлефон на ўзроўні вачэй</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Падчас выкарыстання функцыі распазнавання твару трымайце галаву непасрэдна перад экранам тэлефона.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Твар можна выкарыстоўваць для разблакіроўкі тэлефона ці спраўджання вашай асобы, напрыклад падчас уваходу ў праграмы ці ўхвалення куплі.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Зірнуўшы на тэлефон, вы можаце разблакіраваць яго, нават не маючы такога намеру. Акрамя таго, ваш тэлефон можа быць разблакіраваны кімсьці, хто падобны на вас (напрыклад, гэта можа быць ваш брат ці сястра), ці чалавекам, які паднясе тэлефон да вашага твару.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Зірнуўшы на тэлефон, дзіця можа разблакіраваць яго, нават не маючы такога намеру. Акрамя таго, тэлефон можа быць разблакіраваны кімсьці, хто падобны на ваша дзіця (напрыклад, гэта можа быць брат ці сястра), ці чалавекам, які паднясе тэлефон да твару дзіцяці.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Разблакіроўка тэлефона вашага дзіцяці з дапамогай твару можа быць менш бяспечнай, чым з выкарыстаннем надзейнага ўзору разблакіроўкі, PIN-кода ці пароля.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Выкарыстанне функцыі распазнавання твару для разблакіроўкі тэлефона можа быць менш бяспечным, чым складаны ўзор, PIN-код або пароль</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Для разблакіроўкі тэлефона ці спраўджання вашай асобы з дапамогай распазнавання твару можна запатрабаваць, каб у вас былі адкрыты вочы. Вы можаце ў любы час уключыць гэты параметр у Наладах.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Для разблакіроўкі тэлефона ці спраўджання асобы дзіцяці з дапамогай распазнавання твару можна запатрабаваць, каб у дзіцяці былі адкрыты вочы. Вы і ваша дзіця можаце ў любы час уключыць гэты параметр у Наладах.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Каб спраўджваць вашу асобу, функцыя распазнавання твару стварае ўнікальную мадэль вашага твару. Для стварэння мадэлі зрабіце здымкі свайго твару з розных ракурсаў.\n\nКалі вы ўжываеце функцыю распазнавання твару, відарысы выкарыстоўваюцца для абнаўлення мадэлі вашага твару. Відарысы, якія выкарыстоўваліся для стварэння мадэлі твару, ніколі не захоўваюцца. На вашым тэлефоне бяспечна захоўваецца толькі сама мадэль, і яна нікуды не адпраўляецца. Уся апрацоўка выконваецца толькі на вашым тэлефоне.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Каб спраўджваць асобу дзіцяці, функцыя распазнавання твару стварае ўнікальную мадэль яго твару. Для стварэння мадэлі трэба зрабіць здымкі твару дзіцяці з розных ракурсаў.\n\nКалі дзіця ўжывае функцыю распазнавання твару, відарысы выкарыстоўваюцца для абнаўлення мадэлі твару. Відарысы, якія выкарыстоўваліся для стварэння мадэлі твару, не захоўваюцца. На тэлефоне бяспечна захоўваецца толькі сама мадэль, і яна нікуды не адпраўляецца. Уся апрацоўка выконваецца толькі на тэлефоне.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Вы можаце ў любы час выдаліць мадэль твару ці выключыць распазнаванне твару ў Наладах. Мадэлі твару захоўваюцца на тэлефоне, пакуль вы іх не выдаліце.&lt;br&gt;&lt;br&gt;Даведайцеся больш на старонцы &lt;a href=’http://g.co/pixel/faceunlock’&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Вы і ваша дзіця можаце ў любы час выдаліць мадэль твару ці выключыць распазнаванне твару ў Наладах. Мадэлі твару захоўваюцца на тэлефоне, пакуль не будуць выдалены.&lt;br&gt;&lt;br&gt;Даведайцеся больш на старонцы &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Выкарыстоўвайце функцыю распазнавання твару для разблакіроўкі тэлефона ці для спраўджання асобы, напрыклад падчас уваходу ў праграмы ці для ўхвалення куплі.\n\nПамятайце:\nза раз можна наладзіць толькі адзін твар. Каб дадаць іншы твар, выдаліце існуючы.\n\nЗірнуўшы на тэлефон, вы можаце разблакіраваць яго, нават не маючы такога намеру.\n\nВаш тэлефон можа разблакіраваць чалавек, вельмі падобны на вас (напрыклад, ідэнтычнае блізня).\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Вы можаце ў любы час выдаліць мадэль адбітка пальца ці выключыць Pixel Imprint у Наладах. Мадэлі адбітка пальца будуць захоўвацца на тэлефоне, пакуль вы іх не выдаліце.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Вы і ваша дзіця можаце ў любы час выдаліць мадэль адбітка пальца ці выключыць Pixel Imprint у Наладах. Мадэлі адбітка пальца захоўваюцца на тэлефоне, пакуль не будуць выдалены.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Дзякуючы Nexus Imprint вы можаце выкарыстоўваць свой адбітак пальца, каб аўтарызаваць куплі або ўваходзіць у праграмы.\n\nУважліва сачыце за тым, чые адбіткі пальцаў вы дадаяце. Адпаведныя дзеянні будуць даступнымі для ўсіх уладальнікаў дададзеных адбіткаў пальцаў.\n\nЗаўвага. Вы не можаце выкарыстоўваць адбітак пальца для разблакіроўкі гэтай прылады. Для атрымання дадатковай інфармацыі звяжыцеся з адміністратарам арганізацыі.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Адаптацыя акумулятара бесперапынна аптымізуе спажыванне зараду праграмамі на падставе даных пра выкарыстанне тэлефона. Каб прадоўжыць час працы ад акумулятара, гэта функцыя можа зніжаць прадукцыйнасць і адкладваць апавяшчэнні.</string>
     <string name="smart_battery_summary" product="tablet">Адаптацыя акумулятара бесперапынна аптымізуе спажыванне зараду праграмамі на падставе даных пра выкарыстанне планшэта. Каб прадоўжыць час працы ад акумулятара, гэта функцыя можа зніжаць прадукцыйнасць і адкладваць апавяшчэнні.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Дысплэй і сэнсарны ўвод</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Дазвольце распазнаванне твару</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Наладзьце распазнаванне твару</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Даведацца больш пра функцыю распазнавання твару</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Для большай зручнасці наладзьце функцыю распазнавання твару, якая будзе выкарыстоўвацца як рэзервовы спосаб спраўджання, калі пальцы мокрыя ці халодныя.\n\nАдбіткі пальцаў захоўваюцца толькі на прыладзе і ніколі не адпраўляюцца ў Google.</string>
 </resources>

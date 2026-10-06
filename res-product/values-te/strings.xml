@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">తదుపరి స్క్రీన్‌లో, మీ ఫోన్‌ను కళ్లకు ఎదురుగా ఉంచండి</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">ఫేస్ అన్‌లాక్‌ను ఉపయోగిస్తున్నప్పుడు, మీ తల భాగం నేరుగా మీ ఫోన్ వైపు చూసేలా ఉండాలి.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">మీ ఫోన్‌ను అన్‌లాక్ చేయడానికి లేదా మీరు యాప్‌లకు సైన్ ఇన్ చేయడం లేదా కొనుగోలును ఆమోదించడం వంటివి చేసినప్పుడు, అది మీరేనని వెరిఫై చేయడానికి మీ ముఖాన్ని ఉపయోగించండి.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">మీకు అన్‌లాక్ చేయాలనే ఉద్దేశం లేనప్పటికీ, అనుకోకుండా ఫోన్ వైపు చూసినా కూడా అది అన్‌లాక్ అయ్యే అవకాశం ఉంది. చాలా వరకు మీలానే ఉండే వ్యక్తి, ఉదాహరణకు, మీలానే ఉండే తోబుట్టువు కూడా మీ ఫోన్‌ను అన్‌లాక్ చేయగలిగే అవకాశం ఉంది, లేదా ఎవరైనా స్క్రీన్‌ను మీ ముఖం ముందు పెట్టినా కూడా మీ ఫోన్ అన్‌లాక్ అయ్యే అవకాశం ఉంది.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">వారికి అన్‌లాక్ చేయాలనే ఉద్దేశం లేనప్పటికీ, అనుకోకుండా ఫోన్ వైపు చూసినా కూడా అది అన్‌లాక్ అయ్యే అవకాశం ఉంది. చాలా వరకు వారిలానే ఉండే వ్యక్తి, ఉదాహరణకు, వారిలానే ఉండే తోబుట్టువు కూడా వారి ఫోన్‌ను అన్‌లాక్ చేయగలిగే అవకాశం ఉంది, లేదా ఎవరైనా వారి ముఖాన్ని స్క్రీన్ వైపు చూపినా కూడా వారి ఫోన్ అన్‌లాక్ అయ్యే అవకాశం ఉంది.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">మీ చిన్నారి ఫోన్‌ను అన్‌లాక్ చేయడానికి వారి ముఖాన్ని ఉపయోగించడం అనేది శక్తివంతమైన ఆకృతి, PIN, లేదా పాస్‌వర్డ్‌తో పోలిస్తే తక్కువ సురక్షితమైనది కావచ్చు</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">మీ ఫోన్‌ను అన్‌లాక్ చేయడానికి మీ ముఖాన్ని ఉపయోగించడం అనేది శక్తివంతమైన ఆకృతి, PIN, లేదా పాస్‌వర్డ్‌తో పోలిస్తే తక్కువ సురక్షితమైనది కావచ్చు</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">ఫోన్‌ను అన్‌లాక్ చేయడానికి లేదా మీ గుర్తింపును వెరిఫై చేయడానికి, ఫేస్ అన్‌లాక్ కోసం మీరు కళ్లు తెరిచి ఉంచాల్సి రావచ్చు. మీరు ఈ ఆప్షన్‌ను సెట్టింగ్‌లలో ఎప్పుడైనా ఆన్ చేసుకోవచ్చు.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">ఫోన్‌ను అన్‌లాక్ చేయడానికి లేదా మీ చిన్నారి గుర్తింపును వెరిఫై చేయడానికి, ఫేస్ అన్‌లాక్ కోసం మీ చిన్నారి కళ్లు తెరిచి ఉంచాల్సి రావచ్చు. మీరు, మీ చిన్నారి ఈ ఆప్షన్‌ను సెట్టింగ్‌లలో ఎప్పుడైనా ఆన్ చేసుకోవచ్చు.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">మిమ్మల్ని వెరిఫై చేయడం కోసం ఫేస్ అన్‌లాక్, మీ ముఖానికి సంబంధించిన ఒక ప్రత్యేకమైన మోడల్‌ను క్రియేట్ చేస్తుంది. సెటప్ చేసే సమయంలో ఈ ఫేస్ మోడల్‌ను క్రియేట్ చేయడానికి, మీరు వేర్వేరు కోణాల్లో మీ ముఖం ఇమేజ్‌లను క్యాప్చర్ చేస్తారు.\n\nమీరు ఫేస్ అన్‌లాక్‌ను ఉపయోగించినప్పుడు జెనరేట్ అయ్యే ఇమేజ్‌లు, మీ ఫేస్ మోడల్‌ను అప్‌డేట్ చేయడానికి ఉపయోగపడతాయి. మోడల్‌ను క్రియేట్ చేయడానికి వాడే ఇమేజ్‌లు ఎప్పుడూ స్టోర్ కావు. అయితే ఫేస్ మోడల్ మీ ఫోన్‌లో సురక్షితంగా స్టోర్ అవుతుంది. ఇది ఫోన్ నుండి బయటకు వెళ్లదు. మొత్తం ప్రాసెస్ మీ ఫోన్‌లో సురక్షితంగా జరుగుతుంది.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">ఫేస్ అన్‌లాక్ అనేది మీ చిన్నారిని వెరిఫై చేయడానికి, వారి ముఖానికి సంబంధించిన, ఒక ప్రత్యేకమైన మోడల్‌ను క్రియేట్ చేస్తుంది. సెటప్ సమయంలో ఈ ఫేస్ మోడల్‌ను క్రియేట్ చేయడానికి, మీ చిన్నారి వేర్వేరు కోణాలలో వారి ముఖానికి సంబంధించిన ఇమేజ్‌లను క్యాప్చర్ చేస్తారు.\n\nవారు ఫేస్ అన్‌లాక్‌ను ఉపయోగించినప్పుడు, వారి ఫేస్ మోడల్‌ను అప్‌డేట్ చేయడానికి ఇమేజ్‌లు ఉపయోగించబడతాయి. వారి ఫేస్ మోడల్‌ను క్రియేట్ చేయడానికి ఉపయోగించిన ఇమేజ్‌లు స్టోర్ చేయబడవు, కానీ ఆ ఫేస్ మోడల్ ఫోన్‌లో సురక్షితంగా స్టోర్ చేయబడుతుంది, ఫోన్ నుండి బయటకు పంపబడదు. ప్రాసెసింగ్ అంతా ఫోన్‌లో సురక్షితంగా జరుగుతుంది.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">మీరు సెట్టింగ్‌లలో ఎప్పుడైనా మీ ఫేస్ మోడల్‌ను తొలగించవచ్చు లేదా ఫేస్ అన్‌లాక్‌ను ఆఫ్ చేయవచ్చు. మీరు ఫేస్ మోడల్స్‌ను తొలగించే వరకు అవి ఫోన్‌లోనే స్టోర్ చేయబడి ఉంటాయి.&lt;br&gt;&lt;br&gt;&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; లింక్‌లో దీని గురించి మరింత తెలుసుకోండి.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">మీరు, అలాగే మీ చిన్నారి ఎప్పుడైనా సెట్టింగ్‌లలో వారి ఫేస్ మోడల్‌ను తొలగించవచ్చు లేదా ఫేస్ అన్‌లాక్‌ను ఆఫ్ చేయవచ్చు. ఫేస్ మోడల్స్ తొలగింపబడే వరకు అవి ఫోన్‌లోనే స్టోర్ చేయబడి ఉంటాయి.&lt;br&gt;&lt;br&gt;&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; లింక్‌లో దీని గురించి మరింత తెలుసుకోండి.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">మీ ఫోన్‌ను అన్‌లాక్ చేయడానికి లేదా మీరు యాప్‌లకు సైన్ ఇన్ చేయడం లేదా కొనుగోలును ఆమోదించడం వంటివి చేసినప్పుడు, అది మీరేనని వెరిఫై చేయడానికి మీ ముఖాన్ని ఉపయోగించండి.\n\nగుర్తుంచుకోండి:\nమీరు ఒకసారికి ఒక ముఖాన్ని మాత్రమే సెటప్ చేయగలరు. మరొక ముఖాన్ని జోడించడానికి, ప్రస్తుతం ఉన్న ముఖాన్ని తొలగించండి.\n\nమీరు అనుకోకుండా ఫోన్ వైపు చూసినా కూడా అన్‌లాక్ అయ్యే అవకాశం ఉంటుంది.\n\nమీలాంటి రూపం ఉన్న వ్యక్తులు, ఉదాహరణకు, మీలాగే ఉన్న సిబ్లింగ్ మీ ఫోన్‌ను అన్‌లాక్ చేయగలిగే అవకాశం ఉంది.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">మీరు సెట్టింగ్‌లలో ఎప్పుడైనా మీ వేలిముద్ర మోడల్‌ను తొలగించవచ్చు లేదా Pixel Imprintను ఆఫ్ చేయవచ్చు. మీరు వేలిముద్ర మోడల్స్‌ను తొలగించే వరకు అవి ఫోన్‌లోనే స్టోర్ అయ్యి ఉంటాయి.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">మీరు, అలాగే మీ చిన్నారి ఎప్పుడైనా సెట్టింగ్‌లలో వారి వేలిముద్ర మోడల్‌ను తొలగించవచ్చు లేదా Pixel Imprintను ఆఫ్ చేయవచ్చు. వేలిముద్ర మోడల్స్‌ను తొలగించే వరకు అవి ఫోన్‌లోనే స్టోర్ అయ్యి ఉంటాయి.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprintతో, మీరు కొనుగోళ్లను ఆమోదించడానికి లేదా యాప్‌లకు సైన్ ఇన్ చేయడానికి మీ వేలిముద్రను ఉపయోగించవచ్చు.\n\nమీరు ఎవరి వేలిముద్రలు జోడిస్తున్నారనే విషయంలో జాగ్రత్త వహించండి. వేలిముద్రలు జోడించబడిన ఎవరైనా వీటిని చేయగలుగుతారు.\n\nగమనిక: మీరు ఈ డివైజ్‌ను అన్‌లాక్ చేయడానికి మీ వేలిముద్రను ఉపయోగించలేరు. మరింత సమాచారం కోసం, మీ సంస్థ అడ్మిన్‌ను సంప్రదించండి.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">మీ ఫోన్ వినియోగం ఆధారంగా అనుకూల బ్యాటరీ, డేటాను సేకరిస్తుంది. తద్వారా యాప్‌లు, బ్యాటరీ వినియోగించే తీరును నిరంతరం ఆప్టిమైజ్ చేస్తుంది. బ్యాట‌రీ లైఫ్‌ను పొడిగించ‌డానికి ఫోన్ ప‌నితీరు నెమ్మదించేలా, నోటిఫికేషన్‌లు ఆలస్యం అయ్యేలా చేసే అవకాశం ఉంది.</string>
     <string name="smart_battery_summary" product="tablet">అనుకూల బ్యాటరీ ఫీచర్ మీ టాబ్లెట్ వినియోగం ఆధారంగా యాప్‌లు బ్యాటరీని ఎలా ఉపయోగిస్తాయో నిరంతరం ఆప్టిమైజ్ చేయడం నేర్చుకుంటుంది. బ్యాటరీ లైఫ్‌ను పొడిగించడానికి, ఇది పనితీరును తగ్గించవచ్చు, నోటిఫికేషన్‌లను ఆలస్యం చేయవచ్చు.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">డిస్‌ప్లే &amp; టచ్</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">ఫేస్ అన్‌లాక్‌ను అనుమతించండి</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">ఫేస్ అన్‌లాక్‌ను సెటప్ చేయండి</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">ఫేస్ అన్‌లాక్ గురించి మరింత తెలుసుకోండి</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">మరింత సౌకర్యంగా ఉండేందుకు, మీ వేళ్లు తడిగా లేదా చల్లగా ఉన్నప్పుడు బ్యాకప్‌గా ఉపయోగించడానికి ఫేస్ అన్‌లాక్‌ను సెటప్ చేయండి.\n\nమీ వేలిముద్రలు డివైజ్‌లో మాత్రమే స్టోర్ అవుతాయి, Googleకు ఎన్నడూ పంపబడవు.</string>
 </resources>

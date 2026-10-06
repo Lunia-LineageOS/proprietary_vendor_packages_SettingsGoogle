@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">در صفحه بعدی، تلفن را هم‌سطح چشمانتان نگه دارید</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">هنگام استفاده از «قفل‌گشایی با چهره»، ممکن است لازم شود سرتان را مستقیم روبروی تلفن بگیرید.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">از چهره‌تان برای باز کردن قفل تلفن یا به‌تأیید رساندن هویتتان (مثلاً هنگام ورود به سیستم برنامه‌ها یا تأیید خریدها) استفاده کنید.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">نگاه کردن به تلفن می‌تواند قفل آن را باز کند، حتی اگر چنین قصدی نداشته باشید. اگر فرد دیگری تلفنتان را جلوی صورتتان نگه دارد یا شباهت زیادی به شما داشته باشد (مثل خواهر یا برادر دوقلو)، می‌تواند قفل تلفنتان را باز کند.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">نگاه کردن به تلفن می‌تواند قفل آن را باز کند، حتی اگر فرزندتان چنین قصدی نداشته باشد. اگر فرد دیگری تلفن را در جلوی صورت فرزندتان نگه دارد یا شباهت زیادی به فرزندتان داشته باشد (مثل خواهر یا برادر دوقلو)، می‌تواند قفل تلفن را باز کند.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">استفاده از چهره فرزندتان برای باز کردن قفل تلفن او ممکن است نسبت به الگو، پین، یا گذرواژه قوی از امنیت کمتری برخوردار باشد</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">استفاده از چهره برای باز کردن قفل تلفن می‌تواند ایمنی کمتری نسبت به الگو، پین، یا گذرواژه قوی داشته باشد</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">«قفل‌گشایی با چهره» می‌تواند باز بودن چشم‌هایتان را برای باز کردن قفل تلفن یا تأیید هویتتان الزامی کند. هروقت بخواهید می‌توانید این گزینه را در «تنظیمات» روشن کنید.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">«قفل‌گشایی با چهره» می‌تواند باز بودن چشم‌های فرزندتان را برای باز کردن قفل تلفن یا تأیید هویت او الزامی کند. شما و فرزندتان هروقت بخواهید می‌توانید این گزینه را در «تنظیمات» روشن کنید.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">«قفل‌گشایی با چهره» مدلی منحصربه‌فرد از چهره‌تان ایجاد می‌کند که از آن برای تأیید هویتتان استفاده می‌شود. برای ایجاد این مدل چهره درطول راه‌اندازی، چند تصویر از زاویه‌های مختلف از چهره‌تان می‌گیرید.\n\nوقتی از «قفل‌گشایی با چهره» استفاده می‌کنید، مدل چهره‌تان به‌کمک تصاویر به‌روز می‌شود. تصاویر استفاده‌شده برای ایجاد مدل چهره هرگز ذخیره نمی‌شود، اما مدل چهره به‌طور ایمن در تلفنتان ذخیره می‌شود و هرگز از تلفن خارج نمی‌شود. همه پردازش‌ها به‌طور ایمن در تلفنتان انجام می‌شود.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">«قفل‌گشایی با چهره» مدلی بی‌همتا از چهره فرزندتان ایجاد می‌کند که از آن برای تأیید هویت او استفاده می‌شود. برای ایجاد این مدل چهره درطول راه‌اندازی، فرزندتان چند تصویر از زاویه‌های مختلف از چهره‌اش می‌گیرد.\n\nوقتی فرزندتان از «قفل‌گشایی با چهره» استفاده می‌کند، مدل چهره او به‌کمک تصاویر به‌روز می‌شود. تصاویر استفاده‌شده برای ایجاد مدل چهره فرزندتان ذخیره نمی‌شوند، اما مدل چهره به‌طور ایمن در تلفن ذخیره می‌شود و هرگز از آن خارج نمی‌شود. همه پردازش‌ها به‌طور ایمن در تلفن انجام می‌شود.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">‏هر زمان‌که بخواهید می‌توانید در «تنظیمات»، مدل چهره را حذف کنید یا «قفل‌گشایی با چهره» را خاموش کنید. تا وقتی مدل‌های چهره را حذف نکنید، در تلفن ذخیره خواهند بود.&lt;br&gt;&lt;br&gt;در &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; اطلاعات بیشتری کسب کنید.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">‏شما و فرزندتان هر زمان‌که بخواهید می‌توانید مدل چهره را حذف کنید، یا «قفل‌گشایی با چهره» را در «تنظیمات» خاموش کنید. تا وقتی مدل‌های چهره را حذف نکنید، در تلفن ذخیره خواهند بود.&lt;br&gt;&lt;br&gt;در &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; اطلاعات بیشتری کسب کنید.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">از چهره‌تان برای باز کردن قفل تلفن یا به‌تأیید رساندن هویتتان (مثلاً هنگام ورود به سیستم برنامه‌ها یا تأیید خریدها) استفاده کنید.\n\nبه‌خاطر داشته باشید:\nهربار فقط یک چهره را می‌توانید راه‌اندازی کنید. برای افزودن چهره‌ای دیگر، چهره فعلی را حذف کنید.\n\nبا نگاه کردن به تلفن، اگر هم نخواهید، ممکن است قفل آن باز شود.\n\nفرد دیگری که شباهت زیادی به شما دارد (مثلاً خواهر یا برادر دوقلو) می‌تواند قفل تلفن شما را باز کند.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">‏هر زمان‌که بخواهید می‌توانید در «تنظیمات»، مدل اثر انگشتتان را حذف کنید یا Pixel Imprint را خاموش کنید. تا زمانی‌که مدل‌های اثر انگشت را حذف نکنید، در تلفنتان باقی می‌مانند.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">‏شما و فرزندتان هر زمان‌که بخواهید می‌توانید در «تنظیمات»، مدل اثر انگشت فرزندتان را حذف کنید یا Pixel Imprint را خاموش کنید. تا وقتی مدل‌های اثر انگشت را حذف نکنید، در تلفن ذخیره خواهند بود.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">‏با Nexus Imprint می‌توانید از اثر انگشتتان برای مجاز کردن خریدها یا وارد شدن به سیستم برنامه‌ها استفاده کنید.\n\nمراقب باشید اثر انگشت چه کسی را اضافه می‌کنید. هر اثر انگشت اضافه‌شده می‌تواند این کارها را انجام دهد.\n\nتوجه: نمی‌توانید از اثر انگشتتان برای باز کردن قفل این دستگاه استفاده کنید. برای اطلاعات بیشتر، با سرپرست سازمانتان تماس بگیرید.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">«باتری تطبیق‌پذیر» از میزان مصرف تلفنتان یاد می‌گیرد تا به‌طور مداوم نحوه استفاده برنامه‌ها از باتری را بهینه‌سازی کند. این ویژگی برای افزایش عمر باتری ممکن است عملکرد را کاهش دهد و اعلان‌ها را به‌تأخیر بیندازد.</string>
     <string name="smart_battery_summary" product="tablet">«باتری تطبیقی» از میزان مصرف رایانه لوحی‌تان یاد می‌گیرد تا به‌طور مداوم نحوه استفاده برنامه‌ها از باتری را بهینه‌سازی کند. این ویژگی برای افزایش عمر باتری ممکن است عملکرد را کاهش دهد و اعلان‌ها را به‌تأخیر بیندازد.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">نمایشگر و لمس</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">مجاز کردن «قفل‌گشایی با چهره»</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">راه‌اندازی «قفل‌گشایی با چهره»</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">درباره «قفل‌گشایی با چهره» بیشتر بدانید</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">‏برای راحتی بیشتر، «قفل‌گشایی با چهره» را به‌عنوان روش پشتیبان برای مواقعی که انگشتانتان خیس است یا هوا سرد است راه‌اندازی کنید.\n\nاثر انگشتان شما فقط در دستگاه ذخیره می‌شود و هرگز به Google ارسال نمی‌شود.</string>
 </resources>

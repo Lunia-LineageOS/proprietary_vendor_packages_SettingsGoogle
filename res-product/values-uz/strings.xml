@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Keyingi ekranda telefonni koʻz balandligida tuting</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Yuz bilan ochishda telefon ekraniga tikroq qarashingiz kerak boʻladi.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Telefonni qulfdan chiqarish, ilovaga kirish yoki xaridni tasdiqlashda shaxsingizni tasdiqlash uchun yuzingizdan foydalaning.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Telefonga tasodifan qaraganingizda ham qulfi ochilishi mumkin. Telefoningiz begonalar tomonidan ham qulfdan chiqarilishi mumkin, masalan sizga oʻxshagan yaqinlaringiz tomonidan yoki kimdir yuzingizga qaratishi orqali.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Telefonga tasodifan qaralganda ham qulfi ochilishi mumkin. Telefon begonalar tomonidan ham qulfdan chiqarilishi mumkin, masalan farzandingizga oʻxshagan yaqinlaringiz tomonidan yoki kimdir yuziga qaratishi orqali.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Telefonini farzandingiz yuzi yordamida ochish murakkab grafik kalit, PIN kod yoki parolga nisbatan kamroq xavfsiz hisoblanadi.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Telefonni yuzingiz yordamida ochish murakkab grafik kalit, PIN kod yoki parolga nisbatan kamroq xavfsiz hisoblanadi.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Yuz bilan ochish funksiyasi telefonni ochishi yoki shaxsingizni tasdiqlashi uchun koʻzlaringiz ochiq boʻlishi kerak. Istalgan vaqtda bu parametrni Sozlamalar orqali yoqishingiz mumkin.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Yuz bilan ochish funksiyasi telefonni ochishi yoki farzandingizni shaxsini tasdiqlashi uchun uning koʻzlari ochiq boʻlishi kerak. Siz yoki farzandingiz istalgan vaqtda bu parametrni Sozlamalar orqali yoqishi mumkin.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Yuz bilan ochish autentifikatsiya paytida sizni tanish uchun yuzingizning unikal modelini yaratadi. Sozlash davomida yuz modelini yaratish uchun yuzingiz turli burchak ostida rasmga olinadi.\n\nShuningdek, telefon yuz modelini yangilab turish maqsadida yuzingiz rasmlaridan ham foydalanadi. Yuz modelini yaratishda ishlatiladigan rasmlar hech qachon saqlanmaydi, lekin yuz modeli telefoningizda xavfsiz saqlanadi va hech qachon tashqariga yuklanmaydi. Barcha ishlar telefoningizda xavfsiz amalga oshiriladi.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Yuz bilan ochish autentifikatsiya paytida shaxsni aniqlash uchun farzandingiz yuzining unikal modelini yaratadi. Sozlash davomida farzandingiz yuzi modelini yaratish uchun uning yuzi turli burchak ostida rasmga olinadi.\n\nShuningdek, telefon yuz modelini yangilab turish maqsadida farzandingizning yuz bilan ochish harakatlari rasmlaridan ham foydalanadi. Yuz modelini yaratishda ishlatiladigan rasmlar saqlanmaydi, lekin yuz modeli telefonda xavfsiz saqlanadi va hech qachon tashqariga yuklanmaydi. Barcha ishlar telefonda xavfsiz amalga oshiriladi.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Istalgan vaqt Sozlamalar orqali yuz modelini oʻchirib tashlashingiz yoki Yuz bilan ochishni faolsizlantirishingiz mumkin. Yuz modellari telefonda oʻchirilmaguncha saqlanadi.&lt;br&gt;&lt;br&gt;Batafsil: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Siz va farzandingiz istalgan vaqt Sozlamalar yuz modelini oʻchirib tashlashingiz yoki Yuz bilan ochish funksiyasini faolsizlantirishingiz mumkin. Yuz modellari telefonda oʻchirilmaguncha saqlanadi.&lt;br&gt;&lt;br&gt;Batafsil: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Endi telefonni qulfdan chiqarish, ilovaga kirish yoki xaridni tasdiqlash kabi hisob tekshiruvida yuzingizdan foydalanishingiz mumkin.\n\nYodda tuting:\nBir vaqtda faqat bitta yuz sozlanadi. Boshqa yuz kiritish uchun joriysini oʻchirish lozim.\n\nTelefonga qaraganingizda u siz xohlamasangiz ham ochilishi mumkin.\n\nTelefon farzandingiz yoki sizga oʻxshagan yaqinlaringiz tomonidan ham qulfdan chiqarilishi mumkin.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Siz istalgan vaqt Sozlamalarda barmoq izi modelini oʻchirib tashlash yoki Pixel Imprint funksiyasini faolsizlantirishingiz mumkin. Barmoq izi modellari telefonda oʻchirilmaguncha saqlanadi.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Siz va farzandingiz istalgan vaqt Sozlamalar orqali barmoq izi modelini oʻchirib tashlashingiz yoki Pixel Imprintni faolsizlantirishingiz mumkin. Barmoq izi modellari telefonda oʻchirilmaguncha saqlanadi.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint yordamida xaridlarni amalga oshirish yoki ilovalarga kirish uchun barmoq izidan foydalanish mumkin.\n\nKiritilgan har qanday barmoq izi yordamida bularni bajarish mumkin, shuning uchun ehtiyot undan boʻlib foydalaning.\n\nEslatma: barmoq izi orqali qurilmani qulfdan chiqara olmaysiz. Batafsil axborot olish uchun tashkilot administratori bilan bogʻlaning.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Adaptive Battery ilovaning batareyadan foydalanishini doimiy optimallashtirish uchun telefoningizdan foydalanishni oʻrganadi. Batareya quvvatini uzaytirish uchun samaradorlik pasayishi va bildirishnomalar kechikishi mumkin.</string>
     <string name="smart_battery_summary" product="tablet">Adaptive Battery ilovaning batareyadan foydalanishini doimiy optimallashtirish uchun planshetingizdan foydalanishni oʻrganadi. Batareya quvvatini uzaytirish uchun samaradorlik pasayishi va bildirishnomalar kechikishi mumkin.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Displey va sensor</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Yuz bilan ochishga ruxsat berish</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Yuz bilan ochish funksiyasini sozlash</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Yuz bilan ochish haqida batafsil</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Qoʻshimcha qulaylik uchun barmoqlaringiz nam yoki sovuqligida zaxira sifatida Yuz bilan ochish funksiyasini sozlang.\n\nBarmoq izlaringiz faqat qurilmada saqlanadi va hech qachon Googlega yuborilmaydi.</string>
 </resources>

@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Коли відкриється наступний екран, утримуйте телефон на рівні очей</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Під час використання фейс-контролю телефон потрібно тримати просто перед обличчям.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">За допомогою фейс-контролю можна розблоковувати телефон або підтверджувати свою особу, наприклад, щоб входити в додатки або схвалювати покупки.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Ви можете випадково розблокувати телефон у недоречний момент, ненароком поглянувши на нього. Крім того, телефон може розблокувати хтось дуже схожий на вас (наприклад, ваш близнюк) або інша особа, яка піднесе пристрій до вашого обличчя.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Дитина може випадково розблокувати телефон, ненароком поглянувши на нього. Крім того, телефон може розблокувати хтось дуже схожий на неї (наприклад, близнюк) або інша особа, яка піднесе пристрій до її обличчя.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Розблокування телефона дитини за допомогою фейс-контролю може бути менш надійним захистом, ніж ключ, PIN-код або пароль</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Розблокування телефона за допомогою фейс-контролю може бути менш надійним захистом, ніж ключ, PIN-код або пароль.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Фейс-контроль можна налаштувати так, щоб він спрацьовував, лише коли ваші очі розплющені. Ви будь-коли можете ввімкнути цю опцію в налаштуваннях.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Фейс-контроль можна налаштувати так, щоб він спрацьовував, лише коли очі вашої дитини розплющені. Ви та дитина будь-коли можете ввімкнути цю опцію в налаштуваннях.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Фейс-контроль створює унікальну модель вашого обличчя, щоб підтверджувати вашу особу. Для цього вам потрібно сфотографувати своє обличчя під різними кутами.\n\nКоли ви користуєтеся фейс-контролем, модель обличчя постійно оновлюється на основі отриманих зображень. Ці зображення ніколи не залишаються на телефоні, але сама модель надійно зберігається й нікуди не передається. Усі дані безпечно обробляються на телефоні.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Фейс-контроль створює унікальну модель обличчя вашої дитини, щоб підтверджувати її особу. Для цього дитині потрібно сфотографувати своє обличчя під різними кутами.\n\nКоли дитина користується фейс-контролем, отримані зображення використовуються для оновлення моделі обличчя. Ці зображення не залишаються на телефоні, але сама модель надійно зберігається та нікуди не передається. Усі процедури обробки безпечно відбуваються на телефоні.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Ви будь-коли можете видалити свою модель обличчя або вимкнути фейс-контроль у налаштуваннях. Моделі облич зберігаються на телефоні, доки ви їх не видалите.&lt;br&gt;&lt;br&gt;Докладніше: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Ви та дитина будь-коли можете видалити модель обличчя або вимкнути фейс-контроль у налаштуваннях. Моделі облич зберігаються на телефоні, доки ви їх не видалите.&lt;br&gt;&lt;br&gt;Докладніше читайте на сторінці &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">За допомогою фейс-контролю можна розблоковувати телефон або підтверджувати свою особу (наприклад, щоб входити в додатки або схвалювати покупки).\n\nЗверніть увагу\nНе можна налаштувати кілька моделей облич одночасно. Щоб додати іншу модель обличчя, видаліть наявну.\n\nПоглянувши на телефон, ви можете випадково розблокувати його в недоречний момент.\n\nТелефон може розблокувати людина, схожа на вас, зокрема ваш близнюк.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Ви будь-коли можете видалити модель свого відбитка пальця або вимкнути функцію Pixel Imprint у налаштуваннях. Моделі відбитків пальців зберігаються на телефоні, доки ви їх не видалите.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Ви та дитина будь-коли можете видалити модель відбитка пальця або вимкнути Pixel Imprint у налаштуваннях. Моделі відбитків пальців зберігаються на телефоні, доки ви їх не видалите.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">За допомогою Nexus Imprint ви можете дозволяти покупки та входити в додатки, зісканувавши відбиток пальця.\n\nОбачно додавайте відбитки. Ці дії можна виконувати за допомогою будь-якого доданого відбитка пальця.\n\nПримітка. Цей пристрій не можна розблоковувати відбитком пальця. Щоб дізнатися більше, зв’яжіться з адміністратором своєї організації.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Адаптивне енергоспоживання аналізує використання телефона, щоб постійно оптимізувати споживання заряду акумулятора додатками. Щоб збільшувати час роботи акумулятора, ця функція може обмежувати продуктивність, а сповіщення можуть з’являтись із затримкою.</string>
     <string name="smart_battery_summary" product="tablet">Адаптивне енергоспоживання аналізує використання планшета, щоб постійно оптимізувати споживання заряду акумулятора додатками. Щоб збільшувати час роботи акумулятора, ця функція може обмежувати продуктивність, а сповіщення можуть з’являтись із затримкою.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Екран і сенсорне введення</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Дозвольте фейс-контроль</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Налаштуйте фейс-контроль</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Докладніше про фейс-контроль</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Для зручності налаштуйте фейс-контроль як резервний спосіб розблокування на випадок, якщо пальці мокрі або холодні.\n\nВідбитки пальців зберігаються лише на пристрої і ніколи не надсилаються в Google.</string>
 </resources>

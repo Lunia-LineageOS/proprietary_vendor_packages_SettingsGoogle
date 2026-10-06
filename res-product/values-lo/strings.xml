@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">ຢູ່ໜ້າຈໍຕໍ່ໄປ, ໃຫ້ຖືໂທລະສັບຂອງທ່ານໄວ້ໃນລະດັບສາຍຕາ</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">ເມື່ອໃຊ້ການປົດລັອກດ້ວຍໜ້າ, ທ່ານອາດຕ້ອງປິ່ນໜ້າໃຫ້ຊື່ກັບໂທລະສັບຂອງທ່ານຫຼາຍຂຶ້ນ.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">ໃຊ້ໜ້າຂອງທ່ານເພື່ອປົດລັອກໂທລະສັບທ່ານ ຫຼື ຢັ້ງຢືນວ່າແມ່ນທ່ານແທ້ ເຊັ່ນ: ໃນເວລາທີ່ທ່ານເຂົ້າສູ່ລະບົບຫາແອັບ ຫຼື ອະນຸມັດການຊື້.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">ການເບິ່ງໂທລະສັບຈະສາມາດປົດລັອກມັນໄດ້ເຖິງແມ່ນວ່າທ່ານຈະບໍ່ຕັ້ງໃຈກໍຕາມ. ໂທລະສັບຂອງທ່ານສາມາດຖືກປົດລັອກໄດ້ໂດຍຄົນທີ່ໜ້າຕາຄ້າຍທ່ານຫຼາຍ ເຊັ່ນ: ຝາແຝດ ຫຼື ຫາກມີຄົນຖືມັນໄປໃສ່ໜ້າຂອງທ່ານ.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">ການເບິ່ງໂທລະສັບສາມາດປົດລັອກມັນໄດ້ເຖິງແມ່ນວ່າເຂົາເຈົ້າຈະບໍ່ຕັ້ງໃຈກໍຕາມ. ໂທລະສັບຂອງເຂົາເຈົ້າສາມາດຖືກປົດລັອກໄດ້ໂດຍຄົນທີ່ໜ້າຕາຄ້າຍເຂົາເຈົ້າຫຼາຍ ເຊັ່ນ: ຝາແຝດ ຫຼື ຫາກມີຄົນຖືໂທລະສັບໄປໃສ່ໜ້າຂອງເຂົາເຈົ້າ.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">ການໃຊ້ໜ້າຂອງລູກທ່ານເພື່ອປົດລັອກໂທລະສັບຂອງເຂົາເຈົ້າອາດມີຄວາມປອດໄພໜ້ອຍກວ່າຮູບແບບ, PIN ຫຼື ລະຫັດຜ່ານທີ່ເດົາຍາກ</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">ການໃຊ້ໜ້າຂອງທ່ານເພື່ອປົດລັອກໂທລະສັບຂອງທ່ານອາດມີຄວາມປອດໄພໜ້ອຍກວ່າຮູບແບບ, PIN ຫຼື ລະຫັດຜ່ານທີ່ເດົາຍາກ</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">ການປົດລັອກດ້ວຍໜ້າສາມາດກຳນົດໃຫ້ທ່ານຕ້ອງມືນຕາເພື່ອປົດລັອກໂທລະສັບ ຫຼື ຢັ້ງຢືນວ່າແມ່ນທ່ານແທ້. ທ່ານສາມາດເປີດຕົວເລືອກນີ້ຕອນໃດກໍໄດ້ໃນການຕັ້ງຄ່າ.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">ການປົດລັອກດ້ວຍໜ້າສາມາດກຳນົດໃຫ້ລູກຂອງທ່ານຕ້ອງມືນຕາເພື່ອປົດລັອກໂທລະສັບ ຫຼື ຢັ້ງຢືນວ່າແມ່ນເຂົາເຈົ້າແທ້. ທ່ານ ແລະ ລູກຂອງທ່ານສາມາດເປີດຕົວເລືອກນີ້ຕອນໃດກໍໄດ້ໃນການຕັ້ງຄ່າ.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">ການປົດລັອກດ້ວຍໜ້າຈະສ້າງຮູບແບບໃບໜ້າທີ່ບໍ່ຊ້ຳກັນຂອງທ່ານເພື່ອຢັ້ງຢືນວ່າແມ່ນທ່ານ. ເພື່ອສ້າງຮູບແບບໃບໜ້ານີ້ໃນລະຫວ່າງການຕັ້ງຄ່າ, ທ່ານຈະໄດ້ຖ່າຍຮູບໃບໜ້າຂອງທ່ານຈາກຫຼາຍໆມຸມ.\n\nເມື່ອທ່ານໃຊ້ການປົດລັອກດ້ວຍໜ້າ, ລະບົບຈະໃຊ້ຮູບເພື່ອອັບເດດຮູບແບບໃບໜ້າຂອງທ່ານ. ລະບົບຈະບໍ່ຈັດເກັບຮູບພາບທີ່ໃຊ້ສ້າງຮູບແບບໃບໜ້າຂອງທ່ານເດັດຂາດ, ແຕ່ຈະຈັດເກັບຮູບແບບໃບໜ້າໄວ້ຢ່າງປອດໄພໃນໂທລະສັບຂອງທ່ານ ແລະ ຈະບໍ່ສົ່ງອອກຈາກໂທລະສັບເດັດຂາດ. ການປະມວນຜົນຂໍ້ມູນທັງໝົດເກີດຂຶ້ນຢ່າງປອດໄພໃນໂທລະສັບຂອງທ່ານ.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">ການປົດລັອກດ້ວຍໜ້າຈະສ້າງຮູບແບບໃບໜ້າທີ່ບໍ່ຊ້ຳກັນຂອງລູກທ່ານເພື່ອຢັ້ງຢືນວ່າແມ່ນເຂົາເຈົ້າແທ້. ເພື່ອສ້າງຮູບແບບໃບໜ້ານີ້ໃນລະຫວ່າງການຕັ້ງຄ່າ, ລູກຂອງທ່ານຈະຖ່າຍຮູບໃບໜ້າຂອງເຂົາເຈົ້າຈາກຫຼາຍໆມຸມ.\n\nເມື່ອເຂົາເຈົ້າປົດລັອກດ້ວຍໜ້າ, ຮູບຈະຖືກໃຊ້ເພື່ອອັບເດດຮູບແບບໃບໜ້າຂອງເຂົາເຈົ້າ. ລະບົບຈະບໍ່ຈັດເກັບຮູບທີ່ໃຊ້ສ້າງຮູບແບບໃບໜ້າຂອງເຂົາເຈົ້າ, ແຕ່ຮູບແບບໃບໜ້າຈະຖືກຈັດເກັບໄວ້ຢ່າງປອດໄພຢູ່ໂທລະສັບ ແລະ ຈະບໍ່ຖືກສົ່ງອອກຈາກໂທລະສັບເດັດຂາດ. ການປະມວນຜົນທັງໝົດຈະເກີດຂຶ້ນຢ່າງປອດໄພຢູ່ໂທລະສັບ.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">ທ່ານສາມາດລຶບຮູບແບບໃບໜ້າຂອງທ່ານ ຫຼື ປິດການປົດລັອກດ້ວຍໜ້າຕອນໃດກໍໄດ້ໃນການຕັ້ງຄ່າ. ຮູບແບບໃບໜ້າແມ່ນຖືກຈັດເກັບໄວ້ຢູ່ໂທລະສັບຈົນກວ່າທ່ານຈະລຶບພວກມັນອອກ.&lt;br&gt;&lt;br&gt;ສຶກສາເພີ່ມເຕີມຢູ່ &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">ທ່ານ ແລະ ລູກຂອງທ່ານສາມາດລຶບຮູບແບບໃບໜ້າຂອງເຂົາເຈົ້າ ຫຼື ປິດການປົດລັອກດ້ວຍໜ້າຕອນໃດກໍໄດ້ໃນການຕັ້ງຄ່າ. ຮູບແບບໃບໜ້າແມ່ນຖືກຈັດເກັບໄວ້ຢູ່ໂທລະສັບຈົນກວ່າພວກມັນຈະຖືກລຶບອອກ.&lt;br&gt;&lt;br&gt;ສຶກສາເພີ່ມເຕີມຢູ່ &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">ໃຊ້ໃບໜ້າຂອງທ່ານເພື່ອປົດລັອກໂທລະສັບຂອງທ່ານ ຫຼື ເພື່ອຢັ້ງຢືນວ່າແມ່ນທ່ານ, ເຊັ່ນ: ເມື່ອທ່ານເຂົ້າສູ່ລະບົບແອັບ ຫຼື ອະນຸມັດການຊື້.\n\nກະລຸນາຮັບຊາບວ່າ:\nທ່ານສາມາດຕັ້ງຄ່າໄດ້ເທື່ອລະໃບໜ້າເທົ່ານັ້ນ. ເພື່ອເພີ່ມໃບໜ້າອື່ນ, ໃຫ້ລຶບໃບໜ້າປັດຈຸບັນອອກກ່ອນ.\n\nການເບິ່ງໂທລະສັບສາມາດປົດລັອກເຄື່ອງໄດ້ໂດຍທີ່ທ່ານບໍ່ໄດ້ຕັ້ງໃຈ.\n\nຄົນທີ່ໜ້າຄ້າຍທ່ານຫຼາຍ, ເຊັ່ນ: ອ້າຍເອື້ອຍນ້ອງທີ່ໜ້າຕາຄືກັນອາດປົດລັອກໂທລະສັບຂອງທ່ານໄດ້.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">ທ່ານສາມາດລຶບຮູບແບບລາຍນິ້ວມືຂອງທ່ານ ຫຼື ປິດ Pixel Imprint ຕອນໃດກໍໄດ້ໃນການຕັ້ງຄ່າ. ຮູບແບບລາຍນິ້ວມືແມ່ນຈັດເກັບໄວ້ຢູ່ໂທລະສັບຈົນກວ່າທ່ານຈະລຶບພວກມັນອອກ.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">ທ່ານ ແລະ ລູກຂອງທ່ານສາມາດລຶບຮູບແບບລາຍນິ້ວມືຂອງເຂົາເຈົ້າອອກ ຫຼື ປິດ Pixel Imprint ຕອນໃດກໍໄດ້ໃນການຕັ້ງຄ່າ. ຮູບແບບລາຍນິ້ວມືແມ່ນຖືກຈັດເກັບໄວ້ຢູ່ໂທລະສັບຈົນກວ່າພວກມັນຈະຖືກລຶບອອກ.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">ດ້ວຍ Nexus Imprint, ທ່ານສາມາດໃຊ້ລາຍນິ້ວຂອງທ່ານເພື່ອອະນຸມັດການສັ່ງຊື້ ຫຼື ເຂົ້າສູ່ລະບົບແອັບ.\n\nກະລຸນາລະມັດລະວັງການເພີ່ມລາຍນິ້ວມື. ເຖິງແມ່ນວ່າຈະເພີ່ມລາຍນິ້ວມືດຽວແຕ່ກໍຈະສາມາດເຮັດໄດ້ທຸກຢ່າງທີ່ວ່າມານີ້.\n\nໝາຍເຫດ: ທ່ານບໍ່ສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນການປົດລັອກອຸປະກອນນີ້ໄດ້. ສຳລັບຂໍ້ມູນເພີ່ມເຕີມ, ກະລຸນາຕິດຕໍ່ຜູ້ເບິ່ງແຍງລະບົບອົງກອນຂອງທ່ານ.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">ແບັດເຕີຣີແບບປັບຕົວໄດ້ຈະຮຽນຮູ້ຈາກການນຳໃຊ້ໂທລະສັບຂອງທ່ານເພື່ອເພີ່ມປະສິດທິພາບການໃຊ້ແບັດເຕີຣີຂອງແອັບຢ່າງຕໍ່ເນື່ອງ. ເພື່ອຍືດອາຍຸແບັດເຕີຣີ, ມັນອາດຈະຫຼຸດປະສິດທິພາບ ແລະ ເລື່ອນການແຈ້ງເຕືອນອອກໄປ.</string>
     <string name="smart_battery_summary" product="tablet">ແບັດເຕີຣີແບບປັບຕົວໄດ້ຈະຮຽນຮູ້ຈາກການນຳໃຊ້ແທັບເລັດຂອງທ່ານເພື່ອເພີ່ມປະສິດທິພາບການໃຊ້ແບັດເຕີຣີຂອງແອັບຢ່າງຕໍ່ເນື່ອງ. ເພື່ອຍືດອາຍຸແບັດເຕີຣີ, ມັນອາດຈະຫຼຸດປະສິດທິພາບ ແລະ ເລື່ອນການແຈ້ງເຕືອນອອກໄປ.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ຈໍສະແດງຜົນ ແລະ ການສຳຜັດ</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">ອະນຸຍາດໃຫ້ປົດລັອກດ້ວຍໜ້າ</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">ຕັ້ງຄ່າການປົດລັອກດ້ວຍໜ້າ</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">ສຶກສາເພີ່ມເຕີມກ່ຽວກັບການປົດລັອກດ້ວຍໜ້າ</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">ເພື່ອຄວາມສະດວກຍິ່ງຂຶ້ນ, ໃຫ້ຕັ້ງຄ່າການປົດລັອກດ້ວຍໜ້າເປັນວິທີສຳຮອງໄວ້ເມື່ອນິ້ວມືຂອງທ່ານປຽກ ຫຼື ເຢັນ.\n\nລະບົບຈະຈັດເກັບລາຍນິ້ວມືຂອງທ່ານໄວ້ໃນອຸປະກອນເທົ່ານັ້ນ ແລະ ຈະບໍ່ສົ່ງໄປໃຫ້ Google.</string>
 </resources>

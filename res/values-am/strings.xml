@@ -3,8 +3,83 @@
     <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
     <string name="owner_info_settings_edit_text_hint">ለምሳሌ፦ የአበበ Pixel</string>
 
+    <!-- Message shown in summary field when Face Unlock is not set up. [CHAR LIMIT=54] -->
+    <string name="security_settings_face_preference_summary_none">መልክን ለማዋቀር መታ ያድርጉ</string>
+
+    <!-- Introduction detail message shown in face education [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message">በሚቀጥለው ማያ ገፅ ላይ ሁሉንም የመልክዎ ማዕዘኖች ለማግኘት ጭንቅላትዎን ያሽከርክሩት</string>
+
+    <!-- Button shown which shows accessibility toggles for face enrollment when clicked. [CHAR LIMIT=32] -->
+    <string name="security_settings_face_enroll_introduction_accessibility">ለተገደበ ዕይታ ወይም የጭንቅላት እንቅስቃሴ ያቀናብሩ</string>
+
+    <!-- Message shown for a toggle which when enabled, allows the user to enroll using a simpler flow for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_accessibility_vision">በዓይኖች መክፈትን ጠይቅ</string>
+
+    <!-- Title of a section on the face enrollment introduction page that provides additional information. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_info_title">ከግምት ውስጥ ያስገቡ</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_glasses">መነጽር ወይም ትንሽ ቅልም ያላቸው የፀሐይ መነጽሮች ችግር የላቸውም።</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_glasses">ልጅዎ በመደበኛነት የዓይን መነፅር የሚያደርግ ከሆነ በሚያቀናብሩበት ጊዜ ሊያደርጓቸው ይችላሉ።</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_how_title">እንዴት እንደሚሠራ</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_title">እርስዎ የሚቆጣጠሩት ነው</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_title">እርስዎ እና ልጅዎ ተቆጣጣሪ ናችሁ</string>
+
+    <!-- Message shown in face enrollment dialog once enrollment is completed -->
+    <string name="security_settings_face_enroll_finish_title">ጥሩ ይመስላል!</string>
+
+    <!-- Description shown on face settings page. -->
+    <string name="security_settings_face_description">ለተጨማሪ ምቾች የፊት ጭምብል ሲያደርጉ ወይም ጨለማ አካባቢ ውስጥ ሲሆኑ በጣት አሻራ መክፈቻን እንደ ምትኬ ያዋቅሩ።\n\nመልክዎ በመሣሪያ ላይ ብቻ ይቀመጣል እና መቼም ወደ Google አይላክም።</string>
+
+    <!-- Title shown for menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_preference_title">Nexus Imprint</string>
+
+    <!-- Title shown for work menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint ለሥራ</string>
+
+    <!-- message shown in summary field when no fingerprints are registered -->
+    <string name="security_settings_fingerprint_preference_summary_none">የጣት አሻራን ለማቀናበር መታ ያድርጉ</string>
+
+    <!-- Introduction title shown in fingerprint enrollment to introduce the fingerprint feature, when fingerprint unlock is disabled by device admin [CHAR LIMIT=40] -->
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">በNexus Imprint ይክፈቱ</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Pixel Imprint እርስዎ መሆንዎን ለማረጋገጥ የጣት አሻራዎን ልዩ ሞዴል ይፈጥራል። በሚቀናበርበት ጊዜ ይህን የጣት አሻራ ሞዴል ለመፍጠር የጣት አሻራዎ ምስሎችን ከተለያዩ ቦታዎች ያነሳሉ።</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Pixel Imprint እነሱ መሆናቸውን ለማረጋገጥ የልጅዎን የጣት አሻራ ልዩ ሞዴል ይፈጥራል። በሚቀናበቀርበት ጊዜ ይህን የጣት አሻራ ሞዴል ለመፍጠር የጣት አሻራቸው ምስሎችን ከተለያዩ ቦታዎች ያነሳሉ።</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment introduction to learn more about fingerprint [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">&lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt; ላይ ስለPixel በጣት አሻራ መክፈቻ የበለጠ ይወቁ።</string>
+
+    <!-- Message shown in summary field of biometric settings. [CHAR LIMIT=66] -->
+    <string name="security_settings_biometric_preference_summary_none_enrolled">ለማዋቀር መታ ያድርጉ</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">በግል ቦታዎ ለመጠቀም ወደ Google መለያ ይግቡ</string>
+
+    <!-- Title for suggested actions for settings up a fingerprint lock [CHAR LIMIT=46] -->
+    <string name="suggested_fingerprint_lock_settings_title">Pixel Imprintን ይጠቀሙ</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock pattern for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pattern">Nexus Imprint + ሥርዓተ ጥለት</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock PIN for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pin">Nexus Imprint + ፒን</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock password for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_password">Nexus Imprint + የይለፍ ቃል</string>
+
+    <!-- Title for preference that guides the user to skip fingerprint setup [CHAR LIMIT=60]-->
+    <string name="fingerprint_unlock_skip_fingerprint">ያለ Nexus Imprint ቀጥል</string>
 
     <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
     <string name="wifi_subscription_summary">የOpenRoaming ደንበኝነት ምዝገባን ይመልከቱ ወይም ይቀይሩ</string>

@@ -3,8 +3,83 @@
     <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
     <string name="owner_info_settings_edit_text_hint">जस्तै, Joe को Pixel।</string>
 
+    <!-- Message shown in summary field when Face Unlock is not set up. [CHAR LIMIT=54] -->
+    <string name="security_settings_face_preference_summary_none">फेस अनलक सेटअप गर्न ट्याप गर्नुहोस्</string>
+
+    <!-- Introduction detail message shown in face education [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message">अब आउने स्क्रिनमा, सबै कोणहरूबाट आफ्नो अनुहार खिच्न टाउको घुमाउनुहोस्</string>
+
+    <!-- Button shown which shows accessibility toggles for face enrollment when clicked. [CHAR LIMIT=32] -->
+    <string name="security_settings_face_enroll_introduction_accessibility">दृष्टि क्षमता वा टाउको हलचल गर्ने क्षमता कम भएका व्यक्तिका निम्ति सेटअप गर्नुहोस्</string>
+
+    <!-- Message shown for a toggle which when enabled, allows the user to enroll using a simpler flow for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_accessibility_vision">आँखा खुला राख्नु पर्छ</string>
+
+    <!-- Title of a section on the face enrollment introduction page that provides additional information. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_info_title">ख्याल गर्नुहोस्</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_glasses">चस्मा वा हल्का रङ भएको सनग्लास प्रयोग गर्दा हुन्छ।</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_glasses">तपाईंका बच्चाले प्रायः चस्मा लगाउने गर्छ भने उनी चस्मा लगाएरै सेटअप गर्न सक्छन्।</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_how_title">यसले कसरी काम गर्छ</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_title">यो सुविधा कसरी नियन्त्रण गर्ने भन्ने कुरा तपाईंको हातमा हुन्छ</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_title">यी सेटिङ तपाईं र तपाईंका बच्चाको नियन्त्रणमा हुन्छन्</string>
+
+    <!-- Message shown in face enrollment dialog once enrollment is completed -->
+    <string name="security_settings_face_enroll_finish_title">ठिक छ!</string>
+
+    <!-- Description shown on face settings page. -->
+    <string name="security_settings_face_description">तपाईंले मास्क लगाएका बेला वा तपाईं अँध्यारो ठाउँमा भएका बेला फोन अनलक गर्न सजिलो होस् भन्नाका लागि ब्याकअपका रूपमा फिंगरप्रिन्ट अनलक सेटअप गर्नुहोस्।\n\nतपाईंको अनुहार डिभाइसमै भण्डारण गरिन्छ र कहिले पनि Google मा पठाइँदैन।</string>
+
+    <!-- Title shown for menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_preference_title">Nexus Imprint</string>
+
+    <!-- Title shown for work menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_work_fingerprint_preference_title">वर्क प्रोफाइलका लागि Pixel Imprint</string>
+
+    <!-- message shown in summary field when no fingerprints are registered -->
+    <string name="security_settings_fingerprint_preference_summary_none">फिंगरप्रिन्ट सेटअप गर्न ट्याप गर्नुहोस्</string>
+
+    <!-- Introduction title shown in fingerprint enrollment to introduce the fingerprint feature, when fingerprint unlock is disabled by device admin [CHAR LIMIT=40] -->
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Nexus Imprint मार्फत अनलक</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Pixel Imprint ले तपाईंको पहिचान पुष्टि गर्ने प्रयोजनका लागि तपाईंको फिंगरप्रिन्टको अद्वितीय मोडेल बनाउँछ। सेटअप गर्ने क्रममा यो फिंगरप्रिन्ट मोडेल बनाउन तपाईंले विभिन्न कोणबाट आफ्नो फिंगरप्रिन्टका फोटोहरू खिच्नु पर्ने हुन्छ।</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Pixel Imprint ले तपाईंका बच्चाको पहिचान पुष्टि गर्ने प्रयोजनका लागि उनको फिंगरप्रिन्टको अद्वितीय मोडेल बनाउँछ। सेटअप गर्ने क्रममा यो फिंगरप्रिन्ट मोडेल बनाउन तपाईंका बच्चाले विभिन्न कोणबाट आफ्नो फिंगरप्रिन्टका फोटोहरू खिच्नु पर्ने हुन्छ।</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment introduction to learn more about fingerprint [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">&lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt; मा गई Pixel फिंगरप्रिन्ट अनलकका बारेमा थप जान्नुहोस्।</string>
+
+    <!-- Message shown in summary field of biometric settings. [CHAR LIMIT=66] -->
+    <string name="security_settings_biometric_preference_summary_none_enrolled">सेटअप गर्न ट्याप गर्नुहोस्</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">आफ्नो निजी स्पेस प्रयोग गर्न Google खातामा साइन इन गर्नुहोस्</string>
+
+    <!-- Title for suggested actions for settings up a fingerprint lock [CHAR LIMIT=46] -->
+    <string name="suggested_fingerprint_lock_settings_title">Pixel Imprint को प्रयोग गर्नुहोस्</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock pattern for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pattern">नेक्सस इम्प्रिन्ट + प्याटर्न</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock PIN for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pin">नेक्सस इम्प्रिन्ट + PIN</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock password for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_password">नेक्सस इम्प्रिन्ट + पासवर्ड</string>
+
+    <!-- Title for preference that guides the user to skip fingerprint setup [CHAR LIMIT=60]-->
+    <string name="fingerprint_unlock_skip_fingerprint">Nexus Imprint बिना जारी राख्नुहोस्</string>
 
     <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
     <string name="wifi_subscription_summary">OpenRoaming को सदस्यता हेर्नुहोस् वा परिवर्तन गर्नुहोस्</string>

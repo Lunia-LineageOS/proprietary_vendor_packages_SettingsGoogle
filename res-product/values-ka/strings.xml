@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">მომდევნო ეკრანზე ტელეფონი სახესთან, თვალების დონეზე მიიტანეთ</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">სახით განბლოკვის გამოყენებისას შესაძლოა დაგჭირდეთ, სახე ტელეფონს უფრო მეტად უსწოროთ.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">გამოიყენეთ სახე თქვენი ტელეფონის განსაბლოკად ან ვინაობის დასადასტურებლად ისეთ შემთხვევებში, როცა აპებში შედიხართ ან შეძენას ადასტურებთ.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">ტელეფონი შეიძლება მასზე დახედვით უნებლიეთ განიბლოკოს, თუნდაც ამის განზრახვა არ გქონდეთ. თქვენი ტელეფონი შეიძლება განბლოკოს სხვა პირმა, რომელიც ძალიან გგავთ, მაგალითად, თქვენმა იდენტურმა ტყუპისცალმა; ან სხვა პირმა, თუ ტელეფონს თქვენს სახესთან მიიტანს.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">ტელეფონზე დახედვისასაც შეიძლება განიბლოკოს ის, თუნდაც ამის განზრახვა არ ჰქონდეს ადამიანს. მისი ტელეფონის განბლოკვა შეუძლია სხვასაც, ვინც ტყუპისცალივით ჰგავს მას, ან იმ შემთხვევაში, თუ ვინმე სახესთან მიუტანს ტელეფონს.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">თქვენი ბავშვის სახის გამოყენება მისი ტელეფონის განსაბლოკად შეიძლება ნაკლებად უსაფრთხო იყოს, ვიდრე სანდო ნიმუშის, PIN-კოდის ან პაროლის გამოყენება</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">სახით განბლოკვა, შესაძლოა, ძლიერ ნიმუშზე, PIN-კოდსა და პაროლზე ნაკლებად დაცული იყოს</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">სახით განბლოკვამ, ტელეფონის განსაბლოკად ან იმის დასადასტურებლად, რომ ნამდვილად თქვენ ხართ, შეიძლება მოითხოვოს, რომ თვალები გახელილი გქონდეთ. ამ ვარიანტის ჩართვა ნებისმიერ დროს შეგიძლიათ პარამეტრებიდან.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">სახით განბლოკვამ, ტელეფონის განსაბლოკად ან იმის დასადასტურებლად, რომ ნამდვილად ის არის, შეიძლება მოითხოვოს, რომ თქვენს ბავშვს თვალები გახელილი ჰქონდეს. თქვენ და თქვენს ბავშვს ამ ვარიანტის ჩართვა ნებისმიერ დროს შეგიძლიათ პარამეტრებიდან.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">სახით განბლოკვის ფუნქცია თქვენი სახის უნიკალურ მოდელს ქმნის თქვენი ვინაობის დასადასტურებლად. დაყენებისას სახის ამ მოდელის შესაქმნელად სახის სურათები სხვადასხვა რაკურსით უნდა გადაიღოთ.\n\nსახით განბლოკვის გამოყენებისას სახის მოდელი სურათების მეშვეობით განახლდება. სახის მოდელის შესაქმნელად გამოყენებული სურათების შენახვა არ ხდება, უშუალოდ სახის მოდელი კი უსაფრთხოდ შეინახება თქვენს ტელეფონში და არასდროს დატოვებს მას. ყველაფერი მუშავდება უსაფრთხოდ, თქვენს ტელეფონში.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">სახით განბლოკვის ფუნქცია თქვენი ბავშვის სახის უნიკალურ მოდელს ქმნის მისი ვინაობის დადასტურების მიზნით. დაყენებისას სახის ამ მოდელის შესაქმნელად თქვენმა ბავშვმა უნდა გადაიღოს სახის სურათები სხვადასხვა რაკურსით.\n\nსახით განბლოკვის გამოყენებისას სახის მოდელი სურათების მეშვეობით განახლდება. სახის მოდელის შესაქმნელად გამოყენებული სურათები არ შეინახება, სახის მოდელი კი უსაფრთხოდ შეინახება ტელეფონში და არასდროს დატოვებს მას. ტელეფონში ყველაფერი უსაფრთხოდ დამუშავდება.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">თქვენი სახის მოდელის წაშლა ან სახით განბლოკვის გამორთვა ნებისმიერ დროს შეგიძლიათ პარამეტრებიდან. სახის მოდელები ინახება ტელეფონში, სანამ არ წაშლით მათ.&lt;br&gt;&lt;br&gt;შეიტყვეთ მეტი აქ: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">თქვენ და თქვენს ბავშვს შეგიძლიათ სახის მოდელის წაშლა ან სახით განბლოკვის ნებისმიერ დროს გამორთვა პარამეტრებიდან. სახის მოდელები მათ წაშლამდე ტელეფონში შეინახება.&lt;br&gt;&lt;br&gt;შეიტყვეთ მეტი მისამართზე: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">გამოიყენეთ სახე თქვენი ტელეფონის განსაბლოკად ან ავტორიზაციისთვის, მაგალითად, როცა აპებში შედიხართ ან შეძენას ადასტურებთ.\n\nგაითვალისწინეთ:\nერთდროულად მხოლოდ ერთი სახის დაყენება შეგიძლიათ. სხვა სახის დასაყენებლად წაშალეთ მიმდინარე.\n\nტელეფონზე დახედვით შესაძლოა უნებლიედ განბოლოკოთ ის.\n\nთქვენი ტელეფონი შეიძლება განბლოკოს სხვა პირმა, რომელიც ძალიან გგავთ, მაგალითად, ტყუპისცალმა.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">თქვენი თითის ანაბეჭდის მოდელის წაშლა ან Pixel Imprint-ის გამორთვა ნებისმიერ დროს შეგიძლიათ პარამეტრებიდან. თითის ანაბეჭდის მოდელები ტელეფონში შეინახება, სანამ მათ არ წაშლით.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">თქვენ ან თქვენს ბავშვს შეგიძლიათ თითის ანაბეჭდის მოდელის წაშლა ან Pixel Imprint-ის ნებისმიერ დროს გამორთვა პარამეტრებიდან. ანაბეჭდის მოდელები მათ წაშლამდე შეინახება ტელეფონში.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint-ის მეშვებით, შენაძენების ავტორიზაციას ან აპებში შესვლას თითის ანაბეჭდით შეძლებთ.\n\nყურადღება მიაქციეთ იმას, თუ ვის თითის ანაბეჭდებს დაამატებთ, რადგან ამ მოქმედებების შესრულება ნებისმიერ დამატებულ თითის ანაბეჭდს შეეძლება.\n\nგაითვალისწინეთ: ამ მოწყობილობის განსაბლოკად თითის ანაბეჭდს ვერ გამოიყენებთ. დამატებითი ინფორმაციისთვის, დაუკავშირდით თქვენი ორგანიზაციის ადმინისტრატორს.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">ადაპტაციური ბატარეა სწავლობს თქვენი ტელეფონის გამოყენების ნიმუშს, რათა მუდმივად მოახდინოს აპების მიერ ბატარეის გამოყენების ოპტიმიზაცია. ბატარეის მუშაობის გახანგრძლივების მიზნით, მან შეიძლება, შეამციროს ეფექტურობა და დააყოვნოს შეტყობინებები.</string>
     <string name="smart_battery_summary" product="tablet">ადაპტაციური ბატარეა სწავლობს თქვენი ტაბლეტის გამოყენების ნიმუშს, რათა მუდმივად მოახდინოს აპების მიერ ბატარეის გამოყენების ოპტიმიზაცია. ბატარეის მუშაობის გახანგრძლივების მიზნით, მან შეიძლება, შეამციროს ეფექტურობა და დააყოვნოს შეტყობინებები.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ეკრანი და სენსორი</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">სახით განბლოკვის დაშვება</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">სახით განბლოკვის დაყენება</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">შეიტყვეთ მეტი სახით განბლოკვის შესახებ</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">მეტი მოხერხებულობისთვის დააყენეთ სახით განბლოკვა, როგორც ალტერნატიული საშუალება, როცა თქვენი თითები სველი ან ცივია.\n\nთქვენი თითის ანაბეჭდები ინახება მხოლოდ მოწყობილობაზე და არასდროს ეგზავნება Google-ს.</string>
 </resources>

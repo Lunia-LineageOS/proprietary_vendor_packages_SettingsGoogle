@@ -3,8 +3,83 @@
     <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
     <string name="owner_info_settings_edit_text_hint">ఉదా. జో యొక్క Pixel.</string>
 
+    <!-- Message shown in summary field when Face Unlock is not set up. [CHAR LIMIT=54] -->
+    <string name="security_settings_face_preference_summary_none">ఫేస్ అన్‌లాక్‌ను సెటప్ చేయడానికి ట్యాప్ చేయండి</string>
+
+    <!-- Introduction detail message shown in face education [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message">తర్వాతి స్క్రీన్‌లో, మీ ముఖం యొక్క అన్ని కోణాలను క్యాప్చర్ చేయడానికి మీ తలను తిప్పండి</string>
+
+    <!-- Button shown which shows accessibility toggles for face enrollment when clicked. [CHAR LIMIT=32] -->
+    <string name="security_settings_face_enroll_introduction_accessibility">పరిమిత చూపు/తల కదలిక కోసం సెటప్</string>
+
+    <!-- Message shown for a toggle which when enabled, allows the user to enroll using a simpler flow for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_accessibility_vision">కళ్లు తెరిచి ఉంచాలి</string>
+
+    <!-- Title of a section on the face enrollment introduction page that provides additional information. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_info_title">గుర్తుంచుకోండి</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_glasses">కళ్లద్దాలు గానీ, కొద్దిగా లేత రంగులోని చలువ కళ్లద్దాలు గానీ ఫర్వాలేదు.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_glasses">మీ చిన్నారి సాధారణంగా కళ్లద్దాలు ధరిస్తే, వారు వాటిని సెటప్ చేసే సమయంలో కూడా ధరించవచ్చు.</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_how_title">ఇది ఎలా పని చేస్తుంది</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_title">కంట్రోల్ మీ చేతిలో ఉంది</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_title">మీరు అలాగే మీ చిన్నారి కంట్రోల్‌లో ఉన్నారు</string>
+
+    <!-- Message shown in face enrollment dialog once enrollment is completed -->
+    <string name="security_settings_face_enroll_finish_title">బాగుంది!</string>
+
+    <!-- Description shown on face settings page. -->
+    <string name="security_settings_face_description">మరింత సౌలభ్యం కోసం, మీరు మాస్క్ వేసుకుని ఉన్నప్పుడు లేదా చీకటి ప్రదేశంలో ఉన్నప్పుడు వేలిముద్ర అన్‌లాక్‌ను బ్యాకప్‌గా సెటప్ చేయండి.\n\nడివైజ్‌లో మాత్రమే మీ ముఖం స్టోర్ అవుతుంది, Googleకు పంపబడదు.</string>
+
+    <!-- Title shown for menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_preference_title">Nexus Imprint</string>
+
+    <!-- Title shown for work menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_work_fingerprint_preference_title">ఆఫీస్ కోసం Pixel Imprint</string>
+
+    <!-- message shown in summary field when no fingerprints are registered -->
+    <string name="security_settings_fingerprint_preference_summary_none">వేలిముద్రను సెటప్ చేయడానికి ట్యాప్ చేయండి</string>
+
+    <!-- Introduction title shown in fingerprint enrollment to introduce the fingerprint feature, when fingerprint unlock is disabled by device admin [CHAR LIMIT=40] -->
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Nexus Imprintతో అన్‌లాక్ చేయి</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">ఇది మీరేనని వెరిఫై చేయడానికి Pixel Imprint మీ వేలిముద్ర తాలూకు ప్రత్యేకమైన మోడల్‌ను క్రియేట్ చేస్తుంది. సెటప్ సమయంలో ఈ వేలిముద్ర మోడల్‌ను క్రియేట్ చేయడానికి, మీరు మీ వేలిముద్ర తాలూకు ఇమేజ్‌లను వివిధ స్థానాల నుండి తీసుకుంటారు.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">అది వారేనని వెరిఫై చేయడానికి, Pixel Imprint మీ చిన్నారి వేలిముద్ర ప్రత్యేకమైన మోడల్‌ను క్రియేట్ చేస్తుంది. సెటప్ సమయంలో ఈ వేలిముద్ర మోడల్‌ను క్రియేట్ చేయడానికి, వారి వేలిముద్ర తాలూకు ఇమేజ్‌లను వారు వివిధ స్థానాల నుండి తీసుకుంటారు.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment introduction to learn more about fingerprint [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">&lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt; లింక్‌లో Pixel వేలిముద్ర అన్‌లాక్ గురించి మరింత తెలుసుకోండి.</string>
+
+    <!-- Message shown in summary field of biometric settings. [CHAR LIMIT=66] -->
+    <string name="security_settings_biometric_preference_summary_none_enrolled">సెటప్ చేయడానికి ట్యాప్ చేయండి</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">మీ ప్రైవేట్ స్పేస్‌తో ఉపయోగించడానికి Google ఖాతాకు సైన్ ఇన్ చేయండి</string>
+
+    <!-- Title for suggested actions for settings up a fingerprint lock [CHAR LIMIT=46] -->
+    <string name="suggested_fingerprint_lock_settings_title">Pixel Imprintని ఉపయోగించండి</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock pattern for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pattern">Nexus Imprint + ఆకృతి</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock PIN for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pin">Nexus Imprint + పిన్</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock password for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_password">Nexus Imprint + పాస్‌వర్డ్</string>
+
+    <!-- Title for preference that guides the user to skip fingerprint setup [CHAR LIMIT=60]-->
+    <string name="fingerprint_unlock_skip_fingerprint">Nexus Imprint లేకుండా కొనసాగించండి</string>
 
     <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
     <string name="wifi_subscription_summary">OpenRoaming చెల్లింపు సభ్యత్వాన్ని చూడండి లేదా మార్చండి</string>

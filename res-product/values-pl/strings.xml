@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Na następnym ekranie przytrzymaj telefon na wysokości oczu</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Podczas używania funkcji rozpoznawania twarzy konieczne może być ustawienie głowy bardziej na wprost telefonu.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Używaj rozpoznawania twarzy do odblokowywania telefonu i potwierdzania tożsamości, na przykład podczas logowania się w aplikacjach lub zatwierdzania zakupów.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Patrząc na telefon, możesz go niechcący odblokować. Telefon może też odblokować ktoś, kto wygląda bardzo podobnie do Ciebie (np. bliźniacze rodzeństwo) lub zbliży urządzenie do Twojej twarzy.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Patrząc na telefon, dziecko może go niechcący odblokować. Telefon mogą również odblokować osoby podobne do dziecka, np. jego rodzeństwo, a także ktoś, kto zbliży telefon do twarzy dziecka.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Odblokowywanie telefonu dziecka skanem jego twarzy może być mniej bezpieczne niż trudny wzór, kod PIN czy hasło</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Korzystanie z rozpoznawania twarzy do odblokowywania telefonu może być mniej bezpieczne niż skomplikowany wzór, mocne hasło lub kod PIN.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Odblokowywanie telefonu oraz potwierdzanie tożsamości przez rozpoznawanie twarzy może wymagać otwartych oczu. W dowolnej chwili możesz włączyć tę opcję w Ustawieniach.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Odblokowywanie telefonu dziecka oraz potwierdzanie jego tożsamości przez rozpoznawanie twarzy może wymagać otwartych oczu. Ty i Twoje dziecko w dowolnej chwili możecie włączyć tę opcję w Ustawieniach.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Rozpoznawanie twarzy tworzy unikalny model Twojej twarzy, na podstawie którego rozpoznaje Cię podczas weryfikacji tożsamości. Aby utworzyć taki model podczas konfiguracji, musisz zrobić zdjęcia twarzy pod różnymi kątami.\n\nTelefon będzie też wykorzystywać obrazy z Twoich interakcji z rozpoznawaniem twarzy do aktualizowania modelu. Obrazy użyte do utworzenia modelu twarzy nie są zapisywane, a sam model jest bezpiecznie przechowywany na telefonie i nigdy go nie opuszcza. Przetwarzanie danych odbywa się w całości na telefonie w bezpieczny sposób.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Rozpoznawanie twarzy tworzy unikalny model twarzy Twojego dziecka, na podstawie którego rozpoznaje je podczas weryfikacji tożsamości. Aby utworzyć taki model podczas konfiguracji, Twoje dziecko musi zrobić zdjęcia twarzy pod różnymi kątami.\n\nTelefon będzie też wykorzystywać obrazy z jego interakcji z rozpoznawaniem twarzy do aktualizowania modelu. Obrazy użyte do utworzenia modelu twarzy nie są zapisywane, a sam model jest bezpiecznie przechowywany na telefonie i nigdy go nie opuszcza. Przetwarzanie danych odbywa się w całości na telefonie w bezpieczny sposób.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">W dowolnej chwili możesz usunąć model twarzy i wyłączyć rozpoznawanie twarzy w Ustawieniach. Modele twarzy są przechowywane na telefonie, dopóki ich nie usuniesz.&lt;br&gt;&lt;br&gt;Więcej informacji znajdziesz na stronie &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Ty i Twoje dziecko w dowolnej chwili możecie usunąć model twarzy i wyłączyć rozpoznawanie twarzy w Ustawieniach. Modele twarzy są przechowywane na telefonie, dopóki nie zostaną usunięte.&lt;br&gt;&lt;br&gt;Więcej informacji znajdziesz na stronie &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Używaj rozpoznawania twarzy do odblokowywania telefonu oraz potwierdzania swojej tożsamości, na przykład podczas logowania się w aplikacjach i zatwierdzania zakupów.\n\nPamiętaj:\nNie można mieć kilku skonfigurowanych modeli twarzy jednocześnie. Jeśli chcesz dodać inny model twarzy, usuń obecnie zapisany.\n\nGdy spojrzysz na telefon, możesz go przypadkowo odblokować.\n\nIstnieje możliwość, że ktoś bardzo podobny do Ciebie (np. bliźniacze rodzeństwo) będzie w stanie odblokować Twój telefon.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">W dowolnej chwili możesz usunąć model odcisku palca lub wyłączyć funkcję Pixel Imprint w Ustawieniach. Modele odcisków palców pozostają zapisane na telefonie, dopóki ich nie usuniesz.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Ty i Twoje dziecko w dowolnej chwili możecie usunąć model odcisku palca i wyłączyć Pixel Imprint w Ustawieniach. Modele odcisku palca są przechowywane na telefonie, dopóki nie zostaną usunięte.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint pozwala autoryzować zakupy oraz logować się w aplikacjach za pomocą odcisku palca.\n\nZ rozwagą dodawaj odciski palców innych osób, bo każda z nich będzie mogła wykonywać wszystkie te czynności.\n\nUwaga: nie możesz odblokowywać tego urządzenia odciskiem palca. Aby uzyskać więcej informacji, skontaktuj się z administratorem organizacji.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Funkcja baterii adaptacyjnej stale optymalizuje sposób użycia baterii przez aplikacje na podstawie użytkowania telefonu. Aby wydłużyć czas pracy na baterii, może ograniczyć wydajność i opóźnić powiadomienia.</string>
     <string name="smart_battery_summary" product="tablet">Funkcja baterii adaptacyjnej stale optymalizuje sposób użycia baterii przez aplikacje na podstawie użytkowania tabletu. Aby wydłużyć czas pracy na baterii, może ograniczyć wydajność i opóźnić powiadomienia.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Wyświetlanie i dotyk</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Zezwól na rozpoznawanie twarzy</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Skonfiguruj rozpoznawanie twarzy</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Więcej informacji o rozpoznawaniu twarzy</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Aby zwiększyć komfort obsługi, skonfiguruj rozpoznawanie twarzy jako metodę zapasową na wypadek, gdy będziesz mieć mokre lub zmarznięte palce.\n\nOdciski palców są przechowywane tylko na urządzeniu i nigdy nie są wysyłane do Google.</string>
 </resources>

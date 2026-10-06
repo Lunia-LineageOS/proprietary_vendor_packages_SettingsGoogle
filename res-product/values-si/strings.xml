@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">ඊළඟ තිරයේ, ඔබේ දුරකථනය ඇස් මට්ටමේ තබා ගන්න</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">මුහුණෙන් අගුලු හැරීම භාවිත කරන විට, ඔබේ හිස ඔබේ දුරකථනය ඉදිරියේ තවත් ඍජුව තිබීමට අවශ්‍ය විය හැක.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">ඔබේ දුරකථනය අගුලු හැරීමට හෝ ඔබ යෙදුම්වලට පුරන විට හෝ මිලදී ගැනීමක් අනුමත කරන විට වැනි අවස්ථාවල, ඒ ඔබ බව තහවුරු කිරීමට ඔබේ මුහුණ භාවිත කරන්න.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">දුරකථනය දෙස බැලීම ඔබ අදහස් නොකරන නමුත් අගුලු හැරිය හැකිය. ඔබේ දුරකථනය බොහෝ දුරට පෙනුමෙන් ඔබට සමාන, සර්වසම සහෝදර සහෝදරියක් වැනි යමෙකු විසින්, හෝ එය යම් කෙනෙක් ඔබේ මුහුණට අල්ලාගෙන සිටියහොත් අගුලු හැරිය හැකිය.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">දුරකථනය දෙස බැලීම ඔවුන් අදහස් නොකරන නමුත් අගුලු හැරිය හැකිය. ඔවුන්ගේ දුරකථනය බොහෝ දුරට පෙනුමෙන් ඔවුන්ට සමාන, සර්වසම සහෝදර සහෝදරියක් වැනි යමෙකු විසින්, හෝ එය යම් කෙනෙක් ඔවුන්ගේ මුහුණට අල්ලාගෙන සිටියහොත් අගුලු හැරිය හැකිය.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">ඔබේ දරුවාගේ දුරකථනය අගුලු හැරීම සඳහා දරුවාගේ මුහුණ යොදා ගැනීම ප්‍රබල රටාවක් හෝ රහස් අංකයක් යොදා ගැනීමට වඩා ආරක්‍ෂිත බවින් අඩු විය හැක.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">අගුලු හැරීමට ඔබේ මුහුණ භාවිත කිරීම ප්‍රබල රටාවකට, PIN අංකයකට හෝ මුරපදයකට වඩා ආරක්‍ෂාකාරී බව අඩු විය හැකිය</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">මුහුණෙන් අගුලු ඇරීමට දුරකථනය අගුලු ඇරීමට හෝ ඒ ඔබ බව සත්‍යාපන කිරීමට ඔබේ දෑස් විවෘතව තිබීම අවශ්‍යය. ඔබට ඕනෑම වේලාවකදී සැකසීම් තුළ මෙම විකල්පය සක්‍රීය කළ හැක.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">මුහුණෙන් අගුලු ඇරීමට දුරකථනය අගුලු ඇරීමට හෝ ඒවා සත්‍යාපන කිරීමට ඔබේ දරුවාගේ දෑස් විවෘතව තිබීම අවශ්‍යය. ඔබට සහ ඔබේ දරුවාට ඕනෑම වේලාවකදී සැකසීම් තුළ මෙම විකල්පය සක්‍රීය කළ හැක.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">ඒ ඔබ බව සත්‍යාපනය කිරීමට මුහුණෙන් අගුළු හැරීම ඔබේ මුහුණේ අනන්‍ය ආකෘතියක් තනයි. පිහිටුවීම අතරතුර මෙම මුහුණු ආකෘතිය තැනීම සඳහා, ඔබ විවිධ කෝණවලින් ඔබේ මුහුණේ රූප ගනු ඇත.\n\nඔබ මුහුණෙන් අගුළු හැරීම භාවිතා කරන විට, ඔබේ මුහුණු ආකෘතිය යාවත්කාලීන කිරීමට රූප භාවිතා වේ. ඔබගේ මුහුණු ආකෘතිය තැනීමට භාවිත කරන රූප කිසි විටක ගබඩා නොකරනු ඇත, නමුත් මුහුණු ආකෘතිය ඔබගේ දුරකථනයේ ආරක්ෂිතව ගබඩා කර ඇති අතර කිසි විටක දුරකථනය හැර නොයයි. සියලු සැකසීම් ඔබගේ දුරකථනයේ ආරක්ෂිතව සිදු වේ.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">ඒ ඔවුන් බව සත්‍යාපන කිරීමට මුහුණෙන් අගුලු හැරීම ඔබේ දරුවාගේ මුහුණෙහි අනන්‍ය ආකෘතියක් සාදයි. සැකසීම අතරතුර මෙම මුහුණු ආකෘතිය සෑදීම සඳහා, ඔබේ දරුවා විවිධ කෝණවලින් ඔවුන්ගේ මුහුණේ රූප ගනියි.\n\nඔවුන් මුහුණෙන් අගුලු හැරීම භාවිත කරන විට, ඔවුන්ගේ මුහුණු ආකෘතිය යාවත්කාලීන කිරීමට රූප භාවිත කරනු ලැබේ. ඔවුන්ගේ මුහුණු ආකෘතිය සෑදීමට භාවිත කරන රූප ගබඩා නොකරන නමුත් මුහුණු ආකෘතිය ඔවුන්ගේ දුරකථනයේ ආරක්‍ෂිතව ගබඩා කර ඇති අතර කිසි විටෙක දුරකථනය හැර නොයයි. සියලු සැකසීම් දුරකථනයේ ආරක්‍ෂිතව සිදු වේ.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">ඔබට සැකසීම් තුළ ඕනෑම වේලාවක ඔබේ මුහුණ ආකෘතිය මැකීමට හෝ මුහුණෙන් අගුලු හැරීම අක්‍රිය කළ හැක. මුහුණු ආකෘති ඔබ මකන තෙක් දුරකථනයෙහි ඒවා ගබඩා කර ඇත.&lt;br&gt;&lt;br&gt;&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; තුළින් තව දැන ගන්න.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">ඔබට සහ ඔබේ දරුවාට සැකසීම් තුළ ඕනෑම වේලාවක දී සිය මුහුණු ආකෘතිය මැකීමට හෝ මුහුණෙන් අගුලු හැරීම අක්‍රිය කළ හැක. මුහුණු ආකෘති ඒවා මකන තෙක් දුරකථනයෙහි ගබඩා කර ඇත.&lt;br&gt;&lt;br&gt;&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; තුළින් තව දැන ගන්න.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">ඔබේ දුරකථනය අගුළු ඇරීමට හෝ ඒ ඔබ බව සත්‍යාපනය කිරීමට ඔබේ මුහුණ භාවිත කරන්න, උදාහරණයක් ලෙස ඔබ යෙදුම්වලට පුරන විට හෝ මිලදී ගැනීමක් අනුමත කරන විට.\n\nසිහි තබා ගන්න:\nඔබට වරකට එක් මුහුණක් පමණක් පිහිටුවිය හැක. තවත් මුහුණක් එක් කිරීම සඳහා, දැනට තිබෙන එක මකන්න.\n\nදුරකථනය දෙස බැලීම ඔබ එය අගුළු හැරීමට අදහස් නොකරන විට අගුළු හැරිය හැක.\n\nඔබේ දුරකථනය බොහෝ දුරට ඔබ මෙන් පෙනෙන, එනම් සර්වසම සහෝදර සහෝදරියක් වැනි කෙනෙකු විසින් අගුළු හැරිය හැක.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">ඔබට සැකසීම් තුළ ඕනෑම වේලාවක දී ඔබේ ඇඟිලි සලකුණු ආකෘතිය මැකීමට, හෝ Pixel Imprint අක්‍රිය කළ හැක. ඇඟිලි සලකුණු ආකෘති ඔබ මකන තෙක් දුරකථනයේ ගබඩා කර ඇත.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">ඔබට සහ ඔබේ දරුවාට සැකසීම් තුළ ඕනෑම වේලාවක ඒ අයගේ ඇඟිලි සලකුණු ආකෘතිය මැකීමට හෝ Pixel Imprint අක්‍රිය කළ හැක. ඇඟිලි සලකුණු ආකෘති ඒ්වා මකන තෙක් දුරකථනයේ ගබඩා කර ඇත.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint සමග, ඔබට ඔබේ ඇඟිලි සලකුණ මිල දී ගැනීම් අනුමත කිරීමට හෝ යෙදුම් වෙත පිරීමට භාවිත කළ හැක.\n\nඔබ එක් කරන ඇඟිලි සලකුණු පිළිබඳ සැලකිලිමත් වන්න. එක් කරන ඕනෑම ඇඟිලි සලකුණකට මේ දේවලින් ඕනෑම එකක් කළ හැක.\n\nසටහන: ඔබට ඔබේ ඇඟිලි සලකුණු මෙම උපාංගය අගුලු හැරීමට භාවිත කළ නොහැක. තව තොරතුරු සඳහා, ඔබේ සංවිධානයෙහි පරිපාලක අමතන්න.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">අනුවර්තනීය බැටරිය ඔබේ දුරකථනයෙන් යෙදුම් බැටරිය භාවිත කරන ආකාරය අඛණ්ඩව ප්‍රශස්ත කිරීමට ඉගෙන ගනියි. බැටරි ආයු කාලය දීර්ඝ කිරීමට, එහි කාර්යසාධන අඩු කර දැනුම්දීම් ප්‍රමාද කළ හැක.</string>
     <string name="smart_battery_summary" product="tablet">අනුවර්තනීය බැටරිය ඔබේ ටැබ්ලටයෙන් යෙදුම් බැටරිය භාවිත කරන ආකාරය අඛණ්ඩව ප්‍රශස්ත කිරීමට ඉගෙන ගනියි. බැටරි ආයු කාලය දීර්ඝ කිරීමට, එහි කාර්යසාධන අඩු කර දැනුම්දීම් ප්‍රමාද කළ හැක.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">සංදර්ශකය සහ ස්පර්ශය</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">මුහුණෙන් අගුලු හැරීම ඉඩ දෙන්න</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">මුහුණු අගුළු හැරීම සකසන්න</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">මුහුණෙන් අගුළු හැරීම ගැන තව දැන ගන්න</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">අමතර පහසුව සඳහා, ඔබේ ඇඟිලි තෙත් වූ විට හෝ සීතල වූ විට භාවිත කිරීමට උපස්ථයක් ලෙස මුහුණෙන් අගුළු හැරීම සකසන්න. \n\nඔබේ ඇඟිලි සලකුණු උපාංගයේ පමණක් ගබඩා කර ඇති අතර කිසි විටෙක Google වෙත යවනු නොලැබේ.</string>
 </resources>

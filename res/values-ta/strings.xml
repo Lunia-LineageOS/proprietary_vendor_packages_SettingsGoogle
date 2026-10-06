@@ -3,8 +3,83 @@
     <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
     <string name="owner_info_settings_edit_text_hint">எ.கா., வித்யாவின் Pixel.</string>
 
+    <!-- Message shown in summary field when Face Unlock is not set up. [CHAR LIMIT=54] -->
+    <string name="security_settings_face_preference_summary_none">முகத்தை அமைக்க தட்டவும்</string>
+
+    <!-- Introduction detail message shown in face education [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message">அடுத்த திரையில் உங்கள் முகத்தை அனைத்துக் கோணங்களிலும் படமெடுக்க தலையை மெதுவாகத் திருப்பவும்</string>
+
+    <!-- Button shown which shows accessibility toggles for face enrollment when clicked. [CHAR LIMIT=32] -->
+    <string name="security_settings_face_enroll_introduction_accessibility">பார்வைக் குறைபாடு/தலையை அசைக்க இயலாமைக்கு ஏற்ப அமை</string>
+
+    <!-- Message shown for a toggle which when enabled, allows the user to enroll using a simpler flow for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_accessibility_vision">கண்கள் திறந்திருக்க வேண்டும்</string>
+
+    <!-- Title of a section on the face enrollment introduction page that provides additional information. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_info_title">கவனத்திற்கு</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_glasses">கண்கண்ணாடி/மென்னிறமான சன்கிளாஸ் அணிந்திருப்பது பிரச்சனையில்லை</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about glasses when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_glasses">உங்கள் பிள்ளை வழக்கமாகக் கண்ணாடி அணிபவராக இருந்தால் அமைவின்போது அதை அணிந்துகொள்ளலாம்.</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_how_title">இது எவ்வாறு வேலை செய்கிறது?</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_title">முழுமையான கட்டுப்பாட்டைப் பெற்றுள்ளீர்கள்</string>
+
+    <!-- Title of a section on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_title">நீங்களும் உங்கள் பிள்ளையும் கட்டுப்பாட்டைக் கொண்டிருப்பீர்கள்</string>
+
+    <!-- Message shown in face enrollment dialog once enrollment is completed -->
+    <string name="security_settings_face_enroll_finish_title">அற்புதம்!</string>
+
+    <!-- Description shown on face settings page. -->
+    <string name="security_settings_face_description">கூடுதல் வசதிக்காக, நீங்கள் மாஸ்க் அணிந்திருக்கும்போதோ இருட்டான இடத்தில் இருக்கும்போதோ அன்லாக் செய்ய கைரேகை அன்லாக்கை அமைக்கவும்.\n\nஉங்கள் முகம் சாதனத்தில் மட்டுமே சேமிக்கப்படும், ஒருபோதும் Googleளுக்கு அனுப்பப்படாது.</string>
+
+    <!-- Title shown for menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_preference_title">Nexus Imprint</string>
+
+    <!-- Title shown for work menu item that launches fingerprint settings or enrollment [CHAR LIMIT=22] -->
+    <string name="security_settings_work_fingerprint_preference_title">பணிக் கணக்குக்கான Pixel Imprint</string>
+
+    <!-- message shown in summary field when no fingerprints are registered -->
+    <string name="security_settings_fingerprint_preference_summary_none">கைரேகையை அமைக்க தட்டவும்</string>
+
+    <!-- Introduction title shown in fingerprint enrollment to introduce the fingerprint feature, when fingerprint unlock is disabled by device admin [CHAR LIMIT=40] -->
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Nexus Imprint மூலம் அன்லாக் செய்யலாம்</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">இது நீங்கள்தான் என்பதை உறுதிப்படுத்த, உங்கள் கைரேகையின் தனித்துவமான பதிவை Pixel Imprint அம்சம் உருவாக்கிடும். அமைவின்போது இந்தக் கைரேகைப் பதிவை உருவாக்க, வெவ்வேறு நிலைகளில் உங்கள் கைரேகையைப் படமெடுப்பீர்கள்.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">உங்கள் பிள்ளைதான் என்பதை உறுதிப்படுத்த அவரது கைரேகையின் தனித்துவமான பதிவை Pixel Imprint அம்சம் உருவாக்கிடும். அமைவின்போது இந்தக் கைரேகைப் பதிவை உருவாக்க, அவர் தனது கைரேகையை வெவ்வேறு நிலைகளில் படமெடுப்பார்.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment introduction to learn more about fingerprint [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Pixel சாதனத்தின் ‘கைரேகை அன்லாக்’ அம்சம் குறித்து மேலும் அறிய &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt; என்ற இணைப்பிற்குச் செல்லுங்கள்.</string>
+
+    <!-- Message shown in summary field of biometric settings. [CHAR LIMIT=66] -->
+    <string name="security_settings_biometric_preference_summary_none_enrolled">அமைக்க தட்டவும்</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">ரகசிய இடத்தைப் பயன்படுத்த Google கணக்கில் உள்நுழையுங்கள்</string>
+
+    <!-- Title for suggested actions for settings up a fingerprint lock [CHAR LIMIT=46] -->
+    <string name="suggested_fingerprint_lock_settings_title">Pixel Imprintஐப் பயன்படுத்துதல்</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock pattern for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pattern">Nexus Imprint + பேட்டர்ன்</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock PIN for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_pin">Nexus Imprint + பின்</string>
+
+    <!-- Title for preference that guides the user through creating a backup unlock password for fingerprint [CHAR LIMIT=45]-->
+    <string name="fingerprint_unlock_set_unlock_password">Nexus Imprint + கடவுச்சொல்</string>
+
+    <!-- Title for preference that guides the user to skip fingerprint setup [CHAR LIMIT=60]-->
+    <string name="fingerprint_unlock_skip_fingerprint">Nexus Imprint இல்லாமல் தொடர்க</string>
 
     <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
     <string name="wifi_subscription_summary">OpenRoaming சந்தாவைப் பார்க்கலாம் அல்லது மாற்றலாம்</string>

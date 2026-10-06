@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">ในหน้าจอถัดไป ให้ถือโทรศัพท์ไว้ที่ระดับสายตา</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">เมื่อใช้การปลดล็อกด้วยใบหน้า คุณอาจต้องหันหน้าให้ตรงกับโทรศัพท์มากขึ้น</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">ใช้ใบหน้าเพื่อปลดล็อกโทรศัพท์หรือยืนยันว่าเป็นคุณ เช่น เมื่อลงชื่อเข้าใช้แอปหรืออนุมัติการซื้อ</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">การมองโทรศัพท์จะปลดล็อกโทรศัพท์ได้แม้ว่าคุณไม่ได้ตั้งใจก็ตาม หากมีคนที่หน้าคล้ายคุณมากๆ เช่น พี่น้องที่หน้าตาเหมือนกัน หรือหากมีผู้ถือโทรศัพท์ไว้ตรงหน้าของคุณก็อาจปลดล็อกโทรศัพท์ได้เช่นกัน</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">การมองโทรศัพท์จะปลดล็อกโทรศัพท์ได้แม้ว่าบุตรหลานไม่ได้ตั้งใจก็ตาม หากมีคนที่หน้าคล้ายบุตรหลานมากๆ เช่น พี่น้องที่หน้าตาเหมือนกัน หรือหากมีผู้ถือโทรศัพท์ไว้ตรงหน้าของบุตรหลานก็อาจปลดล็อกโทรศัพท์ได้เช่นกัน</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">การใช้ใบหน้าของบุตรหลานเพื่อปลดล็อกโทรศัพท์อาจมีความปลอดภัยน้อยกว่ารูปแบบ PIN หรือรหัสผ่านที่เดายาก</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">การใช้ใบหน้าเพื่อปลดล็อกโทรศัพท์อาจไม่ปลอดภัยเท่ารูปแบบ, PIN หรือรหัสผ่านที่เดายาก</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">การปลดล็อกด้วยใบหน้าสามารถกำหนดได้ว่าคุณต้องลืมตาในการปลดล็อกโทรศัพท์หรือยืนยันว่าเป็นคุณ คุณเปิดตัวเลือกนี้ได้ทุกเมื่อในการตั้งค่า</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">การปลดล็อกด้วยใบหน้าสามารถกำหนดได้ว่าบุตรหลานต้องลืมตาในการปลดล็อกโทรศัพท์หรือยืนยันว่าเป็นตนเอง คุณและบุตรหลานเปิดตัวเลือกนี้ได้ทุกเมื่อในการตั้งค่า</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">การปลดล็อกด้วยใบหน้าจะสร้างรูปแบบใบหน้าที่เป็นเอกลักษณ์เพื่อยืนยันว่าเป็นคุณ ในการสร้างรูปแบบใบหน้านี้ระหว่างการตั้งค่า คุณจะถ่ายภาพใบหน้าจากมุมต่างๆ\n\nเมื่อคุณใช้การปลดล็อกด้วยใบหน้า ระบบจะใช้รูปภาพเพื่ออัปเดตรูปแบบใบหน้า ระบบจะไม่เก็บรูปภาพที่ใช้สร้างรูปแบบใบหน้า แต่จะเก็บรูปแบบใบหน้าไว้อย่างปลอดภัยในโทรศัพท์และจะไม่ส่งออกไปที่อื่น การประมวลผลข้อมูลทั้งหมดเกิดขึ้นอย่างปลอดภัยในโทรศัพท์</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">การปลดล็อกด้วยใบหน้าจะสร้างรูปแบบใบหน้าที่เป็นเอกลักษณ์ของบุตรหลานเพื่อยืนยันตัวตน ในการสร้างรูปแบบใบหน้านี้ระหว่างการตั้งค่า บุตรหลานจะถ่ายภาพใบหน้าจากมุมต่างๆ ที่ไม่ซ้ำกัน\n\nเมื่อบุตรหลานใช้การปลดล็อกด้วยใบหน้า ระบบจะใช้รูปภาพเพื่ออัปเดตรูปแบบใบหน้า ระบบจะไม่เก็บรูปภาพที่ใช้สร้างรูปแบบใบหน้า แต่จะเก็บรูปแบบใบหน้าไว้อย่างปลอดภัยในโทรศัพท์และจะไม่มีการส่งออกไปไหน การประมวลผลข้อมูลทั้งหมดเกิดขึ้นอย่างปลอดภัยในโทรศัพท์</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">คุณลบรูปแบบใบหน้าหรือปิดการปลดล็อกด้วยใบหน้าได้ทุกเมื่อในการตั้งค่า ระบบจะเก็บรูปแบบใบหน้าไว้ในโทรศัพท์จนกว่าคุณจะลบออก&lt;br&gt;&lt;br&gt;ดูข้อมูลเพิ่มเติมที่ &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">คุณและบุตรหลานสามารถลบรูปแบบใบหน้า หรือปิดการปลดล็อกด้วยใบหน้าได้ทุกเมื่อในการตั้งค่า ระบบจะเก็บรูปแบบใบหน้าไว้ในโทรศัพท์จนกว่าจะมีการลบออก&lt;br&gt;&lt;br&gt;ดูข้อมูลเพิ่มเติมที่ &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">ใช้ใบหน้าเพื่อปลดล็อกโทรศัพท์หรือยืนยันตัวตน เช่น เมื่อคุณลงชื่อเข้าใช้แอปหรืออนุมัติการซื้อ\n\nข้อควรจำ\nคุณตั้งค่าใบหน้าได้ครั้งละ 1 ใบหน้าเท่านั้น หากต้องการเพิ่มใบหน้าอื่น ให้ลบใบหน้าปัจจุบันออก\n\nการมองโทรศัพท์อาจปลดล็อกเครื่องโดยไม่ได้ตั้งใจ\n\nบุคคลที่หน้าคล้ายคุณมากๆ เช่น พี่น้องที่หน้าตาเหมือนกันอาจปลดล็อกโทรศัพท์ได้\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">คุณลบรูปแบบลายนิ้วมือหรือปิด Pixel Imprint ได้ทุกเมื่อในการตั้งค่า ระบบจะเก็บรูปแบบลายนิ้วมือไว้ในโทรศัพท์จนกว่าคุณจะลบออก</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">คุณและบุตรหลานลบรูปแบบลายนิ้วมือ หรือปิด Pixel Imprint ได้ทุกเมื่อในการตั้งค่า ระบบจะเก็บรูปแบบลายนิ้วมือไว้ในโทรศัพท์จนกว่าจะมีการลบออก</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint ช่วยให้คุณสามารถใช้ลายนิ้วมือเพื่ออนุมัติการซื้อหรือลงชื่อเข้าใช้แอป\n\nโปรดตรวจสอบลายนิ้วมือที่เพิ่มให้ดี เพราะทุกลายนิ้วมือที่เพิ่มจะสามารถทำสิ่งเหล่านี้ได้\n\nหมายเหตุ: คุณไม่สามารถใช้ลายนิ้วมือเพื่อปลดล็อกอุปกรณ์นี้ โปรดติดต่อผู้ดูแลระบบขององค์กรสำหรับข้อมูลเพิ่มเติม</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">แบตเตอรี่แบบปรับอัตโนมัติจะเรียนรู้จากการใช้งานโทรศัพท์เพื่อเพิ่มประสิทธิภาพการใช้แบตเตอรี่ของแอปอย่างต่อเนื่อง โดยอาจลดประสิทธิภาพและเลื่อนการแจ้งเตือนออกไปเพื่อยืดระยะเวลาการใช้งานแบตเตอรี่</string>
     <string name="smart_battery_summary" product="tablet">แบตเตอรี่แบบปรับอัตโนมัติจะเรียนรู้จากการใช้งานแท็บเล็ตเพื่อเพิ่มประสิทธิภาพการใช้แบตเตอรี่ของแอปอย่างต่อเนื่อง โดยอาจลดประสิทธิภาพและเลื่อนการแจ้งเตือนออกไปเพื่อยืดระยะเวลาการใช้งานแบตเตอรี่</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">จอแสดงผลและการแตะ</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">อนุญาตให้ใช้ฟีเจอร์ปลดล็อกด้วยใบหน้า</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">ตั้งค่าฟีเจอร์ปลดล็อกด้วยใบหน้า</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">ดูข้อมูลเพิ่มเติมเกี่ยวกับฟีเจอร์ปลดล็อกด้วยใบหน้า</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">ตั้งค่าฟีเจอร์ปลดล็อกด้วยใบหน้าเป็นวิธีสำรองไว้ใช้ตอนที่นิ้วมือเปียกหรือเย็นเพื่อความสะดวกยิ่งขึ้น\n\nระบบจะเก็บลายนิ้วมือของคุณไว้ในอุปกรณ์เท่านั้นและจะไม่ส่งไปยัง Google</string>
 </resources>

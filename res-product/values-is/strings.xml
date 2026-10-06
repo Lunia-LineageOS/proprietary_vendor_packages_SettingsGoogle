@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Á næsta skjá skaltu halda símanum í augnhæð</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Við notkun á andlitskenni gætirðu þurft að hafa höfuðið beint fyrir framan símann.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Notaðu andlitið til að opna símann eða staðfesta hver þú ert, t.d. þegar þú skráir þig inn í forrit eða samþykkir kaup.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Síminn gæti opnast óvart þegar þú lítur á hann. Síminn gæti einnig opnast þegar einhver sem líkist þér mikið horfir á hann, t.d. eineggja tvíburi, eða þegar einhver heldur símanum upp að andlitinu á þér.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Síminn gæti opnast óvart þegar barnið lítur á hann. Sími barnsins gæti einnig opnast þegar einhver sem líkist því mikið horfir á hann, t.d. eineggja tvíburi, eða þegar einhver heldur símanum upp að andliti barnsins.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Óvíst er að öruggara sé að nota andlit barnsins til að taka símann úr lás heldur en að nota sterkt mynstur, PIN-númer eða aðgangsorð</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Óvíst er að öruggara sé að nota andlitið til að taka símann úr lás heldur en sterkt mynstur, PIN-númer eða aðgangsorð.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Andlitskenni kann að krefjast þess að þú hafir augun opin til að taka símann úr lás eða staðfesta hver þú ert. Þú getur slökkt á þessum valkosti hvenær sem er í stillingum.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Andlitskenni kann að krefjast þess að barnið hafi augun opin til að taka símann úr lás eða staðfesta hver það er. Þú og barnið þitt getið slökkt á þessum valkosti hvenær sem er í stillingum.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Andlitskenni býr til einkvæmt líkan af andlitinu þínu til að staðfesta að þetta sért þú. Til að búa til andlitslíkanið við uppsetningu tekurðu myndir af andlitinu þínu frá mismunandi sjónarhornum.\n\nÞegar þú notar andlitskenni eru myndirnar notaðar til að uppfæra andlitslíkanið þitt. Myndir sem eru notaðar til að búa til andlitslíkanið þitt eru aldrei geymdar en andlitslíkanið er geymt á öruggan hátt í símanum og aldrei sent þaðan. Öll úrvinnsla fer fram með öruggum hætti í símanum.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Andlitskenni býr til einkvæmt líkan af andliti barnsins þíns til að staðfesta hver það er. Til að búa andlitslíkanið til við uppsetningu tekur barnið þitt myndir af andlitinu á sér frá nokkrum sjónarhornum.\n\nMyndir frá notkun barnsins á andlitskenni eru einnig notaðar til að uppfæra andlitslíkanið. Myndir sem eru notaðar til að búa andlitslíkan barnsins til eru ekki geymdar en andlitslíkanið er geymt á öruggan hátt í símanum og fer aldrei þaðan. Öll úrvinnsla fer fram í símanum á öruggan hátt.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Þú getur eytt andlitslíkaninu eða slökkt á andlitskenni hvenær sem er í stillingum. Andlitslíkön eru geymd í símanum þar til þú eyðir þeim.&lt;br&gt;&lt;br&gt;Nánar á &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Þú og barnið þitt getið eytt andlitslíkaninu eða slökkt á andlitskenni hvenær sem er í stillingum. Andlitslíkön eru geymd í símanum þar til þeim er eytt.&lt;br&gt;&lt;br&gt;Nánar á &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Notaðu andlitið til að taka símann úr lás eða til að auðkenna þig, t.d. þegar þú skráir þig inn eða samþykkir kaup.\n\nHafðu í huga:\nÞú getur aðeins verið með eitt andlit uppsett í einu. Eyddu núverandi andlitslíkani til að bæta nýju við.\n\nÞú gætir tekið símann óvart úr lás með því að horfa á hann.\n\nManneskja sem er mjög lík þér getur hugsanlega tekið símann úr lás, t.d. eineggja tvíburi.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Þú getur eytt fingrafarslíkaninu eða slökkt á Pixel Imprint hvenær sem er í stillingunum. Fingrafarslíkön eru geymd í símanum þar til þú eyðir þeim.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Þú og barnið þitt getið eytt fingrafarslíkani barnsins, eða slökkt á Pixel Imprint, hvenær sem er í stillingunum. Fingrafarslíkön eru geymd í símanum þar til þeim er eytt.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Með Nexus Imprint geturðu notað fingrafarið þitt til að heimila kaup eða skrá þig inn í forrit.\n\nGættu vel að því hvaða fingraförum þú bætir við. Öll fingraför sem er bætt við geta gert allt þetta.\n\nAthugaðu: Þú getur ekki notað fingrafarið til að taka þetta tæki úr lás. Hafðu samband við stjórnanda fyrirtækisins til að fá frekari upplýsingar.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Breytileg rafhlöðustjórnun lærir af notkun símans og fínstillir þannig stöðugt hvernig forrit nota rafhlöðuna. Til að lengja rafhlöðuendingu kann hún að draga úr afköstum og seinka tilkynningum.</string>
     <string name="smart_battery_summary" product="tablet">Breytileg rafhlöðustjórnun lærir af notkun spjaldtölvunnar og fínstillir þannig stöðugt hvernig forrit nota rafhlöðuna. Til að lengja rafhlöðuendingu kann hún að draga úr afköstum og seinka tilkynningum.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Birting og snerting</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Leyfa andlitskenni</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Settu upp andlitskenni</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Nánar um andlitskenni</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Þú getur sett upp andlitskenni til að nota til vara fyrir aukin þægindi ef fingurnir þínir eru blautir eða kaldir.\n\nFingraförin þín eru aðeins vistuð í tækinu og aldrei send til Google.</string>
 </resources>

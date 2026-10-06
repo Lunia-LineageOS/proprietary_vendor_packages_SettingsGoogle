@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">Pidä puhelinta silmien korkeudella seuraavalla näytöllä</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Kasvojentunnistusavauksen käyttö voi edellyttää, että pää on suoremmin puhelimen edessä.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Käytä kasvojasi puhelimen lukituksen avaamiseen tai henkilöllisyyden todentamiseen esim. kirjautuessasi sovelluksiin tai hyväksyessäsi ostoksen.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Puhelimen katsominen voi avata sen lukituksen haluamattasi. Joku muu voi myös avata puhelimesi lukituksen, jos hän näyttää sinulta (esim. identtinen kaksonen) tai pitää laitetta kasvojesi edessä.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Puhelimen katsominen voi avata sen lukituksen lapsen haluamatta. Joku muu voi myös avata lapsesi puhelimen lukituksen, jos hän näyttää lapselta (esim. identtinen kaksonen) tai pitää laitetta tämän kasvojen edessä.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Puhelimen lukituksen avaaminen lapsen kasvojen avulla ei ehkä ole yhtä turvallista kuin vahvan kuvion, PIN-koodin tai salasanan käyttö</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Puhelimen lukituksen avaaminen kasvoilla ei välttämättä ole yhtä turvallista kuin vahvan kuvion, PIN-koodin tai salasanan käyttäminen.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Kasvojentunnistusavaus saattaa edellyttää, että silmäsi ovat auki puhelimen avaamiseksi tai henkilöllisyyden vahvistamiseksi. Voit laittaa ominaisuuden päälle asetuksista milloin tahansa.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Kasvojentunnistusavaus saattaa edellyttää, että lapsesi silmät ovat auki puhelimen avaamiseksi tai henkilöllisyyden vahvistamiseksi. Sinä ja lapsesi voitte laittaa ominaisuuden päälle asetuksista milloin tahansa.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Kasvojentunnistusavaus luo kasvoistasi yksilöllisen mallin, jonka avulla henkilöllisyytesi voidaan todentaa. Voit luoda kasvomallin käyttöönoton aikana ottamalla kasvoistasi kuvia eri kuvakulmista.\n\nKun käytät kasvojentunnistusavausta, kuvia käytetään kasvomallin päivittämiseen. Kasvomallin luontiin käytettäviä kuvia ei koskaan säilytetä, mutta itse kasvomalli säilytetään suojatusti puhelimellasi, eikä se poistu puhelimelta. Kaikki käsittely tapahtuu turvallisesti puhelimellasi.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Kasvojentunnistusavaus luo lapsesi kasvoista yksilöllisen mallin, jonka avulla hänen henkilöllisyytensä voidaan todentaa. Lapsesi voi luoda kasvomallin käyttöönoton aikana ottamalla kasvoistaan kuvia eri kuvakulmista.\n\nKun lapsi käyttää kasvojentunnistusavausta, kuvia käytetään kasvomallin päivittämiseen. Kasvomallin luontiin käytettäviä kuvia ei säilytetä, mutta itse kasvomalli säilytetään suojatusti puhelimella, eikä se poistu puhelimelta. Kaikki käsittely tapahtuu turvallisesti puhelimella.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">Voit poistaa kasvomallisi tai laittaa kasvojentunnistusavauksen pois päältä milloin tahansa asetuksista. Kasvomallit säilytetään puhelimella, kunnes ne poistetaan.&lt;br&gt;&lt;br&gt;Lue lisää osoitteessa &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">Sinä ja lapsesi voitte poistaa kasvomallin tai laittaa kasvojentunnistusavauksen pois päältä milloin tahansa asetuksista. Kasvomallit säilytetään puhelimella, kunnes ne poistetaan.&lt;br&gt;&lt;br&gt;Lue lisää osoitteessa &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Käytä kasvojasi puhelimesi lukituksen avaamiseen tai henkilöllisyyden todentamiseen esim. kirjautuessasi sovelluksiin tai hyväksyessäsi ostoksen.\n\nHyvä muistaa:\nVain yhdet kasvot voivat olla kerrallaan käytössä. Jos haluat lisätä uudet kasvot, poista nykyiset.\n\nPuhelimeen katsominen voi avata sen lukituksen haluamattasi.\n\nJoku muu voi avata puhelimesi lukituksen, jos hän näyttää sinulta (esim. identtinen kaksonen).\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">Voit poistaa sormenjälkimallin tai laittaa Pixel Imprintin pois päältä milloin tahansa asetuksista. Sormenjälkimallit säilytetään puhelimellasi, kunnes poistat ne.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">Sinä ja lapsesi voitte poistaa sormenjälkimallin tai laittaa Pixel Imprintin pois päältä milloin tahansa asetuksista. Sormenjälkimallit säilytetään puhelimellasi, kunnes ne poistetaan.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Voit hyväksyä ostoksia tai kirjautua sovelluksiin Nexus Imprintillä.\n\nOle varovainen lisätessäsi sormenjälkiä – edellä mainitut toiminnot onnistuvat kaikilla laitteeseen lisätyillä sormenjäljillä.\n\nHuom. Tämän laitteen lukitusta ei voi avata sormenjäljellä. Saat lisätietoja organisaatiosi järjestelmänvalvojalta.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Mukautuva virta oppii puhelimesi käytöstä ja optimoi sovellusten akkuvirran käyttöä jatkuvasti. Mukautuva virta voi alentaa suorituskykyä ja viivästyttää ilmoituksia akunkeston pidentämiseksi.</string>
     <string name="smart_battery_summary" product="tablet">Mukautuva virta oppii tablettisi käytöstä ja optimoi sovellusten akun käyttöä jatkuvasti. Mukautuva virta voi alentaa suorituskykyä ja viivästyttää ilmoituksia akunkeston pidentämiseksi.</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Näyttö ja kosketus</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Salli kasvojentunnistusavaus</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Kasvojentunnistusavauksen käyttöönotto</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Lue lisää kasvojentunnistusavauksesta</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">Voit tehdä käytöstä helpompaa lisäämällä kasvojentunnistusavauksen varavaihtoehdoksi, kun sormesi ovat kastuneet tai kylmät.\n\nSormenjälkesi tallennetaan vain laitteelle, eikä sormenjälkiäsi lähetetä koskaan Googlelle.</string>
 </resources>

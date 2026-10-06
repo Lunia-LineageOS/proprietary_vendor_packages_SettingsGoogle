@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">次の画面で、スマートフォンを目の高さに合わせて持ってください</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">顔認証を使用する場合は、顔をスマートフォンの真正面に向けてください。</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">顔認証を使用して、スマートフォンのロック解除や本人確認（アプリへのログインや購入の承認など）を行います。</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">スマートフォンの画面を見た際に、意図していなくてもロックが解除されることがあります。よく似た人（双子など）であったり、あなたの顔にスマートフォンを近づけられたりした場合も、ロックが解除されることがあります。</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">デバイスの画面を見た際に、意図していなくてもロックが解除されることがあります。よく似た人（双子など）であったり、お子様の顔にスマートフォンを近づけられたりした場合も、ロックが解除されることがあります。</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">お子様の顔認証によるスマートフォンのロック解除は、複雑なパターンや PIN、安全なパスワードよりも安全面で劣る可能性があります</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">顔認証によるスマートフォンのロック解除は、複雑なパターン、PIN、パスワードよりも安全面で劣る可能性があります</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">顔認証でスマートフォンのロック解除または本人確認をする際に、目を開いていただくことを必須にすることもできます。このオプションは [設定] でいつでも ON にできます。</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">顔認証でスマートフォンのロック解除または本人確認をする際に、お子様に目を開いていただくことを必須にすることもできます。あなたとお子様はいつでも [設定] でこのオプションを ON にできます。</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">さまざまな角度から顔を撮影して、本人確認に使う一意のモデルを作成します。\n\n顔認証を使用すると、画像を基に顔モデルが更新されます。顔モデルはスマートフォンに安全に保存されますが、その基になった画像が保存されることはありません。なお、顔モデルが外部に送信されることは一切なく、処理はすべてスマートフォン上で安全に行われます。</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">顔認証では、さまざまな角度からお子様の顔の画像を撮影して固有のモデルを作成し、本人確認に使います。\n\n顔認証を使用すると、画像を基に顔モデルが更新されます。顔モデルの作成に使用する画像は保存されませんが、顔モデルはスマートフォンに安全に保存され、外部には決して送信されません。処理はすべてスマートフォン上で安全に行われます。</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">いつでも [設定] で顔モデルを削除したり、顔認証を OFF にしたりできます。顔モデルは、削除するまでスマートフォンに保存されたままになります。&lt;br&gt;&lt;br&gt;詳しくは、&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; をご覧ください。</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">あなたとお子様はいつでも [設定] で顔モデルを削除したり、顔認証を OFF にしたりできます。顔モデルは、削除するまでスマートフォンに保存されたままになります。&lt;br&gt;&lt;br&gt;詳しくは、&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; をご覧ください。</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">顔認証を使用して、スマートフォンのロック解除や本人確認（アプリへのログインや購入の承認など）を行います。\n\n注意事項:\n一度に設定できる顔は 1 つのみです。別の顔を追加するには、現在の顔を削除してください。\n\nスマートフォンの画面を見た際に、意図していなくてもロックが解除されることがあります。\n\nスマートフォンの所有者本人でなくても、よく似た人（双子など）であれば、ロックを解除できる可能性があります。\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">いつでも [設定] で指紋モデルを削除したり、Pixel Imprint を OFF にしたりできます。指紋モデルは、削除するまでスマートフォンに保存されたままになります。</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">あなたとお子様はいつでも [設定] で指紋モデルを削除したり、Pixel Imprint を OFF にしたりできます。指紋モデルは、削除するまでスマートフォンに保存されたままになります。</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Nexus Imprint では、指紋認証で購入の承認やアプリへのログインを行えます。\n\nこうした操作は、登録したどの指紋でも行えるため、誰の指紋を登録するかについては十分にご注意ください。\n\n注: このデバイスのロック解除に指紋認証を使用することはできません。詳しくは、組織の管理者にお問い合わせください。</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">自動調整バッテリー機能は、スマートフォンの使用状況を認識して、アプリによるバッテリーの使用方法を継続的に最適化します。バッテリーを長持ちさせるために、パフォーマンスが制限されたり、通知が遅れたりすることがあります。</string>
     <string name="smart_battery_summary" product="tablet">自動調整バッテリー機能は、タブレットの使用状況を認識して、アプリによるバッテリーの使用方法を継続的に最適化します。バッテリーを長持ちさせるために、パフォーマンスが制限されたり、通知が遅れたりすることがあります。</string>
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ディスプレイとタップ</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">顔認証を許可する</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">顔認証を設定する</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">顔認証の詳細をご確認ください</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">指が濡れているときや冷たいときの代替手段として、顔認証を設定しておくと便利です。\n\n指紋はデバイスにのみ保存され、Google に送信されることはありません。</string>
 </resources>
