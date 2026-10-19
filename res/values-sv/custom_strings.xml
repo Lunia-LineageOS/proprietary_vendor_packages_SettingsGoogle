@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">Använd Snabbtryck</string>
     <string name="columbus_setting_sensitivity_title">Kräv kraftigare tryck</string>
     <string name="columbus_title">Använd snabbtryck för att åtgärda</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">batteridelning, trådlös laddning</string>
+    <string name="keywords_battery_share_settings">batteridelning, omvänd trådlös laddning</string>
+    <string name="keywords_reverse_charging_stop_threshold">Stäng av batteridelning när telefonen når:</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">Aktiveras automatiskt under en kort tid när telefonen ansluts till en laddare</string>
+    <string name="reverse_charging_auto_turn_on_title">Aktivera automatiskt</string>
+    <string name="reverse_charging_charging_wirelessly_message">Inte tillgängligt eftersom telefonen laddas trådlöst</string>
+    <string name="reverse_charging_detail_charging_overheat_message">Inte tillgänglig på grund av temperaturen. Låt telefonen svalna och försök sedan igen</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">Batteridelning är inte tillgängligt eftersom telefonen laddas trådlöst</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"Batteridelning fungerar med kompatibla hörsnäckor, telefoner och annat.
+
+Telefonens batteri tar slut snabbare när du använder den här funktionen. Batteridelning inaktiveras automatiskt efter några minuter om ingen annan enhet upptäcks. Ta bort telefonens fodral och annat som kan störa, till exempel metallföremål, för att laddningen ska fungera så bra som möjligt."</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">Batteridelning är inte tillgängligt eftersom batterisparläget är på</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">Batteridelning är inte tillgängligt eftersom en USB-C-enhet är inkopplad</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">Det går inte att använda batteridelning under laddning</string>
+    <string name="reverse_charging_instructions_title">"Ladda andra enheter med Pixel.
+Vänd på telefonen om du vill testa."</string>
+    <string name="reverse_charging_is_off_summary">Av</string>
+    <string name="reverse_charging_is_on_and_charging_summary">Delar och laddar batteri</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">Delar batteri</string>
+    <string name="reverse_charging_is_on_summary">På/ladda andra enheter</string>
+    <string name="reverse_charging_main_switch">Använd batteridelning</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">Inte tillgängligt eftersom batterisparläget är på</string>
+    <string name="reverse_charging_sharing_level_message">Delning är inte tillgängligt eftersom batterinivån är för låg</string>
+    <string name="reverse_charging_switch_title">Ladda andra enheter genom att hålla dem mot baksidan på Pixel</string>
+    <string name="reverse_charging_title">Batteridelning</string>
+    <string name="reverse_charging_unplug_usb_cable_message">Inte tillgängligt eftersom en USB-C-enhet är inkopplad</string>
+    <string name="reverse_charging_warning_summary">Inte tillgängligt eftersom batterinivån är under %1$s</string>
+    <string name="reverse_charging_warning_title">Batteridelning är inte tillgängligt eftersom batterinivån är under %1$s</string>
 </resources>

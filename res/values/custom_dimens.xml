@@ -38,4 +38,8 @@
     <dimen name="columbus_illustration_layout_height">240dp</dimen>
     <dimen name="columbus_illustration_layout_width">240dp</dimen>
     <dimen name="columbus_list_item_text_spacing">32dp</dimen>
+
+    <!-- Battery Share -->
+    <dimen name="reverse_charging_bottom_sheet_image_size">240dp</dimen>
+    <dimen name="reverse_charging_bottom_sheet_min_height">350dp</dimen>
 </resources>

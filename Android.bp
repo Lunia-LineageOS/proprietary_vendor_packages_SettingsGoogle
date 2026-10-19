@@ -22,6 +22,7 @@ android_library {
         "com.google.hardware.biometrics.sidefps.fingerprint-ext-V1-java",
         "googlebattery-lib",
         "kotlinx_coroutines_reactive",
+        "reversecharging-lib",
         "rxjava",
     ],
     javacflags: [

@@ -70,4 +70,24 @@
         <item name="android:fontFamily">@string/sudFontSecondary</item>
         <item name="android:letterSpacing">0</item>
     </style>
+
+    <!-- Battery Share Bottom Sheet -->
+    <style name="BottomSheetButtonBorderless" parent="@android:style/Widget.DeviceDefault.Button.Borderless.Colored">
+        <item name="android:textColor">?android:colorAccent</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="BottomSheetStyle" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
 </resources>

@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">क्विक टैप का इस्तेमाल करें</string>
     <string name="columbus_setting_sensitivity_title">इस सुविधा को चालू करने के लिए, ज़ोर से टैप करना है</string>
     <string name="columbus_title">कार्रवाइयां शुरू करने के लिए, क्विक टैप का इस्तेमाल करें</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">बैटरी शेयर, तार के बिना चार्ज करना (वायरलेस चार्जिंग)</string>
+    <string name="keywords_battery_share_settings">बैटरी शेयर करने की सुविधा, बिना वायर के अपने डिवाइस से अन्य डिवाइस चार्ज करने की सुविधा (वायरलेस चार्जिंग)</string>
+    <string name="keywords_reverse_charging_stop_threshold">फ़ोन की बैटरी इस लेवल तक पहुंचने पर, बैटरी शेयर करना बंद करें:</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">फ़ोन को चार्जर के साथ कनेक्ट करने पर, यह सुविधा कुछ समय के लिए अपने-आप चालू हो जाएगी</string>
+    <string name="reverse_charging_auto_turn_on_title">अपने-आप चालू हो जाए</string>
+    <string name="reverse_charging_charging_wirelessly_message">यह सुविधा इस्तेमाल नहीं की जा सकती, क्योंकि फ़ोन को वायरलेस तरीके से चार्ज किया जा रहा है</string>
+    <string name="reverse_charging_detail_charging_overheat_message">फ़ोन के गर्म होने की वजह से, रिवर्स चार्जिंग की सुविधा इस्तेमाल नहीं की जा सकती. फ़ोन के सामान्य तापमान में हो जाने तक इंतज़ार करें और फिर से कोशिश करें</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">बैटरी शेयर करने की सुविधा फ़िलहाल इस्तेमाल नहीं की जा सकती, क्योंकि फ़ोन वायरलेस तरीके से चार्ज हो रहा है</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"बैटरी शेयर करने की सुविधा का इस्तेमाल, उन सभी ईयरबड, फ़ोन, और दूसरी ऐक्सेसरी के साथ किया जा सकता है जो इस सुविधा के साथ काम करती हैं.
+
+बैटरी शेयर करने की सुविधा का इस्तेमाल करने से, आपके फ़ोन की बैटरी जल्दी खत्म हो जाती है. कोई डिवाइस कनेक्ट न करने पर, बैटरी शेयर करने की सुविधा कुछ मिनटों में अपने-आप बंद हो जाती है. बेहतर तरीके से चार्ज करने के लिए, अपने फ़ोन का केस और रुकावट डालने वाली दूसरी चीज़ें हटाएं, जैसे कि मेटल का कोई सामान"</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">बैटरी शेयर करने की सुविधा इस्तेमाल नहीं की जा सकती, क्योंकि बैटरी सेवर मोड चालू है</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">बैटरी शेयर करने की सुविधा इस्तेमाल नहीं की जा सकती, क्योंकि फ़ोन से यूएसबी-सी वाला कोई डिवाइस जुड़ा है</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">फ़ोन चार्ज होने के दौरान, बैटरी शेयर की सुविधा का इस्तेमाल नहीं किया जा सकता</string>
+    <string name="reverse_charging_instructions_title">"अपने Pixel फ़ोन से दूसरे डिवाइस चार्ज करें.
+यह सुविधा आज़माने के लिए, अपने फ़ोन को उलटें और दूसरे डिवाइस को उसके ऊपर रखें."</string>
+    <string name="reverse_charging_is_off_summary">बंद है</string>
+    <string name="reverse_charging_is_on_and_charging_summary">बैटरी शेयर और चार्ज की जा रही है</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">बैटरी शेयर की जा रही है</string>
+    <string name="reverse_charging_is_on_summary">चालू है / दूसरे डिवाइस चार्ज करें</string>
+    <string name="reverse_charging_main_switch">बैटरी शेयर करने की सुविधा इस्तेमाल करें</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">यह सुविधा इस्तेमाल नहीं की जा सकती, क्योंकि बैटरी सेवर मोड चालू है</string>
+    <string name="reverse_charging_sharing_level_message">बैटरी शेयर करने की सुविधा इस्तेमाल नहीं की जा सकती, क्योंकि बैटरी, शेयर करने के लेवल से कम है</string>
+    <string name="reverse_charging_switch_title">अन्य डिवाइसों को अपने Pixel के पिछले हिस्से पर रखकर चार्ज करें</string>
+    <string name="reverse_charging_title">बैटरी शेयर</string>
+    <string name="reverse_charging_unplug_usb_cable_message">बैटरी शेयर करने की सुविधा इस्तेमाल नहीं की जा सकती, क्योंकि फ़ोन से यूएसबी-सी वाला कोई डिवाइस जुड़ा है</string>
+    <string name="reverse_charging_warning_summary">बैटरी शेयर करने की सुविधा इस्तेमाल नहीं की जा सकती, क्योंकि बैटरी %1$s से कम है</string>
+    <string name="reverse_charging_warning_title">बैटरी शेयर करने की सुविधा इस्तेमाल नहीं की जा सकती, क्योंकि बैटरी %1$s से कम है</string>
 </resources>

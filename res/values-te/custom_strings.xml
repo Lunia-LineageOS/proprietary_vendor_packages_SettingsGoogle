@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">క్విక్ ట్యాప్‌ను ఉపయోగించండి</string>
     <string name="columbus_setting_sensitivity_title">గట్టిగా ట్యాప్ చేయడం అవసరం</string>
     <string name="columbus_title">చర్యలను ప్రారంభించడానికి క్విక్ ట్యాప్ చేయండి</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">బ్యాటరీ షేరింగ్, వైర్‌లెస్ ఛార్జింగ్</string>
+    <string name="keywords_battery_share_settings">బ్యాటరీ షేర్, రివర్స్ వైర్‌లెస్ ఛార్జింగ్</string>
+    <string name="keywords_reverse_charging_stop_threshold">ఫోన్ బ్యాటరీ ఈ పరిమితికి చేరుకున్నప్పుడు బ్యాటరీ షేరింగ్‌ను ఆపివేయండి:</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">మీ ఫోన్ ఛార్జర్‌కు ప్లగ్ అయ్యి ఉన్నప్పుడు, కొంత సమయం పాటు ఆటోమేటిక్‌గా ఆన్ అవుతుంది</string>
+    <string name="reverse_charging_auto_turn_on_title">ఆటోమేటిక్‌గా ఆన్ చేయండి</string>
+    <string name="reverse_charging_charging_wirelessly_message">వైర్‌లెస్‌గా ఫోన్ ఛార్జ్ అవుతున్నందున బ్యాటరీ షేర్ అందుబాటులో లేదు</string>
+    <string name="reverse_charging_detail_charging_overheat_message">ఉష్ణోగ్రత కారణంగా అందుబాటులో లేదు. ఫోన్ చల్లబడే వరకు వేచి ఉండి, మళ్లీ ట్రై చేయండి</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">వైర్‌లెస్‌గా ఫోన్ ఛార్జ్ అవుతున్నందున బ్యాటరీ షేరింగ్ అందుబాటులో లేదు</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"అనుకూలమైన ఇయర్ బడ్‌లు, ఫోన్‌లు, అలాంటి మరికొన్నింటితో బ్యాటరీ షేరింగ్ పని చేస్తుంది.
+
+ఈ ఫీచర్‌ను ఉపయోగిస్తున్నప్పుడు మీ ఫోన్ బ్యాటరీ త్వరగా అయిపోతుంది. మరొక డివైజ్‌ కనుగొనబడకపోతే కొన్ని నిమిషాల తర్వాత బ్యాటరీ షేరింగ్ ఆటోమేటిక్‌గా ఆఫ్ అవుతుంది. మరింత మెరుగైన ఛార్జింగ్ కోసం, మీ ఫోన్ కేస్‌ను, అలాగే అంతరాయం కలిగించే మెటల్ ఆబ్జెక్ట్‌లు లాంటి వాటిని తీసివేయండి."</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">బ్యాటరీ సేవర్ ఆన్‌లో ఉన్నందున బ్యాటరీ షేరింగ్ అందుబాటులో లేదు</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">USB-C పరికరాన్ని ప్లగిన్ చేసి ఉన్నందున బ్యాటరీ షేరింగ్ అందుబాటులో లేదు</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">ఛార్జ్ అవుతున్నప్పుడు బ్యాటరీ షేరింగ్ అందుబాటులో ఉండదు</string>
+    <string name="reverse_charging_instructions_title">"మీ Pixelతో ఇతర పరికరాలను ఛార్జ్ చేయండి.
+ట్రై చేయడానికి మీ ఫోన్‌ను తిప్పండి."</string>
+    <string name="reverse_charging_is_off_summary">ఆఫ్‌లో ఉంది</string>
+    <string name="reverse_charging_is_on_and_charging_summary">బ్యాట‌రీ షేర్ అవుతోంది, ఛార్జ్ కూడా అవుతోంది</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">బ్యాటరీ షేర్ చేయబడుతోంది</string>
+    <string name="reverse_charging_is_on_summary">ఆన్ / ఇతర పరికరాలను ఛార్జ్ చేయండి</string>
+    <string name="reverse_charging_main_switch">"బ్యాటరీ  షేరింగ్‌ను ఉపయోగించండి"</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">బ్యాటరీ సేవర్ ఆన్‌లో ఉన్నందున అందుబాటులో లేదు</string>
+    <string name="reverse_charging_sharing_level_message">"బ్యాటరీ 'షేరింగ్ స్థాయి' కంటే తక్కువగా ఉన్నందున అందుబాటులో లేదు"</string>
+    <string name="reverse_charging_switch_title">ఇతర డివైజ్‌లను మీ Pixel వెనుక ఉంచడం ద్వారా ఛార్జ్ చేయండి</string>
+    <string name="reverse_charging_title">బ్యాటరీ షేరింగ్</string>
+    <string name="reverse_charging_unplug_usb_cable_message">USB-C పరికరం ప్లగిన్ చేయటం వలన అందుబాటులో లేదు</string>
+    <string name="reverse_charging_warning_summary">బ్యాటరీ %1$s కంటే తక్కువ ఉండటంవల్ల అందుబాటులో లేదు</string>
+    <string name="reverse_charging_warning_title">బ్యాటరీ %1$s కంటే తక్కువ ఉన్నందున బ్యాటరీ షేరింగ్ అందుబాటులో లేదు</string>
 </resources>

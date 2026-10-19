@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">שימוש בלחיצה המהירה</string>
     <string name="columbus_setting_sensitivity_title">הגברת עוצמת הלחיצה שנדרשת</string>
     <string name="columbus_title">לחיצה מהירה לביצוע פעולות</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">שיתוף סוללה, טעינה אלחוטית</string>
+    <string name="keywords_battery_share_settings">שיתוף סוללה, טעינה אלחוטית הפוכה</string>
+    <string name="keywords_reverse_charging_stop_threshold">להפסיק את שיתוף הסוללה כשהטלפון יגיע לרמה של:</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">יופעל אוטומטית לפרק זמן קצר כשהטלפון יחובר למטען</string>
+    <string name="reverse_charging_auto_turn_on_title">הפעלה אוטומטית</string>
+    <string name="reverse_charging_charging_wirelessly_message">לא זמין מפני שהטלפון נטען באופן אלחוטי</string>
+    <string name="reverse_charging_detail_charging_overheat_message">לא זמין בגלל הטמפרטורה. צריך לחכות עד שהטלפון יתקרר ולנסות שוב</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">שיתוף הסוללה לא זמין מפני שהטלפון נטען באופן אלחוטי</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"שיתוף הסוללה פועל עם אוזניות, טלפונים ועוד מכשירים תואמים.
+
+הסוללה של הטלפון שלך תתרוקן מהר יותר בזמן השימוש בתכונה הזאת. שיתוף הסוללה נכבה באופן אוטומטי אחרי כמה דקות אם לא זוהה מכשיר נוסף. כדי לשפר את יכולת הטעינה, מומלץ להסיר את נרתיק הטלפון ופריטים אחרים שעלולים להפריע, כמו חפצים ממתכת."</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">אי אפשר לשתף את הסוללה כי התכונה \"חיסכון בסוללה\" פועלת</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">‏שיתוף הסוללה לא זמין מפני שמחובר מכשיר USB-C</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">התכונה הזאת לא זמינה בזמן הטעינה</string>
+    <string name="reverse_charging_instructions_title">"‏אפשר לטעון מכשירים אחרים באמצעות ה-Pixel.
+ בשביל לעשות את זה, צריך להפוך את הטלפון."</string>
+    <string name="reverse_charging_is_off_summary">מצב כבוי</string>
+    <string name="reverse_charging_is_on_and_charging_summary">הסוללה משותפת ונטענת</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">הסוללה משותפת</string>
+    <string name="reverse_charging_is_on_summary">מופעל/ אפשר לטעון מכשירים אחרים</string>
+    <string name="reverse_charging_main_switch">שימוש בשיתוף סוללה</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">אי אפשר לשתף כי מופעל מצב \"חיסכון בסוללה\"</string>
+    <string name="reverse_charging_sharing_level_message">לא זמין מפני שטעינת הסוללה נמוכה מרמה שמאפשרת שיתוף</string>
+    <string name="reverse_charging_switch_title">‏הצמדה של מכשירים לצד האחורי של ה-Pixel כדי להטעין אותם</string>
+    <string name="reverse_charging_title">שיתוף סוללה</string>
+    <string name="reverse_charging_unplug_usb_cable_message">‏לא זמין מפני שמחובר מכשיר USB-C</string>
+    <string name="reverse_charging_warning_summary">לא זמין כי רמת טעינת הסוללה נמוכה מ-%1$s</string>
+    <string name="reverse_charging_warning_title">שיתוף הסוללה אינו זמין כי רמת טעינת הסוללה נמוכה מ-%1$s</string>
 </resources>

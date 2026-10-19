@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">Използване на жеста „Бързо докосване“</string>
     <string name="columbus_setting_sensitivity_title">Изискване на повече сила при докосванията</string>
     <string name="columbus_title">Бързо докосване за стартиране на действия</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">споделяне на батерията, безжично зареждане</string>
+    <string name="keywords_battery_share_settings">споделяне на батерията, безжично зареждане на други устройства</string>
+    <string name="keywords_reverse_charging_stop_threshold">Спиране на споделянето на батерията, когато нивото ѝ достигне:</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">Ще се включи автоматично за кратък период от време, когато телефонът ви е включен в зарядното устройство</string>
+    <string name="reverse_charging_auto_turn_on_title">Автоматично включване</string>
+    <string name="reverse_charging_charging_wirelessly_message">Не е налице, защото телефонът се зарежда безжично</string>
+    <string name="reverse_charging_detail_charging_overheat_message">Не е налице поради температурата. Изчакайте телефонът да се охлади и опитайте отново</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">Споделянето на батерията не е достъпно, защото е включен режимът за запазването ѝ</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"Функцията за споделяне на батерията работи със съвместими слушалки, телефони и др.
+
+При използването ѝ батерията на телефона ви ще се изтощава по-бързо. Функцията се изключва автоматично след няколко минути, ако не бъде открито друго устройство. За по-добро зареждане свалете калъфа на телефона си и отстранете другите неща, които може да пречат, като например метални предмети."</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">Споделянето на батерията не е достъпно, защото е включен режимът за запазването ѝ</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">Споделянето на батерията не е достъпно, защото устройството с USB-C е включено в захранването</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">Функцията за споделяне на батерията не е налице по време на зареждане</string>
+    <string name="reverse_charging_instructions_title">"Зареждайте други устройства чрез своя Pixel.
+Обърнете телефона си, за да опитате."</string>
+    <string name="reverse_charging_is_off_summary">Изкл.</string>
+    <string name="reverse_charging_is_on_and_charging_summary">Споделяне и зареждане на батерията</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">Батерията се споделя</string>
+    <string name="reverse_charging_is_on_summary">Вкл./зареждане на други устройства</string>
+    <string name="reverse_charging_main_switch">Използване на „Споделяне на батерията“</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">Функцията не е налице, защото режимът за запазване на батерията е включен</string>
+    <string name="reverse_charging_sharing_level_message">Не е налице, защото батерията е под нивото за споделяне</string>
+    <string name="reverse_charging_switch_title">Зареждайте други устройства, като ги поставите върху задната страна на своя Pixel</string>
+    <string name="reverse_charging_title">Споделяне на батерията</string>
+    <string name="reverse_charging_unplug_usb_cable_message">Не е налице, защото устройството с USB-C е включено в захранването</string>
+    <string name="reverse_charging_warning_summary">Не е налице, защото нивото на батерията е под %1$s</string>
+    <string name="reverse_charging_warning_title">Споделянето на батерията не е достъпно, защото нивото ѝ е под %1$s</string>
 </resources>

@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">Përdor \"Trokitjen e shpejtë\"</string>
     <string name="columbus_setting_sensitivity_title">Kërko trokitje më të forta</string>
     <string name="columbus_title">\"Trokit shpejt\" për të filluar veprimet</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">ndarja e baterisë, karikimi wireless</string>
+    <string name="keywords_battery_share_settings">ndarja e baterisë, karikimi wireless i anasjellë</string>
+    <string name="keywords_reverse_charging_stop_threshold">Ndalo ndarjen e baterisë kur telefoni arrin:</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">Do të aktivizohet automatikisht për një periudhë të shkurtër kur telefoni yt të jetë i lidhur me një karikues</string>
+    <string name="reverse_charging_auto_turn_on_title">Aktivizo automatikisht</string>
+    <string name="reverse_charging_charging_wirelessly_message">Nuk ofrohet sepse telefoni po karikohet në mënyrë wireless</string>
+    <string name="reverse_charging_detail_charging_overheat_message">Nuk ofrohet për shkak të temperaturës. Prit që telefoni të ftohet dhe provo përsëri</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">\"Ndarja e baterisë\" nuk ofrohet sepse telefoni po karikohet në mënyrë wireless</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"\"Ndarja e baterisë\" funksionon me kufjet, telefonat e përputhshëm etj.
+
+Bateria e telefonit tënd do të mbarojë më shpejt kur përdor këtë veçori. \"Ndarja e baterisë\" çaktivizohet automatikisht pas pak minutash nëse nuk zbulohet një pajisje tjetër. Për karikim më të mirë, hiq kapakun e telefonit dhe artikujt e tjerë që mund të shkaktojnë ndërhyrje, si p.sh. objektet metalike."</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">\"Ndarja e baterisë\" nuk ofrohet sepse \"Kursyesi i baterisë\" është i aktivizuar</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">\"Ndarja e baterisë\" nuk ofrohet sepse pajisja USB-C është në prizë</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">\"Ndarja e baterisë\" nuk ofrohet gjatë karikimit</string>
+    <string name="reverse_charging_instructions_title">"Kariko pajisjet e tjera me pajisjen tënde Pixel.
+Ktheje telefonin nga ana tjetër dhe provo."</string>
+    <string name="reverse_charging_is_off_summary">Joaktiv</string>
+    <string name="reverse_charging_is_on_and_charging_summary">Bateria po karikohet dhe po ndahet</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">Bateria po ndahet</string>
+    <string name="reverse_charging_is_on_summary">Aktive / Kariko pajisjet e tjera</string>
+    <string name="reverse_charging_main_switch">Përdor \"Ndarjen e baterisë\"</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">Nuk ofrohet sepse \"Kursyesi i baterisë\" është i aktivizuar</string>
+    <string name="reverse_charging_sharing_level_message">Nuk ofrohet sepse bateria është nën nivelin e ndarjes</string>
+    <string name="reverse_charging_switch_title">Kariko pajisjet e tjera duke i vendosur ato mbi pjesën e pasme të pajisjes sate Pixel</string>
+    <string name="reverse_charging_title">Ndarja e baterisë</string>
+    <string name="reverse_charging_unplug_usb_cable_message">Nuk ofrohet për shkak se pajisja USB-C është në prizë</string>
+    <string name="reverse_charging_warning_summary">Nuk ofrohet sepse bateria është nën %1$s</string>
+    <string name="reverse_charging_warning_title">\"Ndarja e baterisë\" nuk ofrohet sepse bateria është nën %1$s</string>
 </resources>

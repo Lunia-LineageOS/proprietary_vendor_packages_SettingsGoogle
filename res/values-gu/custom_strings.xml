@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">ક્વિક ટૅપ સુવિધાનો ઉપયોગ કરો</string>
     <string name="columbus_setting_sensitivity_title">વધુ પ્રબળ ટૅપની જરૂર છે</string>
     <string name="columbus_title">ઍક્શન શરૂ કરવા માટે ક્વિક ટૅપ કરો</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">બૅટરી શેર, વાયરલેસ ચાર્જિંગ</string>
+    <string name="keywords_battery_share_settings">બૅટરી શેર કરવાની સુવિધા, રિવર્સ વાયરલેસ ચાર્જિંગ</string>
+    <string name="keywords_reverse_charging_stop_threshold">જ્યારે ફોનની બૅટરીનું લેવલ આટલું થાય, ત્યારે તેને શેર કરવાનું બંધ કરો:</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">જ્યારે તમારો ફોન ચાર્જરમાં પ્લગ ઇન કરેલો હોય, ત્યારે ટૂંક સમય માટે ઑટોમૅટિક રીતે ચાલુ થશે</string>
+    <string name="reverse_charging_auto_turn_on_title">ઑટોમૅટિક રીતે ચાલુ કરો</string>
+    <string name="reverse_charging_charging_wirelessly_message">ફોન વાયર વિના ચાર્જ થતો હોવાને કારણે ઉપલબ્ધ નથી</string>
+    <string name="reverse_charging_detail_charging_overheat_message">તાપમાનના લીધે અનુપલબ્ધ છે. ફોન ઠંડો થવાની રાહ જુઓ અને ફરી પ્રયાસ કરો</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">ફોન વાયર વિના ચાર્જ થતો હોવાને કારણે બૅટરી શેરની સુવિધા ઉપલબ્ધ નથી</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"બૅટરી શેરની સુવિધા સુસંગત ઇયરબડ, ફોન અને વધુ સાથે કાર્ય કરે છે.
+
+આ સુવિધાનો ઉપયોગ કરતી વખતે તમારા ફોનની બૅટરી ઝડપથી સમાપ્ત થશે. જો અન્ય કોઈ ડિવાઇસની ભાળ ન મળે, તો બૅટરી શેરની સુવિધા થોડી મિનિટ પછી ઑટોમૅટિક રીતે બંધ થાય છે. વધુ સારી રીતે ચાર્જ કરવા માટે, તમારા ફોનનું કવર અને મેટલ ઑબ્જેક્ટ જેવી અવરોધ ઊભા કરી શકે એવી અન્ય આઇટમ કાઢી નાખો."</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">બૅટરી સેવર ચાલુ હોવાને કારણે બૅટરી શેરની સુવિધા ઉપલબ્ધ નથી</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">USB-C ડિવાઇસ પ્લગ-ઇન હોવાને કારણે બૅટરી શેરની સુવિધા ઉપલબ્ધ નથી</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">ચાર્જિંગ દરમિયાન બૅટરી શેરની સુવિધા અનુપલબ્ધ હોય છે</string>
+    <string name="reverse_charging_instructions_title">"તમારા Pixel વડે અન્ય ડિવાઇસને ચાર્જ કરો.
+અજમાવવા માટે, તમારા ફોનને ફ્લિપ કરો."</string>
+    <string name="reverse_charging_is_off_summary">બંધ છે</string>
+    <string name="reverse_charging_is_on_and_charging_summary">બૅટરી શેર અને ચાર્જ કરી રહ્યાં છીએ</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">બૅટરી શેર કરી રહ્યાં છીએ</string>
+    <string name="reverse_charging_is_on_summary">ચાલુ છે / અન્ય ડિવાઇસ ચાર્જ કરો</string>
+    <string name="reverse_charging_main_switch">બૅટરી શેરનો ઉપયોગ કરો</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">બૅટરી સેવર ચાલુ હોવાને કારણે ઉપલબ્ધ નથી</string>
+    <string name="reverse_charging_sharing_level_message">બૅટરી શેરિંગના લેવલ કરતાં ઓછી હોવાને કારણે ઉપલબ્ધ નથી</string>
+    <string name="reverse_charging_switch_title">અન્ય ડિવાઇસને તમારા Pixelની પાછળ રાખીને ચાર્જ કરો</string>
+    <string name="reverse_charging_title">બૅટરી શેર</string>
+    <string name="reverse_charging_unplug_usb_cable_message">USB-C ડિવાઇસ પ્લગ-ઇન કરેલું હોવાને કારણે ઉપલબ્ધ નથી</string>
+    <string name="reverse_charging_warning_summary">બૅટરી %1$s કરતાં ઓછી હોવાને કારણે ઉપલબ્ધ નથી</string>
+    <string name="reverse_charging_warning_title">બૅટરી %1$s કરતાં ઓછી હોવાને કારણે બૅટરી શેરની સુવિધા ઉપલબ્ધ નથી</string>
 </resources>

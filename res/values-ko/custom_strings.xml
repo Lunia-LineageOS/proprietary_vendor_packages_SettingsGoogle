@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">더블 탭 사용</string>
     <string name="columbus_setting_sensitivity_title">더 강한 탭 필요</string>
     <string name="columbus_title">더블 탭하여 작업 시작하기</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">배터리 공유, 무선 충전</string>
+    <string name="keywords_battery_share_settings">배터리 공유, 역무선 충전</string>
+    <string name="keywords_reverse_charging_stop_threshold">배터리 공유를 중지할 휴대전화 배터리 잔량:</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">휴대전화가 충전기에 연결되면 짧은 시간 동안 자동으로 사용 설정됨</string>
+    <string name="reverse_charging_auto_turn_on_title">자동으로 사용 설정</string>
+    <string name="reverse_charging_charging_wirelessly_message">휴대전화가 무선 충전 중이므로 사용할 수 없음</string>
+    <string name="reverse_charging_detail_charging_overheat_message">온도 문제로 인해 사용할 수 없습니다. 열이 식을 때까지 기다린 후 다시 시도해 보세요.</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">휴대전화가 무선 충전 중이므로 배터리 공유를 사용할 수 없습니다.</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"배터리 공유는 호환되는 이어폰, 휴대전화 등에서 사용할 수 있습니다.
+
+이 기능을 사용하면 휴대전화 배터리가 더 빨리 소모됩니다. 배터리 공유는 다른 기기가 감지되지 않으면 몇 분 후에 자동으로 사용 중지됩니다. 원활한 충전을 위해 금속 물체 등 방해가 될 수 있는 물건과 휴대전화 케이스를 제거하세요."</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">절전 모드가 켜져 있으므로 배터리 공유를 사용할 수 없습니다.</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">USB-C 기기가 연결되어 있으므로 배터리 공유를 사용할 수 없습니다.</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">충전 중에는 배터리 공유 사용 못함</string>
+    <string name="reverse_charging_instructions_title">"Pixel로 다른 기기를 충전합니다.
+사용해 보려면 휴대전화를 뒤집어 놓으세요."</string>
+    <string name="reverse_charging_is_off_summary">꺼짐</string>
+    <string name="reverse_charging_is_on_and_charging_summary">배터리 공유 및 충전 중</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">배터리 공유 중</string>
+    <string name="reverse_charging_is_on_summary">사용 / 다른 기기 충전</string>
+    <string name="reverse_charging_main_switch">배터리 공유 사용</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">절전 모드를 사용 중이므로 사용할 수 없음</string>
+    <string name="reverse_charging_sharing_level_message">배터리가 공유 가능한 잔량 미만이므로 사용할 수 없음</string>
+    <string name="reverse_charging_switch_title">Pixel 뒷면에 다른 기기를 올려놓아 충전하세요.</string>
+    <string name="reverse_charging_title">배터리 공유</string>
+    <string name="reverse_charging_unplug_usb_cable_message">USB-C 기기가 연결되어 있으므로 사용할 수 없음</string>
+    <string name="reverse_charging_warning_summary">배터리가 %1$s 미만이므로 사용할 수 없음</string>
+    <string name="reverse_charging_warning_title">배터리가 %1$s 미만이므로 배터리 공유를 사용할 수 없음</string>
 </resources>

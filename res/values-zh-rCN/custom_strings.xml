@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">启用快速轻触</string>
     <string name="columbus_setting_sensitivity_title">需要更大的点按力度</string>
     <string name="columbus_title">快速轻触即可执行操作</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">电池共享, 无线充电, battery share, wireless charging</string>
+    <string name="keywords_battery_share_settings">电池共享，反向无线充电</string>
+    <string name="keywords_reverse_charging_stop_threshold">当手机电量降至以下值时，停止共享电池：</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">当手机连接到充电器时，此功能会自动开启并在短时间内保持开启状态</string>
+    <string name="reverse_charging_auto_turn_on_title">自动开启</string>
+    <string name="reverse_charging_charging_wirelessly_message">该功能无法使用，因为手机正在无线充电</string>
+    <string name="reverse_charging_detail_charging_overheat_message">温度过高，因此无法使用。请等待手机降温，然后重试</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">电池共享功能无法使用，因为手机正在无线充电</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"电池共享功能适用于兼容的耳机、手机等设备。
+
+使用此功能时，手机耗电速度将变快。如果系统未检测到其他设备，电池共享功能会在几分钟后自动关闭。为提升充电效率，请取下手机保护套以及其他可能会干扰充电的物品，例如金属物体。"</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">已开启省电模式，无法使用电池共享功能</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">电池共享功能无法使用，因为手机已连接 USB-C 设备</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">充电期间无法使用电池共享功能</string>
+    <string name="reverse_charging_instructions_title">"您可使用 Pixel 为其他设备充电。
+请将手机翻转过来试一试。"</string>
+    <string name="reverse_charging_is_off_summary">已关闭</string>
+    <string name="reverse_charging_is_on_and_charging_summary">正在共享电池并给电池充电</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">正在共享电池电量</string>
+    <string name="reverse_charging_is_on_summary">已开启/可为其他设备充电</string>
+    <string name="reverse_charging_main_switch">启用电池共享</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">已开启省电模式，因此无法使用该功能</string>
+    <string name="reverse_charging_sharing_level_message">该功能无法使用，因为电池电量低于可共享的水平</string>
+    <string name="reverse_charging_switch_title">将其他设备放在 Pixel 的背面，即可为这些设备充电</string>
+    <string name="reverse_charging_title">电池共享</string>
+    <string name="reverse_charging_unplug_usb_cable_message">该功能无法使用，因为手机已连接 USB-C 设备</string>
+    <string name="reverse_charging_warning_summary">该功能无法使用，因为电池电量低于 %1$s</string>
+    <string name="reverse_charging_warning_title">电池共享功能无法使用，因为电池电量低于 %1$s</string>
 </resources>

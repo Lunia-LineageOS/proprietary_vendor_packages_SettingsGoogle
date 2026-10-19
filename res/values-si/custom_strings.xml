@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">ඉක්මන් තට්ටු කිරීම භාවිත කරන්න</string>
     <string name="columbus_setting_sensitivity_title">වඩාත් දැඩි තට්ටු කිරීම් අවශ්‍යයි</string>
     <string name="columbus_title">ක්‍රියා ආරම්භ කිරීමට ඉක්මන් තට්ටු කිරීම</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">බැටරිය බෙදා ගැනීම, රැහැන් රහිත ආරෝපණය</string>
+    <string name="keywords_battery_share_settings">බැටරිය බෙදා ගැනීම, ප්‍රතිලෝම රැහැන් රහිත ආරෝපණය</string>
+    <string name="keywords_reverse_charging_stop_threshold">දුරකථනය මේ දක්වා ළඟා වන විට බැටරිය බෙදා ගැනීම නතර කරන්න:</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">ඔබේ දුරකථනය චාලකයකට සම්බන්‍ධ කර ඇති විට කෙටි කාලයකට ස්වයංක්‍රීයව සක්‍රීය වෙයි</string>
+    <string name="reverse_charging_auto_turn_on_title">ස්වයංක්‍රීයව ක්‍රියාත්මක කරන්න</string>
+    <string name="reverse_charging_charging_wirelessly_message">දුරකථනය නොරැහැන්ව ආරෝපණය වන නිසා ලබා ගත නොහැකිය</string>
+    <string name="reverse_charging_detail_charging_overheat_message">උෂ්ණත්වය නිසා නොලැබේ. දුරකථනය සිසිල් වන තෙක් රැඳී සිට නැවත උත්සාහ කරන්න</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">දුරකථනය නොරැහැන්ව ආරෝපණය වන නිසා බැටරි බලය බෙදා ගැනීම ලබා ගත නොහැකිය</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"බැටරි බලය බෙදා ගැනීම ගැළපෙන ඉයර්බඩ්, දුරකථන සහ තවත් බොහෝ දේ සමග ක්‍රියා කරයි.
+
+මෙම විශේෂාංගය භාවිත කරන විට ඔබේ දුරකථනයේ බැටරිය වේගයෙන් ඉවර වෙනු ඇත. වෙනත් උපාංගයක් අනාවරණය නොවන්නේ නම් මිනිත්තු කිහිපයකට පසු බැටරි බලය බෙදා ගැනීම ස්වයංක්‍රීයව ක්‍රියාවිරහිත වේ. වඩා හොඳ ආරෝපණය කිරීමක් සඳහා, ඔබගේ දුරකථනයේ කවරය සහ ලෝහ වස්තු වැනි බාධා ඇති වෙනත් අයිතම ඉවත් කරන්න."</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">බැටරි සුරැකුම ක්‍රියාත්මක නිසා බැටරි බලය බෙදා ගැනීම ලබා ගත නොහැකිය</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">USB-C උපාංගය පේනුගත කිර ඇති නිසා බැටරි බලය බෙදා ගැනීම ලබා ගත නොහැකිය</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">ආරෝපණ කිරීමේදී බැටරි බෙදා ගැනීම නොලැබේ</string>
+    <string name="reverse_charging_instructions_title">"ඔබේ Pixel සමග වෙනත් උපාංග ආරෝපණය කරන්න.
+උත්සාහ කිරීමට ඔබ දුරකථනය ඉහළින් ෆ්ලිප් කරන්න."</string>
+    <string name="reverse_charging_is_off_summary">ක්‍රියාවිරහිතයි</string>
+    <string name="reverse_charging_is_on_and_charging_summary">බැටරිය බෙදා ගනිමින් සහ ආරෝපණය කරමින්</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">බැටරිය බෙදා ගනිමින්</string>
+    <string name="reverse_charging_is_on_summary">ක්‍රියාත්මකයි / වෙනත් උපාංග ආරෝපණය කිරීම</string>
+    <string name="reverse_charging_main_switch">බැටරි බෙදා ගැනීම භාවිතා කරන්න</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">බැටරි සුරැකුම ක්‍රියාත්මක නිසා ලබා ගත නොහැකිය</string>
+    <string name="reverse_charging_sharing_level_message">බැටරිය බෙදා ගැනීමේ මට්ටමට පහළ නිසා ලබා ගත නොහැකිය</string>
+    <string name="reverse_charging_switch_title">වෙනත් උපාංග ඒවා ඔබේ Pixel හි පසුපස ස්ථානගත කිරීමෙන් ආරෝපණය කරන්න</string>
+    <string name="reverse_charging_title">බැටරි බලය බෙදා ගැනීම</string>
+    <string name="reverse_charging_unplug_usb_cable_message">USB-C උපාංගය පේනුගත කර ඇති නිසා ලබා ගත නොහැකිය</string>
+    <string name="reverse_charging_warning_summary">බැටරි බලය %1$sට අඩු නිසා ලබාගත නොහැකිය</string>
+    <string name="reverse_charging_warning_title">බැටරි බලය %1$sට පහළ නිසා බැටරි බලය බෙදා ගැනීම ලබා ගත නොහැකිය</string>
 </resources>

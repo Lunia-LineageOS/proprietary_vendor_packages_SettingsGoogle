@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">ಕ್ವಿಕ್ ಟ್ಯಾಪ್ ಅನ್ನು ಬಳಸಿ</string>
     <string name="columbus_setting_sensitivity_title">ಬಲವಾಗಿ ಟ್ಯಾಪ್ ಮಾಡುವ ಅಗತ್ಯವಿದೆ</string>
     <string name="columbus_title">ಕ್ರಿಯೆಗಳನ್ನು ಪ್ರಾರಂಭಿಸಲು ಕ್ವಿಕ್ ಟ್ಯಾಪ್ ಬಳಸಿ</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">ಬ್ಯಾಟರಿ ಶೇರ್, ವೈರ್‌ಲೆಸ್ ಚಾರ್ಜಿಂಗ್</string>
+    <string name="keywords_battery_share_settings">ಬ್ಯಾಟರಿ ಶೇರ್, ರಿವರ್ಸ್ ವೈರ್‌ಲೆಸ್ ಚಾರ್ಜಿಂಗ್</string>
+    <string name="keywords_reverse_charging_stop_threshold">ಫೋನ್ ಈ ಕೆಳಗಿನ ಹಂತ ತಲುಪಿದಾಗ ಬ್ಯಾಟರಿ ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ನಿಲ್ಲಿಸಿ:</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ಚಾರ್ಜರ್‌ಗೆ ಪ್ಲಗ್ ಇನ್ ಮಾಡಿದಾಗ ಅಲ್ಪಾವಧಿಗೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಆನ್ ಆಗುತ್ತದೆ</string>
+    <string name="reverse_charging_auto_turn_on_title">ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಆನ್ ಮಾಡಿ</string>
+    <string name="reverse_charging_charging_wirelessly_message">ಫೋನ್, ವೈರ್‌ಲೆಸ್ ಆಗಿ ಚಾರ್ಜ್ ಆಗುತ್ತಿರುವುದರಿಂದ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="reverse_charging_detail_charging_overheat_message">ತಾಪಮಾನದ ಕಾರಣದಿಂದಾಗಿ ಲಭ್ಯವಿಲ್ಲ ಫೋನ್ ತಣ್ಣಗಾಗುವವರೆಗೆ ಕಾಯಿರಿ ಮತ್ತು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">ಫೋನ್, ವೈರ್‌ಲೆಸ್ ಆಗಿ ಚಾರ್ಜ್ ಆಗುತ್ತಿರುವುದರಿಂದ ಬ್ಯಾಟರಿ ಹಂಚಿಕೆ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"ಹೊಂದಾಣಿಕೆಯಾಗುವ ಇಯರ್-ಬಡ್ಸ್‌, ಫೋನ್‌ಗಳು ಮತ್ತು ಇತ್ಯಾದಿಗಳೊಂದಿಗೆ ಬ್ಯಾಟರಿ ಶೇರ್ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.
+
+ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸುವಾಗ ನಿಮ್ಮ ಫೋನ್‌ನ ಬ್ಯಾಟರಿ ಬೇಗನೆ ಖಾಲಿಯಾಗುತ್ತದೆ. ಮತ್ತೊಂದು ಸಾಧನ ಪತ್ತೆಯಾಗದಿದ್ದರೆ ಬ್ಯಾಟರಿ ಶೇರ್ ಕೆಲವು ನಿಮಿಷಗಳ ನಂತರ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಆಫ್ ಆಗುತ್ತದೆ. ಉತ್ತಮ ಚಾರ್ಜಿಂಗ್‌ಗಾಗಿ ನಿಮ್ಮ ಫೋನ್‌ನ ಕೇಸ್ ಮತ್ತು ಅಡ್ದಿಯಾಗಬಹುದಾದ ಇತರ ಐಟಂಗಳನ್ನು, ಉದಾಹರಣೆಗೆ ಲೋಹದ ವಸ್ತುಗಳನ್ನು ತೆಗೆಯಿರಿ."</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">ಬ್ಯಾಟರಿ ಸೇವರ್‌ ಆನ್ ಆಗಿರುವುದರಿಂದ ಬ್ಯಾಟರಿ ಹಂಚಿಕೊಳ್ಳುವಿಕೆ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">USB-C ಸಾಧನವನ್ನು ಪ್ಲಗ್ ಇನ್ ಮಾಡಿರುವುದರಿಂದ ಬ್ಯಾಟರಿ ಹಂಚಿಕೊಳ್ಳುವಿಕೆ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">ಚಾರ್ಜ್ ಮಾಡುವಾಗ ಬ್ಯಾಟರಿ ಶೇರ್ ಲಭ್ಯವಿರುವುದಿಲ್ಲ</string>
+    <string name="reverse_charging_instructions_title">"ನಿಮ್ಮ Pixel ಬಳಸಿ ಇತರ ಸಾಧನಗಳನ್ನು ಚಾರ್ಜ್ ಮಾಡಿ.
+ಪ್ರಯತ್ನಿಸಲು ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ತಿರುಗಿಸಿ."</string>
+    <string name="reverse_charging_is_off_summary">ಆಫ್</string>
+    <string name="reverse_charging_is_on_and_charging_summary">ಬ್ಯಾಟರಿ ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ ಮತ್ತು ಚಾರ್ಜ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">ಬ್ಯಾಟರಿ ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</string>
+    <string name="reverse_charging_is_on_summary">ಆನ್ ಆಗಿದೆ / ಇತರ ಸಾಧನಗಳನ್ನು ಚಾರ್ಜ್ ಮಾಡಿ</string>
+    <string name="reverse_charging_main_switch">ಬ್ಯಾಟರಿ ಶೇರ್ ಬಳಸಿ</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">ಬ್ಯಾಟರಿ ಸೇವರ್‌ ಆನ್ ಆಗಿರುವುದರಿಂದ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="reverse_charging_sharing_level_message">ಬ್ಯಾಟರಿಯು ಹಂಚಿಕೊಳ್ಳುವಿಕೆಯ ಮಟ್ಟಕ್ಕಿಂತ ಕಡಿಮೆಯಿರುವುದರಿಂದ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="reverse_charging_switch_title">ಇತರ ಸಾಧನಗಳನ್ನು ನಿಮ್ಮ Pixel ನ ಹಿಂಭಾಗದಲ್ಲಿ ಇರಿಸುವ ಮೂಲಕ ಅವುಗಳನ್ನು ಚಾರ್ಜ್ ಮಾಡಿ</string>
+    <string name="reverse_charging_title">ಬ್ಯಾಟರಿ ಶೇರ್</string>
+    <string name="reverse_charging_unplug_usb_cable_message">USB-C ಸಾಧನ ಪ್ಲಗ್-ಇನ್ ಆಗಿರುವುದರಿಂದ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="reverse_charging_warning_summary">ಬ್ಯಾಟರಿ ಪ್ರಮಾಣ %1$s ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವುದರಿಂದ, ಬ್ಯಾಟರಿ ಹಂಚಿಕೆಯನ್ನು ಆಫ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="reverse_charging_warning_title">ಬ್ಯಾಟರಿ ಪ್ರಮಾಣ %1$s ಗಿಂತ ಕಡಿಮೆ ಇರುವುದರಿಂದ ಬ್ಯಾಟರಿ ಹಂಚಿಕೊಳ್ಳುವಿಕೆ ಲಭ್ಯವಿಲ್ಲ</string>
 </resources>

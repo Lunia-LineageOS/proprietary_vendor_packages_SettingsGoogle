@@ -11,12 +11,13 @@ import com.google.android.settings.fuelgauge.batterysaver.AdaptiveBatteryScreen;
 import com.google.android.settings.fuelgauge.batterysaver.BatterySaverGoogleApiScreen;
 import com.google.android.settings.fuelgauge.batterysaver.BatterySaverGoogleScreen;
 import com.google.android.settings.fuelgauge.batterysaver.BatterySaverScheduleScreen;
+import com.google.android.settings.fuelgauge.reversecharging.ReverseChargingScreen;
 import com.google.android.settings.update.SoftwareUpdateScreen;
 
 public abstract class SettingsGoogleScreenCollector {
 
     public static FixedArrayMap<String, PreferenceScreenMetadataFactory> get() {
-        return new FixedArrayMap<>(6, SettingsGoogleScreenCollector::init);
+        return new FixedArrayMap<>(7, SettingsGoogleScreenCollector::init);
     }
 
     private static void init(
@@ -30,6 +31,7 @@ public abstract class SettingsGoogleScreenCollector {
                 context -> new BatterySaverScheduleScreen());
         orderedInitializer.put(BatterySaverScreen.KEY, context -> new BatterySaverGoogleScreen());
         orderedInitializer.put(DisplayScreen.KEY, context -> new DisplayGoogleScreen());
+        orderedInitializer.put(ReverseChargingScreen.KEY, context -> new ReverseChargingScreen());
         orderedInitializer.put(SoftwareUpdateScreen.KEY, context -> new SoftwareUpdateScreen());
     }
 }

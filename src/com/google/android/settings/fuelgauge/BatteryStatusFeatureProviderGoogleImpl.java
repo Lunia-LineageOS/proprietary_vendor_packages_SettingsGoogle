@@ -11,6 +11,7 @@ import com.android.settings.fuelgauge.BatteryUtils;
 import com.android.settingslib.utils.ThreadUtils;
 
 import com.google.android.settings.R;
+import com.google.android.settings.fuelgauge.reversecharging.ReverseChargingManager;
 import com.google.android.systemui.googlebattery.AdaptiveChargingManager;
 
 import java.util.concurrent.TimeUnit;
@@ -18,10 +19,12 @@ import java.util.concurrent.TimeUnit;
 public class BatteryStatusFeatureProviderGoogleImpl extends BatteryStatusFeatureProviderImpl {
     private boolean mAdaptiveChargingEnabledInSettings;
     private AdaptiveChargingManager mAdaptiveChargingManager;
+    private ReverseChargingManager mReverseChargingManager;
 
     public BatteryStatusFeatureProviderGoogleImpl(Context context) {
         super(context);
         mAdaptiveChargingManager = new AdaptiveChargingManager(context);
+        mReverseChargingManager = ReverseChargingManager.getInstance(context);
         mContext.getContentResolver()
                 .registerContentObserver(
                         Settings.Secure.getUriFor("adaptive_charging_enabled"),
@@ -40,11 +43,33 @@ public class BatteryStatusFeatureProviderGoogleImpl extends BatteryStatusFeature
                 mAdaptiveChargingManager.isAvailable() && mAdaptiveChargingManager.isEnabled();
     }
 
-    // Reverse charging (ReverseChargingManager) is not ported.
     @Override
     public boolean triggerBatteryStatusUpdate(
             final BatteryPreferenceController batteryPreferenceController,
             final BatteryInfo batteryInfo) {
+        if (mReverseChargingManager.isReverseChargingOn()
+                && !BatteryUtils.isBatteryDefenderOn(batteryInfo)) {
+            ThreadUtils.postOnMainThread(
+                    () -> {
+                        int statusRes =
+                                batteryInfo.discharging
+                                        ? R.string.reverse_charging_is_on_and_discharging_summary
+                                        : R.string.reverse_charging_is_on_and_charging_summary;
+                        String statusLabel = mContext.getString(statusRes);
+                        batteryInfo.statusLabel = statusLabel;
+                        CharSequence remainingLabel = batteryInfo.remainingLabel;
+                        if (remainingLabel != null) {
+                            statusLabel =
+                                    mContext.getString(
+                                            com.android.settings.R.string
+                                                    .battery_state_and_duration,
+                                            statusLabel,
+                                            remainingLabel);
+                        }
+                        batteryPreferenceController.updateBatteryStatus(statusLabel, batteryInfo);
+                    });
+            return true;
+        }
         if (batteryInfo.discharging
                 || BatteryUtils.isBatteryDefenderOn(batteryInfo)
                 || !mAdaptiveChargingEnabledInSettings) {

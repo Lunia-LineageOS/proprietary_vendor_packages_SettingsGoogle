@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">Sebenzisa Ukuthepha Okusheshayo</string>
     <string name="columbus_setting_sensitivity_title">Idinga ukuthepha okunamandla</string>
     <string name="columbus_title">Thepha Ngokushesha ukuze uqalise izenzo</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">ukwaba ibhethri, ukushaja okungaxhunyiwe</string>
+    <string name="keywords_battery_share_settings">ukwabelana ngebhethri, ukushaja okungenantambo kwangemuva</string>
+    <string name="keywords_reverse_charging_stop_threshold">Yeka ukushaja ibhethri uma ifoni ifika:</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">Izovuleka ngokuzenzakalelayo isikhathi esifushane uma ifoni yakho ixhunywe kushaja</string>
+    <string name="reverse_charging_auto_turn_on_title">Vula ngokuzenzakalela</string>
+    <string name="reverse_charging_charging_wirelessly_message">Akutholakali ngoba ifoni ishaja ngokungenantambo</string>
+    <string name="reverse_charging_detail_charging_overheat_message">Ayitholakali ngenxa yezinga lokushisa. Linda ifoni iphole bese uzama futhi</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">Ukwabelana ngebhethri akutholakali ngoba ifoni ishaja ngaphandle kwentambo</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"Ukwabelana Ngebhethri kusebenza nama-ear bud ahambelanayo, nokuningi.
+
+Ibhethri lefoni yakho lizophela ngokushesha uma usebenzisa lesi sici. Ukwabelana Ngebhethri ngokuzenzakalelayo kuyavaleka emva kwamaminithi ambalwa uma kungekho enye idivayisi etholakalayo. Mayelana nokushaja kangcono, susa ikesi yefoni yakho nezinye izinto ezingaphazamisa, njengezinto zensimbi."</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">Ukwabelana ngebhethri akutholakali ngoba Ukonga ibhethri kuvuliwe</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">Ukwabelana ngebhethri akutholakali ngoba idivayisi ye-USB-C ixhunyiwe</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">Ukwabelana Ngebhethri akutholakali ngesikhathi sokushaja</string>
+    <string name="reverse_charging_instructions_title">"Shaja amanye amadivayisi nge-Pixel yakho.
+Phenya ifoni yakho ukuzama."</string>
+    <string name="reverse_charging_is_off_summary">Valiwe</string>
+    <string name="reverse_charging_is_on_and_charging_summary">Ukwabelana nokushaja ibhethri</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">Ukwabelana ngebhethri</string>
+    <string name="reverse_charging_is_on_summary">Kuvuliwe / Shaja amanye amadivayisi</string>
+    <string name="reverse_charging_main_switch">Sebenzisa Ukwabelana Ngebhethri</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">Ayitholakali ngoba isilondolozi sebhethri sivuliwe</string>
+    <string name="reverse_charging_sharing_level_message">Akutholakali ngoba ibhethri ingaphansi kweleveli yokwabelana</string>
+    <string name="reverse_charging_switch_title">Shaja amanye amadivayisi ngokuwabeka ngemuva kwe-Pixel yakho</string>
+    <string name="reverse_charging_title">Ukwabelana ngebhethri</string>
+    <string name="reverse_charging_unplug_usb_cable_message">Akutholakali ngoba idivayisi ye-USB-C ixhunyiwe</string>
+    <string name="reverse_charging_warning_summary">Ayitholakali ngoba ibhethri ingaphansi kuka-%1$s</string>
+    <string name="reverse_charging_warning_title">Ukwabelana ngebhethri akutholakali ngoba ibhethri ingaphansi kuka-%1$s</string>
 </resources>

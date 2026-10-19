@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">କୁଇକ୍ ଟାପ୍ ବ୍ୟବହାର କରନ୍ତୁ</string>
     <string name="columbus_setting_sensitivity_title">ଆହୁରି ଜୋରରେ ଟାପ୍ କରିବା ଆବଶ୍ୟକ</string>
     <string name="columbus_title">କାର୍ଯ୍ୟଗୁଡ଼ିକ ଆରମ୍ଭ କରିବାକୁ କ୍ଵିକ ଟାପ ବ୍ୟବହାର କରନ୍ତୁ</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">ବ୍ୟାଟେରୀ ସେୟାର୍, ୱାୟରଲେସ୍ ଚାର୍ଜିଂ</string>
+    <string name="keywords_battery_share_settings">ବ୍ୟାଟେରୀ ସେୟାର୍, ରିଭର୍ସ ୱାୟରଲେସ୍ ଚାର୍ଜିଂ</string>
+    <string name="keywords_reverse_charging_stop_threshold">ଫୋନ ଏହି ବେଟେରୀ ସ୍ତରରେ ପହଞ୍ଚିଲେ ସେୟାରିଂ ବନ୍ଦ କରନ୍ତୁ:</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">ଆପଣଙ୍କ ଫୋନକୁ ଏକ ଚାର୍ଜରରେ ପ୍ଲଗଇନ କରାଗଲେ ସ୍ୱଳ୍ପ ସମୟ ପାଇଁ ଏହା ସ୍ୱତଃ ଚାଲୁ ହେବ</string>
+    <string name="reverse_charging_auto_turn_on_title">ସ୍ୱତଃ ଚାଲୁ ହୋଇଥାଏ</string>
+    <string name="reverse_charging_charging_wirelessly_message">ଫୋନ ୱେୟାରଲେସ ଭାବେ ଚାର୍ଜ ହେଉଥିବା ଯୋଗୁଁ ଉପଲବ୍ଧ ନାହିଁ</string>
+    <string name="reverse_charging_detail_charging_overheat_message">ଅତ୍ୟଧିକ ଗରମ ହେବା ଯୋଗୁଁ ଉପଲବ୍ଧ ନାହିଁ। ଫୋନଟି ଥଣ୍ଡା ହେବା ପାଇଁ ଅପେକ୍ଷା କରନ୍ତୁ ଏବଂ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">"ଫୋନ ବିନା ତାରରେ ଚାର୍ଜ ହେଉଥିବା ଯୋଗୁଁ 'ବେଟେରୀ ସେୟାର' ଉପଲବ୍ଧ ନାହିଁ"</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"ବେଟେରୀ ସେୟାର ସୁସଙ୍ଗତ ଇଅର ବଡ, ଫୋନ ଏବଂ ଆହୁରି ଅନେକ କିଛି ସହ କାର୍ଯ୍ୟ କରେ।
+
+ଏହି ଫିଚର ବ୍ୟବହାର କରିବା ସମୟରେ ଆପଣଙ୍କ ଫୋନର ବେଟେରୀ ଅତି ଶୀଘ୍ର ସରିଯିବ। ଯଦି ଅନ୍ୟ ଏକ ଡିଭାଇସ ଚିହ୍ନଟ ନହୁଏ, ତେବେ କିଛି ସମୟ ପରେ ବେଟେରୀ ସେୟାର ସ୍ଵତଃ ବନ୍ଦ ହୋଇଯାଏ। ଆହୁରି ଭଲ ଚାର୍ଜିଂ ପାଇଁ, ଆପଣଙ୍କ ଫୋନର କଭର ଏବଂ ମେଟାଲ ଅବଜେକ୍ଟଗୁଡ଼ିକ ଭଳି ହସ୍ତକ୍ଷେପ କରୁଥିବା ଅନ୍ୟ ଆଇଟମଗୁଡ଼ିକୁ କାଢ଼ି ଦିଅନ୍ତୁ।"</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">ବେଟେରୀ ସେଭର ଚାଲୁ ଥିବା ଯୋଗୁଁ ବେଟେରୀ ସେୟାର ଉପଲବ୍ଧ ନାହିଁ</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">USB-C ଡିଭାଇସ୍ ପ୍ଲଗ୍ ଇନ୍ କରାଯାଇଥିବା ଯୋଗୁଁ ’ବ୍ୟାଟେରୀ ସେୟାର୍’ ଉପଲବ୍ଧ ନାହିଁ</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">ଚାର୍ଜିଂ ସମୟରେ ବେଟେରୀ ସେୟାର ଉପଲବ୍ଧ ନାହିଁ</string>
+    <string name="reverse_charging_instructions_title">"ଅନ୍ୟ ଡିଭାଇସଗୁଡ଼ିକୁ ଆପଣଙ୍କ Pixel ମାଧ୍ୟମରେ ଚାର୍ଜ କରନ୍ତୁ। 
+ଆପଣଙ୍କ ଫୋନକୁ ବ୍ୟବହାର କରିବା ପାଇଁ ତଳମୁହାଁ କରନ୍ତୁ।"</string>
+    <string name="reverse_charging_is_off_summary">ବନ୍ଦ</string>
+    <string name="reverse_charging_is_on_and_charging_summary">ବେଟେରୀ ସେୟାର ଏବଂ ଚାର୍ଜ କରାଯାଉଛି</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">ବେଟେରୀ ସେୟାର କରାଯାଉଛି</string>
+    <string name="reverse_charging_is_on_summary">ଅନ୍ୟ ଡିଭାଇସଗୁଡ଼ିକୁ ଚାଲୁ / ଚାର୍ଜ କରନ୍ତୁ</string>
+    <string name="reverse_charging_main_switch">ବେଟେରୀ ସେୟାର ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">"'ବେଟେରୀ ସେଭର' ଚାଲୁ ଥିବା ଯୋଗୁଁ ଏହା ଉପଲବ୍ଧ ନାହିଁ"</string>
+    <string name="reverse_charging_sharing_level_message">ବ୍ୟାଟେରୀ ସେୟାର୍ କରିବାର ସ୍ତର ଠାରୁ କମ୍ ଥିବା ଯୋଗୁଁ ଏହି ସୁବିଧା ଉପଲବ୍ଧ ନାହିଁ</string>
+    <string name="reverse_charging_switch_title">ଆପଣଙ୍କ Pixelର ପଛପଟେ ଅନ୍ୟ ଡିଭାଇସଗୁଡ଼ିକୁ ରଖି ସେଗୁଡ଼ିକୁ ଚାର୍ଜ କରନ୍ତୁ</string>
+    <string name="reverse_charging_title">ବେଟେରୀ ସେୟାର</string>
+    <string name="reverse_charging_unplug_usb_cable_message">USB-C ଡିଭାଇସ୍ ପ୍ଲଗ୍-ଇନ୍ କରାଯାଇଥିବା ଯୋଗୁଁ ଏହି ସୁବିଧା ଉପଲବ୍ଧ ନାହିଁ</string>
+    <string name="reverse_charging_warning_summary">ବ୍ୟାଟେରୀ %1$sରୁ କମ୍ ଥିବା ଯୋଗୁଁ ଏହି ସୁବିଧା ଉପଲବ୍ଧ ନାହିଁ</string>
+    <string name="reverse_charging_warning_title">"ବ୍ୟାଟେରୀର ଚାର୍ଜ %1$sରୁ କମ୍ ଥିବା ଯୋଗୁଁ 'ବ୍ୟାଟେରୀ ସେୟାର୍' ଉପଲବ୍ଧ ନାହିଁ"</string>
 </resources>

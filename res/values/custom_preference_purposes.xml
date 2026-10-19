@@ -24,4 +24,10 @@
 
     <!-- Software Update -->
     <string name="software_update_settings_v2_purpose" translatable="false">Provides a centralized dashboard for users to monitor and initiate updates across the operating system, Google Play system components, and installed applications to ensure device security and performance.</string>
+
+    <!-- Battery Share -->
+    <string name="reverse_charging_purpose" translatable="false">"Allows users configure the reverse charging feature, which lets them wirelessly share their phone's battery power with other compatible devices, such as earbuds or other phones."</string>
+    <string name="reverse_charging_summary_purpose" translatable="false">reverse_charging_summary</string>
+    <string name="reverse_charging_illustration_purpose" translatable="false">reverse_charging_illustration</string>
+    <string name="reverse_charging_detail_footer_purpose" translatable="false">reverse_charging_detail_footer</string>
 </resources>

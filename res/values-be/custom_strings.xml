@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">Выкарыстоўваць Хуткі дотык</string>
     <string name="columbus_setting_sensitivity_title">Патрабаваць мацнейшыя дотыкі</string>
     <string name="columbus_title">Хуткі дотык для пачатку дзеянняў</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">перадача зараду акумулятара, бесправадная зарадка</string>
+    <string name="keywords_battery_share_settings">перадача зараду акумулятара, зваротная бесправадная зарадка</string>
+    <string name="keywords_reverse_charging_stop_threshold">Спыняць перадачу зараду акумулятара тэлефона, калі зарад дасягае</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">Уключаецца аўтаматычна на кароткі час, калі тэлефон падключаны да зарадкі</string>
+    <string name="reverse_charging_auto_turn_on_title">Уключаць аўтаматычна</string>
+    <string name="reverse_charging_charging_wirelessly_message">Недаступна, таму што ідзе бесправадная зарадка тэлефона</string>
+    <string name="reverse_charging_detail_charging_overheat_message">Функцыя недаступная з-за надта высокай тэмпературы. Пачакайце, пакуль тэлефон астыне, і паўтарыце спробу.</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">Перадача зараду акумулятара недаступная, таму што ідзе бесправадная зарадка тэлефона</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"Функцыя перадачы зараду акумулятара працуе з сумяшчальнымі навушнікамі, тэлефонамі і іншымі прыладамі.
+
+Пры выкарыстанні гэтай функцыі акумулятар тэлефона разрадзіцца хутчэй. Калі іншая прылада не будзе выяўлена, функцыя перадачы зараду акумулятара выключыцца праз некалькі хвілін. Каб палепшыць якасць зарадкі, зніміце чахол з тэлефона, а таксама іншыя элементы, якія могуць перашкаджаць (напрыклад, металічныя аб’екты)."</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">Перадача зараду акумулятара недаступная, таму што ўключаны рэжым эканоміі зараду</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">Перадача зараду акумулятара недаступная, таму што падключана прылада USB-C</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">Перадача зараду акумулятара недаступная падчас зарадкі</string>
+    <string name="reverse_charging_instructions_title">"Зараджайце іншыя прылады з дапамогай Pixel.
+Каб паспрабаваць, перавярніце тэлефон."</string>
+    <string name="reverse_charging_is_off_summary">Выключана</string>
+    <string name="reverse_charging_is_on_and_charging_summary">Абагульванне зараду і зарадка акумулятара</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">Абагульваецца зарад акумулятара</string>
+    <string name="reverse_charging_is_on_summary">Уключана / Зараджаць іншыя прылады</string>
+    <string name="reverse_charging_main_switch">Ужываць перадачу зараду акумулятара</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">Недаступна, таму што ўключаны рэжым энергазберажэння</string>
+    <string name="reverse_charging_sharing_level_message">Недаступна, таму што ўзровень зараду акумулятара ніжэй мінімальнага, прыдатнага для абагульвання</string>
+    <string name="reverse_charging_switch_title">Зарадка іншых прылад пры іх размяшчэнні на задняй панэлі Pixel</string>
+    <string name="reverse_charging_title">Перадача зараду акумулятара</string>
+    <string name="reverse_charging_unplug_usb_cable_message">Недаступна, таму што падключана прылада USB-C</string>
+    <string name="reverse_charging_warning_summary">Недаступна, таму што ўзровень зараду акумулятара ніжэй за %1$s</string>
+    <string name="reverse_charging_warning_title">Перадача зараду акумулятара недаступная, таму што ўзровень зараду акумулятара ніжэй за %1$s</string>
 </resources>

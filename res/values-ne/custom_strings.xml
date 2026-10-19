@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">क्विक ट्याप प्रयोग गर्नुहोस्</string>
     <string name="columbus_setting_sensitivity_title">एक्टिभेट गर्न अझ बल प्रयोग गरेर ट्याप गर्न लगाउनुहोस्</string>
     <string name="columbus_title">कारबाही सुरु गर्न क्विक ट्याप गर्ने</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">ब्याट्री सेयर, ताररहित चार्जिङ</string>
+    <string name="keywords_battery_share_settings">ब्याट्री सेयर गर्ने सुविधा, आफ्नो डिभाइसबाट अर्को डिभाइसमा ताररहित रूपमा चार्जिङ गर्ने सुविधा</string>
+    <string name="keywords_reverse_charging_stop_threshold">फोनको ब्याट्री निम्न लेबलमा पुगेपछि ब्याट्री सेयर गर्न छाड्नुहोस्:</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">तपाईंको फोन चार्जरमा जोडेपछि यो सुविधा छोटो समयावधिका लागि स्वतः अन हुने छ</string>
+    <string name="reverse_charging_auto_turn_on_title">स्वतः अन गर्नुहोस्</string>
+    <string name="reverse_charging_charging_wirelessly_message">फोन वायरलेस तरिकाले चार्ज भइरहेकाले ब्याट्री सेयर गर्न मिल्दैन</string>
+    <string name="reverse_charging_detail_charging_overheat_message">फोन अत्यधिक तातेकाले यो सुविधा उपलब्ध छैन। फोन चिसो हुन दिनुहोस् र फेरि प्रयास गर्नुहोस्</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">फोन वायरलेस तरिकाले चार्ज भइरहेकाले ब्याट्री सेयर प्रयोग गर्न मिल्दैन</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"ब्याट्री सेयर नामक सुविधा कम्प्याटिबल इयर बड, फोन र अन्य डिभाइस चार्ज गर्नका लागि प्रयोग गर्न सकिन्छ।
+
+यो सुविधा प्रयोग गर्दा तपाईंको फोनको ब्याट्री अरू बेलाको तुलनामा छिटो सकिन्छ। ब्याट्री सेयर नामक सुविधा प्रयोग गरिनु पर्ने डिभाइस नभेटिएका खण्डमा यो सुविधा केही मिनेटपछि स्वतः अफ हुन्छ। अझ राम्ररी चार्ज गर्न आफ्नो फोनको खोल तथा चार्ज गर्ने कार्यमा बाधा पुर्‍याउन सक्ने धातुजन्य वस्तुलगायतका अन्य वस्तु हटाउनुहोस्।"</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">ब्याट्री सेभर अन भएकाले ब्याट्री सेयर प्रयोग गर्न मिल्दैन</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">फोनमा USB-C केबलमार्फत कुनै यन्त्र जोडिएको हुनाले ब्याट्री सेयर प्रयोग गर्न मिल्दैन</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">चार्ज गर्ने बेलामा ब्याट्री सेयर प्रयोग गर्न मिल्दैन</string>
+    <string name="reverse_charging_instructions_title">"आफ्नो Pixel फोनमार्फत अन्य डिभाइसहरू चार्ज गर्नुहोस्।
+यो सुविधा प्रयोग गर्न आफ्नो फोन घोप्टो पारेर त्यसमाथि चार्ज गर्नु पर्ने डिभाइस राखी हेर्नुहोस्।"</string>
+    <string name="reverse_charging_is_off_summary">अफ छ</string>
+    <string name="reverse_charging_is_on_and_charging_summary">रिभर्स चार्जिङ गरिँदै छ र ब्याट्री चार्ज हुँदै छ</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">रिभर्स चार्जिङ गरिँदै छ</string>
+    <string name="reverse_charging_is_on_summary">अन छ / अन्य डिभाइसहरू चार्ज गर्नुहोस्</string>
+    <string name="reverse_charging_main_switch">ब्याट्री सेयर प्रयोग गर्नुहोस्</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">ब्याट्री सेभर अन भएकाले ब्याट्री सेयर गर्न मिल्दैन</string>
+    <string name="reverse_charging_sharing_level_message">ब्याट्रीको स्तर सेयर गर्न मिल्ने स्तरभन्दा कम भएकाले सेयर गर्न मिल्दैन</string>
+    <string name="reverse_charging_switch_title">अन्य डिभाइसहरू आफ्नो Pixel फोनका पछाडि राखेर ती डिभाइस चार्ज गर्नुहोस्</string>
+    <string name="reverse_charging_title">ब्याट्री सेयर</string>
+    <string name="reverse_charging_unplug_usb_cable_message">फोनमा USB-C केबलमार्फत कुनै यन्त्र जोडिएको हुनाले ब्याट्री सेयर गर्न मिल्दैन</string>
+    <string name="reverse_charging_warning_summary">ब्याट्री %1$s भन्दा कम भएकाले ब्याट्री सेयर गर्न मिल्दैन</string>
+    <string name="reverse_charging_warning_title">ब्याट्री भन्दा कम भएकाले ब्याट्री सेयर प्रयोग गर्न मिल्दैन%1$s</string>
 </resources>

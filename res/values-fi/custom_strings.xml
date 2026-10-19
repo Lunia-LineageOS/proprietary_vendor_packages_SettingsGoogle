@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">Käytä pikanäpäytystä</string>
     <string name="columbus_setting_sensitivity_title">Vaadi voimakkaampia napautuksia</string>
     <string name="columbus_title">Käynnistä toimintoja pikanäpäytyksellä</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">akunjako, langaton lataus</string>
+    <string name="keywords_battery_share_settings">akunjako, käänteinen langaton lataus</string>
+    <string name="keywords_reverse_charging_stop_threshold">Lopeta virran jakaminen, kun puhelimen akun varaus on</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">Menee automaattisesti päälle hetkeksi, kun puhelin on laturissa</string>
+    <string name="reverse_charging_auto_turn_on_title">Laita päälle automaattisesti</string>
+    <string name="reverse_charging_charging_wirelessly_message">Ei käytettävissä, koska puhelin latautuu langattomasti</string>
+    <string name="reverse_charging_detail_charging_overheat_message">Ei saatavilla lämpötilan takia. Anna puhelimen jäähtyä ja yritä uudelleen.</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">Akunjako ei ole käytettävissä, koska puhelin latautuu langattomasti</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"Akunjako toimii yhteensopivien nappikuulokkeiden, puhelinten ja muiden laitteiden kanssa.
+
+Puhelimen akku kuluu nopeammin, kun tämä ominaisuus on päällä. Akunjako laitetaan automaattisesti pois päältä muutaman minuutin päästä, jos toista laitetta ei havaita. Lataus toimii parhaiten, kun poistat puhelimen kotelon ja mahdollisesti häiritsevät asiat, kuten metalliesineet."</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">Akunjako ei ole käytettävissä, koska Virransäästö on päällä</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">Akunjako ei ole käytettävissä, koska USB-C-laite on liitettynä</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">Akunjako ei ole saatavilla latauksen aikana</string>
+    <string name="reverse_charging_instructions_title">"Lataa muita laitteita Pixelilläsi.
+Kokeile kääntämällä puhelin ympäri."</string>
+    <string name="reverse_charging_is_off_summary">Pois päältä</string>
+    <string name="reverse_charging_is_on_and_charging_summary">Virtaa jaetaan ja akkua ladataan</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">Virtaa jaetaan</string>
+    <string name="reverse_charging_is_on_summary">Päällä / Lataa muita laitteita</string>
+    <string name="reverse_charging_main_switch">Käytä akunjakoa</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">Ei käytettävissä, koska Virransäästö on päällä</string>
+    <string name="reverse_charging_sharing_level_message">Ei käytettävissä, koska akun varaus on alle jakamistason</string>
+    <string name="reverse_charging_switch_title">Lataa toinen laite asettamalla se Pixelin takaosan päälle</string>
+    <string name="reverse_charging_title">Akunjako</string>
+    <string name="reverse_charging_unplug_usb_cable_message">Ei käytettävissä, koska USB-C-laite on liitettynä</string>
+    <string name="reverse_charging_warning_summary">Ei käytettävissä, koska akun varaus on alle %1$s</string>
+    <string name="reverse_charging_warning_title">Akunjako ei ole käytettävissä, koska akun varaus on alle %1$s</string>
 </resources>

@@ -93,6 +93,49 @@
                 android:value="true" />
         </activity>
 
+        <!-- Battery Share -->
+        <activity
+            android:name="com.google.android.settings.fuelgauge.reversecharging.ReverseChargingTrampoline"
+            android:exported="true"
+            android:permission="android.permission.BATTERY_STATS"
+            android:theme="@android:style/Theme.NoDisplay">
+            <intent-filter android:priority="1">
+                <action android:name="android.settings.REVERSE_CHARGING_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.google.android.settings.fuelgauge.reversecharging.BottomSheetActivity"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="orientation"
+            android:documentLaunchMode="never"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:finishOnTaskLaunch="true"
+            android:launchMode="singleInstance"
+            android:permission="android.permission.BATTERY_STATS"
+            android:relinquishTaskIdentity="true"
+            android:resizeableActivity="false"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="false"
+            android:theme="@style/BottomSheetStyle">
+            <intent-filter android:priority="1">
+                <action android:name="android.settings.REVERSE_CHARGING_BOTTOM_SHEET" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.google.android.settings.fuelgauge.reversecharging.ReverseChargingToolTrampoline"
+            android:exported="true"
+            android:theme="@android:style/Theme.NoDisplay">
+            <intent-filter android:priority="1">
+                <action android:name="com.google.android.settings.fuelgauge.REVERSE_CHARGING_TOOL_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
         <!-- Software Updates -->
         <activity
             android:name="com.google.android.settings.update.SoftwareUpdateActivity"

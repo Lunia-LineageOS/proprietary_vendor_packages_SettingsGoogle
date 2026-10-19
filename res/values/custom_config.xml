@@ -11,4 +11,7 @@
     <bool name="config_fingerprint_enroll_calibration">false</bool>
     <bool name="config_customized_guided_enroll">false</bool>
     <string name="config_face_enroll_traffic_light_package" translatable="false"></string>
+
+    <!-- Battery Share -->
+    <bool name="config_show_reverse_charging">true</bool>
 </resources>

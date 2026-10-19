@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">ਕਵਿੱਕ ਟੈਪ ਵਰਤੋ</string>
     <string name="columbus_setting_sensitivity_title">ਮਜ਼ਬੂਤ ਟੈਪਾਂ ਦੀ ਲੋੜ ਹੈ</string>
     <string name="columbus_title">ਕਾਰਵਾਈਆਂ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਕਵਿੱਕ ਟੈਪ</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">ਬੈਟਰੀ ਸ਼ੇਅਰ, ਵਾਇਰਲੈੱਸ ਚਾਰਜਿੰਗ</string>
+    <string name="keywords_battery_share_settings">ਬੈਟਰੀ ਸ਼ੇਅਰ, ਉਲਟ ਵਾਇਰਲੈੱਸ ਚਾਰਜਿੰਗ</string>
+    <string name="keywords_reverse_charging_stop_threshold">"ਜਦੋਂ ਫ਼ੋਨ ਚਾਰਜਿੰਗ ਦੇ ਹੇਠਾਂ ਲਿਖੇ ਪੱਧਰ 'ਤੇ ਪਹੁੰਚ ਜਾਂਦਾ ਹੈ, ਤਾਂ ਬੈਟਰੀ ਸਾਂਝਾਕਰਨ ਬੰਦ ਕਰੋ:"</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">"ਤੁਹਾਡੇ ਫ਼ੋਨ ਦੇ ਚਾਰਜਰ ਵਿੱਚ ਪਲੱਗ-ਇਨ ਕੀਤੇ ਹੋਣ 'ਤੇ ਇਹ ਸੁਵਿਧਾ ਥੋੜ੍ਹੇ ਸਮੇਂ ਲਈ ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਚਾਲੂ ਹੋ ਜਾਵੇਗੀ"</string>
+    <string name="reverse_charging_auto_turn_on_title">"ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਚਾਲੂ ਕਰੋ"</string>
+    <string name="reverse_charging_charging_wirelessly_message">ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਕਿਉਂਕਿ ਫ਼ੋਨ ਬਿਨਾਂ ਤਾਰ ਤੋਂ ਚਾਰਜ ਹੋ ਰਿਹਾ ਹੈ</string>
+    <string name="reverse_charging_detail_charging_overheat_message">ਫ਼ੋਨ ਦਾ ਤਾਪਮਾਨ ਵੱਧ ਹੋਣ ਕਰਕੇ ਉਪਲਬਧ ਨਹੀਂ ਹੈ। ਫ਼ੋਨ ਦੇ ਠੰਡੇ ਹੋਣ ਦੀ ਉਡੀਕ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">"ਬੈਟਰੀ ਸ਼ੇਅਰ ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਕਿਉਂਕਿ ਫ਼ੋਨ ਵਾਇਰਲੈੱਸ ਤੌਰ 'ਤੇ ਚਾਰਜ ਹੋ ਰਿਹਾ ਹੈ"</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"ਬੈਟਰੀ ਸ਼ੇਅਰ ਵਿਸ਼ੇਸ਼ਤਾ ਅਨੁਰੂਪ ਈਅਰਬੱਡਾਂ, ਫ਼ੋਨਾਂ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨਾਲ ਕੰਮ ਕਰਦੀ ਹੈ।
+
+ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਨਾਲ ਤੁਹਾਡੇ ਫ਼ੋਨ ਦੀ ਬੈਟਰੀ ਛੇਤੀ ਖਤਮ ਹੋ ਜਾਵੇਗੀ। ਕਿਸੇ ਹੋਰ ਡੀਵਾਈਸ ਦਾ ਪਤਾ ਨਾ ਲੱਗਣ 'ਤੇ ਬੈਟਰੀ ਸ਼ੇਅਰ ਵਿਸ਼ੇਸਤਾ ਕੁਝ ਮਿੰਟਾਂ ਬਾਅਦ ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਬੰਦ ਹੋ ਜਾਂਦੀ ਹੈ। ਬਿਹਤਰ ਚਾਰਜਿੰਗ ਲਈ, ਆਪਣੇ ਫ਼ੋਨ ਦੇ ਕਵਰ ਅਤੇ ਧਾਤੁ ਦੀਆਂ ਵਸਤੂਆਂ ਵਰਗੀਆਂ ਹੋਰ ਆਈਟਮਾਂ ਨੂੰ ਹਟਾਓ, ਜੋ ਚਾਰਜਿੰਗ ਵਿੱਚ ਵਿਘਨ ਪਾ ਸਕਦੀਆਂ ਹਨ।"</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">ਬੈਟਰੀ ਸ਼ੇਅਰ ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਕਿਉਂਕਿ ਬੈਟਰੀ ਸੇਵਰ ਚਾਲੂ ਹੈ</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">ਬੈਟਰੀ ਸ਼ੇਅਰ ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਕਿਉਂਕਿ USB-C ਡੀਵਾਈਸ ਦਾ ਪਲੱਗ ਲੱਗਾ ਹੋਇਆ ਹੈ</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">ਚਾਰਜਿੰਗ ਦੌਰਾਨ ਬੈਟਰੀ ਸ਼ੇਅਰ ਵਿਸ਼ੇਸ਼ਤਾ ਉਪਲਬਧ ਨਹੀਂ ਹੁੰਦੀ</string>
+    <string name="reverse_charging_instructions_title">"ਆਪਣੇ Pixel ਨਾਲ ਦੂਜੇ ਡੀਵਾਈਸਾਂ ਨੂੰ ਚਾਰਜ ਕਰੋ।
+ਅਜ਼ਮਾਉਣ ਲਈ ਫ਼ੋਨ ਨੂੰ ਫਲਿੱਪ ਕਰੋ।"</string>
+    <string name="reverse_charging_is_off_summary">ਬੰਦ</string>
+    <string name="reverse_charging_is_on_and_charging_summary">ਬੈਟਰੀ ਸਾਂਝੀ ਅਤੇ ਚਾਰਜ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">ਬੈਟਰੀ ਸਾਂਝੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+    <string name="reverse_charging_is_on_summary">ਚਾਲੂ / ਹੋਰ ਡੀਵਾਈਸ ਚਾਰਜ ਕਰੋ</string>
+    <string name="reverse_charging_main_switch">ਬੈਟਰੀ ਸ਼ੇਅਰ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਕਿਉਂਕਿ ਬੈਟਰੀ ਸੇਵਰ ਚਾਲੂ ਹੈ</string>
+    <string name="reverse_charging_sharing_level_message">ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਕਿਉਂਕਿ ਬੈਟਰੀ ਸਾਂਝਾਕਰਨ ਦੇ ਪੱਧਰ ਤੋਂ ਘੱਟ ਹੈ</string>
+    <string name="reverse_charging_switch_title">ਹੋਰ ਡੀਵਾਈਸਾਂ ਨੂੰ ਆਪਣੇ Pixel ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਰੱਖ ਕੇ ਚਾਰਜ ਕਰੋ</string>
+    <string name="reverse_charging_title">ਬੈਟਰੀ ਸ਼ੇਅਰ</string>
+    <string name="reverse_charging_unplug_usb_cable_message">ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਕਿਉਂਕਿ USB-C ਡੀਵਾਈਸ ਦਾ ਪਲੱਗ ਲੱਗਾ ਹੋਇਆ ਹੈ</string>
+    <string name="reverse_charging_warning_summary">ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਕਿਉਂਕਿ ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ ਹੈ</string>
+    <string name="reverse_charging_warning_title">ਬੈਟਰੀ ਸ਼ੇਅਰ ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਕਿਉਂਕਿ ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ ਹੈ</string>
 </resources>

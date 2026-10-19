@@ -262,4 +262,34 @@
     <string name="columbus_setting_enable_switch_title">Folosește Atingerea rapidă</string>
     <string name="columbus_setting_sensitivity_title">Solicită apăsări mai puternice</string>
     <string name="columbus_title">Atinge rapid pentru a iniția acțiuni</string>
+
+    <!-- Battery Share -->
+    <string name="keywords_battery_share">încărcare în comun, încărcare wireless</string>
+    <string name="keywords_battery_share_settings">încărcare în comun, încărcare wireless inversă</string>
+    <string name="keywords_reverse_charging_stop_threshold">Nu mai folosi Încărcarea în comun atunci când telefonul ajunge la:</string>
+    <string name="reverse_charging_auto_turn_on_subtitle">Se va activa automat pentru o scurtă perioadă când telefonul este conectat la încărcător</string>
+    <string name="reverse_charging_auto_turn_on_title">Activează automat</string>
+    <string name="reverse_charging_charging_wirelessly_message">Funcție indisponibilă, deoarece telefonul se încarcă wireless</string>
+    <string name="reverse_charging_detail_charging_overheat_message">Indisponibil din cauza temperaturii. Așteaptă să se răcească telefonul și încearcă din nou</string>
+    <string name="reverse_charging_detail_charging_wirelessly_message">Încărcarea în comun nu este disponibilă, deoarece telefonul se încarcă wireless</string>
+    <string name="reverse_charging_detail_footer_title_advanced">"Încărcarea în comun funcționează cu căști intraauriculare, telefoane și alte dispozitive compatibile.
+
+Bateria telefonului se va descărca mai rapid dacă folosești această funcție. Încărcarea în comun se dezactivează automat după câteva minute dacă nu este detectat un alt dispozitiv. Pentru o încărcare eficientă, scoate carcasa telefonului și alte obiecte care pot interfera, precum obiectele din metal."</string>
+    <string name="reverse_charging_detail_power_save_mode_is_on_message">Încărcarea în comun nu este disponibilă, deoarece economisirea bateriei este activată</string>
+    <string name="reverse_charging_detail_unplug_usb_cable_message">Încărcarea în comun nu este disponibilă, deoarece dispozitivul USB-C este conectat</string>
+    <string name="reverse_charging_detail_unsupported_charger_message">Încărcarea în comun nu este disponibilă în timpul încărcării</string>
+    <string name="reverse_charging_instructions_title">"Încarcă alte dispozitive folosind dispozitivul Pixel.
+Întoarce telefonul pentru a încerca."</string>
+    <string name="reverse_charging_is_off_summary">Dezactivată</string>
+    <string name="reverse_charging_is_on_and_charging_summary">Se permite accesul și se încarcă bateria</string>
+    <string name="reverse_charging_is_on_and_discharging_summary">Se folosește încărcarea în comun</string>
+    <string name="reverse_charging_is_on_summary">Activată / Încarcă alte dispozitive</string>
+    <string name="reverse_charging_main_switch">Folosește Încărcarea în comun</string>
+    <string name="reverse_charging_power_save_mode_is_on_message">Indisponibilă pentru că este activată Economisirea bateriei</string>
+    <string name="reverse_charging_sharing_level_message">Funcție indisponibilă, deoarece nivelul de încărcare al bateriei este sub cel necesar pentru folosirea în comun</string>
+    <string name="reverse_charging_switch_title">Încarcă alte dispozitive așezându-le pe partea din spate a dispozitivului Pixel</string>
+    <string name="reverse_charging_title">Încărcarea în comun</string>
+    <string name="reverse_charging_unplug_usb_cable_message">Funcție indisponibilă, deoarece este conectat un dispozitiv USB-C</string>
+    <string name="reverse_charging_warning_summary">Funcție indisponibilă, deoarece nivelul de încărcare al bateriei este sub %1$s</string>
+    <string name="reverse_charging_warning_title">Încărcarea în comun nu este disponibilă, deoarece nivelul de încărcare al bateriei este sub %1$s</string>
 </resources>
