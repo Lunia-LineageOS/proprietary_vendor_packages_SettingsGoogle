@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">មិនអាចប្រើ​បានទេ ដោយសារដោត​ឧបករណ៍ USB-C</string>
     <string name="reverse_charging_warning_summary">មិន​អាច​ប្រើបានទេ ដោយសារថ្ម​នៅសល់តិចជាង %1$s</string>
     <string name="reverse_charging_warning_title">មិនអាចប្រើ​ការចែករំលែកថ្ម​បានទេ ដោយសារថ្ម​នៅសល់តិចជាង %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">កំពុងសាកថ្ម​ទូរសព្ទ</string>
 </resources>

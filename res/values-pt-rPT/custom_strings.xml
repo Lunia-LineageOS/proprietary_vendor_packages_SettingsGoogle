@@ -292,4 +292,7 @@ Vire o telemóvel para experimentar."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Indisponível porque o dispositivo está ligado por USB-C.</string>
     <string name="reverse_charging_warning_summary">Indisponível porque a carga da bateria é inferior a %1$s.</string>
     <string name="reverse_charging_warning_title">A Partilha de bateria não está disponível porque a carga da bateria é inferior a %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Carregar o telemóvel</string>
 </resources>

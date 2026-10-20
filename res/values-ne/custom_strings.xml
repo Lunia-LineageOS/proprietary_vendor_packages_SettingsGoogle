@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">फोनमा USB-C केबलमार्फत कुनै यन्त्र जोडिएको हुनाले ब्याट्री सेयर गर्न मिल्दैन</string>
     <string name="reverse_charging_warning_summary">ब्याट्री %1$s भन्दा कम भएकाले ब्याट्री सेयर गर्न मिल्दैन</string>
     <string name="reverse_charging_warning_title">ब्याट्री भन्दा कम भएकाले ब्याट्री सेयर प्रयोग गर्न मिल्दैन%1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">फोन चार्ज गर्दै</string>
 </resources>

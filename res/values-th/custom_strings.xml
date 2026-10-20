@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">ใช้ไม่ได้เนื่องจากเสียบอุปกรณ์ USB-C อยู่</string>
     <string name="reverse_charging_warning_summary">ใช้ไม่ได้เนื่องจากแบตเตอรี่เหลือน้อยกว่า %1$s</string>
     <string name="reverse_charging_warning_title">การแชร์แบตเตอรี่ใช้งานไม่ได้เนื่องจากเหลือแบตเตอรี่ไม่ถึง %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">กำลังชาร์จโทรศัพท์</string>
 </resources>

@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">Не е налице, защото устройството с USB-C е включено в захранването</string>
     <string name="reverse_charging_warning_summary">Не е налице, защото нивото на батерията е под %1$s</string>
     <string name="reverse_charging_warning_title">Споделянето на батерията не е достъпно, защото нивото ѝ е под %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Зареждане на телефона</string>
 </resources>

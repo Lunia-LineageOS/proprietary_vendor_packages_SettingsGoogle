@@ -292,4 +292,7 @@ Settu símann á hvolf til að prófa."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Ekki í boði vegna þess að USB-C tæki er í sambandi</string>
     <string name="reverse_charging_warning_summary">Ekki tiltækt því að hleðsla rafhlöðunnar er minni en %1$s</string>
     <string name="reverse_charging_warning_title">Deiling rafhlöðu er ekki í boði vegna þess að rafhlöðuhleðsla er undir %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Hleður síma</string>
 </resources>

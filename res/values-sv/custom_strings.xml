@@ -292,4 +292,7 @@ Vänd på telefonen om du vill testa."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Inte tillgängligt eftersom en USB-C-enhet är inkopplad</string>
     <string name="reverse_charging_warning_summary">Inte tillgängligt eftersom batterinivån är under %1$s</string>
     <string name="reverse_charging_warning_title">Batteridelning är inte tillgängligt eftersom batterinivån är under %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Ladda mobilen</string>
 </resources>

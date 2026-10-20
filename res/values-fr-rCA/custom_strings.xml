@@ -292,4 +292,7 @@ Retournez votre appareil pour essayer."</string>
     <string name="reverse_charging_unplug_usb_cable_message">"Cette fonctionnalité n'est pas accessible parce qu'un appareil USB-C est branché"</string>
     <string name="reverse_charging_warning_summary">"Cette fonctionnalité n'est pas accessible parce que la charge de la pile est inférieure à %1$s"</string>
     <string name="reverse_charging_warning_title">"Le partage de la pile n'est pas accessible parce que la charge est inférieure à %1$s"</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Recharge du téléphone</string>
 </resources>

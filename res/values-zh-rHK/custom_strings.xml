@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">由於手機已插上 USB-C 裝置，因此無法使用</string>
     <string name="reverse_charging_warning_summary">由於電量低於 %1$s，因此無法使用</string>
     <string name="reverse_charging_warning_title">由於電量低於 %1$s，因此無法使用電池分享功能</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">手機充電中</string>
 </resources>

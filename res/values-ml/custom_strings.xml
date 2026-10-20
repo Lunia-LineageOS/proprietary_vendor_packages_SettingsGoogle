@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">USB-C ഉപകരണം പ്ലഗ് ഇൻ ചെയ്‌തിരിക്കുന്നതിനാൽ ലഭ്യമല്ല</string>
     <string name="reverse_charging_warning_summary">ബാറ്ററി %1$s ശതമാനത്തിൽ കുറവായതിനാൽ ലഭ്യമല്ല</string>
     <string name="reverse_charging_warning_title">ബാറ്ററി ചാർജ് %1$s -ത്തിൽ കുറവായതിനാൽ ബാറ്ററി പങ്കിടൽ ലഭ്യമല്ല</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">ഫോൺ ചാർജ് ചെയ്യുന്നു</string>
 </resources>

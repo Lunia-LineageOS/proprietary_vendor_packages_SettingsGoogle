@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">Недоступно, оскільки підключено пристрій USB-C</string>
     <string name="reverse_charging_warning_summary">Недоступно, оскільки рівень заряду акумулятора менше ніж %1$s</string>
     <string name="reverse_charging_warning_title">Спільне використання акумулятора недоступне, оскільки рівень його заряду менший за %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Заряджання телефона</string>
 </resources>

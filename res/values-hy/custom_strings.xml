@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">Հասանելի չէ, քանի որ USB-C միացքով սարք է միացված։</string>
     <string name="reverse_charging_warning_summary">Հասանելի չէ, քանի որ մարտկոցի լիցքի մակարդակը %1$s-ից ցածր է։</string>
     <string name="reverse_charging_warning_title">Հնարավոր չէ կիսվել մարտկոցի լիցքով, քանի որ մարտկոցի լիցքի մակարդակը %1$s-ից ցածր է։</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Հեռախոսի լիցքավորում</string>
 </resources>

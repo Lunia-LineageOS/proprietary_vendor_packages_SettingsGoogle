@@ -292,4 +292,7 @@ Vire o smartphone para testar."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Indisponível porque um dispositivo USB-C foi conectado</string>
     <string name="reverse_charging_warning_summary">Indisponível porque a bateria está com menos de %1$s</string>
     <string name="reverse_charging_warning_title">O compartilhamento de bateria está indisponível porque a carga está abaixo de %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Carregando smartphone</string>
 </resources>

@@ -292,4 +292,7 @@ Bateria telefonului se va descărca mai rapid dacă folosești această funcție
     <string name="reverse_charging_unplug_usb_cable_message">Funcție indisponibilă, deoarece este conectat un dispozitiv USB-C</string>
     <string name="reverse_charging_warning_summary">Funcție indisponibilă, deoarece nivelul de încărcare al bateriei este sub %1$s</string>
     <string name="reverse_charging_warning_title">Încărcarea în comun nu este disponibilă, deoarece nivelul de încărcare al bateriei este sub %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Se încarcă telefonul</string>
 </resources>

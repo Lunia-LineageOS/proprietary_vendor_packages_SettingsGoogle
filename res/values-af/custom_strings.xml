@@ -292,4 +292,7 @@ Keer jou foon om om te probeer."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Nie beskikbaar nie omdat USB-C-toestel ingeprop is</string>
     <string name="reverse_charging_warning_summary">Nie beskikbaar nie omdat battery onder %1$s is</string>
     <string name="reverse_charging_warning_title">Batterydeling is nie beskikbaar nie omdat battery onder %1$s is</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Laai tans foon</string>
 </resources>

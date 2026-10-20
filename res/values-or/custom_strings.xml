@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">USB-C ଡିଭାଇସ୍ ପ୍ଲଗ୍-ଇନ୍ କରାଯାଇଥିବା ଯୋଗୁଁ ଏହି ସୁବିଧା ଉପଲବ୍ଧ ନାହିଁ</string>
     <string name="reverse_charging_warning_summary">ବ୍ୟାଟେରୀ %1$sରୁ କମ୍ ଥିବା ଯୋଗୁଁ ଏହି ସୁବିଧା ଉପଲବ୍ଧ ନାହିଁ</string>
     <string name="reverse_charging_warning_title">"ବ୍ୟାଟେରୀର ଚାର୍ଜ %1$sରୁ କମ୍ ଥିବା ଯୋଗୁଁ 'ବ୍ୟାଟେରୀ ସେୟାର୍' ଉପଲବ୍ଧ ନାହିଁ"</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">ଫୋନ୍ ଚାର୍ଜ ହେଉଛି</string>
 </resources>

@@ -292,4 +292,7 @@ Kokeile kääntämällä puhelin ympäri."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Ei käytettävissä, koska USB-C-laite on liitettynä</string>
     <string name="reverse_charging_warning_summary">Ei käytettävissä, koska akun varaus on alle %1$s</string>
     <string name="reverse_charging_warning_title">Akunjako ei ole käytettävissä, koska akun varaus on alle %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Puhelinta ladataan</string>
 </resources>

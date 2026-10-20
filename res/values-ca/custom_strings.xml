@@ -292,4 +292,7 @@ Per provar-ho, gira el telèfon."</string>
     <string name="reverse_charging_unplug_usb_cable_message">No està disponible perquè hi ha un dispositiu USB-C connectat</string>
     <string name="reverse_charging_warning_summary">"No està disponible perquè queda menys d'un %1$s de bateria"</string>
     <string name="reverse_charging_warning_title">"La funció Compartició de bateria no està disponible perquè queda menys d'un %1$s de bateria"</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Càrrega del telèfon</string>
 </resources>

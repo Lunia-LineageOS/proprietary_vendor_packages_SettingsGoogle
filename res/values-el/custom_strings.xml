@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">Μη διαθέσιμο επειδή έχει συνδεθεί συσκευή USB-C.</string>
     <string name="reverse_charging_warning_summary">Μη διαθέσιμο επειδή η στάθμη της μπαταρίας είναι κάτω από %1$s.</string>
     <string name="reverse_charging_warning_title">Η κοινή χρήση μπαταρίας δεν είναι διαθέσιμη επειδή η στάθμη της μπαταρίας είναι κάτω από %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Φόρτιση τηλεφώνου</string>
 </resources>

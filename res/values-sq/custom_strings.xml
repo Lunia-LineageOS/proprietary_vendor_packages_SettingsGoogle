@@ -292,4 +292,7 @@ Ktheje telefonin nga ana tjetër dhe provo."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Nuk ofrohet për shkak se pajisja USB-C është në prizë</string>
     <string name="reverse_charging_warning_summary">Nuk ofrohet sepse bateria është nën %1$s</string>
     <string name="reverse_charging_warning_title">\"Ndarja e baterisë\" nuk ofrohet sepse bateria është nën %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Telefoni po karikohet</string>
 </resources>

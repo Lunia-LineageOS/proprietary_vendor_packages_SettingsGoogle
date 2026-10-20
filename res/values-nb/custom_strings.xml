@@ -292,4 +292,7 @@ Vend telefonen for å prøve."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Utilgjengelig fordi en USB-C-enhet er koblet til</string>
     <string name="reverse_charging_warning_summary">Utilgjengelig fordi batteriet er under %1$s</string>
     <string name="reverse_charging_warning_title">Batterideling er utilgjengelig fordi batteriet er under %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Lader telefonen</string>
 </resources>

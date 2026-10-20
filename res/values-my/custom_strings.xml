@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">USB-C စက်ကို ပလတ်တပ်ထားသောကြောင့် မရနိုင်ပါ</string>
     <string name="reverse_charging_warning_summary">ဘက်ထရီသည် %1$s အောက်ရောက်နေသောကြောင့် မရနိုင်ပါ</string>
     <string name="reverse_charging_warning_title">"ဘက်ထရီသည် %1$s အောက်ရောက်နေသောကြောင့် 'ဘက်ထရီမျှဝေခြင်း' ကို မရနိုင်ပါ"</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">ဖုန်းအားသွင်းနေသည်</string>
 </resources>

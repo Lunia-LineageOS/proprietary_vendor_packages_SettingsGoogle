@@ -292,4 +292,7 @@ Geuza simu yako ili ujaribu."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Hakipatikani kwa sababu kifaa cha USB-C kimechomekwa</string>
     <string name="reverse_charging_warning_summary">Hakipatikani kwa sababu chaji ya betri iko chini ya %1$s</string>
     <string name="reverse_charging_warning_title">Kipengele cha Kushiriki Betri hakipatikani kwa sababu chaji ya betri iko chini ya %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Inachaji simu</string>
 </resources>

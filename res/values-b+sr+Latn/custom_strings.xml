@@ -292,4 +292,7 @@ Obrnite telefon da biste probali."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Nije dostupno jer je priključen USB-C uređaj</string>
     <string name="reverse_charging_warning_summary">Nije dostupno jer je baterija ispod %1$s</string>
     <string name="reverse_charging_warning_title">Deljenje baterije nije dostupno jer je baterija na manje od %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Punjenje telefona</string>
 </resources>

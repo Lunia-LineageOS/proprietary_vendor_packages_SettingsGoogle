@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">Није доступно јер је прикључен USB-C уређај</string>
     <string name="reverse_charging_warning_summary">Није доступно јер је батерија испод %1$s</string>
     <string name="reverse_charging_warning_title">Дељење батерије није доступно јер је батерија на мање од %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Пуњење телефона</string>
 </resources>

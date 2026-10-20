@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">የUSB-Cሲ መሣሪያ ስለተሰካ አይገኝም</string>
     <string name="reverse_charging_warning_summary">ባትሪ ከ%1$s በታች ስለሆነ አይገኝም</string>
     <string name="reverse_charging_warning_title">ባትሪ ከ%1$s በታች ስለሆነ ባትሪ አጋራ አይገኝም</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">ኃይል የሚሞላ ስልክ</string>
 </resources>

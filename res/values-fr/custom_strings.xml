@@ -292,4 +292,7 @@ Retournez votre téléphone pour essayer."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Indisponible, car un périphérique USB-C est branché</string>
     <string name="reverse_charging_warning_summary">Indisponible, car le niveau de la batterie est inférieur à %1$s</string>
     <string name="reverse_charging_warning_title">"Le partage de batterie n'est pas disponible, car le niveau de batterie est inférieur à %1$s"</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Recharge du téléphone</string>
 </resources>

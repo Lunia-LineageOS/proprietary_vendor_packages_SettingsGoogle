@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">USB-C 기기가 연결되어 있으므로 사용할 수 없음</string>
     <string name="reverse_charging_warning_summary">배터리가 %1$s 미만이므로 사용할 수 없음</string>
     <string name="reverse_charging_warning_title">배터리가 %1$s 미만이므로 배터리 공유를 사용할 수 없음</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">휴대전화 충전 중</string>
 </resources>

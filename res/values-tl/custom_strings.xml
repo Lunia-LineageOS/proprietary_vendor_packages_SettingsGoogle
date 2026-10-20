@@ -292,4 +292,7 @@ Itaob ang iyong telepono para subukan."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Hindi available dahil may nakasaksak na USB-C device</string>
     <string name="reverse_charging_warning_summary">Hindi available dahil mas mababa sa %1$s ang baterya</string>
     <string name="reverse_charging_warning_title">Hindi available ang Battery Share dahil mas mababa sa %1$s ang baterya</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Nagcha-charge ng telepono</string>
 </resources>

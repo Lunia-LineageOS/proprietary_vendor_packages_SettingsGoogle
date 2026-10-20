@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">USB-C құрылғысы жалғанғандықтан, ол мүмкін емес.</string>
     <string name="reverse_charging_warning_summary">Батарея заряды %1$s деңгейінен аз болғандықтан, ол мүмкін емес.</string>
     <string name="reverse_charging_warning_title">Батарея заряды %1$s деңгейінен аз болғандықтан, Батареяны бөлісу функциясы істемейді.</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Телефонды зарядтау</string>
 </resources>

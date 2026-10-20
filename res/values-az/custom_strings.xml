@@ -292,4 +292,7 @@ Sınamaq üçün telefonu tərsinə çevirin."</string>
     <string name="reverse_charging_unplug_usb_cable_message">USB-C cihazı qoşulduğuna görə əlçatan deyil</string>
     <string name="reverse_charging_warning_summary">Enerji %1$s həddindən aşağı olduğuna görə əlçatan deyil</string>
     <string name="reverse_charging_warning_title">Enerji %1$s faizdən aşağı olduğuna görə enerjini paylaşmaq olmur</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Telefon batareya yığır</string>
 </resources>

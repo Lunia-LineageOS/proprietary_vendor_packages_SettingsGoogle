@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">‏לא זמין מפני שמחובר מכשיר USB-C</string>
     <string name="reverse_charging_warning_summary">לא זמין כי רמת טעינת הסוללה נמוכה מ-%1$s</string>
     <string name="reverse_charging_warning_title">שיתוף הסוללה אינו זמין כי רמת טעינת הסוללה נמוכה מ-%1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">טעינת הטלפון</string>
 </resources>

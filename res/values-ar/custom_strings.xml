@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">‏الميزة غير متاحة لأنه تم توصيل جهاز USB-C.</string>
     <string name="reverse_charging_warning_summary">الميزة غير متاحة لأن مستوى شحن البطارية أقلّ من %1$s.</string>
     <string name="reverse_charging_warning_title">ميزة \"مشاركة البطارية\" غير متاحة لأن مستوى شحن البطارية أقل من %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">شحن الهاتف</string>
 </resources>

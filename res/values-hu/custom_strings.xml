@@ -292,4 +292,7 @@ A kipróbálásához fordítsa meg a telefonját."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Nem használható, mert USB-C-eszköz van csatlakoztatva</string>
     <string name="reverse_charging_warning_summary">Nem használható, mert az akkumulátor töltöttsége %1$s alatt van</string>
     <string name="reverse_charging_warning_title">Az akkumumegosztás nem lehetséges, mert az akkumulátor töltöttsége %1$s alatt van</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Telefon töltése</string>
 </resources>

@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">USB-C ಸಾಧನ ಪ್ಲಗ್-ಇನ್ ಆಗಿರುವುದರಿಂದ ಲಭ್ಯವಿಲ್ಲ</string>
     <string name="reverse_charging_warning_summary">ಬ್ಯಾಟರಿ ಪ್ರಮಾಣ %1$s ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವುದರಿಂದ, ಬ್ಯಾಟರಿ ಹಂಚಿಕೆಯನ್ನು ಆಫ್ ಮಾಡಲಾಗಿದೆ</string>
     <string name="reverse_charging_warning_title">ಬ್ಯಾಟರಿ ಪ್ರಮಾಣ %1$s ಗಿಂತ ಕಡಿಮೆ ಇರುವುದರಿಂದ ಬ್ಯಾಟರಿ ಹಂಚಿಕೊಳ್ಳುವಿಕೆ ಲಭ್ಯವಿಲ್ಲ</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">ಫೋನ್‌ ಚಾರ್ಜಿಂಗ್‌ ಆಗುತ್ತಿದೆ</string>
 </resources>

@@ -292,4 +292,7 @@ Apvērsiet tālruni otrādi, lai to izmēģinātu."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Nav pieejama, jo ir pievienota USB-C ierīce</string>
     <string name="reverse_charging_warning_summary">Nav pieejama, jo akumulatora uzlādes līmenis ir mazāks nekā %1$s</string>
     <string name="reverse_charging_warning_title">Akumulatora dalīšana nav pieejama, jo akumulatora uzlādes līmenis ir mazāks nekā %1$s.</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Tālruņa uzlādēšana</string>
 </resources>

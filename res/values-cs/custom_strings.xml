@@ -292,4 +292,7 @@ Otočte telefon a zkuste to."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Nedostupné, protože je připojeno zařízení USB-C</string>
     <string name="reverse_charging_warning_summary">Nedostupné, protože baterie telefonu je pod %1$s</string>
     <string name="reverse_charging_warning_title">Sdílení baterie není k dispozici, protože baterie je pod %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Nabíjení telefonu</string>
 </resources>

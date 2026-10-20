@@ -292,4 +292,7 @@ Probatzeko, irauli telefonoa."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Ez dago erabilgarri beste gailu bat konektatuta dagoelako USB-C bidez</string>
     <string name="reverse_charging_warning_summary">Ez dago erabilgarri bateria %1$s(e)tik beherakoa delako</string>
     <string name="reverse_charging_warning_title">Ezin da partekatu bateria, %1$s baino gutxiago gelditzen delako</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Telefonoa kargatzea</string>
 </resources>

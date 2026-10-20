@@ -292,4 +292,7 @@ Boshlash uchun telefonni teskari qiling."</string>
     <string name="reverse_charging_unplug_usb_cable_message">USB-C qurilmasi ulangani uchun ishlamaydi</string>
     <string name="reverse_charging_warning_summary">Batareya quvvati %1$s boʻlgani sababli ishlamaydi</string>
     <string name="reverse_charging_warning_title">Batareya quvvati %1$s dan kam qolgani uchun quvvat ulashish funksiyasi ishlamaydi</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Telefon quvvat olmoqda</string>
 </resources>

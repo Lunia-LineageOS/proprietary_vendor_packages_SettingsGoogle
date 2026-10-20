@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">बैटरी शेयर करने की सुविधा इस्तेमाल नहीं की जा सकती, क्योंकि फ़ोन से यूएसबी-सी वाला कोई डिवाइस जुड़ा है</string>
     <string name="reverse_charging_warning_summary">बैटरी शेयर करने की सुविधा इस्तेमाल नहीं की जा सकती, क्योंकि बैटरी %1$s से कम है</string>
     <string name="reverse_charging_warning_title">बैटरी शेयर करने की सुविधा इस्तेमाल नहीं की जा सकती, क्योंकि बैटरी %1$s से कम है</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">फ़ोन चार्ज हो रहा है</string>
 </resources>

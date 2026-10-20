@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">მიუწვდომელია, რადგან მიერთებულია USB-C მოწყობილობა</string>
     <string name="reverse_charging_warning_summary">მიუწვდომელია, რადგან ბატარეის მუხტი %1$s-ზე დაბალია</string>
     <string name="reverse_charging_warning_title">ბატარეის გაზიარება მიუწვდომელია, რადგან ბატარეის მუხტი %1$s-ზე ნაკლებია</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">ტელეფონი იტენება</string>
 </resources>

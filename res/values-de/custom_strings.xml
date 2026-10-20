@@ -292,4 +292,7 @@ Drehe dein Phone hierzu um."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Nicht verfügbar, weil ein USB-C-Gerät angeschlossen ist</string>
     <string name="reverse_charging_warning_summary">Nicht verfügbar, weil der Akkustand unter %1$s liegt</string>
     <string name="reverse_charging_warning_title">Die Funktion „Akku teilen“ ist nicht verfügbar, weil der Akkustand unter %1$s liegt</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Smartphone wird aufgeladen</string>
 </resources>

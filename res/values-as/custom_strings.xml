@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">USB-C ডিভাইচ প্লাগ কৰি থোৱাৰ কাৰণে উপলব্ধ নহয়</string>
     <string name="reverse_charging_warning_summary">বেটাৰী %1$sতকৈ কম থকাৰ কাৰণে উপলব্ধ নহয়</string>
     <string name="reverse_charging_warning_title">বেটাৰী %1$sতকৈ কম থকাৰ কাৰণে বেটাৰী শ্বেয়াৰ কৰা সুবিধাটো উপলব্ধ নহয়</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">"ফ'ন চাৰ্জ কৰি থকা হৈছে"</string>
 </resources>

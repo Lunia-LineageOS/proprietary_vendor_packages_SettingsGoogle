@@ -292,4 +292,7 @@ Draai je telefoon om en probeer het uit."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Niet beschikbaar omdat er een USB-C-apparaat is aangesloten</string>
     <string name="reverse_charging_warning_summary">Niet beschikbaar omdat de batterij minder dan %1$s lading heeft</string>
     <string name="reverse_charging_warning_title">Batterij delen is niet beschikbaar omdat de batterij minder dan %1$s lading heeft</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Telefoon opladen</string>
 </resources>

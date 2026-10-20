@@ -292,4 +292,7 @@ Balik ponsel Anda untuk mencobanya."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Tidak tersedia karena perangkat USB-C dicolokkan</string>
     <string name="reverse_charging_warning_summary">Tidak tersedia karena baterai di bawah %1$s</string>
     <string name="reverse_charging_warning_title">Berbagi Baterai tidak tersedia karena daya baterai di bawah %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Mengisi baterai ponsel</string>
 </resources>

@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">Жеткиликсиз, анткени USB-C түзмөгү сайылып турат</string>
     <string name="reverse_charging_warning_summary">Жеткиликсиз, анткени телефондун кубатынын деңгээли %1$s төмөн</string>
     <string name="reverse_charging_warning_title">Батареяны бөлүшүү функциясы иштебейт, анткени батареянын деңгээли %1$s төмөн</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Телефонду кубаттоо</string>
 </resources>

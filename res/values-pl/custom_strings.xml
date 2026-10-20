@@ -292,4 +292,7 @@ Odwróć telefon, aby wypróbować."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Niedostępne, ponieważ podłączono urządzenie z portem USB typu C</string>
     <string name="reverse_charging_warning_summary">Niedostępne, ponieważ poziom naładowania baterii jest niższy niż %1$s</string>
     <string name="reverse_charging_warning_title">Nie można użyć współdzielenia baterii, ponieważ poziom naładowania baterii wynosi mniej niż %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Ładowanie telefonu</string>
 </resources>

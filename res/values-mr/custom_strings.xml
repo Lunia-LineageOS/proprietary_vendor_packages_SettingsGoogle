@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">USB-C डिव्हाइस प्लग-इन केले असल्यामुळे उपलब्ध नाही</string>
     <string name="reverse_charging_warning_summary">बॅटरी %1$s पेक्षा कमी असल्यामुळे उपलब्ध नाही</string>
     <string name="reverse_charging_warning_title">बॅटरी %1$s पेक्षा कमी असल्यामुळे बॅटरी शेअर उपलब्ध नाही</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">फोन चार्ज होत आहे</string>
 </resources>

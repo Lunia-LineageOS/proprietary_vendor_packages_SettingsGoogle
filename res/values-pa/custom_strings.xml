@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਕਿਉਂਕਿ USB-C ਡੀਵਾਈਸ ਦਾ ਪਲੱਗ ਲੱਗਾ ਹੋਇਆ ਹੈ</string>
     <string name="reverse_charging_warning_summary">ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਕਿਉਂਕਿ ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ ਹੈ</string>
     <string name="reverse_charging_warning_title">ਬੈਟਰੀ ਸ਼ੇਅਰ ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਕਿਉਂਕਿ ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ ਹੈ</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">ਫ਼ੋਨ ਚਾਰਜ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</string>
 </resources>

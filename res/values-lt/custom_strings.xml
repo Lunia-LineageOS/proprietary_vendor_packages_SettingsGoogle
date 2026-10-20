@@ -292,4 +292,7 @@ Norėdami pabandyti, apverskite telefoną."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Nepasiekiama, nes prijungtas USB-C įrenginys</string>
     <string name="reverse_charging_warning_summary">Nepasiekiama, nes akumuliatoriaus įkrova mažesnė nei %1$s</string>
     <string name="reverse_charging_warning_title">Akumuliatoriaus bendrinimo funkcija nepasiekiama, nes akumuliatoriaus įkrova mažesnė nei %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Įkraunamas telefonas</string>
 </resources>

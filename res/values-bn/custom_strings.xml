@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">USB-C ডিভাইস প্লাগ-ইন করা আছে বলে উপলভ্য নয়</string>
     <string name="reverse_charging_warning_summary">ব্যাটারির চার্জ %1$s-এর কম হওয়ার জন্য উপলভ্য নয়</string>
     <string name="reverse_charging_warning_title">ব্যাটারির চার্জ %1$s-এর কম হওয়ার জন্য ব্যাটারি শেয়ার করার ফিচার ব্যবহারের সুবিধা উপলভ্য নেই</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">ফোনে চার্জ দেওয়া হচ্ছে</string>
 </resources>

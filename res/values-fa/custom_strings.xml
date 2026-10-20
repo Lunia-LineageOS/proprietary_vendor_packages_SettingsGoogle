@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">‏امکان‌پذیر نیست، چون دستگاه USB-C وصل است</string>
     <string name="reverse_charging_warning_summary">امکان‌پذیر نیست، چون شارژ باتری کمتر از %1$s است</string>
     <string name="reverse_charging_warning_title">«اشتراک باتری» دردسترس نیست، چون شارژ باتری کمتر از %1$s است</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">درحال شارژ تلفن</string>
 </resources>

@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">ບໍ່ສາມາດໃຊ້ໄດ້ເນື່ອງຈາກສຽບອຸປະກອນ USB-C ອື່ນໄວ້ຢູ່</string>
     <string name="reverse_charging_warning_summary">ບໍ່ສາມາດໃຊ້ໄດ້ເນື່ອງຈາກແບັດເຕີຣີຕ່ຳກວ່າ %1$s</string>
     <string name="reverse_charging_warning_title">ບໍ່ສາມາດແບ່ງປັນແບັດເຕີຣີໄດ້ເນື່ອງຈາກແບັດເຕີຣີເຫຼືອຕ່ຳກວ່າ %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">ກຳລັງສາກໄຟໂທລະສັບ</string>
 </resources>

@@ -292,4 +292,7 @@ Proovimiseks pöörake telefon ümber."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Pole saadaval, kuna USB-C-seade on ühendatud</string>
     <string name="reverse_charging_warning_summary">Pole saadaval, kuna aku laetus on alla %1$s</string>
     <string name="reverse_charging_warning_title">Aku jagamine pole saadaval, kuna aku laetus on alla %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Telefoni laadimine</string>
 </resources>

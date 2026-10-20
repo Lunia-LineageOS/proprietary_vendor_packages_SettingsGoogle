@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">Недаступна, таму што падключана прылада USB-C</string>
     <string name="reverse_charging_warning_summary">Недаступна, таму што ўзровень зараду акумулятара ніжэй за %1$s</string>
     <string name="reverse_charging_warning_title">Перадача зараду акумулятара недаступная, таму што ўзровень зараду акумулятара ніжэй за %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Зарадка тэлефона</string>
 </resources>

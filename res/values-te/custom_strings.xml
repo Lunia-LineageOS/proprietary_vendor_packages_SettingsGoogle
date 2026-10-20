@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">USB-C పరికరం ప్లగిన్ చేయటం వలన అందుబాటులో లేదు</string>
     <string name="reverse_charging_warning_summary">బ్యాటరీ %1$s కంటే తక్కువ ఉండటంవల్ల అందుబాటులో లేదు</string>
     <string name="reverse_charging_warning_title">బ్యాటరీ %1$s కంటే తక్కువ ఉన్నందున బ్యాటరీ షేరింగ్ అందుబాటులో లేదు</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">ఫోన్‌ని చార్జ్ చేస్తోంది</string>
 </resources>

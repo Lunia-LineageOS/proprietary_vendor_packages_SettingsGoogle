@@ -292,4 +292,7 @@ Denemek için telefonunuzu çevirin."</string>
     <string name="reverse_charging_unplug_usb_cable_message">USB-C cihazı takılı olduğundan kullanılamıyor</string>
     <string name="reverse_charging_warning_summary">Pil %1$s seviyesinin altında olduğundan kullanılamıyor</string>
     <string name="reverse_charging_warning_title">Pil %1$s seviyesinin altında olduğundan Pil Paylaşımı kullanılamıyor</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Telefonunuz şarj oluyor</string>
 </resources>

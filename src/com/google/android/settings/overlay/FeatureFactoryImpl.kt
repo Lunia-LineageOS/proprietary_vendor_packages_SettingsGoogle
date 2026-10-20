@@ -3,6 +3,7 @@ package com.google.android.settings.overlay
 import com.google.android.settings.biometrics.BiometricsFeatureProviderGoogleImpl
 import com.google.android.settings.biometrics.face.FaceFeatureProviderGoogleImpl
 import com.google.android.settings.biometrics.fingerprint.FingerprintFeatureProviderGoogleImpl
+import com.google.android.settings.connecteddevice.dock.DockUpdaterFeatureProviderGoogleImpl
 import com.google.android.settings.fuelgauge.BatterySettingsFeatureProviderGoogleImpl
 import com.google.android.settings.fuelgauge.BatteryStatusFeatureProviderGoogleImpl
 import com.google.android.settings.fuelgauge.PowerUsageFeatureProviderGoogleImpl
@@ -18,6 +19,8 @@ abstract class FeatureFactoryImpl : com.android.settings.overlay.FeatureFactoryI
     override val batteryStatusFeatureProvider by lazy { BatteryStatusFeatureProviderGoogleImpl(appContext) }
 
     override val batterySettingsFeatureProvider by lazy { BatterySettingsFeatureProviderGoogleImpl() }
+
+    override val dockUpdaterFeatureProvider by lazy { DockUpdaterFeatureProviderGoogleImpl() }
 
     override val searchFeatureProvider = SearchFeatureProviderGoogleImpl
 

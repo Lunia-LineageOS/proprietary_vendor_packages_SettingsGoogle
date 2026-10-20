@@ -292,4 +292,7 @@ Hãy lật điện thoại để thử."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Không dùng được vì đã cắm thiết bị USB-C</string>
     <string name="reverse_charging_warning_summary">Không dùng được vì pin ở dưới mức %1$s</string>
     <string name="reverse_charging_warning_title">Không dùng được tính năng Chia sẻ pin vì pin ở dưới mức %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Đang sạc điện thoại</string>
 </resources>

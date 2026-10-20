@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">Функция недоступна, так как подключено устройство USB-C.</string>
     <string name="reverse_charging_warning_summary">Функция недоступна, так как заряд батареи ниже %1$s</string>
     <string name="reverse_charging_warning_title">Невозможно поделиться зарядом батареи, так как уровень заряда ниже %1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Зарядка телефона</string>
 </resources>

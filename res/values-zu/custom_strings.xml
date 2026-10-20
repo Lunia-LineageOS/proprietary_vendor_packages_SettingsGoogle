@@ -292,4 +292,7 @@ Phenya ifoni yakho ukuzama."</string>
     <string name="reverse_charging_unplug_usb_cable_message">Akutholakali ngoba idivayisi ye-USB-C ixhunyiwe</string>
     <string name="reverse_charging_warning_summary">Ayitholakali ngoba ibhethri ingaphansi kuka-%1$s</string>
     <string name="reverse_charging_warning_title">Ukwabelana ngebhethri akutholakali ngoba ibhethri ingaphansi kuka-%1$s</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">Ukushaja ifoni</string>
 </resources>

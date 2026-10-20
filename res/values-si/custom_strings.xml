@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">USB-C උපාංගය පේනුගත කර ඇති නිසා ලබා ගත නොහැකිය</string>
     <string name="reverse_charging_warning_summary">බැටරි බලය %1$sට අඩු නිසා ලබාගත නොහැකිය</string>
     <string name="reverse_charging_warning_title">බැටරි බලය %1$sට පහළ නිසා බැටරි බලය බෙදා ගැනීම ලබා ගත නොහැකිය</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">දුරකථනය ආරෝපණය වෙමින්</string>
 </resources>

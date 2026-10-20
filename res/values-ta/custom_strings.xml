@@ -292,4 +292,7 @@
     <string name="reverse_charging_unplug_usb_cable_message">USB-C சாதனம் பிளக் இன் செய்யப்பட்டதால் பயன்படுத்த முடியாது</string>
     <string name="reverse_charging_warning_summary">பேட்டரி %1$sக்குக் கீழே உள்ளதால் பயன்படுத்த முடியாது</string>
     <string name="reverse_charging_warning_title">பேட்டரி %1$sக்குக் கீழே உள்ளதால் பேட்டரி பகிர்வைப் பயன்படுத்த முடியாது</string>
+
+    <!-- Pixel Stand dock -->
+    <string name="dock_summary_charging_phone">மொபைலைச் சார்ஜ் செய்கிறது</string>
 </resources>
