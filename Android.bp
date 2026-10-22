@@ -1,5 +1,6 @@
 android_library {
     name: "SettingsGoogle-core",
+    defaults: ["SettingsLib-search-defaults"],
     srcs: [
         "src/**/*.java",
         "src/**/*.kt",
@@ -11,6 +12,9 @@ android_library {
         "res-product",
     ],
     static_libs: ["Settings-core"],
+    javacflags: [
+        "-Acom.android.settingslib.search.processor.package=com.google.android.settings.search",
+    ],
     manifest: "AndroidManifest-res.xml",
 }
 
