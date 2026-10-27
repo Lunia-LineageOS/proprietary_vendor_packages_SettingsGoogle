@@ -1,6 +1,8 @@
 android_library {
     name: "SettingsGoogle-core",
     defaults: ["SettingsLib-search-defaults"],
+    // Stock builds localepicker as its own library with the
+    // com.google.android.settings.localepicker R, but its module name isn't recoverable.
     srcs: [
         "src/**/*.java",
         "src/**/*.kt",
