@@ -1,0 +1,5 @@
+android_library {
+    name: "SettingsGoogle-GeneralAccess",
+    srcs: ["src/**/*.kt"],
+    static_libs: ["SettingsGoogle-core"],
+}
