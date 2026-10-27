@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">اب آپ اپنا فون غیر مقفل کرنے یا اس بات کی توثیق کرنے کیلئے کہ یہ آپ ہی ہیں، اپنے فنگر پرنٹ کا استعمال کر سکتے ہیں۔ زیادہ سے زیادہ سہولت کے لیے، ایک اور فنگر پرنٹ شامل کریں۔</string>
+    <string name="enroll_usudfps_fingertip_title_simple">اپنی فنگر ٹِپ کو ٹچ کریں</string>
+    <string name="enroll_usudfps_left_edge_title_simple">بائیں کنارے کو ٹچ کریں</string>
+    <string name="enroll_usudfps_right_edge_title_simple">دائیں کنارے کو ٹچ کریں</string>
+    <string name="find_usudfps_subtitle_simple">فنگر پرنٹ سینسر اگلی اسکرین پر ہوگی</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">اسکرین پروٹیکٹر کے ساتھ سیٹ اپ کریں</string>
+    <string name="fingerprint_acquired_immobile_simple">ہر بار تھوڑا سا ایڈجسٹ کریں</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">‏درست QR کوڈ</string>
+    <string name="fingerprint_sp_qr_code_error">‏یہ QR کوڈ سند یافتہ اسکرین پروٹیکٹر کے لیے نہیں ہے</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">آپ کے پاس ایک %s ہے۔\nاسے فنگر پرنٹ اَن لاک سیٹ اپ کرنے سے پہلے لاگو کریں۔</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">کوڈ کو اسکرین پروٹیکٹر پیکیجنگ پر فریم کے اندر رکھیں</string>
+    <string name="fingerprint_sp_title_got_it">سمجھ آ گئی!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">‏‫QR کوڈ اسکین کریں</string>
+    <string name="protector_edu_subtitle">ایک اسکرین پروٹیکٹر فنگر پرنٹ کی شناخت کو متاثر کر سکتا ہے۔ اسکرین پروٹیکٹر کے ساتھ فنگر پرنٹ اَن لاک کی بہترین کارکردگی کے لیے:</string>
+    <string name="screen_protector_edu_apply_instruction">‏جب ممکن ہو، فنگر پرنٹ اَن لاک کو سیٹ اپ کرنے سے پہلے اسکرین پروٹیکٹر لگائیں اور کسی بھی بلبلے کو برابر رکھیں۔ اگر آپ کو سیٹ اپ کے بعد اسے لاگو کرنے کی ضرورت ہو تو بعد میں اپنے کیمرے سے QR کوڈ کو اسکین کریں۔</string>
+    <string name="screen_protector_edu_learn_more">‏&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;g.co/pixel/screenprotector پر مزید جانیں&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">‏ایک ایسے اسکرین پروٹیکٹر کا استعمال کریں جو Google کے لیے تیار کردہ سے سند یافتہ ہو</string>
+    <string name="screen_protector_edu_no_qr_code">‏کوئی QR کوڈ نہیں ہے</string>
+    <string name="screen_protector_edu_scan_it_later">اسے بعد میں اسکین کریں</string>
+    <string name="screen_protector_edu_scan_qr_code">‏‫QR کوڈ اسکین کریں</string>
+    <string name="screen_protector_edu_title">‏اسکرین پروٹیکٹر پیکیجنگ پر QR کوڈ اسکین کریں</string>
+    <string name="screen_protector_no_qr_code_msg">‏‫Google کیلئے تیار کردہ کی طرف سے سند یافتہ اسکرین پروٹیکٹر کی پیکجنگ پر QR کوڈ موجود ہوتا ہے۔ دیگر اسکرین پروٹیکٹرز سینسر کے ساتھ مداخلت کر سکتے ہیں اور اسے معتبر طور پر کام کرنے سے روک سکتے ہیں۔\n\n ‫g.co/pixel/screenprotector پر مزید جانیں</string>
+    <string name="screen_protector_no_qr_code_ok">سمجھ آ گئی</string>
+    <string name="screen_protector_no_qr_code_title">‏‫QR کوڈ نظر نہیں آیا؟</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">تصدیق کریں</string>
+    <string name="security_settings_udfps_screen_protector_description_none">کوئی اسکرین پروٹیکٹر نہیں ہے</string>
+    <string name="security_settings_udfps_screen_protector_keywords">اسکرین پروٹیکٹر</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">فنگر پرنٹ کی شناخت کو بہتر بنانے کے لیے، اسکرین پروٹیکٹر آپٹیمائزیشن کو آف کرنے سے پہلے اپنے اسکرین پروٹیکٹر کو ہٹا دیں</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">اسکرین پروٹیکٹر کو ہٹائیں</string>
+    <string name="security_settings_udfps_screen_protector_title">اسکرین پروٹیکٹر کے لیے بہتر بنائیں</string>
+    <string name="sp_apply_dialog_button_got_it">سمجھ آ گئی</string>
+    <string name="sp_apply_dialog_msg_incompatible">‏آپ کا اسکرین پروٹیکٹر ہو سکتا ہے کہ آپ کے فون سے مطابقت نہ رکھتا ہو۔ یقینی بنانے کے لیے، اپنے فون کو Android کے تازہ ترین ورژن میں اپ ڈیٹ کریں اور دوبارہ کوشش کریں۔</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">‏غلط QR کوڈ</string>
+    <string name="sp_apply_dialog_msg_main_user_only">یہ کارروائی صرف آلہ کے مالک تک محدود ہے</string>
+    <string name="sp_apply_title_product_combined">%s؟</string>
+    <string name="sp_apply_yes_button">ہاں</string>
+</resources>

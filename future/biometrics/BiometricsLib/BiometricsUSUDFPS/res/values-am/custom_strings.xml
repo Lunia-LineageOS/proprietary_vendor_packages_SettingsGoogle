@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">አሁን ስልክዎን ለመክፈት ወይም እርስዎ መሆንዎን ለማረጋገጥ የጣት አሻራዎን መጠቀም ይችላሉ። ለከፍተኛው ተለዋዋጭነት ሌላ የጣት አሻራ ያክሉ።</string>
+    <string name="enroll_usudfps_fingertip_title_simple">የጣትዎን ጫፍ ይንኩ</string>
+    <string name="enroll_usudfps_left_edge_title_simple">የግራውን ጠርዝ ይንኩ</string>
+    <string name="enroll_usudfps_right_edge_title_simple">የቀኙን ጠርዝ ይንኩ</string>
+    <string name="find_usudfps_subtitle_simple">የጣት አሻራ ዳሳሹ በሚቀጥለው ማያ ገጽ ላይ ይሆናል</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">በማያ ገጽ መከላከያ አዋቅር</string>
+    <string name="fingerprint_acquired_immobile_simple">በእያንዳንዱ ጊዜ በትንሹ ያስተካክሉ</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">ትክክለኛ የሆነ QR ኮድ</string>
+    <string name="fingerprint_sp_qr_code_error">ይህ QR ኮድ የእውቅና ማረጋገጫ ለተሰጠው የማያ ገጽ መከላከያ አይደለም</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">%sአለዎት።\nበጣት አሻራ መክፈቻን ከማዋቀርዎ በፊት ይተግብሩት።</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">ኮዱን በክፈፉ ውስጥ የማያ ገጽ መከላከያ መጠቅለያው ላይ ቦታ ያስይዙት</string>
+    <string name="fingerprint_sp_title_got_it">ገባኝ!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">QR ኮዱን ይቃኙ</string>
+    <string name="protector_edu_subtitle">የማያ ገጽ መከላከያ የጣት አሻራ ማወቂያ ላይ ተጽዕኖ ያሳድራል። በማያ ገጽ መከላከያ ምርጥ በጣት አሻራ መክፈቻ አፈጻጸም ለማግኘት፦</string>
+    <string name="screen_protector_edu_apply_instruction">በሚቻልበት ጊዜ በጣት አሻራ መክፈቻ ከማዋቀርዎ በፊት የማያ ገጽ መከላከያውን ይለጥፉ እና ማናቸውንም አረፋዎች ጠፍጣፋ ያድርጉ። ካዋቀሩ በኋላ ተግባራዊ ማድረግ ካስፈለገዎ በኋላ በካሜራዎ QR ኮዱን ይቃኙ።</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;g.co/pixel/screenprotector ላይ የበለጠ ይወቁ&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">ለGoogle የተሠራ የእውቅና ማረጋገጫ ያለው የማያ ገጽ መከላከያ ይጠቀሙ</string>
+    <string name="screen_protector_edu_no_qr_code">QR ኮድ የለም</string>
+    <string name="screen_protector_edu_scan_it_later">በኋላ ላይ ይቃኙት</string>
+    <string name="screen_protector_edu_scan_qr_code">QR ኮድን ቃኝ</string>
+    <string name="screen_protector_edu_title">የማያ ገጽ መከላከያ ጥቅል ማድረጊያ ላይ ያለውን QR ኮድ ይቃኙ</string>
+    <string name="screen_protector_no_qr_code_msg">ለGoogle የተሠራ የዕውቅና ማረጋገጫ ያለው የማያ ገጽ መከላከያ በመጠቅለያው ላይ QR ኮድ አለው። ሌሎች የማያ ገጽ መከላከያዎች ዳሳሹ ላይ ጣልቃ ሊገቡ እና በአስተማማኝ ሁኔታ እንዳይሠራ ሊከለክሉት ይችላሉ።\n\ng.co/pixel/screenprotector ላይ የበለጠ ይወቁ</string>
+    <string name="screen_protector_no_qr_code_ok">ገባኝ</string>
+    <string name="screen_protector_no_qr_code_title">QR ኮድ አላዩም?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">አረጋግጥ</string>
+    <string name="security_settings_udfps_screen_protector_description_none">ምንም የማያ ገጽ መከላከያ የለም</string>
+    <string name="security_settings_udfps_screen_protector_keywords">የማያ ገጽ መከላከያ</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">የጣት አሻራ መለያን ለማሻሻል የማያ ገጽ መከላከያ ማመቻቸትን ከማጥፋትዎ በፊት የማያ ገጽ መከላከያዎን ያስወግዱ</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">የማያ ገጽ መከላከያን ያስወግዱ</string>
+    <string name="security_settings_udfps_screen_protector_title">ለማያ ገጽ መከላከያ ያትቡ</string>
+    <string name="sp_apply_dialog_button_got_it">ገባኝ</string>
+    <string name="sp_apply_dialog_msg_incompatible">የማያ ገጽ መከላከያዎ ከስልክዎ ጋር ተኳኋኝ ላይሆን ይችላል። ለማረጋገጥ፣ ስልክዎን ወደ Android የቅርብ ጊዜ ሥሪት ያዘምኑ እና እንደገና ይሞክሩ።</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">ልክ ያልሆነ QR ኮድ</string>
+    <string name="sp_apply_dialog_msg_main_user_only">ይህ እርምጃ ለመሣሪያው ባለቤት ብቻ የተገደበ ነው</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">አዎ</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Tani mund të përdorësh gjurmën e gishtit për të shkyçur telefonin ose për të verifikuar që je ti. Për fleksibilitetin më të madh, shto një gjurmë tjetër gishti.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Prek me majën e gishtit</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Prek me skajin e majtë</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Prek me skajin e djathtë</string>
+    <string name="find_usudfps_subtitle_simple">Sensori i gjurmës së gishtit do të jetë në ekranin tjetër</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Konfiguro me mbrojtësin e ekranit</string>
+    <string name="fingerprint_acquired_immobile_simple">Rregulloje pak çdo herë</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Kod i vlefshëm QR</string>
+    <string name="fingerprint_sp_qr_code_error">Ky kod QR nuk është për një mbrojtës të certifikuar të ekranit</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Ke një %s.\nZbatoje atë përpara se të konfigurosh \"Shkyçjen me gjurmën e gishtit\".</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Poziciono kodin në paketimin e mbrojtësit të ekranit në kuadër</string>
+    <string name="fingerprint_sp_title_got_it">E kuptova!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Skano kodin QR</string>
+    <string name="protector_edu_subtitle">Një mbrojtës ekrani mund të ndikojë në njohjen e gjurmës së gishtit. Për performancën më të mirë të \"Shkyçjes me gjurmën e gishtit\" me një mbrojtës ekrani:</string>
+    <string name="screen_protector_edu_apply_instruction">Kur është e mundur, vendos mbrojtësin e ekranit para konfigurimit të \"Shkyçjes me gjurmën e gishtit\" dhe elimino flluskat. Nëse duhet ta vendosësh pas konfigurimit, skano kodin QR më vonë me kamerën.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Mëso më shumë në g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Përdor një mbrojtës ekrani që është i certifikuar si i \"Prodhuar për Google\"</string>
+    <string name="screen_protector_edu_no_qr_code">Nuk ka kod QR</string>
+    <string name="screen_protector_edu_scan_it_later">Skanoje më vonë</string>
+    <string name="screen_protector_edu_scan_qr_code">Skano kodin QR</string>
+    <string name="screen_protector_edu_title">Skano kodin QR në paketimin e mbrojtësit të ekranit</string>
+    <string name="screen_protector_no_qr_code_msg">Një mbrojtës ekrani që është i certifikuar si i \"Prodhuar për Google\" ka një kod QR në paketim. Mbrojtësit e tjerë të ekranit mund të ndërhyjnë me sensorin dhe të bëjnë që ai të mos funksionojë në mënyrë të qëndrueshme.\n\nMëso më shumë në g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">E kuptova</string>
+    <string name="screen_protector_no_qr_code_title">Nuk pe një kod QR?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Konfirmo</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Nuk ka mbrojtës ekrani</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Mbrojtësi i ekranit</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Për të përmirësuar njohjen e gjurmëve të gishtave, hiq mbrojtësin e ekranit para se të çaktivizosh optimizimin e mbrojtësit të ekranit</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Hiq mbrojtësin e ekranit</string>
+    <string name="security_settings_udfps_screen_protector_title">Optimizo për mbrojtësin e ekranit</string>
+    <string name="sp_apply_dialog_button_got_it">E kuptova</string>
+    <string name="sp_apply_dialog_msg_incompatible">Mbrojtësi yt i ekranit mund të mos jetë i përputhshëm me telefonin tënd. Për t\'u siguruar, përditëso telefonin në versionin më të fundit të Android dhe provo përsëri.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Kodi QR është i pavlefshëm</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Ky veprim është i kufizuar vetëm për zotëruesin e pajisjes</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Po</string>
+</resources>

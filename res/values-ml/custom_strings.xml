@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">അൺലോക്ക് ചെയ്യൽ കൂടുതൽ സൗകര്യപ്രദമാക്കുന്നതിന്, ഫിംഗർപ്രിന്റും മുഖവും ഉപയോഗിച്ചുള്ള അൺലോക്ക് ചെയ്യൽ സജ്ജീകരിക്കുക</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">ഫിംഗർപ്രിന്റ് അൺലോക്ക് സജ്ജീകരിക്കുക</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">ഔദ്യോഗിക പ്രൊഫൈലിനുള്ള ഫിംഗർപ്രിന്റ് അൺലോക്ക് സജ്ജീകരിക്കുക</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">ഫോൺ അൺലോക്ക് ചെയ്യാനോ ഇത് നിങ്ങൾ തന്നെയാണെന്ന് പരിശോധിച്ചുറപ്പിക്കാനോ ഇപ്പോൾ നിങ്ങളുടെ ഫിംഗർപ്രിന്റ് ഉപയോഗിക്കാം. കൂടുതൽ സൗകര്യത്തിന്, മറ്റൊരു ഫിംഗർപ്രിന്റ് ചേർക്കുക.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">നിങ്ങളുടെ വിരൽത്തുമ്പ് വയ്ക്കുക</string>
-    <string name="enroll_usudfps_left_edge_title_simple">ഇടത് അരികിൽ സ്‌പർശിക്കുക</string>
-    <string name="enroll_usudfps_right_edge_title_simple">വലത് അരികിൽ സ്‌പർശിക്കുക</string>
     <string name="face_confirmation_hide_illustration_description">ഫോൺ കയ്യിലെടുക്കുമ്പോഴോ സ്ക്രീനിൽ ടാപ്പ് ചെയ്യുമ്പോഴോ അൺലോക്ക് ചെയ്യുന്നതിന് ഇപ്പോൾ നിങ്ങളുടെ മുഖം ഉപയോഗിക്കാനാകും.</string>
     <string name="face_confirmation_info_enough_light">വെളിച്ചമുള്ളപ്പോഴും മാസ്‌ക്കോ ഇരുണ്ട ഗ്ലാസുകളോ ധരിക്കാത്തപ്പോഴുമാണ് ഫെയ്‌സ് അൺലോക്ക് നന്നായി പ്രവർത്തിക്കുന്നത്.</string>
     <string name="face_confirmation_info_outside_screen">പുറത്തെ സ്ക്രീനിൽ നിന്ന് മാത്രമേ ഫെയ്സ് അൺലോക്ക് പ്രവർത്തിക്കൂ</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">ഫോൺ നിങ്ങളുടെ ഇടതുവശത്തേക്ക് നീക്കുക</string>
     <string name="face_enrolling_turn_head_to_arrow">നിങ്ങളുടെ തല അമ്പടയാളത്തിന് നേരെ തിരിക്കുക</string>
     <string name="face_enrolling_turned_too_far">തല അൽപ്പം തിരിക്കുക</string>
-    <string name="find_usudfps_subtitle_simple">ഫിംഗർപ്രിന്റ് സെൻസർ അടുത്ത സ്‌ക്രീനിലാണുണ്ടാകുക</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">സ്ക്രീൻ പ്രൊട്ടക്ടർ ഉപയോഗിച്ച് സജ്ജീകരിക്കുക</string>
-    <string name="fingerprint_acquired_immobile_simple">ഓരോ തവണയും നേരിയ തോതിൽ ക്രമീകരിക്കുക</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">സാധുതയുള്ള QR കോഡ്</string>
-    <string name="fingerprint_sp_qr_code_error">ഈ QR കോഡ് ഒരു സാക്ഷ്യപ്പെടുത്തിയ സ്‌ക്രീൻ പ്രൊട്ടക്ടറിന്റേതല്ല</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">നിങ്ങൾക്കൊരു %s ഉണ്ട്.\nഫിംഗർപ്രിന്റ് അൺലോക്ക് സജ്ജീകരിക്കുന്നതിന് മുമ്പ് അത് ബാധകമാക്കുക.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">ഫ്രെയിമിലെ സ്ക്രീൻ പ്രൊട്ടക്ടർ പാക്കേജിംഗിൽ കോഡ് സ്ഥാപിക്കുക</string>
-    <string name="fingerprint_sp_title_got_it">മനസ്സിലായി!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">QR കോഡ് സ്‌കാൻ ചെയ്യുക</string>
-    <string name="protector_edu_subtitle">സ്ക്രീൻ പ്രൊട്ടക്ടർ ഫിംഗർപ്രിന്റ് തിരിച്ചറിയലിനെ ബാധിക്കും. സ്ക്രീൻ പ്രൊട്ടക്ടർ ഉപയോഗിച്ചുള്ള മികച്ച ഫിംഗർപ്രിന്റ് അൺലോക്ക് പ്രകടനത്തിന്:</string>
-    <string name="screen_protector_edu_apply_instruction">സാധ്യമാകുമ്പോൾ, ഫിംഗർപ്രിന്റ് അൺലോക്ക് സജ്ജീകരിക്കുന്നതിന് മുമ്പ് സ്ക്രീൻ പ്രൊട്ടക്ടർ ഒട്ടിക്കുകയും ബബിളുകൾ എന്തെങ്കിലും ഉണ്ടെങ്കിൽ അത് നിരപ്പാക്കുകയും ചെയ്യുക. സജ്ജീകരിച്ചതിന് ശേഷമാണ് നിങ്ങൾക്കത് ഒട്ടിക്കേണ്ടതെങ്കിൽ, ക്യാമറ ഉപയോഗിച്ച് പിന്നീട് QR കോഡ് സ്‌കാൻ ചെയ്യുക.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;ഈ ലിങ്കിൽ കൂടുതലറിയുക: g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Google-നായി നിർമ്മിച്ചതെന്ന് സാക്ഷ്യപ്പെടുത്തിയ സ്‌ക്രീൻ പ്രൊട്ടക്‌ടർ ഉപയോഗിക്കുക</string>
-    <string name="screen_protector_edu_no_qr_code">QR കോഡില്ല</string>
-    <string name="screen_protector_edu_scan_it_later">പിന്നീട് സ്കാൻ ചെയ്യുക</string>
-    <string name="screen_protector_edu_scan_qr_code">QR കോഡ് സ്കാൻ ചെയ്യുക</string>
-    <string name="screen_protector_edu_title">സ്ക്രീൻ പ്രൊട്ടക്ടർ പാക്കേജിംഗിലെ QR കോഡ് സ്‌കാൻ ചെയ്യുക</string>
-    <string name="screen_protector_no_qr_code_msg">Google-നായി നിർമ്മിച്ചത് എന്ന് സാക്ഷ്യപ്പെടുത്തിയ സ്‌ക്രീൻ പ്രൊട്ടക്‌ടറിന് പാക്കേജിംഗിൽ ഒരു QR കോഡ് ഉണ്ട്. മറ്റ് സ്‌ക്രീൻ പ്രൊട്ടക്‌ടറുകൾ സെൻസറിനെ തടസ്സപ്പെടുത്തുകയും വിശ്വസനീയമായി പ്രവർത്തിക്കുന്നതിൽ നിന്ന് ഇതിനെ തടയുകയും ചെയ്‌തേക്കാം.\n\ng.co/pixel/screenprotector എന്നതിൽ കൂടുതലറിയുക</string>
-    <string name="screen_protector_no_qr_code_ok">മനസ്സിലായി</string>
-    <string name="screen_protector_no_qr_code_title">QR കോഡ് കണ്ടില്ലേ?</string>
     <string name="security_settings_face_enroll_consent_message">നിങ്ങളുടെ കുട്ടിയുടെ ഫോൺ അൺലോക്ക് ചെയ്യാനോ ആപ്പുകളിൽ ഇത് അവർ തന്നെയാണെന്ന് പരിശോധിച്ചുറപ്പിക്കാനോ അവരുടെ മുഖം ഉപയോഗിക്കുക</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">നിങ്ങളുടെ കുട്ടിയുടെ മുഖം ഉപകരണത്തിൽ മാത്രമേ സംഭരിക്കൂ, ഒരിക്കലും Google-ലേക്ക് അയയ്ക്കില്ല</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">ഫോൺ കയ്യിലെടുക്കുമ്പോഴോ സ്ക്രീനിൽ ടാപ്പ് ചെയ്യുമ്പോഴോ അൺലോക്ക് ചെയ്യുന്നതിന് ഇപ്പോൾ നിങ്ങളുടെ മുഖം ഉപയോഗിക്കാനാകും.\n\nആവശ്യത്തിന് വെളിച്ചമുള്ളപ്പോഴും നിങ്ങൾ മാസ്‌ക്കോ ഇരുണ്ട നിറത്തിലുള്ള കണ്ണടയോ ധരിക്കാത്ത സമയത്തുമാണ് ഫെയ്‌സ് അൺലോക്ക് മികച്ച രീതിയിൽ പ്രവർത്തിക്കുന്നത്.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">ഫോണിന്റെ ചൂട് കൂടുതലാണ്</string>
     <string name="security_settings_fingerprint_enroll_consent_message">നിങ്ങളുടെ കുട്ടിയുടെ ഫോൺ അൺലോക്ക് ചെയ്യാനോ ആപ്പുകളിൽ ഇത് അവർ തന്നെയാണെന്ന് പരിശോധിച്ചുറപ്പിക്കാനോ അവരുടെ ഫിംഗർപ്രിന്റ് ഉപയോഗിക്കുക</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">നിങ്ങളുടെ കുട്ടിയുടെ ഫിംഗർപ്രിന്റുകൾ ഉപകരണത്തിൽ മാത്രമേ സംഭരിക്കൂ, ഒരിക്കലും Google-ലേക്ക് അയയ്ക്കില്ല</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">സ്ഥിരീകരിക്കുക</string>
-    <string name="security_settings_udfps_screen_protector_description_none">സ്‌ക്രീൻ പ്രൊട്ടക്‌ടറൊന്നുമില്ല</string>
-    <string name="security_settings_udfps_screen_protector_keywords">സ്‌ക്രീൻ പ്രൊട്ടക്‌ടർ</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">ഫിംഗർ‌പ്രിന്റ് തിരിച്ചറിയൽ മെച്ചപ്പെടുത്താൻ, സ്‌ക്രീൻ പ്രൊട്ടക്‌ടർ ഒപ്‌റ്റിമൈസേഷൻ ഓഫാക്കുന്നതിന് മുമ്പ് നിങ്ങളുടെ സ്‌ക്രീൻ പ്രൊട്ടക്‌ടർ നീക്കം ചെയ്യുക</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">സ്‌ക്രീൻ പ്രൊട്ടക്‌ടർ നീക്കം ചെയ്യുക</string>
-    <string name="security_settings_udfps_screen_protector_title">സ്‌ക്രീൻ പ്രൊട്ടക്‌ടറിനായി ഒപ്‌റ്റിമൈസ് ചെയ്യുക</string>
-    <string name="sp_apply_dialog_button_got_it">മനസ്സിലായി</string>
-    <string name="sp_apply_dialog_msg_incompatible">സ്ക്രീൻ പ്രൊട്ടക്ടർ നിങ്ങളുടെ ഫോണിന് അനുയോജ്യമല്ലായിരിക്കാം. ഉറപ്പാക്കുന്നതിനായി, Android-ന്റെ ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് നിങ്ങളുടെ ഫോൺ അപ്ഡേറ്റ് ചെയ്ത് വീണ്ടും ശ്രമിക്കുക.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">QR കോഡ് അസാധുവാണ്</string>
-    <string name="sp_apply_dialog_msg_main_user_only">ഈ പ്രവർത്തനം, ഉപകരണത്തിന്റെ ഉടമയ്ക്ക് മാത്രമായി പരിമിതപ്പെടുത്തിയിരിക്കുന്നു</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">ഉവ്വ്</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">വേഗത്തിലുള്ള ടാപ്പ് തിരിച്ചറിഞ്ഞു!</string>

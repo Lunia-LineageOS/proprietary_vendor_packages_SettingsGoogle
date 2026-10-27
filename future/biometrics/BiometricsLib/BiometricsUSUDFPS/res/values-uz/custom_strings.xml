@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Endi barmoq izi bilan telefonni qulfdan chiqarish yoki shaxsni tasdiqlash mumkin. Eng yaxshi moslashuvchanlik uchun boshqa barmoq izini kiriting.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Barmoq uchini tekkizing</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Chap qirrasini tekkizing</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Oʻng qirrasini tekkizing</string>
+    <string name="find_usudfps_subtitle_simple">Barmoq izi skaneri keyingi ekranda chiqadi</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Ekran himoyasi bilan sozlash</string>
+    <string name="fingerprint_acquired_immobile_simple">Har safar biroz rostlang</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Yaroqli QR kod</string>
+    <string name="fingerprint_sp_qr_code_error">Bu QR kod ekran himoyasi uchun sertifikatlanmagan</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Sizda %s mavjud.\nUni Barmoq izi bilan ochishni sozlashdan avval yopishtiring.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Ekran himoyasi qadogʻidagi kodni hoshiya ichiga joylashtiring</string>
+    <string name="fingerprint_sp_title_got_it">OK!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">QR kodni skanerlang</string>
+    <string name="protector_edu_subtitle">Ekran himoyasi barmoq izi aniqlanishiga taʼsir qilishi mumkin. Barmoq izi bilan ochish ekran himoyasi bilan eng samarali ishlashi uchun:</string>
+    <string name="screen_protector_edu_apply_instruction">Imkon qadar, ekran himoyasini Barmoq izi bilan ochishni sozlashdan avval yopishtiring va ekranda havo pufaklari qolmaganini tekshiring. Agar sozlashdan keyin uni tatbiq qilishingiz kerak boʻlsa, keyinroq kamerangiz bilan QR kodni skanerlang.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Batafsil: g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Made for Google sertifikatiga ega ekran himoyasidan foydalaning</string>
+    <string name="screen_protector_edu_no_qr_code">QR kod yoʻq</string>
+    <string name="screen_protector_edu_scan_it_later">Keyinroq skanerlash</string>
+    <string name="screen_protector_edu_scan_qr_code">QR kodni skanerlash</string>
+    <string name="screen_protector_edu_title">Ekran himoyasi qutisidagi QR kodni skanerlang</string>
+    <string name="screen_protector_no_qr_code_msg">Made for Google sertifikatiga ega ekran himoyasi qadogʻida QR kodga ega. Boshqa ekran himoyachilari sensorga xalaqit berishi va uning ishonchli ishlashiga toʻsqinlik qilishi mumkin.\n\nBatafsil: g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">OK</string>
+    <string name="screen_protector_no_qr_code_title">QR kod chiqmadimi?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Tasdiqlash</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Ekran himoyasi mavjud emas</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Ekran himoyasi</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Barmoq izini yaxshiroq tanitish uchun ekran himoyasini optimallashdan oldin ekran himoyasini olib tashlang</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Ekran himoyasini olib tashlang</string>
+    <string name="security_settings_udfps_screen_protector_title">Ekran himoyasi rejimiga optimallash</string>
+    <string name="sp_apply_dialog_button_got_it">OK</string>
+    <string name="sp_apply_dialog_msg_incompatible">Ekran himoyasi telefoningizga mos kelmasligi mumkin. Ishonch hosil qilish uchun telefoningizni Androidning eng oxirgi versiyasiga yangilang va qayta urining.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">QR kod xato</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Bu amal faqat qurilma egasiga tegishli</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Ha</string>
+</resources>

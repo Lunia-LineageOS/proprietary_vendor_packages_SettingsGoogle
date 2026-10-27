@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">ដើម្បីធ្វើឱ្យការដោះសោកាន់តែ​ងាយស្រួល សូមប្រើការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃរួមជាមួយការដោះ​សោ​ដោយស្កេន​មុខ</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">រៀបចំការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃ</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">រៀបចំការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃសម្រាប់ការងារ</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">ឥឡូវនេះ អ្នកអាចប្រើស្នាមម្រាមដៃរបស់អ្នក ដើម្បីដោះសោទូរសព្ទរបស់អ្នក ឬផ្ទៀងផ្ទាត់ថាជាអ្នក។ ដើម្បីទទួលបានភាពបត់បែនអស្ចារ្យបំផុត សូមបញ្ចូលស្នាមម្រាមដៃមួយទៀត។</string>
-    <string name="enroll_usudfps_fingertip_title_simple">ប៉ះចុងម្រាមដៃរបស់អ្នក</string>
-    <string name="enroll_usudfps_left_edge_title_simple">ប៉ះគែមខាងឆ្វេង</string>
-    <string name="enroll_usudfps_right_edge_title_simple">ប៉ះគែមខាងស្ដាំ</string>
     <string name="face_confirmation_hide_illustration_description">ឥឡូវនេះ ពេលដែលអ្នកលើកទូរសព្ទរបស់អ្នកឡើង ឬចុចអេក្រង់ អ្នកអាចប្រើមុខរបស់អ្នកដើម្បីដោះសោ។</string>
     <string name="face_confirmation_info_enough_light">ការដោះ​សោ​ដោយស្កេន​មុខដំណើរការ​បានល្អបំផុត នៅពេលដែលមានពន្លឺគ្រប់គ្រាន់ ហើយអ្នកមិនពាក់ម៉ាស់ ឬវ៉ែនតាខ្មៅ។</string>
     <string name="face_confirmation_info_outside_screen">ការដោះ​សោ​ដោយស្កេន​មុខដំណើរការពីខាងក្រៅអេក្រង់តែប៉ុណ្ណោះ</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">ផ្លាស់ទីទូរសព្ទទៅខាងឆ្វេងរបស់អ្នក</string>
     <string name="face_enrolling_turn_head_to_arrow">ងាកក្បាល​របស់អ្នក​តាម​សញ្ញាព្រួញ</string>
     <string name="face_enrolling_turned_too_far">បែរក្បាល​តិចជាងមុនបន្តិច</string>
-    <string name="find_usudfps_subtitle_simple">សេនស័រចាប់ស្នាមម្រាមដៃនឹងមាននៅលើអេក្រង់បន្ទាប់</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">រៀបចំដោយមានកញ្ចក់​ការពារ​អេក្រង់</string>
-    <string name="fingerprint_acquired_immobile_simple">រេបញ្ឆិតម្ដងបន្តិចៗ</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">កូដ QR ត្រឹមត្រូវ</string>
-    <string name="fingerprint_sp_qr_code_error">កូដ QR នេះមិនមែនសម្រាប់កញ្ចក់​ការពារ​អេក្រង់ដែលមានការទទួលស្គាល់ទេ</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">អ្នកមាន %s។\nសូមប្រើវាមុនពេលរៀបចំការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃ។</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">ដាក់លេខកូដនៅលើកញ្ចប់កញ្ចក់​ការពារ​អេក្រង់នៅក្នុងស៊ុម</string>
-    <string name="fingerprint_sp_title_got_it">យល់ហើយ!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">ស្កេនកូដ QR</string>
-    <string name="protector_edu_subtitle">កញ្ចក់​ការពារ​អេក្រង់អាចប៉ះពាល់ដល់ការសម្គាល់ស្នាមម្រាមដៃ។ ដើម្បីទទួលបានប្រតិបត្តិការនៃការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃល្អបំផុតដោយប្រើកញ្ចក់​ការពារ​អេក្រង់៖</string>
-    <string name="screen_protector_edu_apply_instruction">ប្រសិនបើអាច សូមប្រើកញ្ចក់​ការពារ​អេក្រង់មុនពេលរៀបចំការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃ និងបំបាត់ពពុះទាំងឡាយ។ ប្រសិនបើអ្នកចាំបាច់ត្រូវប្រើវាបន្ទាប់ពីរៀបចំ សូមស្កេនកូដ QR នៅពេលក្រោយដោយប្រើកាមេរ៉ារបស់អ្នក។</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;ស្វែងយល់បន្ថែមតាមរយៈ g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">ប្រើកញ្ចក់​ការពារ​អេក្រង់ដែលបានទទួលស្គាល់ពី Made for Google</string>
-    <string name="screen_protector_edu_no_qr_code">គ្មានកូដ QR</string>
-    <string name="screen_protector_edu_scan_it_later">ស្កេនពេលក្រោយ</string>
-    <string name="screen_protector_edu_scan_qr_code">ស្កេនកូដ QR</string>
-    <string name="screen_protector_edu_title">ស្កេនកូដ QR នៅលើកញ្ចប់កញ្ចក់​ការពារ​អេក្រង់</string>
-    <string name="screen_protector_no_qr_code_msg">កញ្ចក់​ការពារ​អេក្រង់ដែលត្រូវបានទទួលស្គាល់​ថា Made for Google មានកូដ QR នៅលើកញ្ចប់។ កញ្ចក់​ការពារ​អេក្រង់ផ្សេងទៀតអាចរំខានដល់សេនស័រ និងរារាំងមិនឱ្យវាដំណើរការប្រកបដោយភាពជឿទុកចិត្ត។\n\nស្វែងយល់បន្ថែមតាមរយៈ g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">យល់ហើយ</string>
-    <string name="screen_protector_no_qr_code_title">មិនបានឃើញកូដ QR ឬ?</string>
     <string name="security_settings_face_enroll_consent_message">ប្រើមុខកូន​របស់អ្នក ដើម្បីដោះសោទូរសព្ទ​របស់គាត់ ឬផ្ទៀងផ្ទាត់ថាជាគាត់នៅក្នុងកម្មវិធី</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">មុខកូន​របស់អ្នកត្រូវបានរក្សាទុកតែនៅលើឧបករណ៍ប៉ុណ្ណោះ និងពុំត្រូវបានផ្ញើទៅ Google ទេ</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">ឥឡូវនេះ ពេលដែលអ្នកលើកទូរសព្ទរបស់អ្នកឡើង ឬចុចអេក្រង់ អ្នកអាចប្រើមុខរបស់អ្នកដើម្បីដោះសោ។\n\nដោះ​សោ​តាម​​ទម្រង់​មុខដំណើរការ​បានល្អបំផុត នៅពេលដែលមានពន្លឺគ្រប់គ្រាន់ ហើយអ្នកមិនពាក់ម៉ាស់ ឬវ៉ែនតាខ្មៅ។</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">ទូរសព្ទ​ក្ដៅ​ពេក</string>
     <string name="security_settings_fingerprint_enroll_consent_message">ប្រើស្នាមម្រាមដៃកូន​របស់អ្នក ដើម្បីដោះសោទូរសព្ទ​របស់គាត់ ឬផ្ទៀងផ្ទាត់ថាជាគាត់នៅក្នុងកម្មវិធី</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">ស្នាមម្រាមដៃកូនរបស់អ្នកត្រូវបានរក្សាទុកតែនៅលើឧបករណ៍ប៉ុណ្ណោះ និងពុំត្រូវបានផ្ញើទៅ Google ទេ</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">បញ្ជាក់</string>
-    <string name="security_settings_udfps_screen_protector_description_none">គ្មានកញ្ចក់​ការពារ​អេក្រង់</string>
-    <string name="security_settings_udfps_screen_protector_keywords">កញ្ចក់​ការពារ​អេក្រង់</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">ដើម្បីធ្វើឱ្យការសម្គាល់ស្នាមម្រាមដៃប្រសើរឡើង សូមបកកញ្ចក់​ការពារ​អេក្រង់របស់អ្នកចេញ មុនពេលបិទមុខងារបង្កើនប្រសិទ្ធភាពកញ្ចក់​ការពារ​អេក្រង់</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">បកកញ្ចក់​ការពារ​អេក្រង់ចេញ</string>
-    <string name="security_settings_udfps_screen_protector_title">បង្កើនប្រសិទ្ធភាពសម្រាប់កញ្ចក់​ការពារ​អេក្រង់</string>
-    <string name="sp_apply_dialog_button_got_it">យល់ហើយ</string>
-    <string name="sp_apply_dialog_msg_incompatible">កញ្ចក់​ការពារ​អេក្រង់របស់អ្នកអាចមិនត្រូវគ្នាជាមួយទូរសព្ទរបស់អ្នកទេ។ ដើម្បីធ្វើឱ្យប្រាកដ សូមដំឡើងកំណែទូរសព្ទរបស់អ្នកទៅកំណែចុងក្រោយបំផុត​របស់ Android ហើយសាកល្បងម្ដងទៀត។</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">កូដ QR មិនត្រឹមត្រូវ​ទេ</string>
-    <string name="sp_apply_dialog_msg_main_user_only">សកម្មភាពនេះត្រូវបានដាក់កំហិតចំពោះម្ចាស់ឧបករណ៍តែប៉ុណ្ណោះ</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">បាទ/ចាស</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">ចាប់​បានការប៉ះរហ័ស!</string>

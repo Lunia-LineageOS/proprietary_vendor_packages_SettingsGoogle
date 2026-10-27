@@ -9,10 +9,6 @@
     <dimen name="face_enroll_participation_checkbox_minimum_size">48dp</dimen>
     <dimen name="face_error_text_appear_distance">16dp</dimen>
     <dimen name="lock_screen_bypass_lottie_height">236dp</dimen>
-    <dimen name="sp_qr_checkbox_size">156dp</dimen>
-    <dimen name="sp_qr_code_scanner_corner_radius">28dp</dimen>
-    <dimen name="sp_qr_code_scanner_padding_horizontal">56dp</dimen>
-    <dimen name="sp_qr_preview_min_size">@dimen/sp_qr_checkbox_size</dimen>
 
     <!-- Quick Tap -->
     <dimen name="columbus_action_list_item_spacing_vertical">16dp</dimen>

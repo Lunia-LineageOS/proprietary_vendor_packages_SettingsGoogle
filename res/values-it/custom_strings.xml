@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Per rendere lo sblocco più pratico, utilizza lo Sblocco con l\'Impronta insieme allo Sblocco con il Volto</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Configura lo Sblocco con l\'Impronta</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Configura lo Sblocco con l\'Impronta per il lavoro</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Ora puoi usare l\'impronta per sbloccare lo smartphone o confermare la tua identità. Per la massima flessibilità, aggiungi un\'altra impronta.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Tocca il sensore di impronte digitali</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Tocca il bordo sinistro</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Tocca il bordo destro</string>
     <string name="face_confirmation_hide_illustration_description">Ora quando sollevi lo smartphone o tocchi lo schermo, puoi usare il volto per sbloccarlo.</string>
     <string name="face_confirmation_info_enough_light">Lo Sblocco con il Volto funziona meglio quando c\'è abbastanza luce e non indossi una mascherina oppure occhiali scuri.</string>
     <string name="face_confirmation_info_outside_screen">Lo Sblocco con il Volto funziona soltanto dallo schermo esterno</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Sposta lo smartphone alla tua sinistra</string>
     <string name="face_enrolling_turn_head_to_arrow">Gira la testa verso la freccia</string>
     <string name="face_enrolling_turned_too_far">Ruota un po\' meno la testa</string>
-    <string name="find_usudfps_subtitle_simple">Il sensore di impronte digitali si trova nella schermata successiva</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Configura con protezione per lo schermo</string>
-    <string name="fingerprint_acquired_immobile_simple">Sposta leggermente il dito ogni volta</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Codice QR valido</string>
-    <string name="fingerprint_sp_qr_code_error">Questo codice QR non è associato a una protezione per lo schermo certificata</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Hai una protezione per lo schermo %s.\nApplicala prima di configurare lo Sblocco con l\'Impronta.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Posiziona il codice sulla confezione della protezione per lo schermo all\'interno dell\'inquadratura</string>
-    <string name="fingerprint_sp_title_got_it">Ok</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Scansiona il codice QR</string>
-    <string name="protector_edu_subtitle">Una protezione per lo schermo può interferire con il riconoscimento delle impronte. Per migliorare le prestazioni dello Sblocco con l\'Impronta con una protezione per lo schermo:</string>
-    <string name="screen_protector_edu_apply_instruction">Se possibile, applica la protezione per lo schermo prima di configurare lo Sblocco con l\'Impronta ed elimina eventuali bolle. Se devi applicarla dopo la configurazione, scansiona il codice QR in un secondo momento con la fotocamera.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Scopri di più all\'indirizzo g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Usa una protezione per lo schermo con certificazione Made For Google</string>
-    <string name="screen_protector_edu_no_qr_code">Nessun codice QR</string>
-    <string name="screen_protector_edu_scan_it_later">Scansiona dopo</string>
-    <string name="screen_protector_edu_scan_qr_code">Scansiona codice QR</string>
-    <string name="screen_protector_edu_title">Scansiona il codice QR sulla confezione della protezione per lo schermo</string>
-    <string name="screen_protector_no_qr_code_msg">Le protezioni per lo schermo con la certificazione Made For Google hanno un codice QR sulla confezione. Altre protezioni per lo schermo potrebbero interferire con il sensore e impedirne il corretto funzionamento.\n\nScopri di più all\'indirizzo g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">Ok</string>
-    <string name="screen_protector_no_qr_code_title">Non c\'è un codice QR?</string>
     <string name="security_settings_face_enroll_consent_message">Usa il volto di tuo figlio per sbloccare il suo smartphone o confermare la sua identità nelle app</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Il volto di tuo figlio viene memorizzato solo sul dispositivo e non viene mai inviato a Google</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Ora quando sollevi lo smartphone o tocchi lo schermo, puoi usare il volto per sbloccarlo.\n\nLo Sblocco con il Volto funziona meglio quando c\'è abbastanza luce e non indossi una mascherina oppure occhiali scuri.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Lo smartphone è troppo caldo</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Usa l\'impronta di tuo figlio per sbloccare il suo smartphone o confermare la sua identità nelle app</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Le impronte di tuo figlio vengono memorizzate solo sul dispositivo e non vengono mai inviate a Google</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Conferma</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Nessuna protezione per lo schermo</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Protezione per lo schermo</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Per migliorare il riconoscimento delle impronte, rimuovi la protezione per lo schermo prima di disattivarne l\'ottimizzazione</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Rimuovi protezione per lo schermo</string>
-    <string name="security_settings_udfps_screen_protector_title">Ottimizza per la protezione per lo schermo</string>
-    <string name="sp_apply_dialog_button_got_it">Ok</string>
-    <string name="sp_apply_dialog_msg_incompatible">La protezione per lo schermo potrebbe non essere compatibile con lo smartphone. Per averne la certezza, aggiorna lo smartphone all\'ultima versione di Android e riprova.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Codice QR non valido</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Solo il proprietario del dispositivo può eseguire questa azione</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Sì</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">È stato rilevato un gesto Tocco rapido.</string>

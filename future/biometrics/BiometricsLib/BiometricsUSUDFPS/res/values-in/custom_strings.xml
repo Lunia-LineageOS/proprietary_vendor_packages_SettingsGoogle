@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Anda kini dapat menggunakan sidik jari untuk membuka kunci ponsel atau memverifikasi diri Anda. Untuk mendapatkan fleksibilitas maksimal, tambahkan sidik jari lain.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Sentuh dengan ujung jari</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Sentuh dengan tepi kiri jari</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Sentuh dengan tepi kanan jari</string>
+    <string name="find_usudfps_subtitle_simple">Sensor sidik jari akan berada di layar berikutnya</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Siapkan dengan pelindung layar</string>
+    <string name="fingerprint_acquired_immobile_simple">Sesuaikan sedikit setiap kali</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Kode QR valid</string>
+    <string name="fingerprint_sp_qr_code_error">Kode QR ini bukan untuk pelindung layar tersertifikasi</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Anda memiliki %s.\nPasang pelindung layar ini sebelum menyiapkan fitur Buka dengan Sidik Jari.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Posisikan kode pada kemasan pelindung layar ke dalam bingkai</string>
+    <string name="fingerprint_sp_title_got_it">Oke</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Pindai kode QR</string>
+    <string name="protector_edu_subtitle">Pelindung layar dapat memengaruhi pengenalan sidik jari. Agar performa fitur Buka dengan Sidik Jari tetap baik saat menggunakan pelindung layar:</string>
+    <string name="screen_protector_edu_apply_instruction">Jika mungkin, pasang pelindung layar sebelum menyiapkan fitur Buka dengan Sidik Jari dan ratakan gelembungnya. Jika Anda ingin memasangnya setelah penyiapan, pindai kode QR nanti dengan kamera.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Pelajari lebih lanjut di g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Gunakan pelindung layar yang bersertifikasi Made for Google</string>
+    <string name="screen_protector_edu_no_qr_code">Tidak ada kode QR</string>
+    <string name="screen_protector_edu_scan_it_later">Pindai nanti</string>
+    <string name="screen_protector_edu_scan_qr_code">Pindai kode QR</string>
+    <string name="screen_protector_edu_title">Pindai kode QR di kemasan pelindung layar</string>
+    <string name="screen_protector_no_qr_code_msg">Pelindung layar yang bersertifikasi Made for Google memiliki kode QR di kemasannya. Pelindung layar lain mungkin mengganggu sensor dan mencegahnya berfungsi optimal.\n\nPelajari lebih lanjut di g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">Oke</string>
+    <string name="screen_protector_no_qr_code_title">Tidak melihat kode QR?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Konfirmasi</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Tidak ada pelindung layar</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Pelindung layar</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Untuk meningkatkan pengenalan sidik jari, lepas pelindung layar sebelum menonaktifkan pengoptimalan pelindung layar</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Lepas pelindung layar</string>
+    <string name="security_settings_udfps_screen_protector_title">Optimalkan untuk pelindung layar</string>
+    <string name="sp_apply_dialog_button_got_it">Oke</string>
+    <string name="sp_apply_dialog_msg_incompatible">Pelindung layar mungkin tidak kompatibel dengan ponsel Anda. Untuk memastikan, update ponsel ke Android versi terbaru, lalu coba lagi.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Kode QR tidak valid</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Tindakan ini hanya dibatasi untuk pemilik perangkat</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Ya</string>
+</resources>

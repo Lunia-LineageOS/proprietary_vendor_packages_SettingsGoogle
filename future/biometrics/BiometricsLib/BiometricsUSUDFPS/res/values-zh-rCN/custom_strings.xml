@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">现在，您可以使用指纹解锁手机或验证身份了。为了便于操作，请添加其他指纹。</string>
+    <string name="enroll_usudfps_fingertip_title_simple">用指尖触摸</string>
+    <string name="enroll_usudfps_left_edge_title_simple">用手指左边缘触摸</string>
+    <string name="enroll_usudfps_right_edge_title_simple">用手指右边缘触摸</string>
+    <string name="find_usudfps_subtitle_simple">指纹传感器将在下一个界面中显示</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">设置前先贴好屏幕保护膜</string>
+    <string name="fingerprint_acquired_immobile_simple">逐步微调手指触碰面</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">二维码有效</string>
+    <string name="fingerprint_sp_qr_code_error">此二维码不适用于经过认证的屏幕保护膜</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">您有一个%s屏幕保护膜。\n请先贴上它，然后再设置指纹解锁功能。</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">将取景框对准屏幕保护膜包装上的二维码</string>
+    <string name="fingerprint_sp_title_got_it">知道了！</string>
+    <string name="fingerprint_sp_title_scan_qr_code">扫描二维码</string>
+    <string name="protector_edu_subtitle">屏幕保护膜可能会影响指纹识别效果。以下做法可让您在使用屏幕保护膜时获得最佳的指纹解锁效果：</string>
+    <string name="screen_protector_edu_apply_instruction">请尽可能在设置指纹解锁功能前贴好屏幕保护膜，并确保没有气泡。如需在完成设置后再贴屏幕保护膜，请稍后使用摄像头扫描二维码。</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;如需了解详情，请访问 g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">使用已获得 Made for Google 认证的屏幕保护膜</string>
+    <string name="screen_protector_edu_no_qr_code">没有二维码</string>
+    <string name="screen_protector_edu_scan_it_later">稍后再扫描</string>
+    <string name="screen_protector_edu_scan_qr_code">扫描二维码</string>
+    <string name="screen_protector_edu_title">扫描屏幕保护膜包装上的二维码</string>
+    <string name="screen_protector_no_qr_code_msg">如果屏幕保护膜已获得 Made For Google 认证，包装上就会有一个二维码。其他屏幕保护膜可能会干扰传感器，导致传感器无法顺利工作。\n\n如需了解详情，请访问 g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">知道了</string>
+    <string name="screen_protector_no_qr_code_title">没有看到二维码？</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">确认</string>
+    <string name="security_settings_udfps_screen_protector_description_none">无屏幕保护膜</string>
+    <string name="security_settings_udfps_screen_protector_keywords">屏幕保护膜</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">如需提高指纹识别准确率，请先撕下屏幕保护膜，然后再停用屏幕保护膜优化功能</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">撕下屏幕保护膜</string>
+    <string name="security_settings_udfps_screen_protector_title">针对屏幕保护膜进行优化</string>
+    <string name="sp_apply_dialog_button_got_it">知道了</string>
+    <string name="sp_apply_dialog_msg_incompatible">您的屏幕保护膜可能与手机不兼容。为确保兼容，请将手机系统更新到最新版本的 Android，然后重试。</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">二维码无效</string>
+    <string name="sp_apply_dialog_msg_main_user_only">此操作仅限设备所有者执行</string>
+    <string name="sp_apply_title_product_combined">是%s吗？</string>
+    <string name="sp_apply_yes_button">是</string>
+</resources>

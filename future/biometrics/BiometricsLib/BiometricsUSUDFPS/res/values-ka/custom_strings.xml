@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">უკვე შეგიძლიათ თითის ანაბეჭდის გამოყენება ტელეფონის განსაბლოკად ან თქვენი ვინაობის დასადასტურებლად. მაქსიმალური მოქნილობისთვის დაამატეთ სხვა თითის ანაბეჭდი.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">შეახეთ თითის წვერი</string>
+    <string name="enroll_usudfps_left_edge_title_simple">შეახეთ მარცხენა კიდე</string>
+    <string name="enroll_usudfps_right_edge_title_simple">შეახეთ მარჯვენა კიდე</string>
+    <string name="find_usudfps_subtitle_simple">თითის ანაბეჭდის სენსორი შემდეგ ეკრანზე იქნება</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">ეკრანის დამცავის დაყენება</string>
+    <string name="fingerprint_acquired_immobile_simple">ოდნავ შეცვალეთ ყოველ ჯერზე</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">სწორი QR კოდი</string>
+    <string name="fingerprint_sp_qr_code_error">ეს QR კოდი არ არის განკუთვნილი სერტიფიცირებული ეკრანის დამცავისთვის</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">თქვენ გაქვთ %s.\nგამოიყენეთ ანაბეჭდით განბლოკვის დაყენებამდე.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">მოაქციეთ კოდი ეკრანის დამცავის შეფუთვაზე, ჩარჩოში</string>
+    <string name="fingerprint_sp_title_got_it">დასკანირებულია!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">QR კოდის სკანირება</string>
+    <string name="protector_edu_subtitle">ეკრანის დამცავმა შეიძლება გავლენა მოახდინოს თითის ანაბეჭდის ამოცნობაზე. თითის ანაბეჭდით განბლოკვის ფუნქციის საუკეთესო ეფექტურობის მისაღწევად ეკრანის დამცავთან ერთად:</string>
+    <string name="screen_protector_edu_apply_instruction">როდესაც შესაძლებელია, დაამაგრეთ ეკრანის დამცავი, ანაბეჭდით განბლოკვის დაყენებამდე და გააბრტყელეთ ჰაერის ბუშტები. თუ დაყენების შემდეგ უნდა დაამაგროთ, მოგვიანებით დაასკანირეთ QR კოდი თქვენი კამერით.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;შეიტყვეთ მეტი: g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">გამოიყენეთ ეკრანის დამცავი, რომელსაც აქვს Made for Google სერტიფიკატი</string>
+    <string name="screen_protector_edu_no_qr_code">QR არ არის</string>
+    <string name="screen_protector_edu_scan_it_later">მოგვიანებით დასკანირება</string>
+    <string name="screen_protector_edu_scan_qr_code">QR სკანირება</string>
+    <string name="screen_protector_edu_title">დაასკანირეთ QR კოდი ეკრანის დამცავის შეფუთვაზე</string>
+    <string name="screen_protector_no_qr_code_msg">Made for Google სერტიფიკატის მქონე ეკრანის დამცავის შეფუთვაზე დატანილია QR კოდი. ეკრანის სხვა დამცავებმა შეიძლება დააბრკოლოს სენსორი და ხელი შეუშალოს მის საიმედო მუშაობას.\n\nშეიტყვეთ მეტი: g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">გასაგებია</string>
+    <string name="screen_protector_no_qr_code_title">ვერ იპოვეთ QR კოდი?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">დადასტურება</string>
+    <string name="security_settings_udfps_screen_protector_description_none">ეკრანის დამცავი არ არის დაყენებული</string>
+    <string name="security_settings_udfps_screen_protector_keywords">ეკრანის დამცავი</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">თითის ანაბეჭდის ამოცნობის გასაუმჯობესებლად, მოხსენით ეკრანის დამცავი მისი ოპტიმიზაციის გამორთვამდე</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">ეკრანის დამცავის მოხსნა</string>
+    <string name="security_settings_udfps_screen_protector_title">ეკრანის დამცავის ოპტიმიზაცია</string>
+    <string name="sp_apply_dialog_button_got_it">გასაგებია</string>
+    <string name="sp_apply_dialog_msg_incompatible">თქვენი ეკრანის დამცავი შეიძლება არათავსებადი იყოს თქვენს ტელეფონთან. დასარწმუნებლად განაახლეთ თქვენი ტელეფონი Android-ის უახლეს ვერსიაზე და ცადეთ ხელახლა.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">QR კოდი არასწორია</string>
+    <string name="sp_apply_dialog_msg_main_user_only">ამ მოქმედების შესრულება შეუძლია მხოლოდ მოწყობილობის მფლობელს</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">დიახ</string>
+</resources>

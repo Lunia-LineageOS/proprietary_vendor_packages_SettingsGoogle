@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">ဖုန်းလော့ခ်ဖွင့်ရန် (သို့) သင်ဖြစ်ကြောင်းအတည်ပြုရန် သင့်လက်ဗွေကို သုံးနိုင်ပါပြီ။ အကောင်းဆုံး ပြောင်းလဲသုံးနိုင်ရန် လက်ဗွေနောက်တစ်ခု ထည့်ပါ။</string>
+    <string name="enroll_usudfps_fingertip_title_simple">သင့်လက်ချောင်းထိပ်ကို ထိပါ</string>
+    <string name="enroll_usudfps_left_edge_title_simple">ဘယ်ဘက်အစွန်းကို ထိပါ</string>
+    <string name="enroll_usudfps_right_edge_title_simple">ညာဘက်အစွန်းကို ထိပါ</string>
+    <string name="find_usudfps_subtitle_simple">လက်ဗွေ အာရုံခံကိရိယာကို နောက်စခရင်တွင် မြင်ရပါမည်</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">ဖန်သားပြင်အကာအကွယ်ဖြင့် စနစ်ထည့်သွင်းရန်</string>
+    <string name="fingerprint_acquired_immobile_simple">အကြိမ်တိုင်း အနည်းငယ်ချိန်ညှိပါ</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">QR ကုဒ် မှန်ကန်သည်</string>
+    <string name="fingerprint_sp_qr_code_error">ဤ QR ကုဒ်သည် အသိအမှတ်ပြုထားသော ဖန်သားပြင်အကာအကွယ်အတွက် မဟုတ်ပါ</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">သင့်တွင် %s ရှိသည်။\n‘လက်ဗွေသုံး လော့ခ်ဖွင့်ခြင်း’ စနစ်မထည့်သွင်းမီ ၎င်းကို အသုံးပြုပါ။</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">ဖန်သားပြင်အကာအကွယ် ထုပ်ပိုးမှုပေါ်ရှိ ကုဒ်ကို ဖရိမ်ထဲတွင် ထားပါ</string>
+    <string name="fingerprint_sp_title_got_it">ရပါပြီ။</string>
+    <string name="fingerprint_sp_title_scan_qr_code">QR ကုဒ်ကို စကင်ဖတ်ပါ</string>
+    <string name="protector_edu_subtitle">ဖန်သားပြင်အကာအကွယ်သည် လက်ဗွေမှတ်မိခြင်းအပေါ် သက်ရောက်နိုင်သည်။ ဖန်သားပြင်အကာအကွယ်ပါသော အကောင်းဆုံး ‘လက်ဗွေသုံး လော့ခ်ဖွင့်ခြင်း’ စွမ်းဆောင်ရည်အတွက်-</string>
+    <string name="screen_protector_edu_apply_instruction">ဖြစ်နိုင်ပါက ‘လက်ဗွေသုံး လော့ခ်ဖွင့်ခြင်း’ စနစ်မထည့်သွင်းမီ ဖန်သားပြင်အကာအကွယ်ကို ကပ်ပြီး လေပူဖောင်းများ ခိုမနေအောင်လုပ်ပါ။ စနစ်ထည့်သွင်းပြီးမှ ကပ်လိုပါက QR ကုဒ်ကို သင့်ကင်မရာဖြင့် နောက်မှ စကင်ဖတ်ပါ။</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;g.co/pixel/screenprotector တွင် ပိုလေ့လာရန်&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">‘Google အတွက် ပြုလုပ်ထားသည်’ အသိအမှတ်ပြုလက်မှတ်ရ ဖန်သားပြင်အကာအကွယ် သုံးပါ</string>
+    <string name="screen_protector_edu_no_qr_code">QR ကုဒ် မရှိ</string>
+    <string name="screen_protector_edu_scan_it_later">နောက်မှ စကင်ဖတ်ရန်</string>
+    <string name="screen_protector_edu_scan_qr_code">QR ကုဒ် စကင်ဖတ်ရန်</string>
+    <string name="screen_protector_edu_title">ဖန်သားပြင်အကာအကွယ် ထုပ်ပိုးမှုပေါ်ရှိ QR ကုဒ်ကို စကင်ဖတ်ပါ</string>
+    <string name="screen_protector_no_qr_code_msg">‘Google အတွက် ပြုလုပ်ထားသည်’ အသိအမှတ်ပြုလက်မှတ်ရ ဖန်သားပြင်အကာအကွယ်တွင် ထုပ်ပိုးမှုပေါ်၌ QR ကုဒ် ပါဝင်သည်။ အခြား ဖန်သားပြင်အကာအကွယ်များသည် အာရုံခံကိရိယာကို အနှောင့်အယှက်ပေးပြီး ၎င်းစိတ်ချရစွာ အလုပ်လုပ်ခြင်းကို တားဆီးနိုင်သည်။\n\ng.co/pixel/screenprotector တွင် ပိုလေ့လာရန်</string>
+    <string name="screen_protector_no_qr_code_ok">နားလည်ပြီ</string>
+    <string name="screen_protector_no_qr_code_title">QR ကုဒ် မတွေ့ဘူးလား</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">အတည်ပြုရန်</string>
+    <string name="security_settings_udfps_screen_protector_description_none">ဖန်သားပြင်အကာအကွယ် မရှိပါ</string>
+    <string name="security_settings_udfps_screen_protector_keywords">ဖန်သားပြင်အကာအကွယ်</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">လက်ဗွေမှတ်သားမှု ပိုကောင်းအောင်လုပ်ရန် ဖန်သားပြင်အကာအကွယ် အကောင်းဆုံးချိန်ညှိခြင်း မပိတ်မီ သင်၏ဖန်သားပြင်အကာအကွယ်ကို ဖယ်ရှားပါ</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">ဖန်သားပြင်အကာအကွယ်ကို ဖယ်ရှားခြင်း</string>
+    <string name="security_settings_udfps_screen_protector_title">ဖန်သားပြင်အကာအကွယ်အတွက် အကောင်းဆုံးချိန်ညှိရန်</string>
+    <string name="sp_apply_dialog_button_got_it">နားလည်ပြီ</string>
+    <string name="sp_apply_dialog_msg_incompatible">ဖန်သားပြင်အကာအကွယ်သည် သင့်ဖုန်းနှင့် တွဲသုံး၍မရခြင်း ဖြစ်နိုင်သည်။ သေချာစေရန် သင့်ဖုန်းကို Android နောက်ဆုံးဗားရှင်းသို့ အပ်ဒိတ်လုပ်ပြီး ထပ်စမ်းကြည့်ပါ။</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">QR ကုဒ် မမှန်ပါ</string>
+    <string name="sp_apply_dialog_msg_main_user_only">ဤလုပ်ဆောင်ချက်ကို စက်ပိုင်ရှင်သာ ပြုလုပ်နိုင်သည်</string>
+    <string name="sp_apply_title_product_combined">%s လား</string>
+    <string name="sp_apply_yes_button">Yes</string>
+</resources>

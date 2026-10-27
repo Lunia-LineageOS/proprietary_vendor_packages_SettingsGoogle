@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Zdaj lahko s prstnim odtisom odklenete telefon ali potrdite svojo identiteto. Za največjo prilagodljivost dodajte še en prstni odtis.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Dotaknite se s konico prsta</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Dotaknite se z levim robom</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Dotaknite se z desnim robom</string>
+    <string name="find_usudfps_subtitle_simple">Tipalo prstnih odtisov bo na naslednjem zaslonu</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Nastavitev z zaščito zaslona</string>
+    <string name="fingerprint_acquired_immobile_simple">Vsakič nekoliko prestavite prst</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Veljavna koda QR</string>
+    <string name="fingerprint_sp_qr_code_error">Ta koda QR ni za potrjeno zaščito zaslona</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Imate zaščito zaslona %s.\nNamestite jo, preden nastavite odklepanje s prstnim odtisom.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Kodo na embalaži zaščite zaslona postavite v okvir</string>
+    <string name="fingerprint_sp_title_got_it">Razumem!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Optično preberite kodo QR</string>
+    <string name="protector_edu_subtitle">Zaščita zaslona lahko vpliva na prepoznavanje prstnih odtisov. Za najboljše delovanje odklepanja s prstnim odtisom pri uporabi zaščite zaslona izberite naslednje:</string>
+    <string name="screen_protector_edu_apply_instruction">Če je mogoče, namestite zaščito zaslona, preden nastavite odklepanje s prstnim odtisom, in izpod nje odstranite vse mehurčke. Če jo želite namestiti po nastavitvi, s fotoaparatom pozneje optično preberite kodo QR.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Več o tem na g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Uporabite zaščito zaslona, ki ima potrdilo »Narejeno za Google«</string>
+    <string name="screen_protector_edu_no_qr_code">Ni kode QR</string>
+    <string name="screen_protector_edu_scan_it_later">Preberi pozneje</string>
+    <string name="screen_protector_edu_scan_qr_code">Branje kode QR</string>
+    <string name="screen_protector_edu_title">Optično preberite kodo QR na embalaži zaščite zaslona</string>
+    <string name="screen_protector_no_qr_code_msg">Zaščita zaslona, ki ima potrdilo »Narejeno za Google«, ima na embalaži kodo QR. Druge zaščite zaslona lahko ovirajo tipalo in preprečujejo njegovo zanesljivo delovanje.\n\nVeč o tem na g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">Razumem</string>
+    <string name="screen_protector_no_qr_code_title">Niste našli kode QR?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Potrdi</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Brez zaščite zaslona</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Zaščita zaslona</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Če želite izboljšati prepoznavanje prstnih odtisov, odstranite zaščito zaslona, preden izklopite optimizacijo za zaščito zaslona</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Odstranitev zaščite zaslona</string>
+    <string name="security_settings_udfps_screen_protector_title">Optimizacija za zaščito zaslona</string>
+    <string name="sp_apply_dialog_button_got_it">Razumem</string>
+    <string name="sp_apply_dialog_msg_incompatible">Zaščita zaslona morda ni združljiva s telefonom. Če želite zagotovo preveriti, posodobite telefon na najnovejšo različico Androida in poskusite znova.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Neveljavna koda QR</string>
+    <string name="sp_apply_dialog_msg_main_user_only">To dejanje je omejeno samo na lastnika naprave</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Da</string>
+</resources>

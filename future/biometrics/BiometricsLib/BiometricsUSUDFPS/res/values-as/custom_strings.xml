@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">এতিয়া আপুনি নিজৰ ফ’নটো আনলক কৰোঁতে বা এয়া আপুনিয়েই বুলি সত্যাপন কৰিবলৈ নিজৰ ফিংগাৰপ্ৰিণ্ট ব্যৱহাৰ কৰিব পাৰে। সৰ্বোত্তম নমনীয়তা পাবলৈ আন এটা ফিংগাৰপ্ৰিণ্ট যোগ দিয়ক।</string>
+    <string name="enroll_usudfps_fingertip_title_simple">আপোনাৰ আঙুলিৰ আগটো লগাই দিয়ক</string>
+    <string name="enroll_usudfps_left_edge_title_simple">বাওঁফালৰ কাষটো লগাই দিয়ক</string>
+    <string name="enroll_usudfps_right_edge_title_simple">সোঁফালৰ কাষটো লগাই দিয়ক</string>
+    <string name="find_usudfps_subtitle_simple">ফিংগাৰপ্ৰিণ্ট ছেন্সৰটো পৰৱৰ্তী স্ক্ৰীনখনত থাকিব</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰীৰে ছেট আপ কৰক</string>
+    <string name="fingerprint_acquired_immobile_simple">প্ৰতিবাৰতে সামান্যভাৱে মিলাওক</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">মান্য কিউআৰ ক’ড</string>
+    <string name="fingerprint_sp_qr_code_error">এই কিউআৰ ক’ডটো কোনো প্ৰমাণপত্ৰপ্ৰাপ্ত স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰীৰ নহয়</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">আপোনাৰ ওচৰত %s আছে।\nফিংগাৰপ্ৰিন্ট আনলক সুবিধাটো ছেট আপ কৰাৰ পূৰ্বে এইটো প্ৰয়োগ কৰক।</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">ফ্ৰে’মটোত স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰীৰ পেকেজিঙত ক’ডটো ৰাখক</string>
+    <string name="fingerprint_sp_title_got_it">বুজি পালোঁ!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">কিউআৰ ক’ডটো স্কেন কৰক</string>
+    <string name="protector_edu_subtitle">স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰীয়ে ফিংগাৰপ্ৰিণ্ট চিনাক্তকৰণত প্ৰভাৱ পেলাব পাৰে। স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰীৰ সৈতে সৰ্বশ্ৰেষ্ঠ ফিংগাৰপ্ৰিণ্ট আনলক কাৰ্যদক্ষতাৰ বাবে:</string>
+    <string name="screen_protector_edu_apply_instruction">যেতিয়া সম্ভৱ হয়, ফিংগাৰপ্ৰিণ্ট আনলক ছেট আপ কৰাৰ আগতে স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰীৰ প্ৰয়োগ কৰক আৰু যিকোনো বাবল চেপেটা কৰক। যদি আপুনি ছেটআপ কৰাৰ পাছত এয়া প্ৰয়োগ কৰিব লাগে, পাছত আপোনাৰ কেমেৰাৰ জৰিয়তে কিউআৰ ক’ডটো স্কেন কৰক।</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Learn more at g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Made for Google বুলি প্ৰমাণিত এটা স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰী ব্যৱহাৰ কৰক</string>
+    <string name="screen_protector_edu_no_qr_code">কোনো কিউআৰ ক’ড নাই</string>
+    <string name="screen_protector_edu_scan_it_later">ইয়াক পাছত স্কেন কৰক</string>
+    <string name="screen_protector_edu_scan_qr_code">কিউআৰ ক’ড স্কেন কৰক</string>
+    <string name="screen_protector_edu_title">স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰীৰ পেকেজিঙত কিউআৰ ক’ডটো স্কেন কৰক</string>
+    <string name="screen_protector_no_qr_code_msg">Made for Google বুলি প্ৰমাণিত এটা স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰীৰ পেকেজিঙত এটা কিউআৰ ক’ড থাকে। আন স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰীয়ে ছেন্সৰটোত হস্তক্ষেপ কৰিব পাৰে আৰু ইয়াক নিৰ্ভৰযোগ্যভাৱে কাম কৰাত বাধা দিব পাৰে।\n\ng.co/pixel/screenprotectorত অধিক জানক</string>
+    <string name="screen_protector_no_qr_code_ok">বুজি পালোঁ</string>
+    <string name="screen_protector_no_qr_code_title">কোনো কিউআৰ ক’ড দেখা নাই নেকি?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">নিশ্চিত কৰক</string>
+    <string name="security_settings_udfps_screen_protector_description_none">কোনো স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰী নাই</string>
+    <string name="security_settings_udfps_screen_protector_keywords">স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰী</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">ফিংগাৰপ্ৰিণ্ট চিনাক্তকৰণ উন্নত কৰিবলৈ, স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰীৰ অপ্টিমাইজেশ্বন অফ কৰাৰ আগতে আপোনাৰ স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰী আঁতৰাওক</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰী আঁতৰাওক</string>
+    <string name="security_settings_udfps_screen_protector_title">স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰীৰ বাবে অপ্টিমাইজ কৰক</string>
+    <string name="sp_apply_dialog_button_got_it">বুজি পালোঁ</string>
+    <string name="sp_apply_dialog_msg_incompatible">আপোনাৰ স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰী আপোনাৰ ফ’নৰ সৈতে সুসংগত নহ’বও পাৰে। নিশ্চিত কৰিবলৈ আপোনাৰ ফ’নটো Androidৰ শেহতীয়া সংস্কৰণলৈ আপডে’ট কৰক আৰু পুনৰ চেষ্টা কৰক।</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">অমান্য কিউআৰ ক’ড</string>
+    <string name="sp_apply_dialog_msg_main_user_only">এই কাৰ্যটো কেৱল ডিভাইচৰ গৰাকীয়েহে কৰিব পাৰে</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">হয়</string>
+</resources>

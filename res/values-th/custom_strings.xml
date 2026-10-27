@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">ใช้ฟีเจอร์ปลดล็อกด้วยลายนิ้วมือควบคู่กับฟีเจอร์ปลดล็อกด้วยใบหน้าเพื่อให้การปลดล็อกสะดวกยิ่งขึ้น</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">ตั้งค่าการปลดล็อกด้วยลายนิ้วมือ</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">ตั้งค่าการปลดล็อกด้วยลายนิ้วมือสำหรับโปรไฟล์งาน</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">ตอนนี้คุณสามารถใช้ลายนิ้วมือเพื่อปลดล็อกโทรศัพท์หรือยืนยันว่าเป็นคุณ เพิ่มลายนิ้วมืออีกเพื่อการใช้งานที่ยืดหยุ่นที่สุด</string>
-    <string name="enroll_usudfps_fingertip_title_simple">แตะปลายนิ้ว</string>
-    <string name="enroll_usudfps_left_edge_title_simple">แตะขอบนิ้วด้านซ้าย</string>
-    <string name="enroll_usudfps_right_edge_title_simple">แตะขอบนิ้วด้านขวา</string>
     <string name="face_confirmation_hide_illustration_description">ตอนนี้เมื่อหยิบโทรศัพท์ขึ้นมาหรือแตะหน้าจอ คุณก็จะใช้ใบหน้าเพื่อปลดล็อกได้</string>
     <string name="face_confirmation_info_enough_light">ฟีเจอร์ปลดล็อกด้วยใบหน้าจะทำงานได้ดีที่สุดเมื่อมีแสงสว่างเพียงพอและไม่สวมหน้ากากหรือแว่นตาดำ</string>
     <string name="face_confirmation_info_outside_screen">ฟีเจอร์ปลดล็อกด้วยใบหน้าจะใช้งานได้เมื่อออกจากหน้าจอนี้เท่านั้น</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">เลื่อนโทรศัพท์ไปทางซ้าย</string>
     <string name="face_enrolling_turn_head_to_arrow">หันศีรษะไปทางลูกศร</string>
     <string name="face_enrolling_turned_too_far">หันศีรษะกลับมาเล็กน้อย</string>
-    <string name="find_usudfps_subtitle_simple">เซ็นเซอร์ลายนิ้วมือจะอยู่ในหน้าจอถัดไป</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">ตั้งค่าโดยมีแผ่นปกป้องหน้าจอ</string>
-    <string name="fingerprint_acquired_immobile_simple">ปรับเล็กน้อยในแต่ละครั้ง</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">คิวอาร์โค้ดถูกต้อง</string>
-    <string name="fingerprint_sp_qr_code_error">คิวอาร์โค้ดนี้ไม่เป็นไปตามมาตรฐานสำหรับแผ่นปกป้องหน้าจอที่ผ่านการรับรอง</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">คุณมี %s\n โปรดติดแผ่นปกป้องหน้าจอก่อนตั้งค่าการปลดล็อกด้วยลายนิ้วมือ</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">วางตำแหน่งโค้ดบนบรรจุภัณฑ์ของแผ่นปกป้องหน้าจอให้อยู่ในกรอบ</string>
-    <string name="fingerprint_sp_title_got_it">รับทราบ</string>
-    <string name="fingerprint_sp_title_scan_qr_code">สแกนคิวอาร์โค้ด</string>
-    <string name="protector_edu_subtitle">แผ่นปกป้องหน้าจออาจส่งผลกระทบต่อการจดจำลายนิ้วมือ ทำตามขั้นตอนต่อไปนี้เพื่อประสิทธิภาพสูงสุดในการปลดล็อกด้วยลายนิ้วมือเมื่อใช้แผ่นปกป้องหน้าจอ</string>
-    <string name="screen_protector_edu_apply_instruction">หากทำได้ ให้ติดแผ่นปกป้องหน้าจอก่อนตั้งค่าการปลดล็อกด้วยลายนิ้วมือ และไล่ฟองอากาศออก หากต้องการติดหลังจากตั้งค่า ให้สแกนคิวอาร์โค้ดในภายหลังด้วยกล้อง</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;ดูข้อมูลเพิ่มเติมที่ g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">ใช้แผ่นปกป้องหน้าจอที่มีป้ายรับรอง Made For Google</string>
-    <string name="screen_protector_edu_no_qr_code">ไม่มีคิวอาร์โค้ด</string>
-    <string name="screen_protector_edu_scan_it_later">สแกนในภายหลัง</string>
-    <string name="screen_protector_edu_scan_qr_code">สแกนคิวอาร์โค้ด</string>
-    <string name="screen_protector_edu_title">สแกนคิวอาร์โค้ดบนบรรจุภัณฑ์ของแผ่นปกป้องหน้าจอ</string>
-    <string name="screen_protector_no_qr_code_msg">แผ่นปกป้องหน้าจอที่มีป้ายรับรอง Made For Google จะมีคิวอาร์โค้ดบนบรรจุภัณฑ์ แผ่นปกป้องหน้าจออื่นๆ อาจรบกวนเซ็นเซอร์และทำให้เซ็นเซอร์ทำงานได้อย่างไม่เสถียร\n\nดูข้อมูลเพิ่มเติมที่ g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">รับทราบ</string>
-    <string name="screen_protector_no_qr_code_title">หากไม่เห็นคิวอาร์โค้ด</string>
     <string name="security_settings_face_enroll_consent_message">ใช้ใบหน้าของบุตรหลานเพื่อปลดล็อกโทรศัพท์หรือยืนยันตัวตนในแอป</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">ระบบจะเก็บใบหน้าของบุตรหลานไว้ในอุปกรณ์เท่านั้นและจะไม่ส่งไปยัง Google</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">ตอนนี้เมื่อหยิบโทรศัพท์ขึ้นมาหรือแตะหน้าจอ คุณก็จะใช้ใบหน้าเพื่อปลดล็อกได้\n\nการปลดล็อกด้วยใบหน้าจะทำงานได้ดีที่สุดเมื่อมีแสงสว่างเพียงพอและไม่สวมหน้ากากหรือแว่นตาดำ</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">โทรศัพท์ร้อนเกินไป</string>
     <string name="security_settings_fingerprint_enroll_consent_message">ใช้ลายนิ้วมือของบุตรหลานเพื่อปลดล็อกโทรศัพท์หรือยืนยันตัวตนในแอป</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">ระบบจะเก็บลายนิ้วมือของบุตรหลานไว้ในอุปกรณ์เท่านั้นและจะไม่ส่งไปยัง Google</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">ยืนยัน</string>
-    <string name="security_settings_udfps_screen_protector_description_none">ไม่มีแผ่นปกป้องหน้าจอ</string>
-    <string name="security_settings_udfps_screen_protector_keywords">แผ่นปกป้องหน้าจอ</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">หากต้องการปรับปรุงการจดจำลายนิ้วมือ ให้นำแผ่นปกป้องหน้าจอออกก่อนที่จะปิดการเพิ่มประสิทธิภาพแผ่นปกป้องหน้าจอ</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">นำแผ่นปกป้องหน้าจอออก</string>
-    <string name="security_settings_udfps_screen_protector_title">เพิ่มประสิทธิภาพสำหรับแผ่นปกป้องหน้าจอ</string>
-    <string name="sp_apply_dialog_button_got_it">รับทราบ</string>
-    <string name="sp_apply_dialog_msg_incompatible">แผ่นปกป้องหน้าจออาจใช้งานร่วมกับโทรศัพท์ของคุณไม่ได้ หากต้องการตรวจสอบ ให้อัปเดตโทรศัพท์เป็น Android เวอร์ชันล่าสุดแล้วลองอีกครั้ง</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">คิวอาร์โค้ดไม่ถูกต้อง</string>
-    <string name="sp_apply_dialog_msg_main_user_only">การดำเนินการนี้จำกัดไว้ที่เจ้าของอุปกรณ์เท่านั้น</string>
-    <string name="sp_apply_title_product_combined">%s ใช่ไหม</string>
-    <string name="sp_apply_yes_button">ใช่</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">ตรวจพบการแตะด่วน</string>

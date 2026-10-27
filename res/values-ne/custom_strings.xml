@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">अनलक गर्न अझ सजिलो होस् भन्नाका लागि फेस अनलकका साथसाथै फिंगरप्रिन्ट अनलक पनि प्रयोग गर्नुहोस्</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">फिंगरप्रिन्ट अनलक सेटअप गर्नुहोस्</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">वर्क प्रोफाइलका हकमा फिंगरप्रिन्ट अनलक सेटअप गर्नुहोस्</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">तपाईं अब आफ्नो फोन अनलक गर्न वा आफ्नो पहिचान पुष्टि गर्न आफ्नो फिंगरप्रिन्ट प्रयोग गर्न सक्नुहुन्छ। फिंगरप्रिन्ट प्रयोग गर्न एकदमै सजिलो होस् भन्नाका लागि अर्को फिंगरप्रिन्ट हाल्नुहोस्।</string>
-    <string name="enroll_usudfps_fingertip_title_simple">आफ्नो औँलाको टुप्पोले टच गर्नुहोस्</string>
-    <string name="enroll_usudfps_left_edge_title_simple">बायाँ किनारामा टच गर्नुहोस्</string>
-    <string name="enroll_usudfps_right_edge_title_simple">दायाँ किनारामा टच गर्नुहोस्</string>
     <string name="face_confirmation_hide_illustration_description">तपाईंले अब आफ्नो फोन उठाउँदा वा सो फोनको स्क्रिनमा ट्याप गर्दा तपाईं फोन अनलक गर्न आफ्नो अनुहार प्रयोग गर्न सक्नुहुन्छ।</string>
     <string name="face_confirmation_info_enough_light">फेस अनलकले पर्याप्त प्रकाश उपलब्ध भएका बेलामा र तपाईंले मास्क वा कालो चस्मा नलगाएका बेलामा सबैभन्दा राम्रोसँग काम गर्छ।</string>
     <string name="face_confirmation_info_outside_screen">बाहिरी स्क्रिनबाट मात्र फेस अनलक प्रयोग गर्न मिल्छ</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">फोन आफ्नो बायाँतिर लैजानुहोस्</string>
     <string name="face_enrolling_turn_head_to_arrow">आफ्नो टाउको तीरतर्फ फर्काउनुहोस्</string>
     <string name="face_enrolling_turned_too_far">टाउको अलि थोरै घुमाउनुहोस्</string>
-    <string name="find_usudfps_subtitle_simple">फिंगरप्रिन्ट सेन्सर अर्को स्क्रिनमा देखाइने छ</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">स्क्रिन प्रोटेक्टर प्रयोग गरी सेटअप गर्नुहोस्</string>
-    <string name="fingerprint_acquired_immobile_simple">हरेक पटक हल्का मात्रै टच गर्नुहोस्</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">वैध QR कोड</string>
-    <string name="fingerprint_sp_qr_code_error">यो प्रमाणित स्क्रिन प्रोटेक्टरको QR कोड होइन</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">तपाईंसँग %s छ।\nफिंगरप्रिन्ट अनलक सेटअप गर्नुअघि आफ्नो डिभाइसको स्क्रिनमा यो स्क्रिन प्रोटेक्टर लगाउनुहोस्।</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">स्क्रिन प्रोटेक्टरको प्याकेजिङमा भएको कोड फ्रेमभित्र पर्ने गरी मिलाउनुहोस्</string>
-    <string name="fingerprint_sp_title_got_it">बुझेँ!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">QR कोड स्क्यान गर्नुहोस्</string>
-    <string name="protector_edu_subtitle">स्क्रिन प्रोटेक्टरले फिंगरप्रिन्ट पहिचान गर्ने कार्यमा प्रभाव पार्न सक्छ। स्क्रिन प्रोटेक्टर लगाइएको डिभाइसमा फिंगरप्रिन्ट अनलकको उत्कृष्ट पर्फर्मेन्स पाउन:</string>
-    <string name="screen_protector_edu_apply_instruction">सम्भव भएमा फिंगरप्रिन्ट अनलक सेटअप गर्नुअघि नै स्क्रिन प्रोटेक्टर लगाउनुहोस् र कुनै बबल बनेको छ भने हटाउनुहोस्। तपाईंले फिंगरप्रिन्ट अनलक सेटअप गरिसकेपछि स्क्रिन प्रोटेक्टर लगाउनु पर्ने भएमा पछि आफ्नो क्यामेरा प्रयोग गरी QR कोड स्क्यान गर्नुहोस्।</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;g.co/pixel/screenprotector मा गई थप जान्नुहोस्&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">\"Google का लागि बनाइएको\" प्रमाणपत्र प्राप्त स्क्रिन प्रोटेक्टर प्रयोग गर्नुहोस्</string>
-    <string name="screen_protector_edu_no_qr_code">QR कोड छैन</string>
-    <string name="screen_protector_edu_scan_it_later">पछि स्क्यान गर्नुहोस्</string>
-    <string name="screen_protector_edu_scan_qr_code">QR कोड स्क्यान गर्नुहोस्</string>
-    <string name="screen_protector_edu_title">स्क्रिन प्रोटेक्टरको प्याकेजिङमा भएको QR कोड स्क्यान गर्नुहोस्</string>
-    <string name="screen_protector_no_qr_code_msg">\"Google का लागि बनाइएको\" प्रमाणपत्र प्राप्त स्क्रिन प्रोटेक्टरको प्याकेजिङमा QR कोड हुन्छ। अन्य स्क्रिन प्रोटेक्टरहरूले सेन्सरमा अवरोध पुर्‍याउन र यसलाई भरपर्दो तरिकाले काम गर्न नदिन सक्छन्।\n\ng.co/pixel/screenprotector मा गई थप जान्नुहोस्</string>
-    <string name="screen_protector_no_qr_code_ok">बुझेँ</string>
-    <string name="screen_protector_no_qr_code_title">QR कोड देख्नुभएन?</string>
     <string name="security_settings_face_enroll_consent_message">आफ्ना बच्चाको अनुहार प्रयोग गरी उहाँको फोन अनलक गर्नुहोस् वा एपहरूमा उहाँको पहिचान पुष्टि गर्नुहोस्</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">तपाईंका बच्चाका अनुहारसम्बन्धी जानकारी डिभाइसमा मात्र भण्डारण गरिन्छ र कहिल्यै पनि Google मा पठाइँदैन</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">तपाईंले अब आफ्नो फोन उठाउँदा वा सो फोनको स्क्रिनमा ट्याप गर्दा तपाईं फोन अनलक गर्न आफ्नो अनुहार प्रयोग गर्न सक्नुहुन्छ।\n\nFace Unlock ले पर्याप्त प्रकाश उपलब्ध भएका बेलामा र तपाईंले मास्क वा कालो चस्मा नलगाएका बेलामा सबैभन्दा राम्रोसँग काम गर्छ।</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">फोन निकै तातो छ</string>
     <string name="security_settings_fingerprint_enroll_consent_message">आफ्ना बच्चाको फिंगरप्रिन्ट प्रयोग गरी उहाँको फोन अनलक गर्नुहोस् वा एपहरूमा उहाँको पहिचान पुष्टि गर्नुहोस्</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">तपाईंका बच्चाका फिंगरप्रिन्टसम्बन्धी जानकारी डिभाइसमा मात्र भण्डारण गरिन्छ र कहिल्यै पनि Google मा पठाइँदैन</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">पुष्टि गर्नुहोस्</string>
-    <string name="security_settings_udfps_screen_protector_description_none">स्क्रिन प्रोटेक्टर लगाइएको छैन</string>
-    <string name="security_settings_udfps_screen_protector_keywords">स्क्रिन प्रोटेक्टर</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">फिंगरप्रिन्ट पहिचानको गुणस्तरमा सुधार ल्याउन स्क्रिन प्रोटेक्टर अप्टिमाइजेसन अफ गर्नुअघि स्क्रिन प्रोटेक्टर हटाउनुहोस्</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">स्क्रिन प्रोटेक्टर हटाउनुहोस्</string>
-    <string name="security_settings_udfps_screen_protector_title">स्क्रिन प्रोटेक्टरका लागि अप्टिमाइज गर्नुहोस्</string>
-    <string name="sp_apply_dialog_button_got_it">बुझेँ</string>
-    <string name="sp_apply_dialog_msg_incompatible">तपाईंको स्क्रिन प्रोटेक्टर तपाईंको फोनसँग कम्प्याटिबल नहुन सक्छ। कम्प्याटिबल छ कि छैन भन्ने कुरा यकिन गर्न आफ्नो फोन अपडेट गरी Android को नवीनतम संस्करण इन्स्टल गर्नुहोस् र फेरि प्रयास गर्नुहोस्।</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">QR कोड अवैध छ</string>
-    <string name="sp_apply_dialog_msg_main_user_only">डिभाइसका मालिक मात्र यो कार्य गर्न सक्नुहुन्छ</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">अँ</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">क्विक ट्याप गरेको पत्ता लाग्यो!</string>

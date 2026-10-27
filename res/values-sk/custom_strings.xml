@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Ak chcete, aby bolo odomykanie praktickejšie, používajte odomknutie odtlačkom prsta aj tvárou</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Nastavte odomknutie odtlačkom prsta</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Nastavte odomknutie odtlačkom prsta pre pracovný profil</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Teraz môžete odomykať telefón alebo overovať svoju totožnosť odtlačkom prsta. Väčšiu flexibilitu získate pridaním ďalšieho odtlačku prsta.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Priložte konček prsta</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Dotknite sa ľavého okraja</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Dotknite sa pravého okraja</string>
     <string name="face_confirmation_hide_illustration_description">Keď teraz zdvihnete telefón alebo klepnete na obrazovku, môžete ho odomknúť tvárou.</string>
     <string name="face_confirmation_info_enough_light">Odomknutie tvárou najlepšie funguje pri dobrom osvetlení a keď na sebe nemáte rúško ani tmavé okuliare.</string>
     <string name="face_confirmation_info_outside_screen">Odomknutie tvárou funguje iba na vonkajšej obrazovke</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Posuňte telefón doľava</string>
     <string name="face_enrolling_turn_head_to_arrow">Otočte hlavu smerom k šípke</string>
     <string name="face_enrolling_turned_too_far">Natočte hlavu o niečo menej</string>
-    <string name="find_usudfps_subtitle_simple">Senzor odtlačkov prstov bude na ďalšej obrazovke</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Nastaviť s ochranou obrazovky</string>
-    <string name="fingerprint_acquired_immobile_simple">Polohu zakaždým mierne zmeňte</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Platný QR kód</string>
-    <string name="fingerprint_sp_qr_code_error">Toto nie je QR kód certifikovanej ochrany obrazovky</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Máte ochranu %s.\nPoužite ju pred nastavením odomknutia odtlačkom prsta.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Umiestnite kód na obale ochrany obrazovky do rámčeka</string>
-    <string name="fingerprint_sp_title_got_it">Dobre</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Naskenujte QR kód</string>
-    <string name="protector_edu_subtitle">Ochrana obrazovky môže mať vplyv na rozpoznávanie odtlačkov prstov. Ak chcete, aby odomykanie odtlačkom prsta pri používaní ochrany obrazovky fungovalo čo najlepšie:</string>
-    <string name="screen_protector_edu_apply_instruction">Ochranu obrazovky pripevnite podľa možnosti ešte pred nastavením odomknutia odtlačkom prsta a vytlačte všetky bubliny. Ak ju chcete pripevniť až po nastavení, naskenujte QR kód kamerou neskôr.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Viac sa dozviete na g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Používajte ochranu obrazovky s certifikátom Made for Google.</string>
-    <string name="screen_protector_edu_no_qr_code">Žiadny QR kód</string>
-    <string name="screen_protector_edu_scan_it_later">Naskenovať neskôr</string>
-    <string name="screen_protector_edu_scan_qr_code">Naskenovať QR kód</string>
-    <string name="screen_protector_edu_title">Naskenujte QR kód na obale ochrany obrazovky</string>
-    <string name="screen_protector_no_qr_code_msg">Ochrana obrazovky s certifikátom Made for Google má na obale QR kód. Iné ochrany obrazovky môžu rušiť senzor a brániť jeho spoľahlivému fungovaniu.\n\nViac sa dozviete na g.co/pixel/screenprotector.</string>
-    <string name="screen_protector_no_qr_code_ok">Dobre</string>
-    <string name="screen_protector_no_qr_code_title">Nevidíte QR kód?</string>
     <string name="security_settings_face_enroll_consent_message">Odomykajte telefón svojho dieťaťa alebo overujte jeho totožnosť v aplikáciách tvárou dieťaťa</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Tvár vášho dieťaťa bude uložená iba v zariadení a Googlu sa nikdy neodošle</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Keď teraz zdvihnete telefón alebo klepnete na obrazovku, môžete ho odomknúť tvárou.\n\nOdomknutie tvárou najlepšie funguje pri dobrom osvetlení a keď na sebe nemáte rúško či tmavé okuliare.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Telefón je príliš horúci</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Odomykajte telefón svojho dieťaťa alebo overujte jeho totožnosť v aplikáciách odtlačkom prsta dieťaťa</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Odtlačky prstov vášho dieťaťa budú uložená iba v zariadení a Googlu sa nikdy neodošlú</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Potvrdiť</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Žiadna ochrana obrazovky</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Ochrana obrazovky</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Ak chcete zlepšiť rozpoznávanie odtlačkov prstov, odstráňte ochranu obrazovky a až potom vypnite jej optimalizáciu</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Odstránenie ochrany obrazovky</string>
-    <string name="security_settings_udfps_screen_protector_title">Optimalizovať s ohľadom na ochranu obrazovky</string>
-    <string name="sp_apply_dialog_button_got_it">Dobre</string>
-    <string name="sp_apply_dialog_msg_incompatible">Ochrana obrazovky nemusí byť kompatibilná s telefónom. Ak chcete skontrolovať, či je to tak, aktualizujte svoj telefón na najnovšiu verziu Androidu a skúste to znova.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Neplatný QR kód</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Táto akcia je obmedzená iba na vlastníka zariadenia</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Áno</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Bolo rozpoznané rýchle poklepanie.</string>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">మీ ఫోన్‌ను అన్‌లాక్ చేయడానికి లేదా మీ గుర్తింపును వెరిఫై చేయడానికి ఇప్పుడు మీ వేలిముద్రను మీరు ఉపయోగించవచ్చు. అత్యంత సౌలభ్యం కోసం, మరొక వేలిముద్రను జోడించండి.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">మీ వేలి కొనను తాకండి</string>
+    <string name="enroll_usudfps_left_edge_title_simple">ఎడమ అంచును తాకండి</string>
+    <string name="enroll_usudfps_right_edge_title_simple">కుడి ఎడ్జ్‌ను తాకండి</string>
+    <string name="find_usudfps_subtitle_simple">వేలిముద్ర సెన్సార్ తదుపరి స్క్రీన్‌లో ఉంటుంది</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">స్క్రీన్ గార్డ్‌తో సెటప్ చేయండి</string>
+    <string name="fingerprint_acquired_immobile_simple">ప్రతిసారీ కొద్దిగా సర్దుబాటు చేయండి</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">చెల్లుబాటయ్యే QR కోడ్</string>
+    <string name="fingerprint_sp_qr_code_error">ఈ QR కోడ్ సర్టిఫై చేయబడిన స్క్రీన్ గార్డ్‌కు వర్తించదు</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">మీకు %s ఉంది.\n ఫింగర్ ప్రింట్ అన్‌లాక్‌ను సెటప్ చేసే ముందు దాన్ని వర్తింపజేయండి.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">స్క్రీన్ గార్డ్ ప్యాకేజింగ్‌పై ఉన్న కోడ్‌ను ఫ్రేమ్‌లో ఉంచండి</string>
+    <string name="fingerprint_sp_title_got_it">సరే!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">QR కోడ్‌ను స్కాన్ చేయండి</string>
+    <string name="protector_edu_subtitle">స్క్రీన్ గార్డ్, వేలిముద్ర (ఫింగర్ ప్రింట్) గుర్తింపును ప్రభావితం చేయవచ్చు. స్క్రీన్ గార్డ్ ద్వారా మెరుగైన ఫింగర్ ప్రింట్ అన్‌లాక్ పనితీరును పొందడానికి:</string>
+    <string name="screen_protector_edu_apply_instruction">సాధ్యమైనప్పుడు, ఫింగర్ ప్రింట్ అన్‌లాక్‌ను సెటప్ చేయడానికి ముందు స్క్రీన్ గార్డ్‌ను వేయండి, వేసిన తర్వాత ఏవైనా బబుల్స్ ఏర్పడితే వాటిని తొలగించండి. సెటప్ చేసిన తర్వాత దాన్ని వేయవలసి వస్తే, తర్వాత మీ కెమెరాతో QR కోడ్‌ను స్కాన్ చేయండి.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;g.co/pixel/screenprotector నుండి మరింత తెలుసుకోండి&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Google కోసం తయారు చేసినది అనే సర్టిఫికెట్ గల స్క్రీన్ గార్డ్‌ను ఉపయోగించండి</string>
+    <string name="screen_protector_edu_no_qr_code">QR కోడ్ లేదు</string>
+    <string name="screen_protector_edu_scan_it_later">దాన్ని తర్వాత స్కాన్ చేయండి</string>
+    <string name="screen_protector_edu_scan_qr_code">QR కోడ్‌ను స్కాన్ చేయండి</string>
+    <string name="screen_protector_edu_title">స్క్రీన్ గార్డ్ ప్యాకేజింగ్‌లో ఉన్న QR కోడ్‌ను స్కాన్ చేయండి</string>
+    <string name="screen_protector_no_qr_code_msg">\"Made for Google (Google కోసం ప్రత్యేకంగా తయారు చేసినది)\" అనే సర్టిఫికెట్ ఉన్న స్క్రీన్ గార్డ్‌కు, ప్యాకేజింగ్ పైన ఒక QR కోడ్ ఉంటుంది. ఇతర స్క్రీన్ గార్డ్‌లు, సెన్సర్ పనితీరుకు అంతరాయం కలిగించవచ్చు, ఫలితంగా సెన్సర్ రిలయబుల్‌గా (విశ్వసనీయంగా) పని చేయకపోవచ్చు.\n\ng.co/pixel/screenprotectorలో మరింత తెలుసుకోండి</string>
+    <string name="screen_protector_no_qr_code_ok">సరే</string>
+    <string name="screen_protector_no_qr_code_title">QR కోడ్ కనిపించలేదా?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">నిర్ధారించండి</string>
+    <string name="security_settings_udfps_screen_protector_description_none">స్క్రీన్ గార్డ్ లేదు</string>
+    <string name="security_settings_udfps_screen_protector_keywords">స్క్రీన్ గార్డ్</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">ఫింగర్ ప్రింట్ గుర్తింపును మెరుగుపరచడానికి, స్క్రీన్ గార్డ్ ఆప్టిమైజేషన్‌ను ఆఫ్ చేసే ముందు మీ స్క్రీన్ గార్డ్‌ను తీసివేయండి</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">స్క్రీన్ గార్డ్‌ను తీసివేయండి</string>
+    <string name="security_settings_udfps_screen_protector_title">స్క్రీన్ గార్డ్ కోసం ఆప్టిమైజేషన్</string>
+    <string name="sp_apply_dialog_button_got_it">సరే</string>
+    <string name="sp_apply_dialog_msg_incompatible">మీ స్క్రీన్ గార్డ్ మీ ఫోన్‌తో అనుకూలంగా లేకపోవచ్చు. నిర్ధారించుకోవడానికి, మీ ఫోన్‌ను Android తాజా వెర్షన్‌కు అప్‌డేట్ చేసి, మళ్లీ ట్రై చేయండి.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">చెల్లని QR కోడ్</string>
+    <string name="sp_apply_dialog_msg_main_user_only">ఈ చర్య డివైజ్ ఓనర్‌కు మాత్రమే పరిమితం చేయబడింది</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">వర్తింపజేయండి</string>
+</resources>

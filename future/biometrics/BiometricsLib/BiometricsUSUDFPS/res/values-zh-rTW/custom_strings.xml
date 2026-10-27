@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">你現在可以用指紋解鎖手機或驗證身分。​建議新增其他指紋，操作更方便。</string>
+    <string name="enroll_usudfps_fingertip_title_simple">用指尖輕觸</string>
+    <string name="enroll_usudfps_left_edge_title_simple">輕觸左側邊緣</string>
+    <string name="enroll_usudfps_right_edge_title_simple">輕觸右側邊緣</string>
+    <string name="find_usudfps_subtitle_simple">下一個畫面會顯示指紋感應器</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">貼好螢幕保護貼後再設定</string>
+    <string name="fingerprint_acquired_immobile_simple">逐次微調</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">有效的 QR code</string>
+    <string name="fingerprint_sp_qr_code_error">這不是已認證螢幕保護貼的 QR code</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">這是 %s 螢幕保護貼。\n請先貼上，再設定指紋解鎖。</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">請將方框對準螢幕保護貼包裝上的 QR code</string>
+    <string name="fingerprint_sp_title_got_it">偵測到 QR code！</string>
+    <string name="fingerprint_sp_title_scan_qr_code">掃描 QR code</string>
+    <string name="protector_edu_subtitle">螢幕保護貼可能會影響指紋辨識。為求最佳指紋解鎖效果，使用螢幕保護貼時建議採取以下做法：</string>
+    <string name="screen_protector_edu_apply_instruction">盡可能在設定指紋解鎖功能前貼好螢幕保護貼，並避免產生氣泡。如果想先完成設定，請在之後貼保護貼時使用相機掃描 QR code。</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;詳情請參閱 g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">使用 Made For Google 認證的螢幕保護貼</string>
+    <string name="screen_protector_edu_no_qr_code">沒有 QR code</string>
+    <string name="screen_protector_edu_scan_it_later">稍後再掃描</string>
+    <string name="screen_protector_edu_scan_qr_code">掃描 QR code</string>
+    <string name="screen_protector_edu_title">掃描螢幕保護貼包裝上的 QR code</string>
+    <string name="screen_protector_no_qr_code_msg">如果螢幕保護貼有 Made For Google 認證，包裝上會有 QR code。其他螢幕保護貼可能會干擾感應器，導致感應器無法順利運作。\n\n詳情請參閱 g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">我知道了</string>
+    <string name="screen_protector_no_qr_code_title">沒看到 QR code 嗎？</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">確認</string>
+    <string name="security_settings_udfps_screen_protector_description_none">沒有貼螢幕保護貼</string>
+    <string name="security_settings_udfps_screen_protector_keywords">螢幕保護貼</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">請移除螢幕保護貼，再關閉螢幕保護貼最佳化功能，以提升指紋辨識效果</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">移除螢幕保護貼</string>
+    <string name="security_settings_udfps_screen_protector_title">螢幕保護貼最佳化</string>
+    <string name="sp_apply_dialog_button_got_it">我知道了</string>
+    <string name="sp_apply_dialog_msg_incompatible">螢幕保護貼可能與你的手機不相容。如要確認，請將手機更新到最新版 Android，然後再試一次。</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">無效的 QR code</string>
+    <string name="sp_apply_dialog_msg_main_user_only">只有裝置擁有者才能執行這項操作</string>
+    <string name="sp_apply_title_product_combined">是 %s 嗎？</string>
+    <string name="sp_apply_yes_button">是</string>
+</resources>

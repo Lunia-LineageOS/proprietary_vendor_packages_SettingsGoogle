@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">இன்னும் சௌகரியமாக அன்லாக் செய்ய, முகம் காட்டித் திறத்தல் அம்சத்துடன் கைரேகை அன்லாக் அம்சத்தைப் பயன்படுத்துங்கள்</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">கைரேகை அன்லாக் அம்சத்தை அமையுங்கள்</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">பணிக்குக் கைரேகை அன்லாக்கை அமைத்தல்</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">இப்போது உங்கள் கைரேகையைப் பயன்படுத்தி மொபைலை அன்லாக் செய்யலாம் அல்லது இது நீங்கள்தான் என்பதை உறுதிப்படுத்தலாம். மிகவும் எளிதாக அன்லாக் செய்ய, மற்றொரு கைரேகையைச் சேர்க்கவும்.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">உங்கள் விரல் நுனியால் தொடுங்கள்</string>
-    <string name="enroll_usudfps_left_edge_title_simple">இடது ஓரத்தால் தொடுங்கள்</string>
-    <string name="enroll_usudfps_right_edge_title_simple">வலது ஓரத்தால் தொடுங்கள்</string>
     <string name="face_confirmation_hide_illustration_description">இப்போது மொபைலைக் கையில் எடுக்கும்போதோ அதன் திரையைத் தட்டும்போதோ உங்கள் முகத்தைக் காட்டி அன்லாக் செய்யலாம்.</string>
     <string name="face_confirmation_info_enough_light">நீங்கள் மாஸ்க்/அடர் நிறக் கண்ணாடி அணியாமல் போதிய வெளிச்சத்தில் இருந்தால் முகம் காட்டித் திறத்தல் சிறப்பாகச் செயல்படும்.</string>
     <string name="face_confirmation_info_outside_screen">முகம் காட்டித் திறத்தல் அம்சம் வெளிப்புறத் திரையில் மட்டுமே செயல்படும்</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">மொபைலை உங்களுக்கு இடதுபுறம் நகர்த்துங்கள்</string>
     <string name="face_enrolling_turn_head_to_arrow">அம்புக்குறியை நோக்கி தலையைத் திருப்பவும்</string>
     <string name="face_enrolling_turned_too_far">சற்றே தலையைத் திருப்பவும்</string>
-    <string name="find_usudfps_subtitle_simple">அடுத்த திரையில் கைரேகை சென்சார் காட்டப்படும்</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">ஸ்கிரீன் கார்டுடன் அமை</string>
-    <string name="fingerprint_acquired_immobile_simple">ஒவ்வொரு முறையும் சிறிதளவு நகர்த்துங்கள்</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">சரியான QR குறியீடு</string>
-    <string name="fingerprint_sp_qr_code_error">இந்த QR குறியீடு, சான்றளிக்கப்பட்ட ஸ்கிரீன் கார்டுக்கானது அல்ல</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">உங்களிடம் %s உள்ளது.\nகைரேகை அன்லாக் அம்சத்தை அமைப்பதற்கு முன்பு அதைச் சாதனத்தில் பொருத்துங்கள்.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">ஸ்கிரீன் கார்டு பேக்கேஜில் உள்ள குறியீட்டை ஃபிரேமிற்குள் கொண்டுவாருங்கள்</string>
-    <string name="fingerprint_sp_title_got_it">சரி!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">QR குறியீட்டை ஸ்கேன் செய்யுங்கள்</string>
-    <string name="protector_edu_subtitle">ஸ்கிரீன் கார்டு கைரேகை அறிதலைப் பாதிக்கலாம். ஸ்கிரீன் கார்டுடன் கைரேகை அன்லாக் அம்சம் சிறப்பாகச் செயல்படுவதற்கு:</string>
-    <string name="screen_protector_edu_apply_instruction">சாத்தியமிருந்தால், கைரேகை அன்லாக் அம்சத்தை அமைப்பதற்கு முன்பு ஸ்கிரீன் கார்டைச் சாதனத்தில் பொருத்தி, குமிழ்கள் இருந்தால் அகற்றவும். அம்சத்தை அமைத்த பிறகு அதைச் சாதனத்தில் பொருத்த வேண்டுமென்றால், கேமரா மூலம் பிறகு QR குறியீட்டை ஸ்கேன் செய்யவும்.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;g.co/pixel/screenprotector எனும் பக்கத்தில் மேலும் அறிக&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Made for Google சான்றளிக்கப்பட்ட ஸ்கிரீன் கார்டைப் பயன்படுத்துங்கள்</string>
-    <string name="screen_protector_edu_no_qr_code">QR இல்லை</string>
-    <string name="screen_protector_edu_scan_it_later">பிறகு செய்க</string>
-    <string name="screen_protector_edu_scan_qr_code">QR ஸ்கேன்</string>
-    <string name="screen_protector_edu_title">ஸ்கிரீன் கார்டு பேக்கேஜில் உள்ள QR குறியீட்டை ஸ்கேன் செய்யவும்</string>
-    <string name="screen_protector_no_qr_code_msg">Made for Google சான்றளிக்கப்பட்ட ஸ்கிரீன் கார்டின் பேக்கேஜில் QR குறியீடு இருக்கும். மற்ற ஸ்கிரீன் கார்டுகள் சென்சாரில் குறுக்கிட்டு அது சரியாகச் செயல்படுவதைத் தடுக்கக்கூடும்.\n\ng.co/pixel/screenprotector எனும் பக்கத்தில் மேலும் அறிக.</string>
-    <string name="screen_protector_no_qr_code_ok">சரி</string>
-    <string name="screen_protector_no_qr_code_title">QR குறியீடு இல்லையா?</string>
     <string name="security_settings_face_enroll_consent_message">உங்கள் பிள்ளையின் முகத்தைப் பயன்படுத்தி அவரது மொபைலை அன்லாக் செய்யலாம் அல்லது ஆப்ஸைத் திறக்கும்போது அது அவர்தான் என்பதை உறுதிப்படுத்தலாம்</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">உங்கள் பிள்ளையின் முகம் சாதனத்தில் மட்டுமே சேமிக்கப்படும், ஒருபோதும் அது Googleளுக்கு அனுப்பப்படாது</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">இப்போது மொபைலைக் கையில் எடுக்கும்போதோ திரையைத் தட்டும்போதோ முகத்தைக் காட்டி அன்லாக் செய்யலாம்.\n\nமாஸ்க்கோ அடர் நிறக் கண்ணாடியோ அணியாமல் போதுமான வெளிச்சத்தில் இருந்தால் முகம் காட்டித் திறத்தல் அம்சம் நன்றாகச் செயல்படும்.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">மொபைல் மிகவும் சூடாக உள்ளது</string>
     <string name="security_settings_fingerprint_enroll_consent_message">உங்கள் பிள்ளையின் கைரேகையைப் பயன்படுத்தி அவரது மொபைலை அன்லாக் செய்யலாம் அல்லது ஆப்ஸைத் திறக்கும்போது அது அவர்தான் என்பதை உறுதிப்படுத்தலாம்</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">உங்கள் பிள்ளையின் கைரேகைகள் சாதனத்தில் மட்டுமே சேமிக்கப்படும், ஒருபோதும் அவை Googleளுக்கு அனுப்பப்படாது</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">உறுதிசெய்</string>
-    <string name="security_settings_udfps_screen_protector_description_none">ஸ்கிரீன் கார்டு இல்லை</string>
-    <string name="security_settings_udfps_screen_protector_keywords">ஸ்கிரீன் கார்டு</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">கைரேகை அறிதலை மேம்படுத்த, ஸ்கிரீன் கார்டு மேம்படுத்துதலை ஆஃப் செய்வதற்கு முன்பு ஸ்கிரீன் கார்டை அகற்றவும்</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">ஸ்கிரீன் கார்டை அகற்றுங்கள்</string>
-    <string name="security_settings_udfps_screen_protector_title">ஸ்கிரீன் கார்டுக்கு ஏற்ப மேம்படுத்துதல்</string>
-    <string name="sp_apply_dialog_button_got_it">சரி</string>
-    <string name="sp_apply_dialog_msg_incompatible">உங்கள் ஸ்கிரீன் கார்டு உங்கள் மொபைலுக்குப் பொருத்தமற்றதாக இருக்கக்கூடும். இதை உறுதிசெய்துகொள்ள, Androidன் சமீபத்திய பதிப்பிற்கு உங்கள் மொபைலைப் புதுப்பித்துவிட்டு மீண்டும் முயலவும்.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">தவறான QR குறியீடு</string>
-    <string name="sp_apply_dialog_msg_main_user_only">சாதன உரிமையாளர் மட்டுமே இதைச் செய்ய முடியும்</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">ஆம்</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">\'விரைவுத் தட்டல்\' சைகை கண்டறியப்பட்டது!</string>

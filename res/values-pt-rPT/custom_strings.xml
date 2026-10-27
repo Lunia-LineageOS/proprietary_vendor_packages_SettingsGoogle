@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Para tornar o desbloqueio mais prático, use o Desbloqueio por impressão digital juntamente com o Desbloqueio facial</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Configure o Desbloqueio por impressão digital</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Configure o Desbloqueio por impressão digital para o trabalho</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Já pode usar a impressão digital para desbloquear o telemóvel ou validar a sua identidade. Para a maior flexibilidade, adicione outra impressão digital.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Toque com a ponta do dedo</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Toque na extremidade esquerda</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Toque na extremidade direita</string>
     <string name="face_confirmation_hide_illustration_description">Agora, quando pegar no seu telemóvel ou tocar no ecrã, pode usar o rosto para o desbloquear.</string>
     <string name="face_confirmation_info_enough_light">O Desbloqueio facial funciona melhor quando há luz suficiente e não está a usar uma máscara ou óculos escuros.</string>
     <string name="face_confirmation_info_outside_screen">O Desbloqueio facial só funciona a partir do ecrã exterior</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Mova o telemóvel para a sua esquerda</string>
     <string name="face_enrolling_turn_head_to_arrow">Rode a cabeça na direção da seta.</string>
     <string name="face_enrolling_turned_too_far">Rode a cabeça um pouco menos.</string>
-    <string name="find_usudfps_subtitle_simple">O sensor de impressões digitais vai aparecer no ecrã seguinte</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Configurar com protetor de ecrã</string>
-    <string name="fingerprint_acquired_immobile_simple">Ajuste ligeiramente de cada vez</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Código QR válido</string>
-    <string name="fingerprint_sp_qr_code_error">Este código QR não é de um protetor de ecrã certificado</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Tem um %s.\nAplique-o antes de configurar o Desbloqueio por impressão digital.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Posicione o código na embalagem do protetor de ecrã no enquadramento</string>
-    <string name="fingerprint_sp_title_got_it">OK!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Leia o código QR</string>
-    <string name="protector_edu_subtitle">Um protetor de ecrã pode afetar o reconhecimento de impressões digitais. Para o melhor desempenho do Desbloqueio por impressão digital com um protetor de ecrã:</string>
-    <string name="screen_protector_edu_apply_instruction">Sempre que possível, aplique o protetor de ecrã antes de configurar o Desbloqueio por impressão digital e elimine as bolhas. Se precisar de o aplicar após a configuração, leia o código QR mais tarde com a câmara.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Saiba mais em g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Use um protetor de ecrã com a certificação Made for Google.</string>
-    <string name="screen_protector_edu_no_qr_code">Sem cód QR</string>
-    <string name="screen_protector_edu_scan_it_later">Ler depois</string>
-    <string name="screen_protector_edu_scan_qr_code">Ler cód. QR</string>
-    <string name="screen_protector_edu_title">Leia o código QR na embalagem do protetor de ecrã</string>
-    <string name="screen_protector_no_qr_code_msg">Um protetor de ecrã com a certificação Made for Google tem um código QR na embalagem. Outros protetores de ecrã podem interferir com o sensor e impedir que este funcione de forma fiável.\n\nSaiba mais em g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">OK</string>
-    <string name="screen_protector_no_qr_code_title">Não viu um código QR?</string>
     <string name="security_settings_face_enroll_consent_message">Use o rosto da criança para desbloquear o telemóvel ou validar a respetiva identidade nas apps</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">O rosto da criança só é armazenado no dispositivo e nunca é enviado para a Google</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Agora, quando pegar no seu telemóvel ou tocar no ecrã, pode usar o rosto para desbloquear.\n\nO Desbloqueio facial funciona melhor quando existe luz suficiente e quando não está a usar uma máscara ou óculos escuros.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Telemóvel demasiado quente</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Use a impressão digital da criança para desbloquear o telemóvel ou validar a respetiva identidade nas apps</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">As impressões digitais da criança só são armazenadas no dispositivo e nunca são enviadas para a Google</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Confirmar</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Sem protetor de ecrã</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Protetor de ecrã</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Para melhorar o reconhecimento de impressões digitais, remova o protetor de ecrã antes de desativar a otimização do protetor de ecrã</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Remova o protetor de ecrã</string>
-    <string name="security_settings_udfps_screen_protector_title">Otimizar para protetor de ecrã</string>
-    <string name="sp_apply_dialog_button_got_it">OK</string>
-    <string name="sp_apply_dialog_msg_incompatible">O protetor de ecrã pode ser incompatível com o seu telemóvel. Para ter a certeza, atualize o telemóvel para a versão mais recente do Android e tente novamente.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Código QR inválido</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Esta ação está restrita apenas ao proprietário do dispositivo</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Sim</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Quick Tap detetado!</string>

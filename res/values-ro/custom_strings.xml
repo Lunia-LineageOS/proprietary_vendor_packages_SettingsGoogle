@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Pentru a face deblocarea mai convenabilă, folosește Deblocarea cu amprenta împreună cu Deblocarea facială</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Configurează Deblocarea cu amprenta</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Configurează Deblocarea cu amprenta pentru profilul de serviciu</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Acum îți poți folosi amprenta pentru a-ți debloca telefonul sau pentru a-ți confirma identitatea. Pentru cea mai mare flexibilitate, adaugă altă amprentă.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Atinge vârful degetului</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Atinge marginea stângă</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Atinge marginea dreaptă</string>
     <string name="face_confirmation_hide_illustration_description">Acum, când ridici telefonul sau atingi ecranul, îți poți folosi fața pentru a-l debloca.</string>
     <string name="face_confirmation_info_enough_light">Deblocarea facială funcționează cel mai bine când există suficientă lumină și nu porți mască sau ochelari de culoare închisă.</string>
     <string name="face_confirmation_info_outside_screen">Deblocarea facială funcționează numai pe ecranul exterior</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Mută telefonul spre stânga</string>
     <string name="face_enrolling_turn_head_to_arrow">Întoarce-ți capul înspre săgeată</string>
     <string name="face_enrolling_turned_too_far">Rotește-ți capul mai puțin</string>
-    <string name="find_usudfps_subtitle_simple">Senzorul de amprentă va fi pe ecranul următor</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Configurează cu protecție pentru ecran</string>
-    <string name="fingerprint_acquired_immobile_simple">Ajustează ușor de fiecare dată</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Cod QR valid</string>
-    <string name="fingerprint_sp_qr_code_error">Codul QR nu corespunde unei protecții pentru ecran certificate</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Ai o protecție pentru ecran %s.\nAplic-o înainte să configurezi Deblocarea cu amprenta.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Poziționează codul de pe ambalajul protecției pentru ecran în cadru</string>
-    <string name="fingerprint_sp_title_got_it">OK!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Scanează codul QR</string>
-    <string name="protector_edu_subtitle">Protecția pentru ecran poate afecta recunoașterea amprentelor. Pentru funcționarea optimă a Deblocării cu amprenta când folosești o protecție pentru ecran:</string>
-    <string name="screen_protector_edu_apply_instruction">Când este posibil, aplică protecția pentru ecran înainte să configurezi Deblocarea cu amprenta și elimină bulele. Dacă trebuie să o aplici după configurare, scanează codul QR mai târziu cu camera foto.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Află mai multe la g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Folosește o protecție pentru ecran cu certificarea Made for Google</string>
-    <string name="screen_protector_edu_no_qr_code">Fără cod QR</string>
-    <string name="screen_protector_edu_scan_it_later">Mai târziu</string>
-    <string name="screen_protector_edu_scan_qr_code">Scanează codul QR</string>
-    <string name="screen_protector_edu_title">Scanează codul QR de pe ambalajul protecției pentru ecran</string>
-    <string name="screen_protector_no_qr_code_msg">O protecție pentru ecran cu certificarea Made for Google are un cod QR pe ambalaj. Alte protecții pentru ecran pot să interfereze cu senzorul și să împiedice funcționarea optimă a acestuia.\n\nAflă mai multe la g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">OK</string>
-    <string name="screen_protector_no_qr_code_title">Nu ai găsit un cod QR?</string>
     <string name="security_settings_face_enroll_consent_message">Folosește fața copilului tău pentru a-i debloca telefonul sau pentru a-i confirma identitatea în aplicații.</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Chipul copilului tău este stocat numai pe dispozitiv și nu este trimis niciodată la Google</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Acum, când ridici telefonul sau atingi ecranul, îți poți folosi chipul pentru a debloca.\n\nDeblocarea facială funcționează cel mai bine când există suficientă lumină și nu porți mască sau ochelari de culoare închisă.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Telefonul este prea fierbinte</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Folosește amprenta copilului tău pentru a-i debloca telefonul sau pentru a-i confirma identitatea în aplicații</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Amprentele copilului tău sunt stocate numai pe dispozitiv și nu sunt trimise niciodată la Google</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Confirmă</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Fără protecție pentru ecran</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Protecție pentru ecran</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Pentru a îmbunătăți recunoașterea amprentelor, scoate protecția pentru ecran înainte să dezactivezi optimizarea cu protecția pentru ecran</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Elimină protecția pentru ecran</string>
-    <string name="security_settings_udfps_screen_protector_title">Optimizează cu protecția pentru ecran</string>
-    <string name="sp_apply_dialog_button_got_it">OK</string>
-    <string name="sp_apply_dialog_msg_incompatible">Este posibil ca protecția pentru ecran să nu fie compatibilă cu telefonul. Pentru a te asigura, actualizează telefonul la cea mai recentă versiune Android și încearcă din nou.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Cod QR nevalid</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Această acțiune poate fi folosită numai de proprietarul dispozitivului</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Da</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">A fost detectată o Atingere rapidă!</string>

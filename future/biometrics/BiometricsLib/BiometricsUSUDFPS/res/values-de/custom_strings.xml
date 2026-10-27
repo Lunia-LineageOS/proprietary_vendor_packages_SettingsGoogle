@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Du kannst jetzt mit deinem Fingerabdruck dein Smartphone entsperren oder deine Identität bestätigen. Für größtmögliche Flexibilität solltest du einen weiteren Fingerabdruck hinzufügen.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Berühre den Sensor mit der Fingerspitze</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Berühre den Sensor mit der linken Seite</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Berühre den Sensor mit der rechten Seite</string>
+    <string name="find_usudfps_subtitle_simple">Der Fingerabdrucksensor wird auf dem nächsten Bildschirm angezeigt.</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Mit Displayschutz einrichten</string>
+    <string name="fingerprint_acquired_immobile_simple">Pass die Position jedes Mal leicht an</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Gültiger QR‑Code</string>
+    <string name="fingerprint_sp_qr_code_error">Dies ist kein QR‑Code eines zertifizierten Displayschutzes</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Du hast einen „%s“-Displayschutz.\nBringe ihn an, bevor du die Entsperrung per Fingerabdruck einrichtest.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Der Code auf der Verpackung des Displayschutzes muss sich innerhalb des Rahmens befinden</string>
+    <string name="fingerprint_sp_title_got_it">Alles klar!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">QR-Code scannen</string>
+    <string name="protector_edu_subtitle">Ein Displayschutz kann die Fingerabdruckerkennung beeinträchtigen. Damit die Entsperrung per Fingerabdruck trotz Displayschutz bestmöglich funktioniert, solltest du auf Folgendes achten:</string>
+    <string name="screen_protector_edu_apply_instruction">Bringe den Displayschutz an, bevor du die Entsperrung per Fingerabdruck einrichtest, und streiche mögliche Blasen glatt. Wenn du ihn erst nach der Einrichtung anbringen möchtest, scanne den QR‑Code später mit deiner Kamera.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Weitere Informationen&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Verwende einen Displayschutz, der „Made for Google“-zertifiziert ist</string>
+    <string name="screen_protector_edu_no_qr_code">Kein QR‑Code</string>
+    <string name="screen_protector_edu_scan_it_later">Später scannen</string>
+    <string name="screen_protector_edu_scan_qr_code">QR-Code scannen</string>
+    <string name="screen_protector_edu_title">Scanne den QR‑Code auf der Verpackung des Displayschutzes</string>
+    <string name="screen_protector_no_qr_code_msg">Auf der Verpackung von Displayschutzfolien, die „Made for Google“-zertifiziert sind, ist ein QR-Code abgebildet. Andere Displayschutzfolien können den Sensor beeinträchtigen, sodass dieser nicht richtig funktioniert.\n\nWeitere Informationen unter g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">Ok</string>
+    <string name="screen_protector_no_qr_code_title">Du hast keinen QR‑Code gesehen?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Bestätigen</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Kein Displayschutz</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Displayschutz</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Damit der Fingerabdruck besser erkannt wird, entferne den Displayschutz, bevor du die Optimierung für den Displayschutz deaktivierst</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Displayschutz entfernen</string>
+    <string name="security_settings_udfps_screen_protector_title">Für Displayschutz optimieren</string>
+    <string name="sp_apply_dialog_button_got_it">Ok</string>
+    <string name="sp_apply_dialog_msg_incompatible">Dein Displayschutz ist möglicherweise nicht mit deinem Smartphone kompatibel. Aktualisiere dein Smartphone auf die neueste Android-Version und versuche es noch einmal.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Ungültiger QR‑Code</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Diese Aktion kann nur vom Geräteeigentümer ausgeführt werden</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Ja</string>
+</resources>

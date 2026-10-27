@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Μπορείτε πλέον να χρησιμοποιείτε το δακτυλικό σας αποτύπωμα, για να ξεκλειδώνετε το τηλέφωνό σας ή να επαληθεύετε την ταυτότητά σας. Για τη μέγιστη ευελιξία, προσθέστε ένα άλλο δακτυλικό αποτύπωμα.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Αγγίξτε με την άκρη του δαχτύλου σας</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Αγγίξτε με την αριστερή άκρη</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Αγγίξτε με τη δεξιά άκρη</string>
+    <string name="find_usudfps_subtitle_simple">Στην επόμενη οθόνη, θα βρείτε τον αισθητήρα δακτυλικών αποτυπωμάτων</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Ρύθμιση με προστατευτικό οθόνης</string>
+    <string name="fingerprint_acquired_immobile_simple">Κάντε μικρές προσαρμογές κάθε φορά</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Έγκυρος κωδικός QR</string>
+    <string name="fingerprint_sp_qr_code_error">Αυτός ο κωδικός QR δεν προορίζεται για προστατευτικό οθόνης με πιστοποίηση</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Έχετε ένα προστατευτικό οθόνης %s.\nΕφαρμόστε το πριν από τη ρύθμιση της λειτουργίας Ξεκλείδωμα με δακτυλικό αποτύπωμα.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Τοποθετήστε τον κωδικό στη συσκευασία του προστατευτικού οθόνης μέσα στο πλαίσιο</string>
+    <string name="fingerprint_sp_title_got_it">Το κατάλαβα!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Σάρωση κωδικού QR</string>
+    <string name="protector_edu_subtitle">Ένα προστατευτικό οθόνης μπορεί να επηρεάσει την αναγνώριση δακτυλικού αποτυπώματος. Για την καλύτερη δυνατή απόδοση της λειτουργίας Ξεκλείδωμα με δακτυλικό αποτύπωμα, όταν χρησιμοποιείτε ένα προστατευτικό οθόνης:</string>
+    <string name="screen_protector_edu_apply_instruction">Όταν είναι δυνατό, εφαρμόστε το προστατευτικό οθόνης πριν από τη ρύθμιση της λειτουργίας Ξεκλείδωμα με δακτυλικό αποτύπωμα και αφαιρέστε τυχόν φουσκάλες. Αν πρέπει να το εφαρμόσετε μετά τη ρύθμιση, σαρώστε τον κωδικό QR αργότερα με την κάμερά σας.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Μάθετε περισσότερα στη διεύθυνση g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Χρησιμοποιήστε ένα προστατευτικό οθόνης με την πιστοποίηση Made for Google</string>
+    <string name="screen_protector_edu_no_qr_code">Χωρίς QR</string>
+    <string name="screen_protector_edu_scan_it_later">Σάρωση αργότ.</string>
+    <string name="screen_protector_edu_scan_qr_code">Σάρωση QR</string>
+    <string name="screen_protector_edu_title">Σαρώστε τον κωδικό QR που υπάρχει στη συσκευασία του προστατευτικού οθόνης</string>
+    <string name="screen_protector_no_qr_code_msg">Ένα προστατευτικό οθόνης με την πιστοποίηση Made for Google έχει έναν κωδικό QR στη συσκευασία. Άλλα προστατευτικά οθόνης ενδέχεται να παρεμποδίζουν τον αισθητήρα και να εμποδίζουν την αξιόπιστη λειτουργία του.\n\nΜάθετε περισσότερα στη διεύθυνση g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">Το κατάλαβα</string>
+    <string name="screen_protector_no_qr_code_title">Δεν είδατε κάποιον κωδικό QR;</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Επιβεβαίωση</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Χωρίς προστατευτικό οθόνης</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Προστατευτικό οθόνης</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Για να βελτιώσετε την αναγνώριση δακτυλικού αποτυπώματος, αφαιρέστε το προστατευτικό οθόνης προτού απενεργοποιήσετε τη βελτιστοποίηση προστατευτικού οθόνης</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Κατάργηση προστατευτικού οθόνης</string>
+    <string name="security_settings_udfps_screen_protector_title">Βελτιστοποίηση για προστατευτικό οθόνης</string>
+    <string name="sp_apply_dialog_button_got_it">Το κατάλαβα</string>
+    <string name="sp_apply_dialog_msg_incompatible">Το προστατευτικό οθόνης ενδέχεται να μην είναι συμβατό με το τηλέφωνό σας. Για να βεβαιωθείτε, ενημερώστε το τηλέφωνό σας στη νεότερη έκδοση Android και δοκιμάστε ξανά.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Μη έγκυρος κωδικός QR</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Αυτή η ενέργεια περιορίζεται μόνο στον κάτοχο της συσκευής</string>
+    <string name="sp_apply_title_product_combined">%s;</string>
+    <string name="sp_apply_yes_button">Ναι</string>
+</resources>

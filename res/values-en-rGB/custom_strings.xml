@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">To make unlocking more convenient, use Fingerprint Unlock along with Face Unlock</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Set up Fingerprint Unlock</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Set up Fingerprint Unlock for work</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Now, you can use your fingerprint to unlock your phone or verify that it\'s you. For the greatest flexibility, add another fingerprint.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Touch your fingertip</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Touch the left edge</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Touch the right edge</string>
     <string name="face_confirmation_hide_illustration_description">Now when you pick up your phone or tap the screen, you can use your face to unlock.</string>
     <string name="face_confirmation_info_enough_light">Face Unlock works best when there\'s enough light and you\'re not wearing a mask or dark glasses.</string>
     <string name="face_confirmation_info_outside_screen">Face Unlock works from the outside screen only</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Move phone to your left</string>
     <string name="face_enrolling_turn_head_to_arrow">Turn your head towards the arrow</string>
     <string name="face_enrolling_turned_too_far">Turn head a little less</string>
-    <string name="find_usudfps_subtitle_simple">The fingerprint sensor will be on the next screen</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Set up with screen protector</string>
-    <string name="fingerprint_acquired_immobile_simple">Adjust slightly each time</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Valid QR code</string>
-    <string name="fingerprint_sp_qr_code_error">This QR code is not for a certified screen protector</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">You have a %s.\nApply it before setting up Fingerprint Unlock.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Position the code on the screen protector packaging in the frame</string>
-    <string name="fingerprint_sp_title_got_it">Got it!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Scan the QR code</string>
-    <string name="protector_edu_subtitle">A screen protector can affect fingerprint recognition. For the best Fingerprint Unlock performance with a screen protector:</string>
-    <string name="screen_protector_edu_apply_instruction">When possible, apply the screen protector before setting up Fingerprint Unlock and flatten any bubbles. If you need to apply it after setup, scan the QR code later with your camera.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Learn more at g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Use a screen protector that\'s Made For Google certified</string>
-    <string name="screen_protector_edu_no_qr_code">No QR code</string>
-    <string name="screen_protector_edu_scan_it_later">Scan it later</string>
-    <string name="screen_protector_edu_scan_qr_code">Scan QR code</string>
-    <string name="screen_protector_edu_title">Scan the QR code on the screen protector packaging</string>
-    <string name="screen_protector_no_qr_code_msg">A screen protector that\'s Made For Google certified has a QR code on the packaging. Other screen protectors may interfere with the sensor and prevent it from working reliably.\n\nLearn more at g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">Got it</string>
-    <string name="screen_protector_no_qr_code_title">Didn\'t see a QR code?</string>
     <string name="security_settings_face_enroll_consent_message">Use your child\'s face to unlock their phone or verify that it\'s them in apps</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Your child\'s face is only stored on device and never sent to Google</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Now when you pick up your phone or tap the screen, you can use your face to unlock.\n\nFace Unlock works best when there’s enough light and you’re not wearing a mask or dark glasses.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Phone is too hot</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Use your child\'s fingerprint to unlock their phone or verify that it\'s them in apps</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Your child\'s fingerprints are only stored on device and never sent to Google</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Confirm</string>
-    <string name="security_settings_udfps_screen_protector_description_none">No screen protector</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Screen protector</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">To improve fingerprint recognition, remove your screen protector before turning off screen protector optimisation</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Remove screen protector</string>
-    <string name="security_settings_udfps_screen_protector_title">Optimise for screen protector</string>
-    <string name="sp_apply_dialog_button_got_it">Got it</string>
-    <string name="sp_apply_dialog_msg_incompatible">Your screen protector may be incompatible with your phone. To make sure, update your phone to the latest version of Android and try again.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Invalid QR code</string>
-    <string name="sp_apply_dialog_msg_main_user_only">This action is restricted to the device owner only</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Yes</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Quick Tap detected!</string>

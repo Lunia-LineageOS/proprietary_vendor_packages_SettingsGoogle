@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Lai atbloķēšana būtu ērtāka, izmantojiet autorizāciju ar pirksta nospiedumu kopā ar autorizāciju pēc sejas.</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Iestatiet autorizāciju ar pirksta nospiedumu</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Autorizācijas ar pirksta nospiedumu iestatīšana darba profilam</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Tagad varat izmantot pirksta nospiedumu, lai atbloķētu tālruni vai apstiprinātu savu identitāti. Ērtākai lietošanai pievienojiet vēl vienu pirksta nospiedumu.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Pieskarieties ar pirkstgalu</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Pieskarieties ar pirksta kreiso malu</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Pieskarieties ar pirksta labo malu</string>
     <string name="face_confirmation_hide_illustration_description">Tagad, paņemot tālruni vai pieskaroties tā ekrānam, varat izmantot autorizāciju pēc sejas.</string>
     <string name="face_confirmation_info_enough_light">Autorizācija pēc sejas vislabāk darbojas, ja ir pietiekams apgaismojums un jūs nevalkājat masku vai tumšas brilles.</string>
     <string name="face_confirmation_info_outside_screen">Autorizācija pēc sejas darbojas tikai no ārējā ekrāna</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Pārvietojiet tālruni pa kreisi.</string>
     <string name="face_enrolling_turn_head_to_arrow">Pagrieziet galvu pret bultiņu.</string>
     <string name="face_enrolling_turned_too_far">Pagrieziet galvu nedaudz mazāk.</string>
-    <string name="find_usudfps_subtitle_simple">Nākamajā ekrānā būs redzams pirksta nospieduma sensors</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Iestatīt ar ekrāna aizsargplēvi</string>
-    <string name="fingerprint_acquired_immobile_simple">Katru reizi nedaudz mainiet novietojumu</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Derīgs kvadrātkods</string>
-    <string name="fingerprint_sp_qr_code_error">Šis kvadrātkods nav paredzēts sertificētai ekrāna aizsargplēvei.</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Jums ir šāda ekrāna aizsargplēve: %s.\nUzklājiet to, pirms iestatāt autorizāciju ar pirksta nospiedumu.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Novietojiet ekrāna aizsargplēves iepakojuma kodu rāmī.</string>
-    <string name="fingerprint_sp_title_got_it">Labi!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Kvadrātkoda skenēšana</string>
-    <string name="protector_edu_subtitle">Ekrāna aizsargplēve var ietekmēt pirksta nospieduma atpazīšanu. Lai ekrānā ar aizsargplēvi labāk darbotos autorizācija ar pirksta nospiedumu, veiciet tālāk norādītās darbības.</string>
-    <string name="screen_protector_edu_apply_instruction">Ja iespējams, uzklājiet ekrāna aizsargplēvi, pirms iestatāt autorizāciju ar pirksta nospiedumu, un izlīdziniet visus burbuļus. Ja aizsargplēvi nepieciešams uzklāt pēc iestatīšanas, vēlāk skenējiet kvadrātkodu ar kameru.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Uzzināt vairāk vietnē g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Izmantojiet ekrāna aizsargplēvi, kam ir “Made for Google” sertifikāts.</string>
-    <string name="screen_protector_edu_no_qr_code">Nav kvadrātkoda</string>
-    <string name="screen_protector_edu_scan_it_later">Skenēt vēlāk</string>
-    <string name="screen_protector_edu_scan_qr_code">Skenēt kvadrātkodu</string>
-    <string name="screen_protector_edu_title">Skenējiet kvadrātkodu, kas atrodas uz ekrāna aizsargplēves iepakojuma</string>
-    <string name="screen_protector_no_qr_code_msg">Ekrāna aizsargplēvei, kam ir “Made for Google” sertifikāts, ir kvadrātkods uz iepakojuma. Citas ekrāna aizsargplēves var traucēt sensora darbību un neļaut tam droši darboties.\n\nUzzināt vairāk vietnē g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">Labi</string>
-    <string name="screen_protector_no_qr_code_title">Vai neredzat kvadrātkodu?</string>
     <string name="security_settings_face_enroll_consent_message">Atļaujiet bērnam izmantot seju, lai atbloķētu tālruni vai apstiprinātu savu identitāti lietotnēs.</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Bērna sejas modelis tiek glabāts tikai ierīcē un nekad netiek nosūtīts uzņēmumam Google.</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Tagad, paņemot tālruni vai pieskaroties ekrānam, varat izmantot seju, lai atbloķētu tālruni.\n\nAutorizācija pēc sejas vislabāk darbojas, ja ir pietiekams apgaismojums un jūs nevalkājat masku vai tumšas brilles.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Tālrunis ir pārāk karsts</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Atļaujiet bērnam izmantot pirksta nospiedumu, lai atbloķētu tālruni vai apstiprinātu savu identitāti lietotnēs.</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Bērna pirkstu nospiedumi tiek glabāti tikai ierīcē un nekad netiek nosūtīti uzņēmumam Google.</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Apstiprināt</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Nav ekrāna aizsargplēves</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Ekrāna aizsargplēve</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Lai uzlabotu pirksta nospieduma atpazīšanu, noņemiet ekrāna aizsargplēvi, pirms izslēdzat ekrāna aizsargplēves optimizāciju.</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Ekrāna aizsargplēves noņemšana</string>
-    <string name="security_settings_udfps_screen_protector_title">Ekrāna aizsargplēves optimizācija</string>
-    <string name="sp_apply_dialog_button_got_it">Labi</string>
-    <string name="sp_apply_dialog_msg_incompatible">Iespējams, ekrāna aizsargplēve nav saderīga ar jūsu tālruni. Lai to pārbaudītu, atjauniniet tālruņa operētājsistēmu uz jaunāko Android versiju un mēģiniet vēlreiz.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Nederīgs kvadrātkods</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Šo darbību drīkst veikt tikai ierīces īpašnieks.</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Jā</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Tika konstatēts ātrais pieskāriens.</string>

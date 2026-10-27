@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Ili iwe rahisi zaidi kufungua kifaa, tumia kipengele cha Kufungua kwa alama ya Kidole pamoja na cha Kufungua kwa Uso</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Kuweka mipangilio ya Kufungua kwa Alama ya Kidole</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Kuweka mipangilio ya Kufungua kwa Alama ya Kidole katika wasifu wa kazini</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Sasa unaweza kutumia alama ya kidole chako kufungua simu yako au kuthibitisha kuwa ni wewe. Ili upate hali bora zaidi ya utumiaji, weka alama nyingine ya kidole.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Gusa ncha ya kidole chako</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Gusa ukingo wa kushoto</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Gusa ukingo wa kulia</string>
     <string name="face_confirmation_hide_illustration_description">Sasa unapochukua simu yako au kugusa skrini, unaweza kutumia uso wako kuifungua.</string>
     <string name="face_confirmation_info_enough_light">Kipengele cha Kufungua kwa Uso hufanya kazi vizuri zaidi kukiwa na mwangaza wa kutosha na ukiwa hujavaa barakoa au miwani mieusi.</string>
     <string name="face_confirmation_info_outside_screen">Kipengele cha Kufungua kwa Uso kinafanya kazi nje ya skrini pekee</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Sogeza simu kushoto kwako</string>
     <string name="face_enrolling_turn_head_to_arrow">Geuza kichwa chako kuelekea kwenye mshale</string>
     <string name="face_enrolling_turned_too_far">Geuza kichwa kidogo tu</string>
-    <string name="find_usudfps_subtitle_simple">Kitambuzi cha alama ya kidole kitakuwa kwenye skrini inayofuata</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Weka mipangilio ikiwa na kilinda skrini</string>
-    <string name="fingerprint_acquired_immobile_simple">Sogeza kidogo kila wakati</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Msimbo sahihi wa QR</string>
-    <string name="fingerprint_sp_qr_code_error">Msimbo huu wa QR si wa kilinda skrini kilichothibitishwa</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Una kilinda skrini cha %s.\nKiweke kabla ya kuweka mipangilio ya Kufungua kwa alama ya kidole.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Weka msimbo wa QR ulio kwenye karatasi ya kilinda skrini katika fremu</string>
-    <string name="fingerprint_sp_title_got_it">Nimeelewa!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Changanua msimbo wa QR</string>
-    <string name="protector_edu_subtitle">Kilinda skrini kinaweza kuathiri utambuzi wa alama za vidole. Ili upate utendaji bora zaidi wa kipengele cha Kufungua kwa Alama ya Kidole ukiwa na kilinda skrini:</string>
-    <string name="screen_protector_edu_apply_instruction">Panapowezekana, weka kilinda skrini kabla ya kuweka mipangilio ya Kufungua kwa alama ya kidole kisha uondoe viputo vyovyote. Ikiwa unahitaji kukitumia baada ya kuweka mipangilio, changanua msimbo wa QR baadaye ukitumia kamera yako.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Pata maelezo zaidi kwenye g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Tumia kilinda skrini kilichothibitishwa na mpango wa Made for Google</string>
-    <string name="screen_protector_edu_no_qr_code">Hamna msimbo wa QR</string>
-    <string name="screen_protector_edu_scan_it_later">Uchanganue baadaye</string>
-    <string name="screen_protector_edu_scan_qr_code">Changanua msimbo wa QR</string>
-    <string name="screen_protector_edu_title">Changanua msimbo wa QR ulio kwenye kifungashio cha kilinda skrini</string>
-    <string name="screen_protector_no_qr_code_msg">Kilinda skrini kilichothibitishwa na mpango wa Made for Google huwa na msimbo wa QR kwenye kifungashio. Huenda vilinda skrini vingine vikakatiza utendaji wa kitambuzi na kukizuia kisifanye kazi kwa uhakika.\n\nPata maelezo zaidi kwenye g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">Nimeelewa</string>
-    <string name="screen_protector_no_qr_code_title">Je, hukuona msimbo wa QR?</string>
     <string name="security_settings_face_enroll_consent_message">Tumia uso wa mtoto wako kufungua simu yake au kuthibitisha kuwa ni yeye katika programu</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Data ya muundo wa uso wa mtoto wako huhifadhiwa tu kwenye kifaa na haitumwi kwa Google</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Sasa unapochukua simu yako au kugusa skrini, unaweza kutumia uso wako kuifungua.\n\nKipengele cha Kufungua kwa Uso hufanya kazi vizuri zaidi kukiwa na mwangaza wa kutosha na ukiwa hujavaa barakoa au miwani myeusi.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Simu ina joto sana</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Tumia alama ya kidole ya mtoto wako kufungua simu yake au kuthibitisha kuwa ni yeye katika programu</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Alama za vidole za mtoto wako huhifadhiwa tu kwenye kifaa na hazitumwi kwa Google</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Thibitisha</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Hakuna kilinda skrini</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Kilinda skrini</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Ili uboreshe utambuzi wa alama za vidole, ondoa kilinda skrini chako kabla ya kuzima kipengele cha kuboresha kilinda skrini</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Ondoa kilinda skrini</string>
-    <string name="security_settings_udfps_screen_protector_title">Kuboresha kilinda skrini</string>
-    <string name="sp_apply_dialog_button_got_it">Nimeelewa</string>
-    <string name="sp_apply_dialog_msg_incompatible">Huenda kilinda skrini chako hakitumiki kwenye simu yako. Ili uhakikishe, sasisha ili utumie toleo jipya kabisa la Android kwenye simu yako kisha ujaribu tena.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Msimbo wa QR si sahihi</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Kitendo hiki kinaweza kufanywa tu na mwenye kifaa</string>
-    <string name="sp_apply_title_product_combined">Ungependa kuweka %s?</string>
-    <string name="sp_apply_yes_button">Ndiyo</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Kipengele cha Kugusa Haraka kimetambuliwa!</string>

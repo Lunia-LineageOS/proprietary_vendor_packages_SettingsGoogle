@@ -37,4 +37,5 @@
     </string-array>
 
     <array name="fingerprint_acquired_vendor" />
+    <string-array name="customized_guided_enroll_points" />
 </resources>

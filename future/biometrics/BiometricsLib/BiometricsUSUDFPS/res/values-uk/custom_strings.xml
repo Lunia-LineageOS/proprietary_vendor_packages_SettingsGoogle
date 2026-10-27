@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Тепер за допомогою відбитка пальця ви можете розблоковувати телефон або підтверджувати свою особу. Задля максимальної зручності користування додайте ще один відбиток пальця.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Торкніться кінчиком пальця</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Торкніться лівим краєм</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Торкніться правим краєм</string>
+    <string name="find_usudfps_subtitle_simple">На наступному екрані буде показано сканер відбитків пальців</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Налаштувати із захисною плівкою чи склом</string>
+    <string name="fingerprint_acquired_immobile_simple">Щоразу трохи змінюйте положення пальця</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Дійсний QR-код</string>
+    <string name="fingerprint_sp_qr_code_error">Цей QR-код не для сертифікованої захисної плівки чи скла</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">У вас є захисна плівка чи скло (%s).\nПриклейте плівку чи скло на екран, перш ніж налаштувати розблокування відбитком пальця.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Наведіть камеру на код на упаковці захисної плівки чи скла так, щоб він потрапляв у рамку</string>
+    <string name="fingerprint_sp_title_got_it">Готово!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Зіскануйте QR-код</string>
+    <string name="protector_edu_subtitle">На розпізнавання відбитка пальця може впливати наявність захисної плівки чи скла. Щоб ця функція працювала краще, коли на екрані є захисна плівка чи скло, дотримуйтеся вказівок нижче.</string>
+    <string name="screen_protector_edu_apply_instruction">Якщо можливо, спочатку приклейте захисну плівку або захисне скло на екран і розгладьте бульбашки повітря, а тоді налаштуйте розблокування відбитком пальця. Якщо ви хочете приклеїти плівку чи скло після налаштування, відскануйте QR-код згодом за допомогою камери.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Докладніше: g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Використовуйте захисну плівку чи скло з маркуванням Made for Google</string>
+    <string name="screen_protector_edu_no_qr_code">Немає QR-коду</string>
+    <string name="screen_protector_edu_scan_it_later">Сканувати пізніше</string>
+    <string name="screen_protector_edu_scan_qr_code">Сканувати QR-код</string>
+    <string name="screen_protector_edu_title">Відскануйте QR-код на упаковці захисної плівки чи скла</string>
+    <string name="screen_protector_no_qr_code_msg">На упаковці захисної плівки чи скла з маркуванням Made for Google є QR-код. Інші захисні плівки чи стекла можуть перешкоджати роботі сканера.\n\nДокладніше: g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">OK</string>
+    <string name="screen_protector_no_qr_code_title">Не бачите QR-код?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Підтвердити</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Немає захисного скла чи плівки</string>
+    <string name="security_settings_udfps_screen_protector_keywords">захисна плівка, захисне скло</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Щоб покращити розпізнавання відбитка пальця, зніміть захисне скло чи плівку, перш ніж вимкнути оптимізацію для них</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Зняти захисне скло чи плівку</string>
+    <string name="security_settings_udfps_screen_protector_title">Оптимізувати для захисного скла чи плівки</string>
+    <string name="sp_apply_dialog_button_got_it">OK</string>
+    <string name="sp_apply_dialog_msg_incompatible">Можливо, захисна плівка чи скло несумісні з вашим телефоном. Щоб переконатися в цьому, оновіть телефон до останньої версії Android і повторіть спробу.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Недійсний QR-код</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Цю дію може виконати лише власник пристрою</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Так</string>
+</resources>

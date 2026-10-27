@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Та одоо утасныхаа түгжээг тайлах, өөрийгөө мөн болохыг баталгаажуулахад хурууны хээгээ ашиглах боломжтой. Хамгийн уян хатнаар ашиглах бол өөр хурууны хээ нэмнэ үү.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Хурууны үзүүрээ хүргэнэ үү</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Зүүн ирмэгийг хүргэнэ үү</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Баруун ирмэгийг хүргэнэ үү</string>
+    <string name="find_usudfps_subtitle_simple">Хурууны хээ мэдрэгч дараагийн дэлгэцэд бий</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Дэлгэц хамгаалагчаар тохируулах</string>
+    <string name="fingerprint_acquired_immobile_simple">Хүргэх бүрдээ бага зэрэг тохируулна уу</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Хүчинтэй QR код</string>
+    <string name="fingerprint_sp_qr_code_error">Энэ QR код нь баталгаажсан дэлгэц хамгаалагчийнх биш байна</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Танд %s байна.\nХурууны хээгээр түгжээ тайлахыг тохируулахаас өмнө үүнийг наана уу.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Хүрээнд дэлгэц хамгаалагчийн багц дээрх кодыг байрлуулаарай</string>
+    <string name="fingerprint_sp_title_got_it">Ойлголоо!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">QR кодыг скан хийх</string>
+    <string name="protector_edu_subtitle">Дэлгэц хамгаалагч хурууны хээ танихад нөлөөлөх боломжтой. Дэлгэц хамгаалагчаар Хурууны хээгээр түгжээ тайлах хамгийн шилдэг гүйцэтгэлийг авах бол:</string>
+    <string name="screen_protector_edu_apply_instruction">Боломжтой үед Хурууны хээгээр түгжээ тайлахыг тохируулахаас өмнө дэлгэц хамгаалагчийг нааж, аливаа бөмбөлгийг тэгшилнэ үү. Хэрэв та тохируулгын дараа үүнийг ашиглах шаардлагатай бол дараа нь камераараа QR кодыг скан хийнэ үү.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;g.co/pixel/screenprotector хаягаар нэмэлт мэдээлэл авах&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Made for Google-р баталгаажсан дэлгэц хамгаалагч ашиглах</string>
+    <string name="screen_protector_edu_no_qr_code">QR кодгүй</string>
+    <string name="screen_protector_edu_scan_it_later">Дараа скан хий</string>
+    <string name="screen_protector_edu_scan_qr_code">QR код скан хийх</string>
+    <string name="screen_protector_edu_title">Дэлгэц хамгаалагчийн баглаан дээрх QR кодыг скан хийнэ үү</string>
+    <string name="screen_protector_no_qr_code_msg">Made for Google-р баталгаажсан дэлгэц хамгаалагч нь багц дээрээ QR кодтой байдаг. Бусад дэлгэц хамгаалагч мэдрэгчид саад болж, үүнийг найдвартай ажиллахад саад учруулж болзошгүй.\n\nТа g.co/pixel/screenprotector хаягаар нэмэлт мэдээлэл авна уу</string>
+    <string name="screen_protector_no_qr_code_ok">Ойлголоо</string>
+    <string name="screen_protector_no_qr_code_title">QR кодыг хараагүй юү?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Баталгаажуулах</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Дэлгэц хамгаалагч байхгүй</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Дэлгэц хамгаалагч</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Хурууны хээ танихыг сайжруулахын тулд дэлгэц хамгаалагчийн оновчлолыг унтраахаас өмнө дэлгэц хамгаалагчаа хуулж авна уу</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Дэлгэц хамгаалагчийг хуулж авна уу</string>
+    <string name="security_settings_udfps_screen_protector_title">Дэлгэц хамгаалагчид зориулж оновчлох</string>
+    <string name="sp_apply_dialog_button_got_it">Ойлголоо</string>
+    <string name="sp_apply_dialog_msg_incompatible">Таны дэлгэц хамгаалагч утастай тань тохирохгүй байж магадгүй. Баталгаажуулахын тулд утсаа Android-н хамгийн сүүлийн хувилбар луу шинэчлээд, дахин оролдоно уу.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">QR код буруу байна</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Энэ үйлдлийг зөвхөн төхөөрөмжийн өмчлөгч хийж болно</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Тийм</string>
+</resources>

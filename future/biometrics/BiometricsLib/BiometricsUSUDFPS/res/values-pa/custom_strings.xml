@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">ਹੁਣ ਤੁਸੀਂ ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਅਣਲਾਕ ਕਰਨ ਜਾਂ ਆਪਣੀ ਪਛਾਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ, ਆਪਣਾ ਫਿੰਗਰਪ੍ਰਿੰਟ ਵਰਤ ਸਕਦੇ ਹੋ। ਸਭ ਤੋਂ ਵੱਧ ਲਚਕਤਾ ਲਈ, ਇੱਕ ਹੋਰ ਫਿੰਗਰਪ੍ਰਿੰਟ ਸ਼ਾਮਲ ਕਰੋ।</string>
+    <string name="enroll_usudfps_fingertip_title_simple">ਆਪਣੀ ਉਂਗਲ ਨਾਲ ਸਪਰਸ਼ ਕਰੋ</string>
+    <string name="enroll_usudfps_left_edge_title_simple">ਖੱਬੇ ਕਿਨਾਰੇ ਨੂੰ ਸਪਰਸ਼ ਕਰੋ</string>
+    <string name="enroll_usudfps_right_edge_title_simple">ਸੱਜੇ ਕਿਨਾਰੇ ਨੂੰ ਸਪਰਸ਼ ਕਰੋ</string>
+    <string name="find_usudfps_subtitle_simple">ਫਿੰਗਰਪ੍ਰਿੰਟ ਸੈਂਸਰ ਅਗਲੀ ਸਕ੍ਰੀਨ \'ਤੇ ਹੋਵੇਗਾ</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">ਸਕ੍ਰੀਨ ਗਾਰਡ ਨਾਲ ਸੈੱਟਅੱਪ ਕਰੋ</string>
+    <string name="fingerprint_acquired_immobile_simple">ਹਰ ਵਾਰ ਥੋੜ੍ਹਾ ਵਿਵਸਥਿਤ ਕਰੋ</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">ਵੈਧ QR ਕੋਡ</string>
+    <string name="fingerprint_sp_qr_code_error">ਇਹ QR ਕੋਡ ਪ੍ਰਮਾਣਿਤ ਸਕ੍ਰੀਨ ਗਾਰਡ ਲਈ ਨਹੀਂ ਹੈ</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">ਤੁਹਾਡੇ ਕੋਲ %s ਹੈ।\nਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਦਾ ਸੈੱਟਅੱਪ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਇਸਨੂੰ ਲਗਾਓ।</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">ਸਕ੍ਰੀਨ ਗਾਰਡ ਪੈਕੇਜਿੰਗ \'ਤੇ ਮੌਜੂਦ ਕੋਡ ਨੂੰ ਫ੍ਰੇਮ ਵਿੱਚ ਰੱਖੋ</string>
+    <string name="fingerprint_sp_title_got_it">ਸਮਝ ਲਿਆ!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">QR ਕੋਡ ਸਕੈਨ ਕਰੋ</string>
+    <string name="protector_edu_subtitle">ਸਕ੍ਰੀਨ ਗਾਰਡ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੀ ਪਛਾਣ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕਰ ਸਕਦਾ ਹੈ। ਸਕ੍ਰੀਨ ਗਾਰਡ ਦੇ ਨਾਲ ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਦੀ ਸਭ ਤੋਂ ਵਧੀਆ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ:</string>
+    <string name="screen_protector_edu_apply_instruction">ਜਦੋਂ ਵੀ ਸੰਭਵ ਹੋਵੇ, ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਦਾ ਸੈੱਟਅੱਪ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਕ੍ਰੀਨ ਗਾਰਡ ਲਗਾਓ ਅਤੇ ਬੁਲਬੁਲਿਆਂ ਨੂੰ ਦਬਾ ਕੇ ਹਟਾ ਦਿਓ। ਜੇ ਤੁਹਾਨੂੰ ਸੈੱਟਅੱਪ ਕਰਨ ਤੋਂ ਬਾਅਦ ਇਸਨੂੰ ਲਗਾਉਣ ਦੀ ਲੋੜ ਪੈਂਦੀ ਹੈ, ਤਾਂ ਆਪਣੇ ਕੈਮਰੇ ਨਾਲ ਬਾਅਦ ਵਿੱਚ QR ਕੋਡ ਸਕੈਨ ਕਰੋ।</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;g.co/pixel/screenprotector \'ਤੇ ਹੋਰ ਜਾਣੋ&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Made for Google ਵੱਲੋਂ ਪ੍ਰਮਾਣਿਤ ਸਕ੍ਰੀਨ ਗਾਰਡ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="screen_protector_edu_no_qr_code">ਕੋਈ QR ਕੋਡ ਨਹੀਂ ਹੈ</string>
+    <string name="screen_protector_edu_scan_it_later">ਇਸਨੂੰ ਬਾਅਦ ਵਿੱਚ ਸਕੈਨ ਕਰੋ</string>
+    <string name="screen_protector_edu_scan_qr_code">QR ਕੋਡ ਸਕੈਨ ਕਰੋ</string>
+    <string name="screen_protector_edu_title">ਸਕ੍ਰੀਨ ਗਾਰਡ ਦੀ ਪੈਕੇਜਿੰਗ \'ਤੇ ਦਿੱਤੇ QR ਕੋਡ ਨੂੰ ਸਕੈਨ ਕਰੋ</string>
+    <string name="screen_protector_no_qr_code_msg">Made for Google ਪ੍ਰਮਾਣਿਤ ਸਕ੍ਰੀਨ ਗਾਰਡ ਦੀ ਪੈਕੇਜਿੰਗ \'ਤੇ ਇੱਕ QR ਕੋਡ ਹੁੰਦਾ ਹੈ। ਹੋਰ ਸਕ੍ਰੀਨ ਗਾਰਡ ਸੈਂਸਰ ਦੇ ਕੰਮ ਵਿੱਚ ਵਿਘਨ ਪਾ ਸਕਦੇ ਹਨ ਅਤੇ ਇਸ ਨੂੰ ਭਰੋਸੇਮੰਦ ਢੰਗ ਨਾਲ ਕੰਮ ਕਰਨ ਤੋਂ ਰੋਕ ਸਕਦੇ ਹਨ।\n\ng.co/pixel/screenprotector \'ਤੇ ਹੋਰ ਜਾਣੋ</string>
+    <string name="screen_protector_no_qr_code_ok">ਸਮਝ ਲਿਆ</string>
+    <string name="screen_protector_no_qr_code_title">ਕੀ QR ਕੋਡ ਨਹੀਂ ਦਿਖਿਆ?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">ਤਸਦੀਕ ਕਰੋ</string>
+    <string name="security_settings_udfps_screen_protector_description_none">ਕੋਈ ਸਕ੍ਰੀਨ ਗਾਰਡ ਨਹੀਂ ਹੈ</string>
+    <string name="security_settings_udfps_screen_protector_keywords">ਸਕ੍ਰੀਨ ਗਾਰਡ</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">ਫਿੰਗਰਪ੍ਰਿੰਟ ਪਛਾਣ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ, ਸਕ੍ਰੀਨ ਗਾਰਡ ਔਪਟੀਮਾਈਜ਼ੇਸ਼ਨ ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਆਪਣਾ ਸਕ੍ਰੀਨ ਗਾਰਡ ਹਟਾਓ</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">ਸਕ੍ਰੀਨ ਗਾਰਡ ਹਟਾਓ</string>
+    <string name="security_settings_udfps_screen_protector_title">ਸਕ੍ਰੀਨ ਗਾਰਡ ਮੁਤਾਬਕ ਸੁਯੋਗ ਬਣਾਓ</string>
+    <string name="sp_apply_dialog_button_got_it">ਸਮਝ ਲਿਆ</string>
+    <string name="sp_apply_dialog_msg_incompatible">ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਤੁਹਾਡਾ ਸਕ੍ਰੀਨ ਗਾਰਡ, ਤੁਹਾਡੇ ਫ਼ੋਨ ਮੁਤਾਬਕ ਅਢੁਕਵਾਂ ਹੋਵੇ। ਪੱਕਾ ਕਰਨ ਲਈ, ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ Android ਦੇ ਨਵੀਨਤਮ ਵਰਜਨ \'ਤੇ ਅੱਪਡੇਟ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">ਅਵੈਧ QR ਕੋਡ</string>
+    <string name="sp_apply_dialog_msg_main_user_only">ਇਹ ਕਾਰਵਾਈ ਸਿਰਫ਼ ਡੀਵਾਈਸ ਦੇ ਮਾਲਕ ਤੱਕ ਹੀ ਸੀਮਤ ਹੈ</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">ਹਾਂ</string>
+</resources>

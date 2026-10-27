@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Ahora, puedes usar tu huella digital para desbloquear tu teléfono o verificar que eres tú. Para disfrutar de la máxima flexibilidad, añade otra huella digital.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Toca con la punta del dedo</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Toca con el borde izquierdo</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Toca con el borde derecho</string>
+    <string name="find_usudfps_subtitle_simple">El sensor de huellas digitales aparecerá en la siguiente pantalla</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Configurar con protector de pantalla</string>
+    <string name="fingerprint_acquired_immobile_simple">Ajusta ligeramente cada vez</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Código QR válido</string>
+    <string name="fingerprint_sp_qr_code_error">Este código QR no es de un protector de pantalla certificado</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Tienes un %s.\nColócalo antes de configurar Desbloqueo con huella digital.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Coloca el código del paquete del protector de pantalla en el marco</string>
+    <string name="fingerprint_sp_title_got_it">¡Entendido!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Escanea el código QR</string>
+    <string name="protector_edu_subtitle">Los protectores de pantalla pueden afectar al reconocimiento de las huellas digitales. Para que Desbloqueo con huella digital funcione de forma óptima con un protector de pantalla, sigue estos pasos:</string>
+    <string name="screen_protector_edu_apply_instruction">Si es posible, coloca el protector de pantalla antes de configurar Desbloqueo con huella digital y quita las burbujas. Si necesitas colocarlo después de la configuración, escanea el código QR más adelante con la cámara.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Más información en g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Usa un protector de pantalla certificado con la insignia Made for Google</string>
+    <string name="screen_protector_edu_no_qr_code">No hay QR</string>
+    <string name="screen_protector_edu_scan_it_later">Escanear luego</string>
+    <string name="screen_protector_edu_scan_qr_code">Escanear QR</string>
+    <string name="screen_protector_edu_title">Escanea el código QR del paquete del protector de pantalla</string>
+    <string name="screen_protector_no_qr_code_msg">Los protectores de pantalla con certificado Made for Google tienen un código QR en el paquete. Los demás protectores de pantalla pueden interferir con el sensor e impedir que funcione correctamente.\n\nMás información en g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">Entendido</string>
+    <string name="screen_protector_no_qr_code_title">¿No has visto un código QR?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Confirmar</string>
+    <string name="security_settings_udfps_screen_protector_description_none">No hay protector de pantalla</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Protector de pantalla</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Para mejorar el reconocimiento de huellas digitales, quita el protector de pantalla antes de desactivar la optimización para el protector de pantalla</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Quita el protector de pantalla</string>
+    <string name="security_settings_udfps_screen_protector_title">Optimización para el protector de pantalla</string>
+    <string name="sp_apply_dialog_button_got_it">Entendido</string>
+    <string name="sp_apply_dialog_msg_incompatible">Puede que tu protector de pantalla no sea compatible con tu teléfono. Para asegurarte, actualiza tu teléfono a la última versión de Android y vuelve a intentarlo.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Código QR no válido</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Esta acción solo puede realizarla el propietario del dispositivo</string>
+    <string name="sp_apply_title_product_combined">¿%s?</string>
+    <string name="sp_apply_yes_button">Sí</string>
+</resources>

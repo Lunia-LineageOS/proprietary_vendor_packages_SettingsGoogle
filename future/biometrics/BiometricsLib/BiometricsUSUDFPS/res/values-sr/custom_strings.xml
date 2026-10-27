@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Сада можете да користите отисак прста за откључавање телефона или потврду идентитета. За највећу флексибилност, додајте још један отисак прста.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Додирните врхом прста</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Додирните левом ивицом</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Додирните десном ивицом</string>
+    <string name="find_usudfps_subtitle_simple">Сензор за отисак прста ће се приказати на следећем екрану</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Подеси са заштитом за екран</string>
+    <string name="fingerprint_acquired_immobile_simple">Сваки пут помало прилагодите</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Важећи QR кôд</string>
+    <string name="fingerprint_sp_qr_code_error">Овај QR кôд не служи за сертификовану заштиту за екран</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Имате %s.\nПоставите га пре него што подесите откључавање отиском прста.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Поставите кôд приказан на паковању заштите за екран у кадар</string>
+    <string name="fingerprint_sp_title_got_it">Важи!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Скенирајте QR кôд</string>
+    <string name="protector_edu_subtitle">Заштита за екран може да утиче на препознавање отиска прста. За најбоље перформансе откључавања отиском прста уз заштиту за екран:</string>
+    <string name="screen_protector_edu_apply_instruction">Када је то могуће, ставите заштиту за екран пре него што подесите откључавање отиском прста и истисните све мехуриће. Ако треба да је ставите после подешавања, касније скенирајте QR кôд камером.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Сазнајте више на g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Користите заштиту за екран са сертификатом Направљено за Google</string>
+    <string name="screen_protector_edu_no_qr_code">Нема QR кода</string>
+    <string name="screen_protector_edu_scan_it_later">Скенирај касније</string>
+    <string name="screen_protector_edu_scan_qr_code">Скенирај QR кôд</string>
+    <string name="screen_protector_edu_title">Скенирајте QR кôд на паковању заштите за екран</string>
+    <string name="screen_protector_no_qr_code_msg">Заштита за екран са сертификатом Направљено за Google има QR кôд на паковању. Друге заштите за екран могу да ометају сензор и спрече га да поуздано ради.\n\nСазнајте више на g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">Важи</string>
+    <string name="screen_protector_no_qr_code_title">Не видите QR кôд?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Потврди</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Нема заштите за екран</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Заштита за екран</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Да бисте побољшали препознавање отиска прста, уклоните заштиту за екран пре него што искључите њену оптимизацију</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Уклоните заштиту за екран</string>
+    <string name="security_settings_udfps_screen_protector_title">Оптимизација за заштиту за екран</string>
+    <string name="sp_apply_dialog_button_got_it">Важи</string>
+    <string name="sp_apply_dialog_msg_incompatible">Заштита за екран можда није компатибилна са телефоном. Да бисте били сигурни, ажурирајте телефон на најновију верзију Android-а и пробајте поново.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Неважећи QR кôд</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Ова радња је ограничена на власника уређаја</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Да</string>
+</resources>

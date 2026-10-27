@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Para disfrutar de una experiencia de desbloqueo más conveniente, usa el Desbloqueo con huellas dactilares junto con el Desbloqueo facial</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Configura el Desbloqueo con huellas dactilares</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Configura el Desbloqueo con huellas dactilares para el trabajo</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Ahora puedes usar tu huella dactilar para desbloquear el teléfono o verificar tu identidad. Para obtener la mayor flexibilidad, agrega otra huella dactilar.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Toca con la punta del dedo</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Toca el borde izquierdo</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Toca el borde derecho</string>
     <string name="face_confirmation_hide_illustration_description">Ahora podrás desbloquear el teléfono con el rostro cuando lo levantes o cuando toques la pantalla.</string>
     <string name="face_confirmation_info_enough_light">El Desbloqueo facial funciona mejor cuando hay suficiente luz y no usas mascarilla ni lentes oscuros.</string>
     <string name="face_confirmation_info_outside_screen">El Desbloqueo facial solo funciona desde la pantalla externa</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Mueve el teléfono hacia la izquierda</string>
     <string name="face_enrolling_turn_head_to_arrow">Gira la cabeza en la dirección de la flecha</string>
     <string name="face_enrolling_turned_too_far">Gira la cabeza un poco menos</string>
-    <string name="find_usudfps_subtitle_simple">El sensor de huellas dactilares estará en la siguiente pantalla</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Configurar con protector de pantalla</string>
-    <string name="fingerprint_acquired_immobile_simple">Cambia de a poco el lugar que tocas</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Código QR válido</string>
-    <string name="fingerprint_sp_qr_code_error">Este código QR no corresponde a un protector de pantalla certificado</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Tienes un protector de pantalla %s.\nAplícalo antes de configurar el Desbloqueo con huellas dactilares.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Posiciona el código del empaque del protector de pantalla en el marco</string>
-    <string name="fingerprint_sp_title_got_it">Se escaneó el QR</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Escanea el código QR</string>
-    <string name="protector_edu_subtitle">Un protector de pantalla puede afectar el reconocimiento de huellas dactilares. Para que el Desbloqueo con huellas dactilares funcione de manera óptima con un protector de pantalla, sigue estos pasos:</string>
-    <string name="screen_protector_edu_apply_instruction">Cuando sea posible, coloca el protector de pantalla antes de configurar el Desbloqueo con huellas dactilares y aplana las burbujas. Si necesitas aplicarlo después de la configuración, escanea el código QR más tarde con la cámara.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Más información en g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Usa un protector de pantalla que tenga certificación Made for Google</string>
-    <string name="screen_protector_edu_no_qr_code">Sin QR</string>
-    <string name="screen_protector_edu_scan_it_later">Más tarde</string>
-    <string name="screen_protector_edu_scan_qr_code">Escanear QR</string>
-    <string name="screen_protector_edu_title">Escanea el código QR del empaque del protector de pantalla</string>
-    <string name="screen_protector_no_qr_code_msg">Un protector de pantalla con certificación Made for Google tiene un código QR en el empaque. Es posible que otros protectores de pantalla interfieran con el sensor y le impidan funcionar de manera confiable.\n\nMás información en g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">Entendido</string>
-    <string name="screen_protector_no_qr_code_title">¿No viste un código QR?</string>
     <string name="security_settings_face_enroll_consent_message">Usa el rostro de tu hijo o hija para desbloquear el teléfono o verificar su identidad en apps</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">El modelo de rostro de tu hijo o hija solo se almacena en el dispositivo y no se envía a Google</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Ahora podrás desbloquear el teléfono con el rostro cuando lo levantes o cuando toques la pantalla.\n\nEl Desbloqueo facial funciona mejor cuando hay suficiente luz y no llevas mascarilla ni lentes oscuros.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">El teléfono se sobrecalentó</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Usa la huella dactilar de tu hijo o hija para desbloquear el teléfono o verificar su identidad en apps</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Las huellas dactilares de tu hijo o hija solo se almacenan en el dispositivo y nunca se envían a Google</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Confirmar</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Sin protector de pantalla</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Protector de pantalla</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Para mejorar el reconocimiento de huellas dactilares, quita el protector de pantalla antes de desactivar la optimización del protector de pantalla</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Quita el protector de pantalla</string>
-    <string name="security_settings_udfps_screen_protector_title">Optimizar para el protector de pantalla</string>
-    <string name="sp_apply_dialog_button_got_it">Entendido</string>
-    <string name="sp_apply_dialog_msg_incompatible">Es posible que el protector de pantalla no sea compatible con tu teléfono. Para asegurarte, actualiza el teléfono a la versión más reciente de Android y vuelve a intentarlo.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Código QR no válido</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Esta acción está restringida solo al propietario del dispositivo</string>
-    <string name="sp_apply_title_product_combined">¿%s?</string>
-    <string name="sp_apply_yes_button">Sí</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Se detectó Quick Tap</string>

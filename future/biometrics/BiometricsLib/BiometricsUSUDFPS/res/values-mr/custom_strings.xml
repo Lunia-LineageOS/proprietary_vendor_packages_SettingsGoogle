@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">आता तुम्ही तुमचा फोन अनलॉक करण्यासाठी आणि हे तुम्हीच असल्याची पडताळणी करण्यासाठी तुमची फिंगरप्रिंट वापरू शकता. सर्वोत्तम सोयीसाठी, दुसरी फिंगरप्रिंट जोडा.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">तुमच्या बोटाच्या टोकाने स्पर्श करा</string>
+    <string name="enroll_usudfps_left_edge_title_simple">डाव्या कडेला स्पर्श करा</string>
+    <string name="enroll_usudfps_right_edge_title_simple">उजव्या कडेला स्पर्श करा</string>
+    <string name="find_usudfps_subtitle_simple">फिंगरप्रिंट सेन्सर पुढील स्क्रीनवर असेल</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">स्क्रीन प्रोटेक्‍टर वापरून सेट करा</string>
+    <string name="fingerprint_acquired_immobile_simple">प्रत्येक वेळी किंचित अ‍ॅडजस्ट करा</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">वैध QR कोड</string>
+    <string name="fingerprint_sp_qr_code_error">हा QR कोड प्रमाणित स्क्रीन प्रोटेक्टरसाठी नाही</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">तुमच्याकडे %s आहे.\nफिंगरप्रिंट अनलॉक सेट करण्याआधी ते लागू करा.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">स्क्रीन प्रोटेक्टरच्या पॅकेजिंगवरील कोडला फ्रेममध्ये ठेवा</string>
+    <string name="fingerprint_sp_title_got_it">समजले!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">QR कोड स्कॅन करा</string>
+    <string name="protector_edu_subtitle">स्क्रीन प्रोटेक्‍टरमुळे फिंगरप्रिंट रेकग्निशनवर परिणाम होऊ शकतो. स्क्रीन प्रोटेक्‍टरसह सर्वोत्तम फिंगरप्रिंट अनलॉक परफॉर्मन्ससाठी:</string>
+    <string name="screen_protector_edu_apply_instruction">शक्य असेल, तेव्हा फिंगरप्रिंट अनलॉक सेट करण्याआधी स्क्रीन प्रोटेक्‍टर लावा आणि कोणतेही बबल काढून टाका. सेटअप नंतर तुम्हाला ते लागू करायचे असल्यास, तुमचा कॅमेरा वापरून नंतर QR कोड स्कॅन करा.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt; g.co/pixel/screenprotector&lt;/a&gt; इथे अधिक जाणून घ्या</string>
+    <string name="screen_protector_edu_mfg_recommendation">Google साठी बनवलेले प्रमाणित असलेले स्क्रीन प्रोटेक्टर वापरा</string>
+    <string name="screen_protector_edu_no_qr_code">QR कोड नाही</string>
+    <string name="screen_protector_edu_scan_it_later">ते नंतर स्कॅन करा</string>
+    <string name="screen_protector_edu_scan_qr_code">QR कोड स्कॅन करा</string>
+    <string name="screen_protector_edu_title">स्क्रीन प्रोटेक्‍टर पॅकेजिंगवर QR कोड स्कॅन करा</string>
+    <string name="screen_protector_no_qr_code_msg">Google साठी बनवलेल्या प्रमाणित स्क्रीन प्रोटेक्‍टरच्या पॅकेजिंगवर QR कोड असतो. इतर स्क्रीन प्रोटेक्‍टर सेन्सरमध्ये व्यत्यय आणू शकतात आणि विश्वसनीयरीत्या काम करण्यापासून रोखू शकतात.\n\ng.co/pixel/screenprotector इथे अधिक जाणून घ्या</string>
+    <string name="screen_protector_no_qr_code_ok">समजले</string>
+    <string name="screen_protector_no_qr_code_title">QR कोड दिसला नाही का?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">कन्फर्म करा</string>
+    <string name="security_settings_udfps_screen_protector_description_none">कोणताही स्क्रीन प्रोटेक्‍टर नाही</string>
+    <string name="security_settings_udfps_screen_protector_keywords">स्क्रीन प्रोटेक्टर</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">फिंगरप्रिंट रेकग्निशनमध्ये सुधारणा करण्यासाठी, स्क्रीन प्रोटेक्टर ऑप्टिमायझेशन बंद करण्यापूर्वी तुमचा स्क्रीन प्रोटेक्टर काढून टाका</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">स्क्रीन प्रोटेक्टर काढून टाका</string>
+    <string name="security_settings_udfps_screen_protector_title">स्क्रीन प्रोटेक्टरसाठी ऑप्टिमाइझ करा</string>
+    <string name="sp_apply_dialog_button_got_it">समजले</string>
+    <string name="sp_apply_dialog_msg_incompatible">तुमचा स्क्रीन प्रोटेक्टर तुमच्या फोनशी कंपॅटिबल नसू शकतो. खात्री करण्यासाठी, तुमचा फोन Android च्या नवीनतम आवृत्तीवर अपडेट करा आणि पुन्हा प्रयत्न करा.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">चुकीचा QR कोड</string>
+    <string name="sp_apply_dialog_msg_main_user_only">ही कृती फक्त डिव्हाइसच्या मालकापुरती मर्यादित आहे</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">होय</string>
+</resources>

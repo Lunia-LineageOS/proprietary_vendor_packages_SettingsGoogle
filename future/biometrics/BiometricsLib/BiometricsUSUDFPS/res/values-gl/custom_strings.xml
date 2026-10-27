@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Agora podes utilizar a impresión dixital para desbloquear o teléfono ou verificar a túa identidade. Para maior flexibilidade, engade outra impresión dixital.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Toca coa xema do dedo</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Toca co bordo esquerdo</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Toca co bordo dereito</string>
+    <string name="find_usudfps_subtitle_simple">O sensor de impresión dixital aparecerá na próxima pantalla</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Configurar co protector de pantalla</string>
+    <string name="fingerprint_acquired_immobile_simple">Axusta lixeiramente cada vez</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Código QR válido</string>
+    <string name="fingerprint_sp_qr_code_error">Este código QR non corresponde a ningún protector de pantalla certificado</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Tes un %s.\nColócao antes de configurar o desbloqueo dactilar.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Encadra o código da embalaxe do protector de pantalla</string>
+    <string name="fingerprint_sp_title_got_it">Entendido</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Escanea o código QR</string>
+    <string name="protector_edu_subtitle">Os protectores de pantalla poden afectar o recoñecemento da impresión dixital. Velaquí tes uns consellos para que o desbloqueo dactilar funcione perfectamente cun protector de pantalla:</string>
+    <string name="screen_protector_edu_apply_instruction">Se é posible, coloca o protector de pantalla antes de configurar o desbloqueo dactilar e elimina as burbullas que poida ter. Se tes que colocalo despois da configuración, escanea o código QR coa cámara máis tarde.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Máis información en g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Utiliza un protector de pantalla que conte coa certificación Made for Google</string>
+    <string name="screen_protector_edu_no_qr_code">Non hai ningún código QR</string>
+    <string name="screen_protector_edu_scan_it_later">Escanear máis tarde</string>
+    <string name="screen_protector_edu_scan_qr_code">Escanear código QR</string>
+    <string name="screen_protector_edu_title">Escanea o código QR do paquete do protector de pantalla</string>
+    <string name="screen_protector_no_qr_code_msg">Os protectores de pantalla que conten coa certificación Made for Google teñen un código QR no paquete. Os demais protectores de pantalla poden interferir no correcto funcionamento do sensor.\n\nTes máis información en g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">Entendido</string>
+    <string name="screen_protector_no_qr_code_title">Non viches ningún código QR?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Confirmar</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Non hai ningún protector de pantalla</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Protector de pantalla</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Para mellorar o recoñecemento da impresión dixital, quita o protector de pantalla antes de desactivarlle a optimización</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Quita o protector de pantalla</string>
+    <string name="security_settings_udfps_screen_protector_title">Optimizar o protector de pantalla</string>
+    <string name="sp_apply_dialog_button_got_it">Entendido</string>
+    <string name="sp_apply_dialog_msg_incompatible">O protector de pantalla pode que non sexa compatible co teu teléfono. Para asegurarte, actualiza o teléfono coa versión máis recente de Android e téntao de novo.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">O código QR non é válido</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Esta acción só pode realizala a persoa propietaria do dispositivo</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Si</string>
+</resources>

@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Para facilitar o desbloqueio da tela, use o desbloqueio por Impressão Digital junto ao Desbloqueio Facial</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Configurar o desbloqueio por impressão digital</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Configurar o desbloqueio por impressão digital para o perfil de trabalho</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Agora você pode usar sua impressão digital para desbloquear o celular ou confirmar sua identidade. Para maior flexibilidade, adicione outra impressão digital.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Toque com a ponta do dedo</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Toque com o canto esquerdo do dedo</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Toque com o canto direito do dedo</string>
     <string name="face_confirmation_hide_illustration_description">Agora, quando você pegar o telefone ou tocar na tela dele, poderá usar seu rosto para fazer o desbloqueio.</string>
     <string name="face_confirmation_info_enough_light">O Desbloqueio Facial funciona melhor quando há luz suficiente e você não está usando máscara ou óculos escuros.</string>
     <string name="face_confirmation_info_outside_screen">O Desbloqueio Facial funciona apenas na tela externa</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Mova o celular para a esquerda</string>
     <string name="face_enrolling_turn_head_to_arrow">Incline a cabeça na direção da seta</string>
     <string name="face_enrolling_turned_too_far">Vire a cabeça um pouco menos</string>
-    <string name="find_usudfps_subtitle_simple">O sensor de impressão digital vai aparecer na próxima tela</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Configurar com película</string>
-    <string name="fingerprint_acquired_immobile_simple">Vá ajustando a posição a cada tentativa</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">QR code válido</string>
-    <string name="fingerprint_sp_qr_code_error">Esse QR code não é de uma película certificada</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Você tem uma película %s.\nColoque-a antes de configurar o desbloqueio por impressão digital.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Enquadre o código mostrado na embalagem da película</string>
-    <string name="fingerprint_sp_title_got_it">Pronto!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Faça a leitura do QR code</string>
-    <string name="protector_edu_subtitle">A película pode afetar o reconhecimento de impressões digitais. Para que o desbloqueio por impressão digital não tenha problemas com a película, faça o seguinte:</string>
-    <string name="screen_protector_edu_apply_instruction">Quando possível, coloque a película e retire as bolhas antes de configurar o desbloqueio por impressão digital. Se quiser colocá-la depois, é só fazer a leitura do QR code com a câmera.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Saiba mais em g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Use uma película com certificação Made For Google</string>
-    <string name="screen_protector_edu_no_qr_code">Sem QR code</string>
-    <string name="screen_protector_edu_scan_it_later">Fazer a leitura mais tarde</string>
-    <string name="screen_protector_edu_scan_qr_code">Fazer a leitura do QR code</string>
-    <string name="screen_protector_edu_title">Faça a leitura do QR code na embalagem da película</string>
-    <string name="screen_protector_no_qr_code_msg">Uma película com certificação Made For Google tem um QR code na embalagem. Outras películas podem interferir no sensor e impedir que ele funcione de forma confiável.\n\nSaiba mais em g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">Entendi</string>
-    <string name="screen_protector_no_qr_code_title">Não encontrou o QR code?</string>
     <string name="security_settings_face_enroll_consent_message">Use o rosto da criança para desbloquear o celular ou confirmar a identidade dela em apps</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">O rosto da criança é armazenado apenas no dispositivo e nunca é enviado ao Google</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Agora, você pode usar seu rosto para desbloquear o telefone ao pegar o dispositivo ou tocar na tela.\n\nO desbloqueio facial funciona melhor quando há luz suficiente e você não está usando máscara ou óculos escuros.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">O celular está muito quente</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Use a impressão digital da criança para desbloquear o celular ou confirmar a identidade dela em apps</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">As impressões digitais da criança são armazenadas apenas no dispositivo e nunca são enviadas ao Google</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Confirmar</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Sem película</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Película</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Para aprimorar o reconhecimento de impressões digitais, retire a película antes de desativar a otimização</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Retire a película</string>
-    <string name="security_settings_udfps_screen_protector_title">Otimizar para película</string>
-    <string name="sp_apply_dialog_button_got_it">Entendi</string>
-    <string name="sp_apply_dialog_msg_incompatible">Talvez a película não seja compatível com seu celular. Para ter certeza, atualize o dispositivo para a versão mais recente do Android e tente de novo.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">QR code inválido</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Essa ação é restrita apenas ao proprietário do dispositivo</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Sim</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Toque Rápido detectado.</string>

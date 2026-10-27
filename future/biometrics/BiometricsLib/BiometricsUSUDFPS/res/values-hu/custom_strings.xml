@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Mostantól használhatja ujjlenyomatát telefonja zárolásának feloldásához vagy személyazonossága igazolásához. A legnagyobb rugalmasság érdekében adjon hozzá egy másik ujjlenyomatot.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Érintse meg az ujjhegyével</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Érintse oda a bal szélét</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Érintse meg a jobb szélét</string>
+    <string name="find_usudfps_subtitle_simple">Az ujjlenyomat-érzékelő a következő képernyőn lesz</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Beállítás kijelzővédővel</string>
+    <string name="fingerprint_acquired_immobile_simple">Minden alkalommal módosítsa kissé</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Érvényes QR-kód</string>
+    <string name="fingerprint_sp_qr_code_error">Ez a QR-kód nem tanúsítvánnyal rendelkező kijelzővédőhöz tartozik</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Ez egy %s.\nHelyezze fel a Feloldás ujjlenyomattal funkció beállítása előtt.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Igazítsa a kijelzővédő csomagolásán lévő kódot a keretbe</string>
+    <string name="fingerprint_sp_title_got_it">Rendben!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Olvassa be a QR-kódot</string>
+    <string name="protector_edu_subtitle">A kijelzővédő befolyásolhatja az ujjlenyomatok felismerését. Ha kijelzővédő mellett használja a Feloldás ujjlenyomattal funkciót, akkor a legjobb eredmény érdekében:</string>
+    <string name="screen_protector_edu_apply_instruction">Ha lehetséges, a Feloldás ujjlenyomattal funkció beállítása előtt helyezze fel a kijelzővédőt, és simítsa ki a légbuborékokat. Ha a beállítás után kell felhelyeznie, akkor később olvassa be a QR-kódot a kamerával.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;További információt a g.co/pixel/screenprotector oldalon talál&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Made for Google tanúsítvánnyal rendelkező kijelzővédőt használjon.</string>
+    <string name="screen_protector_edu_no_qr_code">Nincs QR-kód</string>
+    <string name="screen_protector_edu_scan_it_later">Beolvasás később</string>
+    <string name="screen_protector_edu_scan_qr_code">QR-kód beolvasása</string>
+    <string name="screen_protector_edu_title">Olvassa be a kijelzővédő csomagolásán lévő QR-kódot</string>
+    <string name="screen_protector_no_qr_code_msg">A Made for Google tanúsítvánnyal rendelkező kijelzővédők csomagolásán QR-kód található. Más kijelzővédők megzavarhatják az érzékelőt, és megakadályozhatják a megbízható működését.\n\nTovábbi információ: g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">Rendben</string>
+    <string name="screen_protector_no_qr_code_title">Nem látta a QR-kódot?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Megerősítés</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Nincs kijelzővédő</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Kijelzővédő</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Az ujjlenyomat-felismerés javítása érdekében távolítsa el a kijelzővédőt, mielőtt kikapcsolja a kijelzővédő-optimalizálást.</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Kijelzővédő eltávolítása</string>
+    <string name="security_settings_udfps_screen_protector_title">Optimalizálás kijelzővédőhöz</string>
+    <string name="sp_apply_dialog_button_got_it">Rendben</string>
+    <string name="sp_apply_dialog_msg_incompatible">Előfordulhat, hogy a kijelzővédő nem kompatibilis a telefonnal. Ennek ellenőrzéséhez frissítse telefonját az Android legújabb verziójára, és próbálkozzon újra.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Érvénytelen QR-kód</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Ez a művelet csak az eszköz tulajdonosa számára áll rendelkezésre</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Igen</string>
+</resources>

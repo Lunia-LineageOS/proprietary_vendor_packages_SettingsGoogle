@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Magagamit mo na ang iyong fingerprint para i-unlock ang telepono mo o i-verify na ikaw ito. Para sa pinakamahusay na flexibility, magdagdag ng isa pang fingerprint.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Ilapat ang dulo ng iyong daliri</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Ilapat ang kaliwang gilid</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Ilapat ang kanang gilid</string>
+    <string name="find_usudfps_subtitle_simple">Nasa susunod na screen ang sensor para sa fingerprint</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">I-set up na may screen protector</string>
+    <string name="fingerprint_acquired_immobile_simple">Bahagyang mag-adjust sa kada pagkakataon</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Valid na QR code</string>
+    <string name="fingerprint_sp_qr_code_error">Hindi para sa certified na screen protector ang QR code na ito</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Mayroon kang %s.\nIlagay ito bago i-set up ang Pag-unlock Gamit ang Fingerprint.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Iposisyon ang code sa packaging ng screen protector sa frame</string>
+    <string name="fingerprint_sp_title_got_it">OK!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">I-scan ang QR code</string>
+    <string name="protector_edu_subtitle">Puwedeng makaapekto ang screen protector sa pagkilala ng fingerprint. Para sa pinakamahusay na performance ng Pag-unlock Gamit ang Fingerprint na may screen protector:</string>
+    <string name="screen_protector_edu_apply_instruction">Kapag posible, ilagay ang screen protector bago i-set up ang Pag-unlock Gamit ang Fingerprint at tanggalin ang anumang bula. Kung kailangan mo itong ilapat pagkatapos mag-set up, i-scan ang QR code sa ibang pagkakataon gamit ang iyong camera.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Matuto pa sa g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Gumamit ng screen protector na certified na Made for Google</string>
+    <string name="screen_protector_edu_no_qr_code">Walang QR Code</string>
+    <string name="screen_protector_edu_scan_it_later">I-scan ito sa ibang pagkakataon</string>
+    <string name="screen_protector_edu_scan_qr_code">I-scan ang QR code</string>
+    <string name="screen_protector_edu_title">I-scan ang QR code sa packaging ng screen protector</string>
+    <string name="screen_protector_no_qr_code_msg">May QR code sa packaging ang screen protector na certified na Made for Google. Posibleng makagambala ang ibang screen protector sa sensor at mapigilan itong gumana nang maayos.\n\nMatuto pa sa g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">OK</string>
+    <string name="screen_protector_no_qr_code_title">Walang QR code?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Kumpirmahin</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Walang screen protector</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Screen protector</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Para pahusayin ang pagkilala sa fingerprint, alisin ang iyong screen protector bago i-off ang pag-optimize sa screen protector</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Alisin ang screen protector</string>
+    <string name="security_settings_udfps_screen_protector_title">I-optimize para sa screen protector</string>
+    <string name="sp_apply_dialog_button_got_it">OK</string>
+    <string name="sp_apply_dialog_msg_incompatible">Posibleng hindi compatible sa iyong telepono ang screen protector mo. Para makasigurado, i-update ang iyong telepono sa pinakabagong bersyon ng Android at subukan ulit.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Invalid ang QR Code</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Limitado lang sa may-ari ng device ang aksyong ito</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Oo</string>
+</resources>

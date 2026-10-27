@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">이제 지문을 사용하여 휴대전화를 잠금 해제하거나 본인 인증을 진행할 수 있습니다. 보다 편리한 사용을 위해 다른 지문도 추가해 보세요.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">손가락 끝을 터치하세요</string>
+    <string name="enroll_usudfps_left_edge_title_simple">왼쪽 가장자리를 터치하세요</string>
+    <string name="enroll_usudfps_right_edge_title_simple">오른쪽 가장자리를 터치하세요</string>
+    <string name="find_usudfps_subtitle_simple">다음 화면에 지문 센서가 표시됩니다.</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">화면 보호필름이 있는 상태에서 설정</string>
+    <string name="fingerprint_acquired_immobile_simple">한 번 터치할 때마다 조금씩 조정하세요</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">올바른 QR 코드</string>
+    <string name="fingerprint_sp_qr_code_error">인증된 화면 보호필름에 대한 QR 코드가 아닙니다.</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">%s 화면 보호필름이 있습니다\n지문 잠금 해제를 설정하기 전에 부착하세요</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">화면 보호필름 포장에 있는 코드를 프레임 안에 맞추세요.</string>
+    <string name="fingerprint_sp_title_got_it">확인</string>
+    <string name="fingerprint_sp_title_scan_qr_code">QR 코드 스캔</string>
+    <string name="protector_edu_subtitle">화면 보호필름은 지문 인식에 영향을 미칠 수 있습니다. 화면 보호필름 사용 시 지문 잠금 해제의 성능을 최적화하려면 다음을 따르세요</string>
+    <string name="screen_protector_edu_apply_instruction">가능한 경우 지문 잠금 해제를 설정하기 전에 화면 보호필름을 붙이고 기포를 제거하세요. 설정한 후에 필름을 붙이게 되면 나중에 카메라로 QR 코드를 스캔하세요.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;g.co/pixel/screenprotector에서 자세히 알아보기&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Made for Google 인증을 받은 화면 보호필름을 사용하세요.</string>
+    <string name="screen_protector_edu_no_qr_code">QR 코드 없음</string>
+    <string name="screen_protector_edu_scan_it_later">나중에 스캔</string>
+    <string name="screen_protector_edu_scan_qr_code">QR 코드 스캔</string>
+    <string name="screen_protector_edu_title">화면 보호필름 포장에 있는 QR 코드 스캔</string>
+    <string name="screen_protector_no_qr_code_msg">Made for Google 인증 화면 보호필름은 포장에 QR 코드가 있습니다. 다른 화면 보호필름을 사용하면 센서가 방해를 받아 안정적으로 작동하지 않을 수 있습니다.\n\ng.co/pixel/screenprotector에서 자세히 알아보세요.</string>
+    <string name="screen_protector_no_qr_code_ok">확인</string>
+    <string name="screen_protector_no_qr_code_title">QR 코드가 보이지 않나요?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">확인</string>
+    <string name="security_settings_udfps_screen_protector_description_none">화면 보호필름 없음</string>
+    <string name="security_settings_udfps_screen_protector_keywords">화면 보호필름</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">지문 인식률을 높이려면 화면 보호필름을 제거한 후 화면 보호필름 최적화를 사용 중지하세요.</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">화면 보호필름 제거</string>
+    <string name="security_settings_udfps_screen_protector_title">화면 보호필름에 최적화</string>
+    <string name="sp_apply_dialog_button_got_it">확인</string>
+    <string name="sp_apply_dialog_msg_incompatible">화면 보호필름이 휴대전화와 호환되지 않을 수 있습니다. 휴대전화를 최신 버전의 Android로 업데이트한 후 다시 시도해 보세요.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">잘못된 QR 코드</string>
+    <string name="sp_apply_dialog_msg_main_user_only">이 작업은 기기 소유자로 제한됩니다.</string>
+    <string name="sp_apply_title_product_combined">%s인가요?</string>
+    <string name="sp_apply_yes_button">예</string>
+</resources>

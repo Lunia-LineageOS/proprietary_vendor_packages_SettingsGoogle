@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Untuk membuka kunci dengan lebih mudah, gunakan Buka Kunci Cap Jari bersama dengan Buka Kunci Wajah</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Sediakan Buka Kunci Cap Jari</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Sediakan Buka Kunci Cap Jari untuk kerja</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Kini anda boleh menggunakan cap jari anda untuk membuka kunci telefon anda atau mengesahkan identiti anda. Untuk mendapatkan kefleksibelan yang terbaik, tambahkan cap jari lain.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Sentuh hujung jari anda</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Sentuh sisi kiri</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Sentuh sisi kanan</string>
     <string name="face_confirmation_hide_illustration_description">Kini anda boleh menggunakan wajah anda untuk membuka kunci apabila anda memegang telefon anda atau mengetik skrin.</string>
     <string name="face_confirmation_info_enough_light">Buka Kunci Wajah terbaik digunakan apabila cahaya mencukupi dan anda tidak memakai pelitup muka atau cermin mata hitam.</string>
     <string name="face_confirmation_info_outside_screen">Buka Kunci Wajah berfungsi daripada skrin luar sahaja</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Gerakkan telefon ke sebelah kiri anda</string>
     <string name="face_enrolling_turn_head_to_arrow">Pusingkan kepala anda ke arah anak panah</string>
     <string name="face_enrolling_turned_too_far">Pusingkan kepala kurang sedikit</string>
-    <string name="find_usudfps_subtitle_simple">Penderia cap jari terdapat pada skrin yang seterusnya</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Sediakan dengan pelindung skrin</string>
-    <string name="fingerprint_acquired_immobile_simple">Laraskan sedikit setiap kali</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Kod QR yang sah</string>
-    <string name="fingerprint_sp_qr_code_error">Kod QR ini bukan untuk pelindung skrin yang diperaku</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Anda mempunyai %s.\nPasang pelindung skrin itu sebelum menyediakan Buka Kunci Cap Jari.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Tempatkan kod pada pembungkus pelindung skrin dalam bingkai</string>
-    <string name="fingerprint_sp_title_got_it">OK!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Imbas kod QR</string>
-    <string name="protector_edu_subtitle">Pelindung skrin boleh mempengaruhi pengecaman cap jari. Untuk prestasi Buka Kunci Cap Jari yang terbaik dengan pelindung skrin:</string>
-    <string name="screen_protector_edu_apply_instruction">Jika boleh, pasang pelindung skrin sebelum menyediakan Buka Kunci Cap Jari dan ratakan sebarang gelembung. Jika anda ingin memasangnya selepas persediaan, imbas kod QR kemudian menggunakan kamera.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Ketahui lebih lanjut melalui g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Gunakan pelindung skrin yang diperakukan sebagai Made For Google</string>
-    <string name="screen_protector_edu_no_qr_code">Tiada kod QR</string>
-    <string name="screen_protector_edu_scan_it_later">Imbas kemudian</string>
-    <string name="screen_protector_edu_scan_qr_code">Imbas kod QR</string>
-    <string name="screen_protector_edu_title">Imbas kod QR pada pembungkus pelindung skrin</string>
-    <string name="screen_protector_no_qr_code_msg">Pelindung skrin yang diperakukan sebagai Made For Google memiliki kod QR pada bungkusan. Pelindung skrin lain mungkin mengganggu penderia dan menghalang penderia daripada berfungsi dengan andal.\n\nKetahui lebih lanjut melalui g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">OK</string>
-    <string name="screen_protector_no_qr_code_title">Tidak melihat kod QR?</string>
     <string name="security_settings_face_enroll_consent_message">Gunakan wajah anak anda untuk membuka kunci telefon mereka atau mengesahkan identiti mereka pada apl</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Wajah anak anda hanya disimpan pada peranti dan tidak akan sekali-kali dihantar kepada Google</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Kini anda boleh menggunakan wajah anda untuk membuka kunci apabila anda memegang telefon anda atau mengetik skrin.\n\nBuka Kunci Wajah paling sesuai digunakan apabila terdapat cahaya yang mencukupi dan anda tidak memakai pelitup muka atau cermin mata hitam.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Telefon terlalu panas</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Gunakan cap jari anak anda untuk membuka kunci telefon mereka atau mengesahkan identiti mereka pada apl</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Cap jari anak anda hanya disimpan pada peranti dan tidak akan sekali-kali dihantar kepada Google</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Sahkan</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Tiada pelindung skrin</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Pelindung skrin</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Untuk meningkatkan pengecaman cap jari, cabut pelindung skrin sebelum mematikan pengoptimuman pelindung skrin</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Tanggalkan pelindung skrin</string>
-    <string name="security_settings_udfps_screen_protector_title">Optimumkan untuk pelindung skrin</string>
-    <string name="sp_apply_dialog_button_got_it">OK</string>
-    <string name="sp_apply_dialog_msg_incompatible">Pelindung skrin anda mungkin tidak serasi dengan telefon anda. Untuk memastikan hal ini, kemas kinikan telefon anda kepada versi Android yang terkini dan cuba lagi.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Kod QR tidak sah</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Tindakan ini terhad kepada pemilik peranti sahaja</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Ya</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Ketikan Segera dikesan!</string>

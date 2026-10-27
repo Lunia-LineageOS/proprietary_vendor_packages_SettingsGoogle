@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Käytä kasvojentunnistusavauksen lisäksi sormenjälkiavausta, niin lukituksen avaaminen on helpompaa</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Sormenjälkiavauksen käyttöönotto</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Sormenjälkiavauksen käyttöönotto työprofiilille</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Voit nyt käyttää sormenjälkeäsi puhelimen lukituksen avaamiseen tai henkilöllisyyden vahvistamiseen. Lisää toinen sormenjälki, niin käyttö on joustavampaa.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Kosketa sormenpäällä</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Kosketa vasenta reunaa</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Kosketa oikeaa reunaa</string>
     <string name="face_confirmation_hide_illustration_description">Voit nyt avata puhelimen lukituksen kasvoillasi, kun nostat sen tai napautat näyttöä.</string>
     <string name="face_confirmation_info_enough_light">Kasvojentunnistusavaus toimii parhaiten, kun ympäristö on sopivan valoisa eikä kasvoillasi ole maskia tai tummia laseja.</string>
     <string name="face_confirmation_info_outside_screen">Kasvojentunnistusavaus toimii vain laitteen ulkonäytöllä</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Siirrä puhelinta vasemmalle</string>
     <string name="face_enrolling_turn_head_to_arrow">Käännä päätä nuolen suuntaan</string>
     <string name="face_enrolling_turned_too_far">Käännä päätä vähän vähemmän</string>
-    <string name="find_usudfps_subtitle_simple">Sormenjälkitunnistin on seuraavalla näytöllä</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Ota käyttöön näytönsuojuksen kanssa</string>
-    <string name="fingerprint_acquired_immobile_simple">Tee pieniä muutoksia joka kerta</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Oikeanlainen QR-koodi</string>
-    <string name="fingerprint_sp_qr_code_error">Tämä QR-koodi ei ole sertifioidun näytönsuojuksen koodi</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Sinulla on %s.\nAsenna se ennen sormenjälkiavauksen käyttöönottoa.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Kohdista näytönsuojuksen pakkauksen koodi kehykseen</string>
-    <string name="fingerprint_sp_title_got_it">Selvä!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Skannaa QR-koodi</string>
-    <string name="protector_edu_subtitle">Näytönsuojus voi vaikuttaa sormenjälkien tunnistamiseen. Näin saat parhaan sormenjälkiavauskokemuksen näytönsuojuksen kanssa:</string>
-    <string name="screen_protector_edu_apply_instruction">Jos mahdollista, asenna näytönsuojus ennen sormenjälkiavauksen käyttöönottoa ja tasoita kuplat. Jos haluat asentaa suojuksen käyttöönoton jälkeen, skannaa QR-koodi myöhemmin kameralla.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Lue lisää osoitteesta g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Käytä Made for Google ‑sertifioitua näytönsuojusta</string>
-    <string name="screen_protector_edu_no_qr_code">Ei koodia</string>
-    <string name="screen_protector_edu_scan_it_later">Skannaa myöh.</string>
-    <string name="screen_protector_edu_scan_qr_code">Skann. koodi</string>
-    <string name="screen_protector_edu_title">Skannaa näytönsuojuksen pakkauksen QR-koodi</string>
-    <string name="screen_protector_no_qr_code_msg">Made For Google ‑sertifioidun näytönsuojuksen pakkauksessa on QR-koodi. Muut näytönsuojukset voivat häiritä tunnistinta ja estää sen luotettavan toiminnan.\n\nLue lisää osoitteesta g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">Selvä</string>
-    <string name="screen_protector_no_qr_code_title">Eikö QR-koodia löytynyt?</string>
     <string name="security_settings_face_enroll_consent_message">Lapsi voi avata puhelimen lukituksen tai todentaa henkilöllisyytensä sovelluksissa kasvojensa avulla</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Lapsen kasvot tallennetaan vain laitteelle, eikä niitä koskaan lähetetä Googlelle</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Voit nyt avata puhelimen lukituksen kasvoillasi, kun nostat sen tai napautat näyttöä.\n\nKasvojentunnistusavaus toimii parhaiten, kun ympäristö on sopivan valoisa eikä kasvoillasi ole maskia tai tummia laseja.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Puhelin on liian kuuma</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Lapsi voi avata puhelimen lukituksen tai todentaa henkilöllisyytensä sormenjäljen avulla</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Lapsen sormenjäljet tallennetaan vain laitteelle, eikä niitä koskaan lähetetä Googlelle</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Vahvista</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Ei näytönsuojusta</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Näytönsuojus</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Jos haluat parantaa sormenjäljentunnistusta, poista näytönsuojus ennen kuin laitat näytönsuojuksen optimoinnin pois päältä</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Poista näytönsuojus</string>
-    <string name="security_settings_udfps_screen_protector_title">Optimoi näytönsuojukselle</string>
-    <string name="sp_apply_dialog_button_got_it">Selvä</string>
-    <string name="sp_apply_dialog_msg_incompatible">Näytönsuojus ei ehkä ole yhteensopiva puhelimen kanssa. Varmista asia päivittämällä puhelin uusimpaan Android-versioon ja yrittämällä uudelleen.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Virheellinen QR-koodi</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Toiminto on rajoitettu vain laitteen omistajalle</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Kyllä</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Pikanäpäytys havaittu</string>

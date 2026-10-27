@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Da bi otključavanje bilo praktičnije, koristite otključavanje otiskom prsta i otključavanje licem</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Podesite otključavanje otiskom prsta</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Podesite Otključavanje otiskom prsta za poslovni profil</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Sada možete da koristite otisak prsta za otključavanje telefona ili potvrdu identiteta. Za najveću fleksibilnost, dodajte još jedan otisak prsta.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Dodirnite vrhom prsta</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Dodirnite levom ivicom</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Dodirnite desnom ivicom</string>
     <string name="face_confirmation_hide_illustration_description">Sada možete da otključate telefon pomoću lica kada ga uzmete ili dodirnete ekran.</string>
     <string name="face_confirmation_info_enough_light">Otključavanje licem najbolje radi kada ima dovoljno svetla i ne nosite masku ili tamne naočare.</string>
     <string name="face_confirmation_info_outside_screen">Otključavanje licem radi samo sa spoljnog ekrana</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Pomerite telefon ulevo</string>
     <string name="face_enrolling_turn_head_to_arrow">Pomerajte glavu ka strelici</string>
     <string name="face_enrolling_turned_too_far">Malo manje pomerite glavu</string>
-    <string name="find_usudfps_subtitle_simple">Senzor za otisak prsta će se prikazati na sledećem ekranu</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Podesi sa zaštitom za ekran</string>
-    <string name="fingerprint_acquired_immobile_simple">Svaki put pomalo prilagodite</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Važeći QR kôd</string>
-    <string name="fingerprint_sp_qr_code_error">Ovaj QR kôd ne služi za sertifikovanu zaštitu za ekran</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Imate %s.\nPostavite ga pre nego što podesite otključavanje otiskom prsta.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Postavite kôd prikazan na pakovanju zaštite za ekran u kadar</string>
-    <string name="fingerprint_sp_title_got_it">Važi!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Skenirajte QR kôd</string>
-    <string name="protector_edu_subtitle">Zaštita za ekran može da utiče na prepoznavanje otiska prsta. Za najbolje performanse otključavanja otiskom prsta uz zaštitu za ekran:</string>
-    <string name="screen_protector_edu_apply_instruction">Kada je to moguće, stavite zaštitu za ekran pre nego što podesite otključavanje otiskom prsta i istisnite sve mehuriće. Ako treba da je stavite posle podešavanja, kasnije skenirajte QR kôd kamerom.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Saznajte više na g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Koristite zaštitu za ekran sa sertifikatom Napravljeno za Google</string>
-    <string name="screen_protector_edu_no_qr_code">Nema QR koda</string>
-    <string name="screen_protector_edu_scan_it_later">Skeniraj kasnije</string>
-    <string name="screen_protector_edu_scan_qr_code">Skeniraj QR kôd</string>
-    <string name="screen_protector_edu_title">Skenirajte QR kôd na pakovanju zaštite za ekran</string>
-    <string name="screen_protector_no_qr_code_msg">Zaštita za ekran sa sertifikatom Napravljeno za Google ima QR kôd na pakovanju. Druge zaštite za ekran mogu da ometaju senzor i spreče ga da pouzdano radi.\n\nSaznajte više na g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">Važi</string>
-    <string name="screen_protector_no_qr_code_title">Ne vidite QR kôd?</string>
     <string name="security_settings_face_enroll_consent_message">Omogućite da dete koristi lice za otključavanje telefona ili potvrdu identiteta u aplikacijama</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Lice deteta se čuva samo na uređaju i nikada se ne šalje Google-u</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Sada možete da otključate telefon pomoću lica kada ga uzmete ili dodirnete ekran.\n\nOtključavanje licem najbolje radi kada ima dovoljno svetla i ne nosite masku ili tamne naočare.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Telefon je previše zagrejan</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Omogućite da dete koristi otisak prsta za otključavanje telefona ili potvrdu identiteta u aplikacijama</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Otisci prstiju deteta se čuvaju samo na uređaju i nikada se ne šalju Google-u</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Potvrdi</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Nema zaštite za ekran</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Zaštita za ekran</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Da biste poboljšali prepoznavanje otiska prsta, uklonite zaštitu za ekran pre nego što isključite njenu optimizaciju</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Uklonite zaštitu za ekran</string>
-    <string name="security_settings_udfps_screen_protector_title">Optimizacija za zaštitu za ekran</string>
-    <string name="sp_apply_dialog_button_got_it">Važi</string>
-    <string name="sp_apply_dialog_msg_incompatible">Zaštita za ekran možda nije kompatibilna sa telefonom. Da biste bili sigurni, ažurirajte telefon na najnoviju verziju Android-a i probajte ponovo.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Nevažeći QR kôd</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Ova radnja je ograničena na vlasnika uređaja</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Da</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Otkriven je brzi dodir!</string>

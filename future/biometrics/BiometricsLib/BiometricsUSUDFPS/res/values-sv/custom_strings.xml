@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Nu kan du använda ditt fingeravtryck för att låsa upp telefonen eller verifiera din identitet. Lägg till ett till fingeravtryck för att få större flexibilitet.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Nudda med fingertoppen</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Nudda med vänsterkanten</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Nudda med högerkanten</string>
+    <string name="find_usudfps_subtitle_simple">Fingeravtryckssensorn finns på nästa skärm</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Konfigurera med skärmskydd</string>
+    <string name="fingerprint_acquired_immobile_simple">Justera lite varje gång</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Giltig QR-kod</string>
+    <string name="fingerprint_sp_qr_code_error">Den här QR-koden gäller inte ett certifierat skärmskydd</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Du har skärmskyddet %s.\nSätt på det innan du ställer in fingeravtryckslås.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Placera koden på förpackningen till skärmskyddet så att den syns i rutan</string>
+    <string name="fingerprint_sp_title_got_it">OK</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Skanna QR-koden</string>
+    <string name="protector_edu_subtitle">Ett skärmskydd kan påverka fingeravtrycksigenkänningen. Gör så här för bästa möjliga resultat från fingeravtryckslåset med ett skärmskydd:</string>
+    <string name="screen_protector_edu_apply_instruction">Om möjligt ska du sätta på skärmskyddet innan du ställer in fingeravtryckslåset och trycka ut eventuella bubblor. Om du behöver sätta på det efter konfigureringen kan du skanna QR-koden senare med kameran.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Läs mer på g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Använd ett skärmskydd som är Made For Google-certifierat</string>
+    <string name="screen_protector_edu_no_qr_code">Ingen QR</string>
+    <string name="screen_protector_edu_scan_it_later">Skanna senare</string>
+    <string name="screen_protector_edu_scan_qr_code">Skanna QR</string>
+    <string name="screen_protector_edu_title">Skanna QR-koden på förpackningen till skärmskyddet</string>
+    <string name="screen_protector_no_qr_code_msg">Ett skärmskydd som är Made for Google-certifierat har en QR-kod på förpackningen. Andra skärmskydd kan störa sensorn och förhindra att den fungerar tillförlitligt.\n\nLäs mer på g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">OK</string>
+    <string name="screen_protector_no_qr_code_title">Ser du ingen QR-kod?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Bekräfta</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Inget skärmskydd</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Skärmskydd</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">För att förbättra fingeravtrycksigenkänningen tar du bort skärmskyddet innan du inaktiverar skärmskyddsoptimering</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Ta bort skärmskyddet</string>
+    <string name="security_settings_udfps_screen_protector_title">Optimera för skärmskydd</string>
+    <string name="sp_apply_dialog_button_got_it">OK</string>
+    <string name="sp_apply_dialog_msg_incompatible">Skärmskyddet kanske inte är kompatibelt med telefonen. Uppdatera telefonen till den senaste versionen av Android och försök igen.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Ogiltig QR-kod</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Den här åtgärden är endast tillgänglig för enhetsägaren</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Ja</string>
+</resources>

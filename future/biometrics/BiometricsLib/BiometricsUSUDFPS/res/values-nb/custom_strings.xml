@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Nå kan du bruke fingeravtrykket til å låse opp telefonen eller bekrefte at det er deg. Legg til et fingeravtrykk til for å få mest mulig fleksibilitet.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Trykk med fingertuppen</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Trykk på venstre kant</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Trykk på høyre kant</string>
+    <string name="find_usudfps_subtitle_simple">Fingeravtrykkssensoren er på den neste skjermen</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Konfigurer med skjermbeskytter</string>
+    <string name="fingerprint_acquired_immobile_simple">Juster litt hver gang</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Gyldig QR-kode</string>
+    <string name="fingerprint_sp_qr_code_error">Denne QR-koden er ikke for en sertifisert skjermbeskytter</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Du har en %s.\nBruk den før du konfigurerer Opplåsing med fingeravtrykk.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Plasser koden på emballasjen til skjermbeskytteren i rammen</string>
+    <string name="fingerprint_sp_title_got_it">Greit!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Skann QR-koden</string>
+    <string name="protector_edu_subtitle">Skjermbeskyttere kan påvirke gjenkjenning av fingeravtrykk. Slik får du best mulig ytelse for Opplåsing med fingeravtrykk med en skjermbeskytter:</string>
+    <string name="screen_protector_edu_apply_instruction">Hvis det er mulig, bør du sette på skjermbeskytteren før du konfigurerer Opplåsing med fingeravtrykk, og du bør fjerne eventuelle bobler. Hvis du må sette den på etter konfigureringen, kan du skanne QR-koden med kameraet senere.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Finn ut mer på g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Bruk en skjermbeskytter som er Made for Google-sertifisert</string>
+    <string name="screen_protector_edu_no_qr_code">Ingen QR</string>
+    <string name="screen_protector_edu_scan_it_later">Skann senere</string>
+    <string name="screen_protector_edu_scan_qr_code">Skann QR</string>
+    <string name="screen_protector_edu_title">Skann QR-koden på emballasjen til skjermbeskytteren</string>
+    <string name="screen_protector_no_qr_code_msg">Skjermbeskyttere som er Made for Google-sertifisert, har en QR-kode på emballasjen. Andre skjermbeskyttere kan forstyrre sensoren og hindre at den fungerer som den skal.\n\nFinn ut mer på g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">Greit</string>
+    <string name="screen_protector_no_qr_code_title">Så du ingen QR-kode?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Bekreft</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Ingen skjermbeskytter</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Skjermbeskytter</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">For å forbedre fingeravtrykksgjenkjenningen, fjern skjermbeskytteren før du slår av optimalisering for skjermbeskyttere</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Fjern skjermbeskytteren</string>
+    <string name="security_settings_udfps_screen_protector_title">Optimaliser for skjermbeskyttere</string>
+    <string name="sp_apply_dialog_button_got_it">Greit</string>
+    <string name="sp_apply_dialog_msg_incompatible">Skjermbeskytteren er muligens ikke kompatibel med telefonen. For å være sikker, oppdater telefonen til den nyeste versjonen av Android, og prøv på nytt.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Ugyldig QR-kode</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Denne handlingen er bare tilgjengelig for eieren av enheten</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Ja</string>
+</resources>

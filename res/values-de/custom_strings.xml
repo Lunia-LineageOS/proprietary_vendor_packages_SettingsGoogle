@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Verwende die Entsperrung per Fingerabdruck zusammen mit der Entsperrung per Gesichtserkennung, um das Gerät schnell und einfach zu entsperren</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Entsperrung per Fingerabdruck einrichten</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Entsperrung per Fingerabdruck für Arbeitsprofil einrichten</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Du kannst jetzt mit deinem Fingerabdruck dein Smartphone entsperren oder deine Identität bestätigen. Für größtmögliche Flexibilität solltest du einen weiteren Fingerabdruck hinzufügen.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Berühre den Sensor mit der Fingerspitze</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Berühre den Sensor mit der linken Seite</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Berühre den Sensor mit der rechten Seite</string>
     <string name="face_confirmation_hide_illustration_description">Wenn du jetzt dein Smartphone zur Hand nimmst oder auf das Display tippst, kannst du es mit der Gesichtserkennung entsperren.</string>
     <string name="face_confirmation_info_enough_light">Die Gesichtsentsperrung funktioniert am besten, wenn es hell genug ist und du keine Maske oder dunkle Brille trägst.</string>
     <string name="face_confirmation_info_outside_screen">Die Entsperrung per Gesichtserkennung funktioniert nur über das Außendisplay</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Bewege das Smart­phone nach links</string>
     <string name="face_enrolling_turn_head_to_arrow">Kopf in Richtung des Pfeils drehen</string>
     <string name="face_enrolling_turned_too_far">Kopf etwas weniger weit drehen</string>
-    <string name="find_usudfps_subtitle_simple">Der Fingerabdrucksensor wird auf dem nächsten Bildschirm angezeigt.</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Mit Displayschutz einrichten</string>
-    <string name="fingerprint_acquired_immobile_simple">Pass die Position jedes Mal leicht an</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Gültiger QR‑Code</string>
-    <string name="fingerprint_sp_qr_code_error">Dies ist kein QR‑Code eines zertifizierten Displayschutzes</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Du hast einen „%s“-Displayschutz.\nBringe ihn an, bevor du die Entsperrung per Fingerabdruck einrichtest.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Der Code auf der Verpackung des Displayschutzes muss sich innerhalb des Rahmens befinden</string>
-    <string name="fingerprint_sp_title_got_it">Alles klar!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">QR-Code scannen</string>
-    <string name="protector_edu_subtitle">Ein Displayschutz kann die Fingerabdruckerkennung beeinträchtigen. Damit die Entsperrung per Fingerabdruck trotz Displayschutz bestmöglich funktioniert, solltest du auf Folgendes achten:</string>
-    <string name="screen_protector_edu_apply_instruction">Bringe den Displayschutz an, bevor du die Entsperrung per Fingerabdruck einrichtest, und streiche mögliche Blasen glatt. Wenn du ihn erst nach der Einrichtung anbringen möchtest, scanne den QR‑Code später mit deiner Kamera.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Weitere Informationen&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Verwende einen Displayschutz, der „Made for Google“-zertifiziert ist</string>
-    <string name="screen_protector_edu_no_qr_code">Kein QR‑Code</string>
-    <string name="screen_protector_edu_scan_it_later">Später scannen</string>
-    <string name="screen_protector_edu_scan_qr_code">QR-Code scannen</string>
-    <string name="screen_protector_edu_title">Scanne den QR‑Code auf der Verpackung des Displayschutzes</string>
-    <string name="screen_protector_no_qr_code_msg">Auf der Verpackung von Displayschutzfolien, die „Made for Google“-zertifiziert sind, ist ein QR-Code abgebildet. Andere Displayschutzfolien können den Sensor beeinträchtigen, sodass dieser nicht richtig funktioniert.\n\nWeitere Informationen unter g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">Ok</string>
-    <string name="screen_protector_no_qr_code_title">Du hast keinen QR‑Code gesehen?</string>
     <string name="security_settings_face_enroll_consent_message">Dein Kind kann die Gesichtserkennung verwenden, um sein Smartphone zu entsperren oder seine Identität in Apps zu bestätigen</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Das Gesichtsmodell deines Kindes wird nur auf dem Gerät gespeichert und niemals an Google gesendet</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Wenn du jetzt dein Smartphone zur Hand nimmst oder auf das Display tippst, kannst du es mithilfe der Gesichtserkennung entsperren.\n\nDie Entsperrung per Gesichtserkennung funktioniert am besten, wenn die Umgebung hell genug ist und du keine Maske oder Brille mit dunklen Gläsern trägst.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Smartphone ist zu heiß</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Dein Kind kann seinen Fingerabdruck verwenden, um sein Smartphone zu entsperren oder seine Identität in Apps zu bestätigen</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Die Fingerabdrücke deines Kindes werden nur auf dem Gerät gespeichert und niemals an Google gesendet</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Bestätigen</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Kein Displayschutz</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Displayschutz</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Damit der Fingerabdruck besser erkannt wird, entferne den Displayschutz, bevor du die Optimierung für den Displayschutz deaktivierst</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Displayschutz entfernen</string>
-    <string name="security_settings_udfps_screen_protector_title">Für Displayschutz optimieren</string>
-    <string name="sp_apply_dialog_button_got_it">Ok</string>
-    <string name="sp_apply_dialog_msg_incompatible">Dein Displayschutz ist möglicherweise nicht mit deinem Smartphone kompatibel. Aktualisiere dein Smartphone auf die neueste Android-Version und versuche es noch einmal.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Ungültiger QR‑Code</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Diese Aktion kann nur vom Geräteeigentümer ausgeführt werden</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Ja</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">„Schnelltippen“ wurde erkannt</string>

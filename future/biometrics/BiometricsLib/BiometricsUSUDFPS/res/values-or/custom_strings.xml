@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">ଆପଣଙ୍କ ଫୋନ ଅନଲକ କରିବାକୁ କିମ୍ବା ଏହା ଆପଣ ବୋଲି ଯାଞ୍ଚ କରିବାକୁ ବର୍ତ୍ତମାନ ଆପଣ ଆପଣଙ୍କର ଟିପଚିହ୍ନ ବ୍ୟବହାର କରିପାରିବେ। ସର୍ବାଧିକ ସୁବିଧା ପାଇଁ, ଅନ୍ୟ ଏକ ଟିପଚିହ୍ନ ଯୋଗ କରନ୍ତୁ।</string>
+    <string name="enroll_usudfps_fingertip_title_simple">ଆପଣଙ୍କ ଆଙ୍ଗୁଠି ଟିପକୁ ସ୍ପର୍ଶ କରନ୍ତୁ</string>
+    <string name="enroll_usudfps_left_edge_title_simple">ବାମ ଧାରକୁ ସ୍ପର୍ଶ କରନ୍ତୁ</string>
+    <string name="enroll_usudfps_right_edge_title_simple">ଡାହାଣ ଧାରକୁ ସ୍ପର୍ଶ କରନ୍ତୁ</string>
+    <string name="find_usudfps_subtitle_simple">ଟିପଚିହ୍ନ ସେନ୍ସର ପରବର୍ତ୍ତୀ ସ୍କ୍ରିନରେ ରହିବ</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ସହ ସେଟ ଅପ କରନ୍ତୁ</string>
+    <string name="fingerprint_acquired_immobile_simple">ପ୍ରତି ଥର ସାମାନ୍ୟ ଆଡଜଷ୍ଟ କରନ୍ତୁ</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">ବୈଧ QR କୋଡ</string>
+    <string name="fingerprint_sp_qr_code_error">ଏହି QR କୋଡ ସାର୍ଟିଫାଏ କରାଯାଇଥିବା ଏକ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ପାଇଁ ଉଦ୍ଦିଷ୍ଟ ନୁହେଁ</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">ଆପଣଙ୍କର ଏକ %s ଅଛି।\nଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକ ସେଟ ଅପ କରିବା ପୂର୍ବରୁ ଏହାକୁ ଲାଗୁ କରନ୍ତୁ।</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ପେକେଜିଂରେ କୋଡକୁ ଫ୍ରେମରେ ପୋଜିସନ କରନ୍ତୁ</string>
+    <string name="fingerprint_sp_title_got_it">ବୁଝିଗଲି!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">QR କୋଡକୁ ସ୍କାନ କରନ୍ତୁ</string>
+    <string name="protector_edu_subtitle">ଏକ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ଟିପଚିହ୍ନ ଚିହ୍ନଟକରଣକୁ ପ୍ରଭାବିତ କରିପାରେ। ଏକ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ସହ ସର୍ବୋତ୍ତମ ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକ ପରଫରମାନ୍ସ ପାଇଁ:</string>
+    <string name="screen_protector_edu_apply_instruction">ସମ୍ଭବ ହେଲେ, ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକ ସେଟ ଅପ କରିବା ପୂର୍ବରୁ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ଲାଗୁ କରନ୍ତୁ ଏବଂ ଯେ କୌଣସି ବବଲକୁ ଫ୍ଲାଟ କରନ୍ତୁ। ଯଦି ଆପଣ ସେଟଅପ ପରେ ଏହାକୁ ଲାଗୁ କରିବାକୁ ଆବଶ୍ୟକ କରନ୍ତି, ତେବେ ପରେ ଆପଣଙ୍କ କେମେରା ମାଧ୍ୟମରେ QR କୋଡ ସ୍କାନ କରନ୍ତୁ।</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt; g.co/pixel/screenprotector&lt;/a&gt;ରେ ଅଧିକ ଜାଣନ୍ତୁ</string>
+    <string name="screen_protector_edu_mfg_recommendation">Made for Google ଦ୍ୱାରା ସାର୍ଟିଫାଏ କରାଯାଇଥିବା ଏକ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="screen_protector_edu_no_qr_code">QR କୋଡ ନାହିଁ</string>
+    <string name="screen_protector_edu_scan_it_later">ପରେ ସ୍କାନ କର</string>
+    <string name="screen_protector_edu_scan_qr_code">QR କୋଡ ସ୍କାନ କର</string>
+    <string name="screen_protector_edu_title">ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ପେକେଜିଂରେ QR କୋଡ ସ୍କାନ କରନ୍ତୁ</string>
+    <string name="screen_protector_no_qr_code_msg">Made for Google ଦ୍ୱାରା ସାର୍ଟିଫାଏ କରାଯାଇଥିବା ଏକ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟରର ପେକେଜିଂରେ ଏକ QR କୋଡ ଅଛି। ଅନ୍ୟ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ସେନ୍ସରରେ ବାଧା ସୃଷ୍ଟି କରିପାରେ ଏବଂ ଏହା ନିର୍ଭରଯୋଗ୍ୟ ଭାବରେ କାମ କରିବାରୁ ବାଧା ଦେଇପାରେ।\n\ng.co/pixel/screenprotectorରେ ଅଧିକ ଜାଣନ୍ତୁ</string>
+    <string name="screen_protector_no_qr_code_ok">ବୁଝିଗଲି</string>
+    <string name="screen_protector_no_qr_code_title">କୌଣସି QR କୋଡ ଦେଖିନାହାଁନ୍ତି?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">ସୁନିଶ୍ଚିତ କରନ୍ତୁ</string>
+    <string name="security_settings_udfps_screen_protector_description_none">କୌଣସି ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ନାହିଁ</string>
+    <string name="security_settings_udfps_screen_protector_keywords">ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">ଟିପଚିହ୍ନ ଚିହ୍ନଟକରଣକୁ ଉନ୍ନତ କରିବା ପାଇଁ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ଅପ୍ଟିମାଇଜେସନକୁ ବନ୍ଦ କରିବା ପୂର୍ବରୁ ଆପଣଙ୍କ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟରକୁ କାଢ଼ି ଦିଅନ୍ତୁ</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟରକୁ କାଢ଼ି ଦିଅନ୍ତୁ</string>
+    <string name="security_settings_udfps_screen_protector_title">ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ପାଇଁ ଅପ୍ଟିମାଇଜ କରନ୍ତୁ</string>
+    <string name="sp_apply_dialog_button_got_it">ବୁଝିଗଲି</string>
+    <string name="sp_apply_dialog_msg_incompatible">ଆପଣଙ୍କ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ଆପଣଙ୍କର ଫୋନ ସହ ଇନକମ୍ପାଟିବଲ ହୋଇପାରେ। ସୁନିଶ୍ଚିତ କରିବା ପାଇଁ ଆପଣଙ୍କ ଫୋନକୁ Androidର ନବୀନତମ ଭର୍ସନରେ ଅପଡେଟ କରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">ଅବୈଧ QR କୋଡ</string>
+    <string name="sp_apply_dialog_msg_main_user_only">ଏହି କାର୍ଯ୍ୟ କେବଳ ଡିଭାଇସ ମାଲିକଙ୍କ ପାଇଁ ସୀମିତ ଅଛି</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">ହଁ</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">يمكنك الآن استخدام بصمة إصبعك لفتح قفل هاتفك أو تأكيد هويتك. ولراحة أكبر، ننصحك بإضافة بصمة إصبع أخرى.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">اُلمُس بطرف إصبعك</string>
+    <string name="enroll_usudfps_left_edge_title_simple">اُلمُس الحافة اليسرى</string>
+    <string name="enroll_usudfps_right_edge_title_simple">اُلمُس الحافة اليمنى</string>
+    <string name="find_usudfps_subtitle_simple">ستظهر أداة استشعار بصمة الإصبع على الشاشة التالية</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">الإعداد مع استخدام واقي الشاشة</string>
+    <string name="fingerprint_acquired_immobile_simple">عدِّل موضع إصبعك قليلاً في كل مرة</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">رمز استجابة سريعة صالح</string>
+    <string name="fingerprint_sp_qr_code_error">لا يشير رمز الاستجابة السريعة هذا إلى واقي شاشة مُعتمَد</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">لديك واقي الشاشة \"%s\".\nيُرجى وضعه قبل ضبط ميزة \"فتح الجهاز ببصمة الإصبع\".</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">ضَع الرمز الموجود على غلاف واقي الشاشة داخل المربّع</string>
+    <string name="fingerprint_sp_title_got_it">حسنًا.</string>
+    <string name="fingerprint_sp_title_scan_qr_code">امسح رمز الاستجابة السريعة ضوئيًا</string>
+    <string name="protector_edu_subtitle">يمكن أن يؤثر واقي الشاشة في التعرّف على بصمة الإصبع. لكي تعمل \"فتح الجهاز ببصمة الإصبع\" بأفضل شكل أثناء استخدام واقي شاشة:</string>
+    <string name="screen_protector_edu_apply_instruction">ضَع واقي الشاشة قبل إعداد ميزة \"فتح الجهاز ببصمة الإصبع\" وإزالة أي فقاعات، إذا أمكن. وإذا أردت استخدام واقي الشاشة بعد الإعداد، يمكنك مسح رمز الاستجابة السريعة ضوئيًا لاحقًا باستخدام الكاميرا.</string>
+    <string name="screen_protector_edu_learn_more">‏&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;مزيد من المعلومات على g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">‏استخدِم واقي شاشة مُعتمَدًا ويحمل شعار Made for Google</string>
+    <string name="screen_protector_edu_no_qr_code">ما مِن رمز</string>
+    <string name="screen_protector_edu_scan_it_later">المسح لاحقًا</string>
+    <string name="screen_protector_edu_scan_qr_code">المسح ضوئيًا</string>
+    <string name="screen_protector_edu_title">امسح رمز الاستجابة السريعة ضوئيًا الظاهر على غلاف واقي الشاشة</string>
+    <string name="screen_protector_no_qr_code_msg">‏يتضمّن واقي الشاشة الذي يحمل شعار Made for Google رمز استجابة سريعة على الغلاف. وقد تتداخل واقيات الشاشة الأخرى مع أداة الاستشعار وتمنعها من العمل بشكل صحيح.\n\nمزيد من المعلومات على g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">حسنًا</string>
+    <string name="screen_protector_no_qr_code_title">ألا يظهر رمز استجابة سريعة؟</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">تأكيد</string>
+    <string name="security_settings_udfps_screen_protector_description_none">ما مِن واقي شاشة</string>
+    <string name="security_settings_udfps_screen_protector_keywords">واقي الشاشة</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">لتحسين قدرة الجهاز على التعرّف على بصمة إصبعك، يُرجى إزالة واقي الشاشة قبل إيقاف ميزة تحسين الأداء مع واقي الشاشة</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">إزالة واقي الشاشة</string>
+    <string name="security_settings_udfps_screen_protector_title">تحسين الأداء مع واقي الشاشة</string>
+    <string name="sp_apply_dialog_button_got_it">حسنًا</string>
+    <string name="sp_apply_dialog_msg_incompatible">‏قد يكون واقي الشاشة غير متوافق مع هاتفك. للتأكّد من ذلك، عليك تحديث هاتفك إلى أحدث إصدار من Android ثم إعادة المحاولة.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">رمز الاستجابة السريعة غير صالح</string>
+    <string name="sp_apply_dialog_msg_main_user_only">هذا الإجراء مخصّص لمالك الجهاز فقط</string>
+    <string name="sp_apply_title_product_combined">هل المطلوب استخدام واقي الشاشة \"%s\"؟</string>
+    <string name="sp_apply_yes_button">نعم</string>
+</resources>

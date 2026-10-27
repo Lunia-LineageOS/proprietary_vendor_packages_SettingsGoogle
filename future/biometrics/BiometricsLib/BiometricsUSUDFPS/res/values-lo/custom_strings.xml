@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">ຕອນນີ້ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານເພື່ອປົດລັອກໂທລະສັບຂອງທ່ານ ຫຼື ຢັ້ງຢືນວ່າແມ່ນທ່ານໄດ້ແລ້ວ. ເພີ່ມລາຍນິ້ວມືອີກເພື່ອການນຳໃຊ້ທີ່ຍືດຫຍຸ່ນທີ່ສຸດ.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">ແຕະປາຍນິ້ວຂອງທ່ານ</string>
+    <string name="enroll_usudfps_left_edge_title_simple">ສຳຜັດຂອບຊ້າຍ</string>
+    <string name="enroll_usudfps_right_edge_title_simple">ສຳຜັດຂອບຂວາ</string>
+    <string name="find_usudfps_subtitle_simple">ເຊັນເຊີລາຍນິ້ວມືຈະຢູ່ໜ້າຈໍຕໍ່ໄປ</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">ຕັ້ງຄ່າໂດຍມີຕົວປົກປ້ອງໜ້າຈໍ</string>
+    <string name="fingerprint_acquired_immobile_simple">ປັບເລັກນ້ອຍໃນແຕ່ລະເທື່ອ</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">ລະຫັດ QR ຖືກຕ້ອງ</string>
+    <string name="fingerprint_sp_qr_code_error">ລະຫັດ QR ນີ້ບໍ່ເປັນໄປຕາມມາດຕະຖານສຳລັບຕົວປົກປ້ອງໜ້າຈໍທີ່ຜ່ານການຮັບຮອງ</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">ທ່ານມີ %s.\nກະລຸນາຕິດຕົວປົກປ້ອງໜ້າຈໍກ່ອນຕັ້ງຄ່າການປົດລັອກດ້ວຍລາຍນິ້ວມື.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">ວາງຕຳແໜ່ງລະຫັດຢູ່ບັນຈຸພັນຂອງຕົວປົກປ້ອງໜ້າຈໍໃຫ້ຢູ່ໃນກອບ</string>
+    <string name="fingerprint_sp_title_got_it">ເຂົ້າໃຈແລ້ວ!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">ສະແກນລະຫັດ QR</string>
+    <string name="protector_edu_subtitle">ຕົວປົກປ້ອງໜ້າຈໍອາດສົ່ງຜົນກະທົບຕໍ່ການຈຳແນກລາຍນິ້ວມື. ເພື່ອປະສິດທິພາບສູງສຸດໃນການປົດລັອກດ້ວຍລາຍນິ້ວມືເມື່ອໃຊ້ຕົວປົກປ້ອງໜ້າຈໍ, ໃຫ້ເຮັດດັ່ງນີ້:</string>
+    <string name="screen_protector_edu_apply_instruction">ຫາກເປັນໄປໄດ້, ໃຫ້ຕິດຕົວປົກປ້ອງໜ້າຈໍກ່ອນຕັ້ງຄ່າການປົດລັອກດ້ວຍລາຍນິ້ວມື ແລະ ໄລ່ຟອງອາກາດອອກ. ຫາກທ່ານຕ້ອງການຕິດຫຼັງຈາກການຕັ້ງຄ່າ, ໃຫ້ສະແກນລະຫັດ QR ໃນພາຍຫຼັງດ້ວຍກ້ອງຂອງທ່ານ.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;ສຶກສາເພີ່ມເຕີມຢູ່ g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">ໃຊ້ຕົວປົກປ້ອງໜ້າຈໍທີ່ມີໃບຮັບຮອງ Made for Google</string>
+    <string name="screen_protector_edu_no_qr_code">ບໍ່ມີລະຫັດ QR</string>
+    <string name="screen_protector_edu_scan_it_later">ສະແກນໃນພາຍຫຼັງ</string>
+    <string name="screen_protector_edu_scan_qr_code">ສະແກນລະຫັດ QR</string>
+    <string name="screen_protector_edu_title">ສະແກນລະຫັດ QR ຢູ່ບັນຈຸພັນຂອງຕົວປົກປ້ອງໜ້າຈໍ</string>
+    <string name="screen_protector_no_qr_code_msg">ຕົວປົກປ້ອງໜ້າຈໍທີ່ມີໃບຮັບຮອງ Made for Google ຈະມີລະຫັດ QR ຢູ່ບັນຈຸພັນ. ຕົວປົກປ້ອງໜ້າຈໍອື່ນໆອາດລົບກວນເຊັນເຊີ ແລະ ເຮັດໃຫ້ເຊັນເຊີເຮັດວຽກໄດ້ຢ່າງບໍ່ສະຖຽນ.\n\nສຶກສາເພີ່ມເຕີມຢູ່ g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">ເຂົ້າໃຈແລ້ວ</string>
+    <string name="screen_protector_no_qr_code_title">ບໍ່ເຫັນລະຫັດ QR ບໍ?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">ຢືນຢັນ</string>
+    <string name="security_settings_udfps_screen_protector_description_none">ບໍ່ມີຕົວປົກປ້ອງໜ້າຈໍ</string>
+    <string name="security_settings_udfps_screen_protector_keywords">ຕົວປົກປ້ອງໜ້າຈໍ</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">ເພື່ອປັບປຸງການຈໍາແນກລາຍນິ້ວມື, ໃຫ້ເອົາຕົວປົກປ້ອງໜ້າຈໍຂອງທ່ານອອກກ່ອນທີ່ຈະປິດການເພີ່ມປະສິດທິພາບຕົວປົກປ້ອງໜ້າຈໍ</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">ເອົາຕົວປົກປ້ອງໜ້າຈໍອອກ</string>
+    <string name="security_settings_udfps_screen_protector_title">ເພີ່ມປະສິດທິພາບສຳລັບຕົວປົກປ້ອງໜ້າຈໍ</string>
+    <string name="sp_apply_dialog_button_got_it">ເຂົ້າໃຈແລ້ວ</string>
+    <string name="sp_apply_dialog_msg_incompatible">ຕົວປົກປ້ອງໜ້າຈໍຂອງທ່ານອາດບໍ່ສາມາດໃຊ້ຮ່ວມກັນກັບໂທລະສັບຂອງທ່ານໄດ້. ເພື່ອກວດສອບ, ໃຫ້ອັບເດດໂທລະສັບຂອງທ່ານເປັນ Android ເວີຊັນຫຼ້າສຸດແລ້ວລອງໃໝ່.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">ລະຫັດ QR ບໍ່ຖືກຕ້ອງ</string>
+    <string name="sp_apply_dialog_msg_main_user_only">ການດຳເນີນການນີ້ຈຳກັດໄວ້ໃຫ້ສະເພາະເຈົ້າຂອງອຸປະກອນເທົ່ານັ້ນ</string>
+    <string name="sp_apply_title_product_combined">%s ບໍ?</string>
+    <string name="sp_apply_yes_button">ແມ່ນ</string>
+</resources>

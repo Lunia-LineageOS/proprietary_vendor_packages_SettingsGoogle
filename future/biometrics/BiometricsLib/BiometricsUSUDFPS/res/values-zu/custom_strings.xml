@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Manje ungasebenzisa isigxivizo somunwe ukuze uvule ifoni yakho noma uqinisekise ukuthi nguwe. Ukuze uthole ukuguquguquka okukhulu, engeza esinye isigxivizo somunwe.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Thinta ithiphu yomunwe wakho</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Thinta umphetho ongakwesokunxele</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Thinta umphetho ongakwesokudla</string>
+    <string name="find_usudfps_subtitle_simple">Inzwa yesigxivizo somunwe izoba sesikrinini esilandelayo</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Setha isivikeli sesikrini</string>
+    <string name="fingerprint_acquired_immobile_simple">Lungisa kancane isikhathi ngasinye</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Ikhodi ye-QR evumelekile</string>
+    <string name="fingerprint_sp_qr_code_error">Le khodi ye-QR akuyona eyesivikeli sesikrini esigunyaziwe</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Une-%s.\nYisebenzise ngaphambi kokusetha Ukuvula Ngezigxivizo Zeminwe.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Beka ikhodi kumaphakheji okuvikela isikrini ohlakeni</string>
+    <string name="fingerprint_sp_title_got_it">Uyitholile!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Skena ikhodi ye-QR</string>
+    <string name="protector_edu_subtitle">Isivikeli sesikrini singaba nomphumela ekubonweni kwesigxivizo somunwe. Ukuze uthole ukusebenza okungcono kakhulu Kokuvula ngesigxivizo somunwe ngesivikeli sesikrini:</string>
+    <string name="screen_protector_edu_apply_instruction">Uma kwenzeka, faka isivikelo sesikrini ngaphambi kokusetha Ukuvula Ngezigxivizo Zeminwe bese ucindezela wenze isicaba noma yimaphi amabhamuza akhona. Uma kudingeka ukusebenzise ngemva kokusetha, skena ikhodi ye-QR kamuva ngekhamera yakho.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Funda kabanzi kokuthi g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Sebenzisa isivikeli sesikrini esenzelwe isitifiketi Sokwenzelwe iGoogle</string>
+    <string name="screen_protector_edu_no_qr_code">Akho khodi</string>
+    <string name="screen_protector_edu_scan_it_later">Skena kamuva</string>
+    <string name="screen_protector_edu_scan_qr_code">Skena ikhodi</string>
+    <string name="screen_protector_edu_title">Skena ikhodi ye-QR kuphakheji yesivikeli sesikrini</string>
+    <string name="screen_protector_no_qr_code_msg">Isivikeli sesikrini esenzelwe ukuqinisekiswa iGoogle sinekhodi ye-QR ephakhejini. Ezinye izivikeli zesikrini zingase ziphazamise inzwa futhi ziyivimbe ingasebenzi ngokwethembeka.\n\nFunda kabanzi kokuthi g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">Ngiyezwa</string>
+    <string name="screen_protector_no_qr_code_title">Awuyibonanga ikhodi ye-QR?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Qinisekisa</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Asikho isivikeli sesikrini</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Isivikeli sesikrini</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Ukuze uthuthukise ukuqashelwa kwesigxivizo somunwe, susa isivikeli sakho sesikrini ngaphambi kokuvala ukulungiselelwa kwesivikeli sesikrini</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Susa isivikeli sesikrini</string>
+    <string name="security_settings_udfps_screen_protector_title">Lungiselela isivikeli sesikrini</string>
+    <string name="sp_apply_dialog_button_got_it">Ngiyezwa</string>
+    <string name="sp_apply_dialog_msg_incompatible">Isivikeli sakho sesikrini singase singahambisani nefoni yakho. Ukuze uqinisekise, buyekeza ifoni yakho ibe nohlobo lwakamuva lwe-Android bese uyazama futhi.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Ikhodi ye-QR engavumelekile</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Lesi senzo sikhawulelwe kumnikazi wedivayisi kuphela</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Yebo</string>
+</resources>

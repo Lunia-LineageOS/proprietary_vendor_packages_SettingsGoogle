@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Nüüd saate sõrmejälje abil telefoni avada või oma isiku kinnitada. Paindlikkuse maksimeerimiseks lisage veel üks sõrmejälg.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Puudutage sõrmeotsaga</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Puudutage vasaku servaga</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Puudutage parema servaga</string>
+    <string name="find_usudfps_subtitle_simple">Sõrmejäljeandur on järgmisel kuval</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Seadistamine ekraanikaitsmega</string>
+    <string name="fingerprint_acquired_immobile_simple">Muutke iga kord pisut sõrme asendit</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Kehtiv QR-kood</string>
+    <string name="fingerprint_sp_qr_code_error">See QR-kood ei ole mõeldud sertifitseeritud ekraanikaitse jaoks</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Teil on %s.\nPaigaldage see enne sõrmejäljega avamise seadistamist.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Paigutage ekraanikaitse pakendil olev kood raami sisse.</string>
+    <string name="fingerprint_sp_title_got_it">Selge!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Skannige QR-kood</string>
+    <string name="protector_edu_subtitle">Ekraanikaitse võib sõrmejälje tuvastamist häirida. Ekraanikaitsme kasutamisel võtke sõrmejäljega avamise töökindluse huvides arvesse järgmist.</string>
+    <string name="screen_protector_edu_apply_instruction">Võimaluse korral paigaldage ekraanikaitse enne sõrmejäljega avamise seadistamist ja vajutage kõik mullid ekraaniga ühetasa. Kui peate selle paigaldama pärast seadistamist, skannige hiljem oma kaameraga QR-kood.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Learn more at g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Kasutage ekraanikaitset, millel on sertifikaat Made for Google.</string>
+    <string name="screen_protector_edu_no_qr_code">QR-koodi pole</string>
+    <string name="screen_protector_edu_scan_it_later">Skanni hiljem</string>
+    <string name="screen_protector_edu_scan_qr_code">Skanni QR-kood</string>
+    <string name="screen_protector_edu_title">Skannige ekraanikaitsme pakendilt QR-kood</string>
+    <string name="screen_protector_no_qr_code_msg">Ekraanikaitsmel, millel on sertifikaat Made for Google, on pakendil QR-kood. Teised ekraanikaitsmed võivad anduri tööd häirida ja takistada selle usaldusväärset toimimist.\n\nLisateavet leiate aadressilt g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">Selge</string>
+    <string name="screen_protector_no_qr_code_title">Kas te ei näe QR-koodi?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Kinnita</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Ekraanikaitse puudub</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Ekraanikaitse</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Sõrmejälje tuvastamise parandamiseks eemaldage ekraanikaitse enne ekraanikaitsme optimeerimise väljalülitamist.</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Eemaldage ekraanikaitse</string>
+    <string name="security_settings_udfps_screen_protector_title">Optimeeri ekraanikaitsme jaoks</string>
+    <string name="sp_apply_dialog_button_got_it">Selge</string>
+    <string name="sp_apply_dialog_msg_incompatible">Teie ekraanikaitse ei pruugi teie telefoniga ühilduda. Kontrollimiseks värskendage oma telefon Androidi uusimale versioonile ja proovige siis uuesti.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Sobimatu QR-kood</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Selle toimingu saab teha ainult seadme omanik</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Jah</string>
+</resources>

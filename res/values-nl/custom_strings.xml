@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Gebruik Ontgrendelen met vingerafdruk in combinatie met Ontgrendelen via gezichtsherkenning om je apparaat makkelijker te ontgrendelen</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Ontgrendelen met vingerafdruk instellen</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Ontgrendelen met vingerafdruk instellen voor werkprofiel</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Je kunt nu je vingerafdruk gebruiken om je telefoon te ontgrendelen of te laten verifiëren dat jij het bent. Voeg nog een vingerafdruk toe voor de meeste flexibiliteit.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Raak aan met je vingertop</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Raak aan met de linker vingerrand</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Raak aan met de rechter vingerrand</string>
     <string name="face_confirmation_hide_illustration_description">Als je nu je telefoon oppakt of op het scherm tikt, kun je de telefoon ontgrendelen met je gezicht.</string>
     <string name="face_confirmation_info_enough_light">Ontgrendelen via gezichtsherkenning werkt het best als er genoeg licht is en je geen mondkapje of donkere bril draagt.</string>
     <string name="face_confirmation_info_outside_screen">Ontgrendelen via gezichtsherkenning werkt alleen met het buitenste scherm</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Beweeg de telefoon naar links</string>
     <string name="face_enrolling_turn_head_to_arrow">Draai je hoofd richting de pijl</string>
     <string name="face_enrolling_turned_too_far">Draai je hoofd iets minder ver</string>
-    <string name="find_usudfps_subtitle_simple">De vingerafdruksensor staat op het volgende scherm</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Instellen met screenprotector</string>
-    <string name="fingerprint_acquired_immobile_simple">Pas de positie steeds een beetje aan</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Geldige QR-code</string>
-    <string name="fingerprint_sp_qr_code_error">Deze QR-code is niet voor een gecertificeerde screenprotector</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Je hebt een %s.\nPas deze toe voordat je Ontgrendelen met vingerafdruk instelt.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Plaats de code op de verpakking van de screenprotector in het kader</string>
-    <string name="fingerprint_sp_title_got_it">OK</string>
-    <string name="fingerprint_sp_title_scan_qr_code">De QR-code scannen</string>
-    <string name="protector_edu_subtitle">Een screenprotector kan de ­herkenning van een vingerafdruk beïnvloeden. Voor de beste prestaties van Ontgrendelen met vingerafdruk wanneer je een screenprotector gebruikt, doe je het volgende:</string>
-    <string name="screen_protector_edu_apply_instruction">Breng de screenprotector indien mogelijk aan voordat je Ontgrendelen met vingerafdruk instelt en zorg dat er geen luchtbellen zijn. Als je de screenprotector na het instellen wilt aanbrengen, scan je de QR-code later met je camera.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Meer informatie op g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Gebruik een Made for Google-screenprotector</string>
-    <string name="screen_protector_edu_no_qr_code">Geen QR-code</string>
-    <string name="screen_protector_edu_scan_it_later">Later scannen</string>
-    <string name="screen_protector_edu_scan_qr_code">QR-code scannen</string>
-    <string name="screen_protector_edu_title">Scan de QR-code op de verpakking van de screenprotector</string>
-    <string name="screen_protector_no_qr_code_msg">Een Made for Google-screenprotector heeft een QR-code op de verpakking. Andere screenprotectors kunnen de sensor verstoren en voorkomen dat deze betrouwbaar werkt.\n\nMeer informatie op g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">OK</string>
-    <string name="screen_protector_no_qr_code_title">Geen QR-code gezien?</string>
     <string name="security_settings_face_enroll_consent_message">Gebruik het gezicht van je kind om de telefoon te ontgrendelen of te laten verifiëren dat het je kind is in apps</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Het gezicht van je kind wordt alleen op het apparaat opgeslagen en nooit naar Google gestuurd</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Als je nu je telefoon oppakt of op het scherm tikt, kun je de telefoon ontgrendelen met je gezicht.\n\nOntgrendelen via gezichtsherkenning werkt het best als er genoeg licht is en je geen mondkapje of donkere bril draagt.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">De telefoon is te heet</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Gebruik de vingerafdruk van je kind om de telefoon te ontgrendelen of te laten verifiëren dat het je kind is in apps</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">De vingerafdrukken van je kind worden alleen op het apparaat opgeslagen en nooit naar Google gestuurd</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Bevestigen</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Geen screenprotector</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Screenprotector</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Verwijder de screenprotector voordat je de optimalisatie voor screenprotectors uitzet om de vingerafdrukherkenning te verbeteren</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Screenprotector verwijderen</string>
-    <string name="security_settings_udfps_screen_protector_title">Optimaliseren voor screenprotector</string>
-    <string name="sp_apply_dialog_button_got_it">OK</string>
-    <string name="sp_apply_dialog_msg_incompatible">Je screenprotector is misschien niet compatibel met je telefoon. Update je telefoon naar de nieuwste Android-versie en probeer het opnieuw.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Ongeldige QR-code</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Deze actie is alleen beschikbaar voor de eigenaar van het apparaat</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Ja</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Snel tikken waargenomen</string>

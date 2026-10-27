@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Nú geturðu notað fingrafarið þitt til að taka símann úr lás eða staðfesta að þetta sért þú. Bættu öðru fingrafari við til að auka sveigjanleikann.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Snertu fingurgóminn</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Snertu vinstri brúnina</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Snertu hægri brúnina</string>
+    <string name="find_usudfps_subtitle_simple">Fingrafaralesarinn er á næsta skjá</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Setja upp með skjávörn</string>
+    <string name="fingerprint_acquired_immobile_simple">Færðu fingurinn örlítið í hvert skipti</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Gildur QR-kóði</string>
+    <string name="fingerprint_sp_qr_code_error">Þessi QR-kóði endurspeglar ekki vottaða skjávörn</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Þú ert með %s.\nSettu hana á áður en þú setur upp fingrafarskenni.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Settu kóðann á umbúðum skjávarnarinnar í rammann</string>
+    <string name="fingerprint_sp_title_got_it">Ég skil</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Skannaðu QR-kóðann</string>
+    <string name="protector_edu_subtitle">Skjávörn getur haft áhrif á greiningu fingrafars. Til að sjá til þess að fingrafarskenni virki sem best þegar þú ert með skjávörn:</string>
+    <string name="screen_protector_edu_apply_instruction">Settu skjávörnina á áður en þú setur upp fingrafarskenni ef mögulegt er og fjarlægðu allar loftbólur. Ef þú þarft að setja hana á eftir uppsetningu skaltu skanna QR-kóðann með myndavélinni.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Nánar á g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Notaðu skjávörn með vottunina „Hannað fyrir Google“</string>
+    <string name="screen_protector_edu_no_qr_code">Enginn QR-kóði</string>
+    <string name="screen_protector_edu_scan_it_later">Skanna síðar</string>
+    <string name="screen_protector_edu_scan_qr_code">Skanna QR-kóða</string>
+    <string name="screen_protector_edu_title">Skannaðu QR-kóðann á umbúðum skjávarnarinnar</string>
+    <string name="screen_protector_no_qr_code_msg">Skjávarnir með vottunina „Hannað fyrir Google“ eru með QR-kóða á umbúðunum. Aðrar skjávarnir kunna að trufla skynjarann og koma í veg fyrir að hann virki sem skyldi.\n\nNánar á g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">Ég skil</string>
+    <string name="screen_protector_no_qr_code_title">Sástu ekki QR-kóða?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Staðfesta</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Engin skjávörn</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Skjávörn</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Fjarlægðu skjávörnina áður en þú kveikir á fínstillingu fyrir skjávörn til að bæta fingrafaragreiningu</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Fjarlægðu skjávörnina</string>
+    <string name="security_settings_udfps_screen_protector_title">Fínstilltu fyrir skjávörn</string>
+    <string name="sp_apply_dialog_button_got_it">Ég skil</string>
+    <string name="sp_apply_dialog_msg_incompatible">Skjávörnin sem þú notar er e.t.v. ekki samhæf símanum þínum. Til að vera viss skaltu uppfæra símann þinn í nýjustu útgáfu Android og reyna aftur.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Ógildur QR-kóði</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Aðeins eigandi tækisins getur framkvæmt þessa aðgerð</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Já</string>
+</resources>

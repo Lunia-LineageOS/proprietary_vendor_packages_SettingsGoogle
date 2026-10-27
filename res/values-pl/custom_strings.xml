@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Aby wygodniej odblokowywać urządzenie, oprócz funkcji rozpoznawania twarzy korzystaj także z odblokowywania odciskiem palca</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Skonfiguruj odblokowywanie odciskiem palca</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Skonfiguruj odblokowywanie odciskiem palca na profilu służbowym</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Teraz możesz odblokowywać telefon i potwierdzać tożsamość odciskiem palca. Aby uzyskać jak największy komfort obsługi, dodaj drugi odcisk palca.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Dotknij czytnika linii papilarnych</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Dotknij lewej krawędzi</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Dotknij prawej krawędzi</string>
     <string name="face_confirmation_hide_illustration_description">Możesz teraz odblokować telefon przy użyciu twarzy, gdy go podniesiesz lub klikniesz jego ekran.</string>
     <string name="face_confirmation_info_enough_light">Rozpoznawanie twarzy działa najlepiej przy dobrym oświetleniu i gdy nie nosisz maseczki ani ciemnych okularów.</string>
     <string name="face_confirmation_info_outside_screen">Rozpoznawanie twarzy działa tylko na ekranie zewnętrznym</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Przesuń telefon w lewo</string>
     <string name="face_enrolling_turn_head_to_arrow">Obróć głowę w stronę strzałki</string>
     <string name="face_enrolling_turned_too_far">Trochę mniej obróć głowę</string>
-    <string name="find_usudfps_subtitle_simple">Czytnik linii papilarnych pojawi się na następnym ekranie</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Skonfiguruj z osłoną ekranu</string>
-    <string name="fingerprint_acquired_immobile_simple">Za każdym razem poruszaj palcem</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Prawidłowy kod QR</string>
-    <string name="fingerprint_sp_qr_code_error">Ten kod QR nie jest powiązany z certyfikowaną osłoną ekranu</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Masz osłonę ekranu %s.\nZałóż ją, zanim rozpoczniesz konfigurowanie odblokowywania odciskiem palca.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Ustaw w ramce kod widoczny na opakowaniu osłony ekranu</string>
-    <string name="fingerprint_sp_title_got_it">OK</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Zeskanuj kod QR</string>
-    <string name="protector_edu_subtitle">Osłona ekranu może pogarszać rozpoznawanie odcisków palców. Aby zapewnić jak najlepsze działanie odblokowywania odciskiem palca z osłoną ekranu:</string>
-    <string name="screen_protector_edu_apply_instruction">Jeśli to możliwe, przed skonfigurowaniem odblokowywania odciskiem palca załóż osłonę ekranu i usuń wszystkie pęcherzyki powietrza. Gdy będziesz zakładać osłonę po konfiguracji, możesz później zeskanować kod QR aparatem.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Więcej informacji znajdziesz na stronie g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Używaj certyfikowanej osłony ekranu z oznaczeniem Made for Google</string>
-    <string name="screen_protector_edu_no_qr_code">Brak QR</string>
-    <string name="screen_protector_edu_scan_it_later">Zeskanuj potem</string>
-    <string name="screen_protector_edu_scan_qr_code">Zeskanuj QR</string>
-    <string name="screen_protector_edu_title">Zeskanuj kod QR na opakowaniu osłony ekranu</string>
-    <string name="screen_protector_no_qr_code_msg">Certyfikowana osłona ekranu z oznaczeniem Made for Google ma kod QR na opakowaniu. Inne osłony ekranu mogą zakłócać działanie czytnika i uniemożliwiać jego prawidłowe działanie.\n\nWięcej informacji znajdziesz na stronie g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">OK</string>
-    <string name="screen_protector_no_qr_code_title">Nie widzisz kodu QR?</string>
     <string name="security_settings_face_enroll_consent_message">Używaj funkcji rozpoznawania twarzy dziecka do odblokowywania jego telefonu i potwierdzania tożsamości w aplikacjach</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Model twarzy dziecka jest przechowywany wyłącznie na urządzeniu i nigdy nie jest wysyłany do Google</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Możesz teraz odblokować telefon przy użyciu twarzy, gdy go podniesiesz lub klikniesz jego ekran.\n\nRozpoznawanie twarzy działa najlepiej w dobrze oświetlonych miejscach i gdy nie masz na sobie maseczki ani ciemnych okularów.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Telefon jest za gorący</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Używaj odcisku palca dziecka do odblokowywania jego telefonu i potwierdzania tożsamości w aplikacjach</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Odciski palca dziecka są przechowywane wyłącznie na urządzeniu i nigdy nie są wysyłane do Google</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Potwierdź</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Brak osłony ekranu</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Osłona ekranu</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Aby poprawić rozpoznawanie odcisków palców, zdejmij osłonę ekranu, zanim wyłączysz optymalizację działania tej funkcji</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Zdejmij osłonę ekranu</string>
-    <string name="security_settings_udfps_screen_protector_title">Optymalizacja działania z osłoną ekranu</string>
-    <string name="sp_apply_dialog_button_got_it">OK</string>
-    <string name="sp_apply_dialog_msg_incompatible">Osłona ekranu może być niezgodna z Twoim telefonem. Aby się upewnić, zaktualizuj telefon do najnowszej wersji Androida i spróbuj ponownie.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Nieprawidłowy kod QR</string>
-    <string name="sp_apply_dialog_msg_main_user_only">To działanie może wykonać tylko właściciel urządzenia</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Tak</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Wykryto dwukrotne dotknięcie</string>

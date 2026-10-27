@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Цяпер вы можаце выкарыстаць адбітак пальца, каб разблакіраваць тэлефон ці пацвердзіць асобу. Для большай зручнасці дадайце яшчэ адзін адбітак.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Дакраніцеся кончыкам пальца</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Дакраніцеся левым краем</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Дакраніцеся правым краем</string>
+    <string name="find_usudfps_subtitle_simple">Сканер адбіткаў пальцаў з’явіцца на наступным экране</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Наладзіць з наклееным ахоўным шклом</string>
+    <string name="fingerprint_acquired_immobile_simple">Кожны раз крыху мяняйце размяшчэнне пальца</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Сапраўдны QR-код</string>
+    <string name="fingerprint_sp_qr_code_error">Гэты QR-код не для сертыфікаванага ахоўнага шкла</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">У вас ёсць ахоўнае шкло \"%s\".\nУсталюйце яго, перш чым наладжваць разблакіроўку адбіткам пальца.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Навядзіце камеру так, каб код на ўпакоўцы ахоўнага шкла знаходзіўся ў рамцы</string>
+    <string name="fingerprint_sp_title_got_it">Зразумела!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Адсканіруйце QR-код</string>
+    <string name="protector_edu_subtitle">Ахоўнае шкло можа паўплываць на распазнаванне адбітка пальца. Для найбольш эфектыўнай разблакіроўкі адбіткам пальца пры наяўнасці ахоўнага шкла:</string>
+    <string name="screen_protector_edu_apply_instruction">Па магчымасці ўсталюйце ахоўнае шкло да таго, як пачняце наладжваць разблакіроўку адбіткам пальца, і разгладзьце ўсе бурбалкі. Калі трэба ўсталяваць ахоўнае шкло пасля наладжвання, пазней адсканіруйце QR-код з дапамогай камеры.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Даведацца больш на старонцы g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Выкарыстоўвайце ахоўнае шкло, якое мае сертыфікат \"Made for Google\"</string>
+    <string name="screen_protector_edu_no_qr_code">QR-кода няма</string>
+    <string name="screen_protector_edu_scan_it_later">Сканіраваць пазней</string>
+    <string name="screen_protector_edu_scan_qr_code">Сканіраваць QR-код</string>
+    <string name="screen_protector_edu_title">Адсканіруйце QR-код на ўпакоўцы ахоўнага шкла</string>
+    <string name="screen_protector_no_qr_code_msg">На ўпакоўцы ахоўнага шкла, якое мае сертыфікат \"Made for Google\", нанесены QR-код. Ахоўнае шкло іншых вытворцаў можа перашкаджаць правільнай працы датчыка.\n\nДаведайцеся больш на старонцы g.co/pixel/screenprotector.</string>
+    <string name="screen_protector_no_qr_code_ok">Зразумела</string>
+    <string name="screen_protector_no_qr_code_title">Не знайшлі QR-код?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Пацвердзіць</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Ахоўнага шкла няма</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Ахоўнае шкло</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Каб палепшыць распазнаванне адбіткаў пальцаў, зніміце ахоўнае шкло, перш чым выключаць аптымізацыю</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Зніміце ахоўнае шкло</string>
+    <string name="security_settings_udfps_screen_protector_title">Аптымізаваць распазнаванне пры выкарыстанні ахоўнага шкла</string>
+    <string name="sp_apply_dialog_button_got_it">Зразумела</string>
+    <string name="sp_apply_dialog_msg_incompatible">Ахоўнае шкло можа быць несумяшчальным з тэлефонам. Для пэўнасці абнавіце тэлефон да апошняй версіі Android і паўтарыце спробу.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Няправільны QR-код</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Гэта дзеянне даступнае толькі ўладальніку прылады</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Так</string>
+</resources>

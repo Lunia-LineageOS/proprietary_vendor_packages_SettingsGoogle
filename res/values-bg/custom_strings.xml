@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">За да направите отключването по-удобно, използвайте функцията „Отключване с отпечатък“ заедно с „Отключване с лице“</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Настройване на „Отключване с отпечатък“</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Настройване на „Отключване с отпечатък“ за служебни цели</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Вече можете да използвате отпечатъка си, за да отключвате телефона или да потвърждавате самоличността си. За най-голяма гъвкавост добавете друг отпечатък.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Докоснете с върха на пръста си</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Докоснете с левия край на пръста си</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Докоснете с десния край на пръста си</string>
     <string name="face_confirmation_hide_illustration_description">Сега, когато вземете телефона си или докоснете екрана, можете да използвате лицето си за отключване.</string>
     <string name="face_confirmation_info_enough_light">Функцията „Отключване с лице“ работи най-добре, когато има достатъчно светлина и не носите маска или тъмни очила.</string>
     <string name="face_confirmation_info_outside_screen">Функцията „Отключване с лице“ работи само извън екрана</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Преместете телефона наляво</string>
     <string name="face_enrolling_turn_head_to_arrow">Завъртете главата си към стрелката</string>
     <string name="face_enrolling_turned_too_far">Не завъртайте главата си толкова много</string>
-    <string name="find_usudfps_subtitle_simple">Сензорът за отпечатъци ще бъде на следващия екран</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Настройване със защитен слой на екрана</string>
-    <string name="fingerprint_acquired_immobile_simple">Всеки път коригирайте леко</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Валиден QR код</string>
-    <string name="fingerprint_sp_qr_code_error">Този QR код не е за сертифициран защитен слой на екрана</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Имате %s.\nПоставете го, преди да настроите функцията „Отключване с отпечатък“.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Позиционирайте в рамката кода на опаковката на защитния слой на екрана</string>
-    <string name="fingerprint_sp_title_got_it">Разбрах!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Сканирайте QR кода</string>
-    <string name="protector_edu_subtitle">Защитният слой на екрана може да засегне разпознаването на отпечатъци. За най-добра ефективност на функцията „Отключване с отпечатък“ със защитен слой на екрана:</string>
-    <string name="screen_protector_edu_apply_instruction">Когато е възможно, поставете защитния слой на екрана, преди да настроите функцията „Отключване с отпечатък“, и махнете евентуалните мехурчета. Ако трябва да го поставите след настройването, сканирайте QR кода по-късно с камерата си.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Научете повече на адрес g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Използвайте защитен слой на екрана, който е сертифициран със „Създадено за Google“</string>
-    <string name="screen_protector_edu_no_qr_code">Няма QR код</string>
-    <string name="screen_protector_edu_scan_it_later">Сканиране по-късно</string>
-    <string name="screen_protector_edu_scan_qr_code">Сканиране на QR код</string>
-    <string name="screen_protector_edu_title">Сканирайте QR кода на опаковката на защитния слой на екрана</string>
-    <string name="screen_protector_no_qr_code_msg">Защитните слоеве на екрана, които са със сертификат „Създадено за Google“, имат QR код върху опаковката. Другите защитни слоеве на екрана може да възпрепятстват сензора и да му попречат да работи правилно.\n\nНаучете повече на адрес g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">Разбрах</string>
-    <string name="screen_protector_no_qr_code_title">Не видяхте QR код?</string>
     <string name="security_settings_face_enroll_consent_message">Лицето на детето ви се използва за отключване на телефона му или за потвърждаване на самоличността му в приложения</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Моделът на лицето на детето ви се съхранява само на устройството и никога не се изпраща до Google</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Сега, когато вземете телефона си или докоснете екрана, можете да използвате лицето си за отключване.\n\nФункцията „Отключване с лице“ работи най-добре, когато има достатъчно светлина и не носите маска или тъмни очила.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Телефонът е твърде горещ</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Отпечатъкът на детето ви се използва за отключване на телефона му или за потвърждаване на самоличността му в приложения</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Отпечатъците на детето ви се съхраняват само на устройството и никога не се изпращат до Google</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Потвърждаване</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Без защитен слой на екрана</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Защитен слой на екрана</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">За да подобрите разпознаването на отпечатъци, премахнете защитния слой на екрана, преди да изключите съответната настройка за оптимизиране</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Премахване на защитния слой на екрана</string>
-    <string name="security_settings_udfps_screen_protector_title">Оптимизиране за защитен слой на екрана</string>
-    <string name="sp_apply_dialog_button_got_it">Разбрах</string>
-    <string name="sp_apply_dialog_msg_incompatible">Възможно е защитният слой на екрана ви да не е съвместим с телефона ви. За да е сигурно, актуализирайте телефона си до най-новата версия на Android и опитайте отново.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Невалиден QR код</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Това действие е ограничено само до собственика на устройството</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Да</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Разпознат е жестът „Бързо докосване“!</string>

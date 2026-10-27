@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Brug Fingeroplåsning sammen med Ansigtsoplåsning for at gøre oplåsning nemmere</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Konfigurer fingeroplåsning</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Konfigurer fingeroplåsning til arbejdsprofil</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Nu kan du bruge dit fingeraftryk til at låse din telefon op eller verificere din identitet. Tilføj et fingeraftryk mere for at opnå størst mulig fleksibilitet.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Berør skærmen med fingerspidsen</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Berør skærmen med venstre side</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Berør skærmen med højre side</string>
     <string name="face_confirmation_hide_illustration_description">Når du tager din telefon i hånden eller trykker på skærmen, kan du nu bruge ansigtsgenkendelse til at låse telefonen op.</string>
     <string name="face_confirmation_info_enough_light">Ansigtsoplåsning fungerer bedst, når der er tilstrækkeligt lys, og du ikke har mundbind eller briller med mørke glas på.</string>
     <string name="face_confirmation_info_outside_screen">Ansigtsoplåsning fungerer kun via den udvendige skærm</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Flyt telefonen til venstre</string>
     <string name="face_enrolling_turn_head_to_arrow">Drej dit hoved mod pilen</string>
     <string name="face_enrolling_turned_too_far">Drej ikke hovedet så meget</string>
-    <string name="find_usudfps_subtitle_simple">Fingeraftrykssensoren vises på næste skærm</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Konfigurer med skærmbeskyttelse</string>
-    <string name="fingerprint_acquired_immobile_simple">Juster en smule hver gang</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Gyldig QR-kode</string>
-    <string name="fingerprint_sp_qr_code_error">Denne QR-kode er ikke til en certificeret skærmbeskytter</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Du har en %s-skærmbeskytter.\nBrug den, før du konfigurerer fingeroplåsning.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Placer koden på emballagen til skærmbeskytteren inden for rammen</string>
-    <string name="fingerprint_sp_title_got_it">OK</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Scan QR-koden</string>
-    <string name="protector_edu_subtitle">En skærmbeskytter kan påvirke fingeraftryksgenkendelsen. Sådan opnår du den bedste effektivitet ved fingeroplåsning med en skærmbeskytter:</string>
-    <string name="screen_protector_edu_apply_instruction">Hvis det er muligt, skal du sætte skærmbeskytteren på, før du konfigurerer fingeroplåsning, og du skal udglatte eventuelle bobler. Hvis du er nødt til at sætte den på efter konfigurationen, kan du scanne QR-koden senere med dit kamera.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Få flere oplysninger på g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Brug en skærmbeskytter, der er Made For Google-certificeret</string>
-    <string name="screen_protector_edu_no_qr_code">Ingen QR-kode</string>
-    <string name="screen_protector_edu_scan_it_later">Scan den senere</string>
-    <string name="screen_protector_edu_scan_qr_code">Scan QR-kode</string>
-    <string name="screen_protector_edu_title">Scan QR-koden på emballagen til skærmbeskytteren</string>
-    <string name="screen_protector_no_qr_code_msg">En skærmbeskytter, der er Made for Google-certificeret, har en QR-kode på emballagen. Andre skærmbeskyttere kan forstyrre sensoren og forhindre, at den fungerer korrekt.\n\nFå flere oplysninger på g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">OK</string>
-    <string name="screen_protector_no_qr_code_title">Har du ikke set en QR-kode?</string>
     <string name="security_settings_face_enroll_consent_message">Lad dit barn bruge ansigtsgenkendelse til at låse sin telefon op eller verificere sin identitet i apps</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Dit barns ansigt gemmes kun på enheden og sendes aldrig til Google</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Når du tager din telefon i hånden eller trykker på skærmen, kan du nu bruge ansigtsgenkendelse til at låse telefonen op.\n\nAnsigtsoplåsning fungerer bedst, hvis du er på et sted med tilstrækkeligt lys, og du ikke dækker dele af dit ansigt, f.eks. med et par briller med mørke glas.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Telefonen er for varm</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Lad dit barn bruge fingeraftryk til at låse sin telefon op eller verificere sin identitet i apps</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Dit barns fingeraftryk gemmes kun på enheden og sendes aldrig til Google</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Bekræft</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Ingen skærmbeskyttelse</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Skærmbeskytter</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Du kan forbedre fingeraftryksgenkendelsen ved at fjerne skærmbeskyttelsen, inden du deaktiverer optimering til skærmbeskyttelse</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Fjern skærmbeskyttelsen</string>
-    <string name="security_settings_udfps_screen_protector_title">Optimer til skærmbeskyttelse</string>
-    <string name="sp_apply_dialog_button_got_it">OK</string>
-    <string name="sp_apply_dialog_msg_incompatible">Din skærmbeskytter er muligvis ikke kompatibel med din telefon. Opdater din telefon til den nyeste Android-version, og prøv igen.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Ugyldig QR-kode</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Denne handling er kun tilgængelig for enhedens ejer</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Ja</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Kviktryk blev registreret</string>

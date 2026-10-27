@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">আরও সহজে আনলক করতে ফেস আনলকের সাথে সাথে ফিঙ্গারপ্রিন্ট আনলক ফিচারও চালু করে নিন</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">ফিঙ্গারপ্রিন্ট আনলক সেট আপ করুন</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">অফিসের জন্য ফিঙ্গারপ্রিন্ট আনলক সেট-আপ করুন</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">আপনি এখন নিজের ফোন আনলক বা পরিচয় যাচাই করতে ফিঙ্গারপ্রিন্ট ব্যবহার করতে পারবেন। সহজেই ফোনটি আনলক করার জন্য, অন্য ফিঙ্গারপ্রিন্ট যোগ করুন।</string>
-    <string name="enroll_usudfps_fingertip_title_simple">আপনার আঙুল দিয়ে স্পর্শ করুন</string>
-    <string name="enroll_usudfps_left_edge_title_simple">বাঁদিকের প্রান্ত দিয়ে স্পর্শ করুন</string>
-    <string name="enroll_usudfps_right_edge_title_simple">ডানদিকের প্রান্ত দিয়ে স্পর্শ করুন</string>
     <string name="face_confirmation_hide_illustration_description">এখন ফোন হাতে নেওয়া বা স্ক্রিনে ট্যাপ করার সময় ফেস ব্যবহার করে আনলক করতে পারবেন।</string>
     <string name="face_confirmation_info_enough_light">চারপাশে যথেষ্ট আলো থাকলে এবং আপনি কোনও মাস্ক বা কালো চশমা না পরলে \'ফেস আনলক\' ফিচার সবচেয়ে ভালভাবে কাজ করে।</string>
     <string name="face_confirmation_info_outside_screen">শুধু বাইরের স্ক্রিন থেকেই \'ফেস আনলক\' ফিচার কাজ করে</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">ফোনটি আপনার বাঁদিকে সরান</string>
     <string name="face_enrolling_turn_head_to_arrow">আপনার মাথাটি তীর চিহ্নের দিকে ঘোরান</string>
     <string name="face_enrolling_turned_too_far">আপনার মাথা একটু কম ঘোরান</string>
-    <string name="find_usudfps_subtitle_simple">পরবর্তী স্ক্রিনে ফিঙ্গারপ্রিন্ট সেন্সর পাবেন</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">স্ক্রিন প্রোটেকটরের সাহায্যে সেট-আপ করুন</string>
-    <string name="fingerprint_acquired_immobile_simple">প্রত্যেকবার সামান্য অ্যাডজাস্ট করুন</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">সঠিক QR কোড</string>
-    <string name="fingerprint_sp_qr_code_error">এই QR কোডটি সার্টিফায়েড স্ক্রিন প্রোটেকটর নয়</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">আপনার %s আছে।\nফিঙ্গারপ্রিন্ট আনলক সেট করার আগে এটি প্রয়োগ করুন।</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">স্ক্রিন প্রোটেকটর প্যাকেজিংয়ের কোডটি ফ্রেমের মধ্যে রাখুন</string>
-    <string name="fingerprint_sp_title_got_it">বুঝেছি!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">QR কোড স্ক্যান করুন</string>
-    <string name="protector_edu_subtitle">ফিঙ্গারপ্রিন্ট শনাক্ত করার ক্ষেত্রে স্ক্রিন প্রোটেকটর প্রভাব ফেলতে পারে। স্ক্রিন প্রোটেকটরের মাধ্যমে ফিঙ্গারপ্রিন্ট আনলক ফিচারের সেরা পারফর্ম্যান্সের পাওয়ার জন্য:</string>
-    <string name="screen_protector_edu_apply_instruction">যখন সম্ভব, ফিঙ্গারপ্রিন্ট আনলক সেট-আপ করার আগে স্ক্রিন প্রোটেকটর প্রয়োগ করুন এবং যেকোনও বাবল চাপ দিয়ে সরিয়ে দিন। সেট-আপ করার পরে আপনার এটি প্রয়োগ করার প্রয়োজন হলে, নিজের ক্যামেরার মাধ্যমে পরে QR কোড স্ক্যান করুন।</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;g.co/pixel/screenprotector থেকে আরও জানুন&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">\'Google-এর জন্য তৈরি\' সার্টিফায়েড স্ক্রিন প্রোটেকটর ব্যবহার করুন</string>
-    <string name="screen_protector_edu_no_qr_code">QR কোড নেই</string>
-    <string name="screen_protector_edu_scan_it_later">এটি পরে স্ক্যান করুন</string>
-    <string name="screen_protector_edu_scan_qr_code">QR কোড স্ক্যান করুন</string>
-    <string name="screen_protector_edu_title">স্ক্রিন প্রোটেকটর প্যাকেজিংয়ে QR কোড স্ক্যান করুন</string>
-    <string name="screen_protector_no_qr_code_msg">Google-এর জন্য তৈরি হিসেবে সার্টিফিকেট প্রাপ্ত স্ক্রিন প্রোটেকটরের প্যাকেজিংয়ে QR কোড থাকে। সেন্সরের কাজে অন্যান্য স্ক্রিন প্রোটেকটর বাধা দিতে পারে এবং সেই জন্য সেন্সর ঠিকমতো নাও কাজ করতে পারে।\n\ng.co/pixel/screenprotector থেকে আরও জানুন</string>
-    <string name="screen_protector_no_qr_code_ok">বুঝেছি</string>
-    <string name="screen_protector_no_qr_code_title">QR কোড দেখতে পাননি?</string>
     <string name="security_settings_face_enroll_consent_message">আপনার বাচ্চার মুখ ব্যবহার করে তার ফোন আনলক অথবা অ্যাপে তার পরিচয় যাচাই করুন</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">আপনার বাচ্চার ফেস সম্পর্কিত তথ্য শুধুমাত্র ডিভাইসে সেভ করা হয় এবং Google-কে তা পাঠানো হয় না</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">এখন ফোন হাতে নেওয়া বা স্ক্রিনে ট্যাপ করার সময় ফেস ব্যবহার করে আনলক করতে পারবেন।\n\n\'ফেস আনলক\' ফিচার চারপাশে যথেষ্ট আলো থাকলে এবং আপনি কোনও মাস্ক বা কালো চশমা না পরলে সবচেয়ে ভালভাবে কাজ করে।</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">ফোনটি খুব গরম</string>
     <string name="security_settings_fingerprint_enroll_consent_message">আপনার বাচ্চার ফিঙ্গারপ্রিন্ট ব্যবহার করে তার ফোন আনলক অথবা অ্যাপে তার পরিচয় যাচাই করুন</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">আপনার বাচ্চার ফিঙ্গারপ্রিন্ট সম্পর্কিত তথ্য শুধুমাত্র ডিভাইসে সেভ করা হয় এবং Google-কে পাঠানো হয় না</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">কনফার্ম করুন</string>
-    <string name="security_settings_udfps_screen_protector_description_none">কোনও স্ক্রিন প্রোটেকটর নেই</string>
-    <string name="security_settings_udfps_screen_protector_keywords">স্ক্রিন প্রোটেকটর</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">ফিঙ্গারপ্রিন্ট চিনে নেওয়ার প্রসেস উন্নত করতে, ডিভাইসের স্ক্রিন প্রোটেকটর অপ্টিমাইজেশন বন্ধ করার আগে স্ক্রিন প্রোটেকটর সরান</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">স্ক্রিন প্রোটেকটর সরান</string>
-    <string name="security_settings_udfps_screen_protector_title">স্ক্রিন প্রোটেকটর অপ্টিমাইজ করুন</string>
-    <string name="sp_apply_dialog_button_got_it">বুঝেছি</string>
-    <string name="sp_apply_dialog_msg_incompatible">আপনার স্ক্রিন প্রোটেকটর, আপনার ফোনের সাথে মানানসই নাও হতে পারে। নিশ্চিত হতে, Android-এর লেটেস্ট ভার্সনে আপনার ফোন আপডেট করে আবার চেষ্টা করুন।</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">ভুল QR কোড</string>
-    <string name="sp_apply_dialog_msg_main_user_only">এই অ্যাকশন শুধু ডিভাইসের মালিকই করতে পারেন</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">হ্যাঁ</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">\'কুইক ট্যাপ\' জেশচার শনাক্ত করা হয়েছে!</string>

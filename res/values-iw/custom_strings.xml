@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">כדי שיהיה לך קל יותר לפתוח את הנעילה, כדאי להשתמש ב\"פתיחה בטביעת אצבע\" בנוסף ל\"פתיחה בזיהוי פנים\"</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">הגדרה של \"פתיחה בטביעת אצבע\"</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">הגדרת \"פתיחה בטביעת אצבע\" בפרופיל העבודה</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">עכשיו אפשר להשתמש בטביעת האצבע כדי לפתוח את נעילת הטלפון או לאמת את הזהות. כדי שתהיה לך יותר גמישות, כדאי להוסיף עוד טביעת אצבע.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">צריך לגעת כאן בקצה האצבע</string>
-    <string name="enroll_usudfps_left_edge_title_simple">צריך לגעת כאן עם הקצה השמאלי של האצבע</string>
-    <string name="enroll_usudfps_right_edge_title_simple">צריך לגעת כאן עם הקצה הימני של האצבע</string>
     <string name="face_confirmation_hide_illustration_description">עכשיו אפשר להרים את הטלפון או ללחוץ על המסך ולהשתמש בזיהוי פנים כדי לפתוח את הטלפון.</string>
     <string name="face_confirmation_info_enough_light">התכונה \"פתיחה בזיהוי פנים\" פועלת בצורה הכי טובה כשיש מספיק אור, וכשאין על הפנים שלך משקפיים כהים או מסכה.</string>
     <string name="face_confirmation_info_outside_screen">התכונה \"פתיחה בזיהוי פנים\" עובדת רק במסך החיצוני</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">צריך להזיז את הטלפון שמאלה</string>
     <string name="face_enrolling_turn_head_to_arrow">יש להפנות את הראש לכיוון החץ</string>
     <string name="face_enrolling_turned_too_far">עליך לסובב את הראש קצת פחות</string>
-    <string name="find_usudfps_subtitle_simple">חיישן טביעות האצבע יופיע במסך הבא</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">הגדרה עם מגן מסך</string>
-    <string name="fingerprint_acquired_immobile_simple">צריך להזיז קצת את האצבע בכל נגיעה</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">‏קוד QR תקין</string>
-    <string name="fingerprint_sp_qr_code_error">‏קוד ה-QR הזה לא משויך למגן מסך שאושר</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">יש לך מגן מסך מסוג %s.\nצריך להדביק אותו על המסך ורק אחר כך להגדיר פתיחה בטביעת אצבע.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">צריך למקם את הקוד שמופיע על האריזה של מגן המסך בתוך המסגרת</string>
-    <string name="fingerprint_sp_title_got_it">הקוד נקלט</string>
-    <string name="fingerprint_sp_title_scan_qr_code">‏סריקת קוד ה-QR</string>
-    <string name="protector_edu_subtitle">מגן מסך יכול להקשות על הזיהוי של טביעת האצבע. סקירת הקוד תשפר את התכונה \"פתיחה בטביעת אצבע\".</string>
-    <string name="screen_protector_edu_apply_instruction">‏אם אפשר, כדאי לשים את מגן המסך ולהוציא את הבועות לפני שמגדירים את התכונה \"פתיחה בטביעת אצבע\". אם צריך לשים את המגן רק אחרי ההגדרה, אפשר לסרוק את קוד ה-QR אחר כך במצלמה.</string>
-    <string name="screen_protector_edu_learn_more">‏&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;מידע נוסף זמין בכתובת g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">‏חשוב להשתמש במגן מסך שקיבל אישור Made for Google</string>
-    <string name="screen_protector_edu_no_qr_code">‏אין קוד QR</string>
-    <string name="screen_protector_edu_scan_it_later">אסרוק אחר כך</string>
-    <string name="screen_protector_edu_scan_qr_code">‏סריקת קוד QR</string>
-    <string name="screen_protector_edu_title">‏מומלץ לסרוק את קוד ה-QR שעל האריזה של מגן המסך</string>
-    <string name="screen_protector_no_qr_code_msg">‏על האריזה של מגיני מסך שקיבלו אישור Made for Google מופיע קוד QR. מגיני מסך אחרים עלולים להפריע לחיישן ולשבש את הפעילות שלו.\n\nמידע נוסף זמין בכתובת g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">הבנתי</string>
-    <string name="screen_protector_no_qr_code_title">‏לא ראית קוד QR?</string>
     <string name="security_settings_face_enroll_consent_message">כשהטלפון של הילד או הילדה מזהה את הפנים שלהם, אפשר לפתוח את נעילת הטלפון ולאמת את הזהות שלהם באפליקציות שונות</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">‏נתוני הפנים של הילד או הילדה שלך מאוחסנים רק במכשיר ואף פעם לא נשלחים ל-Google</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">עכשיו אפשר להרים את הטלפון או ללחוץ על המסך ולהשתמש בזיהוי פנים כדי לפתוח את הטלפון.\n\nפתיחה בזיהוי הפנים פועלת הכי טוב כשיש מספיק אור, וכשאין על הפנים מסכה או משקפיים כהים.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">הטלפון חם מדי</string>
     <string name="security_settings_fingerprint_enroll_consent_message">באמצעות טביעת האצבע של הילד או הילדה, אפשר לפתוח את נעילת הטלפון או לאמת את הזהות שלהם באפליקציות</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">‏טביעות האצבע של הילד או הילדה נשמרות רק במכשיר ואף פעם לא נשלחות ל-Google</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">אישור</string>
-    <string name="security_settings_udfps_screen_protector_description_none">בלי מגן מסך</string>
-    <string name="security_settings_udfps_screen_protector_keywords">מגן מסך</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">הפעולה הזו תשבית את האופטימיזציה למגן מסך. אם לא הורדת את מגן המסך, חשוב להוריד אותו כדי לשפר את זיהוי טביעת האצבע</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">הסרת מגן המסך</string>
-    <string name="security_settings_udfps_screen_protector_title">אופטימיזציה למגן מסך</string>
-    <string name="sp_apply_dialog_button_got_it">הבנתי</string>
-    <string name="sp_apply_dialog_msg_incompatible">‏יכול להיות שמגן המסך לא תואם לטלפון. כדי לוודא, צריך לעדכן את הטלפון לגרסה האחרונה של Android ולנסות שוב.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">‏קוד ה-QR לא תקין</string>
-    <string name="sp_apply_dialog_msg_main_user_only">רק לבעלים של המכשיר יש אפשרות לבצע את הפעולה הזו</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">כן</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">זוהתה לחיצה מהירה!</string>

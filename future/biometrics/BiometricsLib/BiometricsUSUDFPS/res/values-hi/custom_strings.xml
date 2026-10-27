@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">अब अपने फ़ोन को अनलॉक करने या अपनी पहचान की पुष्टि करने के लिए, फ़िंगरप्रिंट का इस्तेमाल किया जा सकता है. फ़ोन को आसानी से अनलॉक करने के लिए, दूसरा फ़िंगरप्रिंट जोड़ें.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">अपनी उंगली से छुएं</string>
+    <string name="enroll_usudfps_left_edge_title_simple">स्क्रीन के बाएं किनारे को छुएं</string>
+    <string name="enroll_usudfps_right_edge_title_simple">स्क्रीन के दाएं किनारे को छुएं</string>
+    <string name="find_usudfps_subtitle_simple">फ़िंगरप्रिंट सेंसर अगली स्क्रीन पर दिखेगा</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">स्क्रीन प्राेटेक्टर लगाकर फ़िंगरप्रिंट सेट अप करें</string>
+    <string name="fingerprint_acquired_immobile_simple">हर बार अपनी उंगली को थोड़ा अडजस्ट करें</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">मान्य क्यूआर कोड</string>
+    <string name="fingerprint_sp_qr_code_error">यह क्यूआर कोड, सर्टिफ़िकेट वाले स्क्रीन प्रोटेक्टर के लिए नहीं है</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">आपके पास %s है.\nइसे फ़िंगरप्रिंट अनलॉक की सुविधा सेट अप करने से पहले लगाएं.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">स्क्रीन प्रोटेक्टर के पैकेट पर दिख रहे क्यूआर कोड को फ़्रेम के अंदर रखें</string>
+    <string name="fingerprint_sp_title_got_it">ठीक है!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">क्यूआर कोड स्कैन करें</string>
+    <string name="protector_edu_subtitle">स्क्रीन प्रोटेक्टर की वजह से, फ़िंगरप्रिंट की पहचान करने में समस्या आ सकती है. स्क्रीन प्रोटेक्टर के साथ, फ़िंगरप्रिंट अनलॉक की सुविधा का बेहतर अनुभव पाने के लिए:</string>
+    <string name="screen_protector_edu_apply_instruction">कोशिश करें कि फ़िंगरप्रिंट अनलॉक की सुविधा सेट अप करने से पहले, स्क्रीन प्राेटेक्टर लगा लें और देख लें कि इसमें कोई बुलबुला न रहे. अगर सेटअप करने के बाद स्क्रीन प्रोटेक्टर लगाना है, तो अपने कैमरे से क्यूआर कोड को बाद में स्कैन करें.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt; g.co/pixel/screenprotector पर जाकर ज़्यादा जानें&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">ऐसे स्क्रीन प्रोटेक्टर का इस्तेमाल करें जिसे Made for Google सर्टिफ़िकेट मिला हो</string>
+    <string name="screen_protector_edu_no_qr_code">कोई क्यूआर कोड नहीं मिला</string>
+    <string name="screen_protector_edu_scan_it_later">इसे बाद में स्कैन करें</string>
+    <string name="screen_protector_edu_scan_qr_code">क्यूआर कोड स्कैन करें</string>
+    <string name="screen_protector_edu_title">स्क्रीन प्रोटेक्टर के पैकेट पर दिख रहे क्यूआर कोड को स्कैन करें</string>
+    <string name="screen_protector_no_qr_code_msg">Made for Google सर्टिफ़िकेट वाले स्क्रीन प्रोटेक्टर के पैकेट पर एक क्यूआर कोड होता है. अन्य स्क्रीन प्रोटेक्टर, सेंसर के काम करने में रुकावट डाल सकते हैं. ऐसा भी हो सकता है कि इनके इस्तेमाल करने पर सेंसर ठीक से काम न करे.\n\nज़्यादा जानकारी के लिए, g.co/pixel/screenprotector पर जाएं</string>
+    <string name="screen_protector_no_qr_code_ok">ठीक है</string>
+    <string name="screen_protector_no_qr_code_title">क्या क्यूआर कोड नहीं दिख रहा है?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">पुष्टि करें</string>
+    <string name="security_settings_udfps_screen_protector_description_none">स्क्रीन प्राेटेक्टर नहीं लगा है</string>
+    <string name="security_settings_udfps_screen_protector_keywords">स्क्रीन प्राेटेक्टर</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">फ़िंगरप्रिंट की पहचान करने की सुविधा को बेहतर बनाने के लिए, स्क्रीन प्रोटेक्टर ऑप्टिमाइज़ेशन की सुविधा को बंद करने से पहले, स्क्रीन प्रोटेक्टर हटा दें</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">स्क्रीन प्राेटेक्टर हटाएं</string>
+    <string name="security_settings_udfps_screen_protector_title">स्क्रीन प्रोटेक्टर के हिसाब से ऑप्टिमाइज़ करें</string>
+    <string name="sp_apply_dialog_button_got_it">ठीक है</string>
+    <string name="sp_apply_dialog_msg_incompatible">ऐसा हो सकता है कि आपका स्क्रीन प्राेटेक्टर, आपके फ़ोन के साथ काम न करता हो. पक्का करने के लिए, अपने फ़ोन को Android के नए वर्शन पर अपडेट करें और फिर से कोशिश करें.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">क्यूआर कोड अमान्य है</string>
+    <string name="sp_apply_dialog_msg_main_user_only">यह कार्रवाई सिर्फ़ डिवाइस का मालिक कर सकता है</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">हां</string>
+</resources>

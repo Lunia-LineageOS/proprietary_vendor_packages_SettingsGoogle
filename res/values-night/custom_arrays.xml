@@ -7,20 +7,4 @@
         <item>.onSecondary:@sud_system_on_secondary_dark</item>
         <item>.outline:@sud_system_outline_dark</item>
     </string-array>
-
-    <string-array name="touch_sensor_education">
-        <item>.surfaceContainer:@sud_system_surface_container_dark</item>
-        <item>.outline:@sud_system_outline_dark</item>
-        <item>.outlineVariant:@sud_system_outline_variant_dark</item>
-        <item>.surfaceContainerHighest:@sud_system_surface_container_highest_dark</item>
-        <item>.onPrimary:@sud_system_on_primary_dark</item>
-        <item>.primary:@sud_system_primary_dark</item>
-    </string-array>
-
-    <string-array name="touch_sensor_screen_protector">
-        <item>.primary:@sud_system_primary_dark</item>
-        <item>.onPrimary:@sud_system_on_primary_dark</item>
-        <item>.outline:@sud_system_outline_dark</item>
-        <item>.surfaceContainer:@sud_system_surface_container_dark</item>
-    </string-array>
 </resources>

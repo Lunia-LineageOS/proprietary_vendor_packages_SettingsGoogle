@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">指紋認証でスマートフォンのロック解除や本人確認を行えるようになりました。状況に応じて柔軟に対応できるように、別の指紋を追加してください。</string>
+    <string name="enroll_usudfps_fingertip_title_simple">指先を押し当ててください</string>
+    <string name="enroll_usudfps_left_edge_title_simple">指の左端を押し当ててください</string>
+    <string name="enroll_usudfps_right_edge_title_simple">指の右端を押し当ててください</string>
+    <string name="find_usudfps_subtitle_simple">指紋認証センサーは次の画面にあります</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">画面保護シートを装着した状態で登録</string>
+    <string name="fingerprint_acquired_immobile_simple">位置を毎回少しずつ変えてください</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">有効な QR コード</string>
+    <string name="fingerprint_sp_qr_code_error">これは Google 認定の画面保護シートの QR コードではありません</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">%s をお使いです。\n装着してから指紋認証を設定してください。</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">画面保護シートのパッケージのコードがフレーム内に収まるようにしてください</string>
+    <string name="fingerprint_sp_title_got_it">OK！</string>
+    <string name="fingerprint_sp_title_scan_qr_code">QR コードをスキャンする</string>
+    <string name="protector_edu_subtitle">画面保護シートが指紋認証に影響している可能性があります。画面保護シートを装着した状態で指紋認証の精度を高めるため、次のオプションを選んでください。</string>
+    <string name="screen_protector_edu_apply_instruction">可能であれば、指紋認証を設定する前に画面保護シートを貼り、気泡をすべて取り除いてください。設定後にシートを貼る場合は、後でカメラで QR コードをスキャンしてください。</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;詳細: g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Made For Google 認定の画面保護シートを使用してください。</string>
+    <string name="screen_protector_edu_no_qr_code">QR コードなし</string>
+    <string name="screen_protector_edu_scan_it_later">後でスキャン</string>
+    <string name="screen_protector_edu_scan_qr_code">QR コードをスキャン</string>
+    <string name="screen_protector_edu_title">画面保護シートのパッケージ記載の QR コードをスキャンしてください</string>
+    <string name="screen_protector_no_qr_code_msg">Made For Google 認定の画面保護シートは、パッケージに QR コードが記載されています。他の画面保護シートを使うと、センサーが正しく機能しないことがあります。\n\n詳細: g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">OK</string>
+    <string name="screen_protector_no_qr_code_title">QR コードが表示されない場合</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">確認</string>
+    <string name="security_settings_udfps_screen_protector_description_none">画面保護シートなし</string>
+    <string name="security_settings_udfps_screen_protector_keywords">画面保護シート</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">指紋認識機能を向上させるには、画面保護シートを取り外してから画面保護シートの最適化を無効にしてください</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">画面保護シートを取り外してください</string>
+    <string name="security_settings_udfps_screen_protector_title">画面保護シートに合わせて最適化する</string>
+    <string name="sp_apply_dialog_button_got_it">OK</string>
+    <string name="sp_apply_dialog_msg_incompatible">画面保護シートがスマートフォンに対応していない可能性があります。確認するため、スマートフォンを最新バージョンの Android に更新してから、もう一度お試しください。</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">QR コードが無効です</string>
+    <string name="sp_apply_dialog_msg_main_user_only">この操作を行えるのはデバイスの所有者のみです</string>
+    <string name="sp_apply_title_product_combined">%s ですか？</string>
+    <string name="sp_apply_yes_button">はい</string>
+</resources>

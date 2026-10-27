@@ -46,6 +46,7 @@ android_app {
         // Stock links only the sensor library of the device; Lunia builds one APK for all of them.
         "SFPSLib",
         "UDFPSLib",
+        "UsUDFPSLib",
     ],
     resource_dirs: [],
     use_resource_processor: true,

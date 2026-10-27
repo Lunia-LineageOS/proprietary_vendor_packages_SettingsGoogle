@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Dabar galite piršto atspaudu atrakinti telefoną ar patvirtinti savo tapatybę. Kad užtikrintumėte didesnį lankstumą, pridėkite kitą piršto atspaudą.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Palieskite piršto galiuku</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Palieskite kairiuoju kraštu</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Palieskite dešiniuoju kraštu</string>
+    <string name="find_usudfps_subtitle_simple">Piršto atspaudo jutiklis bus kitame ekrane</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Nustatyti naudojant apsauginį ekrano stiklą</string>
+    <string name="fingerprint_acquired_immobile_simple">Kaskart šiek tiek koreguokite</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Tinkamas QR kodas</string>
+    <string name="fingerprint_sp_qr_code_error">Šis QR kodas netinkamas sertifikuotam apsauginiam ekrano stiklui</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Turite „%s“.\nUždėkite jį prieš nustatydami atrakinimą piršto atspaudu.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Nustatykite kodo poziciją ant apsauginio ekrano stiklo pakuotės rėmelyje</string>
+    <string name="fingerprint_sp_title_got_it">Supratau!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">QR kodo nuskaitymas</string>
+    <string name="protector_edu_subtitle">Apsauginis ekrano stiklas gali turėti įtakos pirštų atspaudų atpažinimui. Jei norite užtikrinti geriausią atrakinimą piršto atspaudu naudojant apsauginį ekrano stiklą, atlikite toliau nurodytus veiksmus.</string>
+    <string name="screen_protector_edu_apply_instruction">Jei įmanoma, uždėkite apsauginį ekrano stiklą prieš nustatydami atrakinimą piršto atspaudu ir išlyginkite visus burbuliukus. Jei uždedate po nustatymo, vėliau fotoaparatu nuskaitykite QR kodą.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Sužinokite daugiau apsilankę adresu g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Naudokite „Made for Google“ sertifikuotą apsauginį ekrano stiklą</string>
+    <string name="screen_protector_edu_no_qr_code">Nėra QR kodo</string>
+    <string name="screen_protector_edu_scan_it_later">Nuskaityti vėliau</string>
+    <string name="screen_protector_edu_scan_qr_code">Nuskaityti QR kodą</string>
+    <string name="screen_protector_edu_title">Nuskaitykite QR kodą, esantį ant apsauginio ekrano stiklo pakuotės</string>
+    <string name="screen_protector_no_qr_code_msg">Sertifikuoto „Made for Google“ apsauginio ekrano stiklo pakuotės etiketėje yra QR kodas. Kiti apsauginiai ekrano stiklai gali trukdyti jutikliui ir neleisti jam patikimai veikti.\n\nSužinokite daugiau apsilankę adresu g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">Supratau</string>
+    <string name="screen_protector_no_qr_code_title">Nematėte QR kodo?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Patvirtinti</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Nėra apsauginio ekrano stiklo</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Apsauginis ekrano stiklas</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Jei norite pagerinti pirštų atspaudų atpažinimą, prieš išjungdami ekrano apsaugos optimizavimą nuimkite apsauginį ekrano stiklą</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Apsauginio ekrano stiklo nuėmimas</string>
+    <string name="security_settings_udfps_screen_protector_title">Apsauginio ekrano stiklo optimizavimas</string>
+    <string name="sp_apply_dialog_button_got_it">Supratau</string>
+    <string name="sp_apply_dialog_msg_incompatible">Apsauginis ekrano stiklas gali būti nesuderinamas su telefonu. Kad užtikrintumėte suderinamumą, atnaujinkite telefoną į naujausią „Android“ versiją ir bandykite dar kartą.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Netinkamas QR kodas</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Šis veiksmas ribojamas tik įrenginio savininkui</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Taip</string>
+</resources>

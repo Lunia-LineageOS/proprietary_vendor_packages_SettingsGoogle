@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">برای تسهیل باز کردن قفل، درکنار «قفل‌گشایی با اثر انگشت» از «قفل‌گشایی با چهره» نیز استفاده کنید</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">راه‌اندازی «قفل‌گشایی با اثر انگشت»</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">«قفل‌گشایی با اثر انگشت» را برای نمایه کاری راه‌اندازی کنید</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">ازاین‌پس می‌توانید از اثر انگشتتان برای باز کردن قفل تلفن یا درستی‌سنجی کردن هویتتان استفاده کنید. برای داشتن بیشترین انعطاف‌پذیری، اثر انگشت دیگری اضافه کنید.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">با نوک انگشتتان لمس کنید</string>
-    <string name="enroll_usudfps_left_edge_title_simple">با لبه سمت چپ لمس کنید</string>
-    <string name="enroll_usudfps_right_edge_title_simple">با لبه سمت راست لمس کنید</string>
     <string name="face_confirmation_hide_illustration_description">اکنون می‌توانید هنگام بلند کردن تلفن یا ضربه زدن روی صفحه‌نمایش، با چهره‌تان قفل تلفن را باز کنید.</string>
     <string name="face_confirmation_info_enough_light">«قفل‌گشایی با چهره» زمانی بهترین عملکرد را دارد که نور کافی وجود داشته باشد و ماسک یا عینک تیره نداشته باشید.</string>
     <string name="face_confirmation_info_outside_screen">«قفل‌گشایی با چهره» فقط ازطریق صفحه‌نمایش خارجی کار می‌کند</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">تلفن را به‌سمت چپ ببرید</string>
     <string name="face_enrolling_turn_head_to_arrow">سرتان را بهطرف پیکان بچرخانید</string>
     <string name="face_enrolling_turned_too_far">سرتان را کمی کمتر بچرخانید</string>
-    <string name="find_usudfps_subtitle_simple">حسگر اثر انگشت در صفحه بعد خواهد بود</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">راه‌اندازی با محافظ صفحه‌نمایش</string>
-    <string name="fingerprint_acquired_immobile_simple">هربار موقعیت انگشت را کمی تنظیم کنید</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">رمزینه پاسخ‌سریع معتبر</string>
-    <string name="fingerprint_sp_qr_code_error">این رمزینه پاسخ‌سریع مربوط به یک محافظ صفحه‌نمایش تأییدشده نیست</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">شما %s دارید.\nآن را قبل‌از راه‌اندازی «قفل‌گشایی با اثر انگشت» بچسبانید.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">کد روی بسته‌بندی محافظ صفحه‌نمایش را در قاب قرار دهید</string>
-    <string name="fingerprint_sp_title_got_it">متوجه شدم!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">رمزینه پاسخ‌سریع را اسکن کنید</string>
-    <string name="protector_edu_subtitle">محافظ صفحه‌نمایش می‌تواند بر تشخیص اثر انگشت تأثیر بگذارد. هنگام استفاده از محافظ صفحه‌نمایش برای دریافت بهترین عملکرد قفل‌گشایی با اثر انگشت، مراحل زیر را دنبال کنید:</string>
-    <string name="screen_protector_edu_apply_instruction">درصورت امکان، محافظ صفحه‌نمایش را قبل‌از راه‌اندازی قفل‌گشایی با اثر انگشت نصب کنید و حباب‌های هوا را خارج کنید. اگر لازم است بعداز راه‌اندازی آن را استفاده کنید، رمزینه پاسخ‌سریع را بعداً با دوربین خود اسکن کنید.</string>
-    <string name="screen_protector_edu_learn_more">‏&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;بیشتر بیاموزید در g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">‏از محافظ صفحه‌نمایشی استفاده کنید که گواهی Made for Google دارد</string>
-    <string name="screen_protector_edu_no_qr_code">رمزینه پاسخ‌سریعی وجود ندارد</string>
-    <string name="screen_protector_edu_scan_it_later">بعداً آن را اسکن می‌کنم</string>
-    <string name="screen_protector_edu_scan_qr_code">اسکن رمزینه پاسخ‌سریع</string>
-    <string name="screen_protector_edu_title">رمزینه پاسخ‌سریع روی بسته محافظ صفحه‌نمایش را اسکن کنید</string>
-    <string name="screen_protector_no_qr_code_msg">‏روی بسته‌بندی محافظ صفحه‌نمایشی که موردتأیید Made for Google باشد، رمزینه پاسخ‌سریع وجود دارد. محافظ‌های صفحه‌نمایش دیگر ممکن است با حسگر تداخل داشته باشند و منجر به عملکرد نامطلوب شوند.\n\nدر g.co/pixel/screenprotector اطلاعات بیشتری کسب کنید</string>
-    <string name="screen_protector_no_qr_code_ok">متوجه شدم</string>
-    <string name="screen_protector_no_qr_code_title">رمزینه پاسخ‌سریع را ندیدید؟</string>
     <string name="security_settings_face_enroll_consent_message">از چهره فرزندتان برای باز کردن قفل تلفنش و درستی‌سنجی هویت او در برنامه‌ها استفاده کنید</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">‏چهره فرزندتان فقط در دستگاه ذخیره می‌شود و هرگز به Google ارسال نمی‌شود</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">اکنون وقتی تلفنتان را برمی‌دارید یا روی صفحه‌نمایش آن تک‌ضرب می‌زنید، می‌توانید از چهره‌تان برای باز کردن قفل آن استفاده کنید.\n\n«قفل‌گشایی با چهره» زمانی بهترین عملکرد را دارد که نور کافی وجود داشته باشد و از ماسک یا عینک‌های تیره استفاده نکنید.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">تلفن خیلی داغ است</string>
     <string name="security_settings_fingerprint_enroll_consent_message">از اثر انگشت فرزندتان برای باز کردن قفل تلفنش یا درستی‌سنجی هویت او در برنامه‌ها استفاده کنید</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">‏اثر انگشت‌های فرزندتان فقط در دستگاه ذخیره می‌شود و هرگز به Google ارسال نمی‌شود</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">تأیید کردن</string>
-    <string name="security_settings_udfps_screen_protector_description_none">بدون محافظ صفحه‌نمایش</string>
-    <string name="security_settings_udfps_screen_protector_keywords">محافظ صفحه‌نمایش</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">برای بهبود تشخیص اثر انگشت، محافظ صفحه‌نمایش خود را قبل‌از خاموش کردن بهینه‌سازی محافظ صفحه‌نمایش بردارید</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">محافظ صفحه‌نمایش را بردارید</string>
-    <string name="security_settings_udfps_screen_protector_title">بهینه‌سازی برای محافظ صفحه‌نمایش</string>
-    <string name="sp_apply_dialog_button_got_it">متوجه شدم</string>
-    <string name="sp_apply_dialog_msg_incompatible">‏محافظ صفحه‌نمایش ممکن است با تلفن سازگار نباشد. برای اینکه مطمئن شوید، تلفن را به جدیدترین نسخه Android به‌روز کنید و دوباره امتحان کنید.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">رمزینه پاسخ‌سریع نامعتبر است</string>
-    <string name="sp_apply_dialog_msg_main_user_only">فقط مالک دستگاه می‌تواند این کنش را انجام دهد</string>
-    <string name="sp_apply_title_product_combined">‫%s؟</string>
-    <string name="sp_apply_yes_button">بله</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">«ضربه سریع» شناسایی شد!</string>

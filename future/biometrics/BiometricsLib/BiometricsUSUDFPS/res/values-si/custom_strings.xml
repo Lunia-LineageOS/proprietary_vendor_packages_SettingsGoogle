@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">දැන් ඔබට ඔබේ දුරකථනය අගුළු ඇරීමට හෝ ඒ ඔබ බව සත්‍යාපනය කිරීමට ඔබේ ඇඟිලි සලකුණ භාවිතා කළ හැක. උපරිම නම්‍යශීලීභාවය සඳහා, තවත් ඇඟිලි සලකුණක් එක් කරන්න.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">ඔබේ ඇඟිලි තුඩ ස්පර්ශ කරන්න</string>
+    <string name="enroll_usudfps_left_edge_title_simple">වම් කෙළවර ස්පර්ශ කරන්න</string>
+    <string name="enroll_usudfps_right_edge_title_simple">දකුණු කෙළවර ස්පර්ශ කරන්න</string>
+    <string name="find_usudfps_subtitle_simple">ඇඟිලි සලකුණු සංවේදකය මීළඟ තිරයෙහි ඇත</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">තිර ආරක්ෂකය සමග සකසන්න</string>
+    <string name="fingerprint_acquired_immobile_simple">එක් එක් වතාවේ තරමක් සකසන්න</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">වලංගු QR කේතය</string>
+    <string name="fingerprint_sp_qr_code_error">මෙම QR කේතය සහතික කළ තිර ආරක්ෂකයක් සඳහා නොවේ</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">ඔබට %s තිබේ.\nඇඟිලි සලකුණු අගුළු හැරීම පිහිටුවීමට පෙර එය යොදන්න.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">රාමුව තුළ තිර ආරක්ෂක ඇසුරුම් මත කේතය ස්ථානගත කරන්න</string>
+    <string name="fingerprint_sp_title_got_it">තේරුණා!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">QR කේතය ස්කෑන් කරන්න</string>
+    <string name="protector_edu_subtitle">තිර ආරක්ෂකයක් ඇඟිලි සලකුණු හඳුනාගැනීමට බලපෑ හැක. තිර ආරක්ෂකයක් සමග හොඳම ඇඟිලි සලකුණු අගුළු හැරීමේ කාර්ය සාධනය සඳහා:</string>
+    <string name="screen_protector_edu_apply_instruction">හැකි විට, ඇඟිලි සලකුණු අගුළු හැරීම සැකසීමට පෙර තිර ආරක්ෂකය යොදන්න සහ කිසියම් බුබුලක් සමතලා කරන්න. පිහිටුවීමෙන් පසු ඔබට එය යෙදීමට අවශ්‍ය නම්, පසුව ඔබේ කැමරාව භාවිතයෙන් QR කේතය ස්කෑන් කරන්න.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;g.co/pixel/screenprotector හි තව දැන ගන්න&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Google සහතික කළ තිර ආරක්ෂකයක් භාවිත කරන්න</string>
+    <string name="screen_protector_edu_no_qr_code">QR කේතය නැත</string>
+    <string name="screen_protector_edu_scan_it_later">එය පසුව ස්කෑන් කරන්න</string>
+    <string name="screen_protector_edu_scan_qr_code">QR කේතය ස්කෑන් කරන්න</string>
+    <string name="screen_protector_edu_title">තිර ආරක්ෂක ඇසුරුම්වල ඇති QR කේතය ස්කෑන් කරන්න</string>
+    <string name="screen_protector_no_qr_code_msg">Google වෙනුවෙන් සෑදු සහතිකය ලත් තිර ආරක්ෂක ඇසුරුමේ QR කේතයක් ඇත. අනෙකුත් තිර ආරක්ෂකයන් සංවේදකයට බාධා කර එය විශ්වාසදායක ලෙස ක්‍රියා කිරීමෙන් වැළැක්විය හැක.\n\ng.co/pixel/screenprotector හි දී තව දැන ගන්න</string>
+    <string name="screen_protector_no_qr_code_ok">තේරුණා</string>
+    <string name="screen_protector_no_qr_code_title">QR කේතයක් දුටුවේ නැද්ද?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">තහවුරු කරන්න</string>
+    <string name="security_settings_udfps_screen_protector_description_none">තිර ආරක්ෂකයක් නැත</string>
+    <string name="security_settings_udfps_screen_protector_keywords">තිර ආරක්ෂකය</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">ඇඟිලි සලකුණු හඳුනා ගැනීම වැඩි දියුණු කිරීම සඳහා, තිර ආරක්ෂක ප්‍රශස්තිකරණය ක්‍රියාවිරහිත කිරීමට පෙර ඔබේ තිර ආරක්ෂකය ඉවත් කරන්න</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">තිර ආරක්ෂකය ඉවත් කරන්න</string>
+    <string name="security_settings_udfps_screen_protector_title">තිර ආරක්ෂකය සඳහා ප්‍රශස්ත කරන්න</string>
+    <string name="sp_apply_dialog_button_got_it">තේරුණා</string>
+    <string name="sp_apply_dialog_msg_incompatible">ඔබේ තිර ආරක්ෂකය ඔබේ දුරකථනය සමග නොගැළපේ. සහතික කර ගැනීමට, ඔබේ දුරකථනය Android හි නවතම අනුවාදයට යාවත්කාලීන කර නැවත උත්සාහ කරන්න.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">අවලංගු QR කේතය</string>
+    <string name="sp_apply_dialog_msg_main_user_only">මෙම ක්‍රියාව උපාංග හිමිකරුට පමණක් සීමා වේ</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">ඔව්</string>
+</resources>

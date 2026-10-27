@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Эми манжаңыздын изи менен телефонуңуздун кулпусун ачып же өзүңүздү ырастай аласыз. Ыңгайлуу болушу үчүн, дагы бир манжа изин кошуңуз.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Манжаңыздын учун тийгизиңиз</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Сол жагын тийгизиңиз</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Оң четин тийгизиңиз</string>
+    <string name="find_usudfps_subtitle_simple">Манжа изинин сенсору кийинки экрандан чыгат</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Экранды коргоочу пленка менен коюу</string>
+    <string name="fingerprint_acquired_immobile_simple">Ар бир жолкусунда бир аз тууралаңыз</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Жарактуу QR коду</string>
+    <string name="fingerprint_sp_qr_code_error">Бул тастыкталган экранды коргоочу пленканын QR коду эмес</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Сизде %s бар.\nМанжа изин коёрдон мурун экранга пленканы чаптап алыңыз.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Экранды коргогучтун таңгагындагы кодду алкактын ичине жайгаштырыңыз</string>
+    <string name="fingerprint_sp_title_got_it">Болду!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">QR кодун скандоо</string>
+    <string name="protector_edu_subtitle">Экранды коргоочу пленкадан улам манжа изиңиз жакшы таанылбашы мүмкүн. Аны чаптай турган болсоңуз, мындай кылыңыз:</string>
+    <string name="screen_protector_edu_apply_instruction">Мүмкүн болсо, Манжа изи менен ачууну тууралоодон мурун экранды коргогучту чаптап, бардык көбүкчөлөрдү тегиздеңиз. Эгер аны тууралагандан кийин колдонуу керек болсо, QR кодун кийинчерээк камераңыз менен скандаңыз.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Кеңири маалымат: g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">\"Google үчүн жасалган\" программасы боюнча тастыкталган экранды коргоочу пленканы/айнекти колдонуңуз</string>
+    <string name="screen_protector_edu_no_qr_code">QR коду жок</string>
+    <string name="screen_protector_edu_scan_it_later">Кийин скандоо</string>
+    <string name="screen_protector_edu_scan_qr_code">QR кодун скандоо</string>
+    <string name="screen_protector_edu_title">Экранды коргоочу пленканын кутусундагы QR кодду скандаңыз</string>
+    <string name="screen_protector_no_qr_code_msg">\"Google үчүн жасалган\" программасы боюнча тастыкталган экранды коргогучтун таңгагында QR коду болот. Башка экранды коргогучтарды колдонгондо, сенсор туура эмес иштеши мүмкүн.\n\nКеңири маалымат: g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">Түшүндүм</string>
+    <string name="screen_protector_no_qr_code_title">QR кодду көрбөй жатасызбы?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Ырастоо</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Экранды коргоочу пленка жок</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Экранды коргоочу пленка/айнек</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Манжа изин жакшы таануу үчүн экранды коргогучту оптималдаштыруудан мурда аны алып салыңыз</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Экранды коргоочу пленканы/айнекти алып салыңыз</string>
+    <string name="security_settings_udfps_screen_protector_title">Экранды коргогучту оптималдаштыруу</string>
+    <string name="sp_apply_dialog_button_got_it">Түшүндүм</string>
+    <string name="sp_apply_dialog_msg_incompatible">Экранды коргогучуңуз телефонуңузга шайкеш келбеши мүмкүн. Телефонуңузду Android\'дин эң акыркы версиясына жаңыртып, кайталап көрүңүз.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">QR коду жараксыз</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Бул аракетти түзмөктүн ээси гана аткара алат</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Ооба</string>
+</resources>

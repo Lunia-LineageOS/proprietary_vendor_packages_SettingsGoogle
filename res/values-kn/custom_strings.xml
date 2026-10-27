@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">ಅನ್‌ಲಾಕ್ ಮಾಡುವುದನ್ನು ಹೆಚ್ಚು ಸುಲಭವಾಗಿಸಲು, ಫೇಸ್ ಅನ್‌ಲಾಕ್ ಜೊತೆಗೆ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅನ್‌ಲಾಕ್ ಅನ್ನು ಬಳಸಿ</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅನ್‌ಲಾಕ್ ಅನ್ನು ಸೆಟಪ್ ಮಾಡಿ</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">ಕೆಲಸದ ಸ್ಥಳದಲ್ಲಿ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅನ್‌ಲಾಕ್ ಅನ್ನು ಸೆಟಪ್ ಮಾಡಿ</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">ಈಗ ನೀವು ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಅಥವಾ ನಿಮ್ಮ ಗುರುತನ್ನು ದೃಢೀಕರಿಸಲು ನಿಮ್ಮ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅನ್ನು ಬಳಸಬಹುದು. ಹೆಚ್ಚು ಸುಲಭವಾಗಿ ಅನ್‍ಲಾಕ್ ಮಾಡಲು ಅಥವಾ ದೃಢೀಕರಿಸಲು, ಮತ್ತೊಂದು ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅನ್ನು ಸೇರಿಸಿ.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">ನಿಮ್ಮ ಬೆರಳ ತುದಿಯನ್ನು ಸ್ಪರ್ಶಿಸಿ</string>
-    <string name="enroll_usudfps_left_edge_title_simple">ಎಡ ಅಂಚನ್ನು ಸ್ಪರ್ಶಿಸಿ</string>
-    <string name="enroll_usudfps_right_edge_title_simple">ಬಲ ಅಂಚನ್ನು ಸ್ಪರ್ಶಿಸಿ</string>
     <string name="face_confirmation_hide_illustration_description">ಈಗ ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ನೀವು ಎತ್ತಿಕೊಂಡಾಗ ಅಥವಾ ಸ್ಕ್ರೀನ್ ಅನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿದಾಗ, ಅನ್‌ಲಾಕ್ ಮಾಡಲು ನಿಮ್ಮ ಮುಖವನ್ನು ಬಳಸಬಹುದು.</string>
     <string name="face_confirmation_info_enough_light">ಸಾಕಷ್ಟು ಬೆಳಕಿದ್ದಾಗ ಮತ್ತು ನೀವು ಮಾಸ್ಕ್ ಅಥವಾ ಗಾಢ ಬಣ್ಣದ ಕನ್ನಡಕ ಧರಿಸದಿರುವಾಗ ಫೇಸ್ ಅನ್‌ಲಾಕ್ ಅತ್ಯುತ್ತಮವಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತದೆ.</string>
     <string name="face_confirmation_info_outside_screen">ಸ್ಕ್ರೀನ್ ಲಾಕ್ ಆದಾಗ ಮಾತ್ರ ಫೇಸ್ ಅನ್‌ಲಾಕ್ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">ಫೋನ್ ಅನ್ನು ನಿಮ್ಮ ಎಡಕ್ಕೆ ಸರಿಸಿ</string>
     <string name="face_enrolling_turn_head_to_arrow">ಬಾಣದ ಕಡೆಗೆ ನಿಮ್ಮ ಮುಖವನ್ನು ತಿರುಗಿಸಿ</string>
     <string name="face_enrolling_turned_too_far">ತಲೆಯನ್ನು ಸ್ವಲ್ಪ ಕಡಿಮೆ ತಿರುಗಿಸಿ</string>
-    <string name="find_usudfps_subtitle_simple">ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ ಮುಂದಿನ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿ ಇರುತ್ತದೆ</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್ ಅನ್ನು ಸೆಟಪ್ ಮಾಡಿ</string>
-    <string name="fingerprint_acquired_immobile_simple">ಪ್ರತಿ ಬಾರಿ ಸ್ವಲ್ಪ ಅಡ್ಜಸ್ಟ್ ಮಾಡಿ</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">ಮಾನ್ಯವಾದ QR ಕೋಡ್</string>
-    <string name="fingerprint_sp_qr_code_error">ಈ QR ಕೋಡ್ ಪ್ರಮಾಣೀಕೃತ ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್‌ಗಾಗಿ ಅಲ್ಲ</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">ನೀವು %s ಅನ್ನು ಹೊಂದಿದ್ದೀರಿ.\nಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅನ್‌ಲಾಕ್ ಅನ್ನು ಸೆಟ್ ಮಾಡುವ ಮೊದಲು ಅದನ್ನು ಬಳಸಿ.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">ಫ್ರೇಮ್‌ನಲ್ಲಿರುವ ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್ ಪ್ಯಾಕೇಜಿಂಗ್‌ನಲ್ಲಿ ಕೋಡ್ ಅನ್ನು ಇರಿಸಿ</string>
-    <string name="fingerprint_sp_title_got_it">ಅರ್ಥವಾಯಿತು!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">QR ಕೋಡ್ ಅನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
-    <string name="protector_edu_subtitle">ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಗುರುತಿಸುವಿಕೆಯ ಮೇಲೆ ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್ ಪರಿಣಾಮ ಬೀರಬಹುದು. ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್ ಇರುವ ಸ್ಕ್ರೀನ್ ಮೇಲೆ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅನ್‌ಲಾಕ್ ಉತ್ತಮವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವಂತೆ ಮಾಡಲು, ಈ ಹಂತಗಳನ್ನು ಅನುಸರಿಸಿ:</string>
-    <string name="screen_protector_edu_apply_instruction">ಸಾಧ್ಯವಾದಾಗಲೆಲ್ಲಾ, ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅನ್‌ಲಾಕ್ ಅನ್ನು ಸೆಟಪ್ ಮಾಡುವ ಮೊದಲು ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್ ಬಳಸಿ ಮತ್ತು ಗಾಳಿಯ ಗುಳ್ಳೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ. ಸೆಟಪ್ ಮಾಡಿದ ನಂತರ ನೀವು ಅದನ್ನು ಅನ್ವಯಿಸಬೇಕಾದರೆ, ನಂತರ ನಿಮ್ಮ ಕ್ಯಾಮರಾದ ಮೂಲಕ QR ಕೋಡ್ ಅನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;g.co/pixel/screenprotector ನಲ್ಲಿ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Google ಗಾಗಿ ತಯಾರಿಸಲಾಗಿದೆ ಎಂದು ಪ್ರಮಾಣೀಕರಿಸಿದ ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್ ಅನ್ನು ಬಳಸಿ</string>
-    <string name="screen_protector_edu_no_qr_code">QR ಕೋಡ್ ಇಲ್ಲ</string>
-    <string name="screen_protector_edu_scan_it_later">ನಂತರ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
-    <string name="screen_protector_edu_scan_qr_code">QR ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
-    <string name="screen_protector_edu_title">ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್ ಪ್ಯಾಕೇಜಿಂಗ್‌ನಲ್ಲಿರುವ QR ಕೋಡ್ ಅನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
-    <string name="screen_protector_no_qr_code_msg">Google ಗಾಗಿ ಮಾಡಲಾಗಿದೆ ಎಂದು ಪ್ರಮಾಣೀಕರಿಸಿದ ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್ ಪ್ಯಾಕೇಜಿಂಗ್‌ನಲ್ಲಿ QR ಕೋಡ್ ಅನ್ನು ಹೊಂದಿದೆ. ಇತರ ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್‌ಗಳು ಸೆನ್ಸರ್‌ಗೆ ಅಡ್ಡಿಪಡಿಸಬಹುದು ಮತ್ತು ಅದು ವಿಶ್ವಾಸಾರ್ಹವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವುದನ್ನು ತಡೆಯಬಹುದು.\n\ng.co/pixel/screenprotector ನಲ್ಲಿ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</string>
-    <string name="screen_protector_no_qr_code_ok">ಅರ್ಥವಾಯಿತು</string>
-    <string name="screen_protector_no_qr_code_title">QR ಕೋಡ್ ಕಾಣಲಿಲ್ಲವೇ?</string>
     <string name="security_settings_face_enroll_consent_message">ನಿಮ್ಮ ಮಗುವಿನ ಫೋನ್ ಅನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಅಥವಾ ಆ್ಯಪ್‌ಗಳಲ್ಲಿ ಅವರ ಗುರುತನ್ನು ದೃಢೀಕರಿಸಲು ಅವರ ಮುಖವನ್ನು ಬಳಸಿ</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">ನಿಮ್ಮ ಮಗುವಿನ ಮುಖವನ್ನು ಸಾಧನದಲ್ಲಿ ಮಾತ್ರ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಎಂದಿಗೂ Google ಗೆ ಕಳುಹಿಸಲಾಗುವುದಿಲ್ಲ</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">ಈಗ ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ನೀವು ಎತ್ತಿಕೊಂಡಾಗ ಅಥವಾ ಸ್ಕ್ರೀನ್ ಅನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿದಾಗ, ಅನ್‌ಲಾಕ್ ಮಾಡಲು ನಿಮ್ಮ ಮುಖವನ್ನು ಬಳಸಬಹುದು.\n\nಸಾಕಷ್ಟು ಬೆಳಕಿದ್ದಾಗ ಮತ್ತು ನೀವು ಮಾಸ್ಕ್ ಅಥವಾ ಗಾಢ ಬಣ್ಣದ ಕನ್ನಡಕ ಧರಿಸದಿರುವಾಗ ಫೇಸ್ ಅನ್‌ಲಾಕ್ ಅತ್ಯುತ್ತಮವಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತದೆ.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">ಫೋನ್ ತುಂಬಾ ಬಿಸಿಯಾಗಿದೆ</string>
     <string name="security_settings_fingerprint_enroll_consent_message">ನಿಮ್ಮ ಮಗುವಿನ ಫೋನ್ ಅನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಅಥವಾ ಆ್ಯಪ್‌ಗಳಲ್ಲಿ ಅವರ ಗುರುತನ್ನು ದೃಢೀಕರಿಸಲು ಅವರ ಫಿಂಗರ್‌ ಪ್ರಿಂಟ್ ಅನ್ನು ಬಳಸಿ</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">ನಿಮ್ಮ ಮಗುವಿನ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್‌ಗಳನ್ನು ಸಾಧನದಲ್ಲಿ ಮಾತ್ರ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಅವುಗಳನ್ನು ಎಂದಿಗೂ Google ಗೆ ಕಳುಹಿಸಲಾಗುವುದಿಲ್ಲ</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">ದೃಢೀಕರಿಸಿ</string>
-    <string name="security_settings_udfps_screen_protector_description_none">ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್ ಇಲ್ಲ</string>
-    <string name="security_settings_udfps_screen_protector_keywords">ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">ಫಿಂಗರ್ ಪ್ರಿಂಟ್ ಗುರುತಿಸುವಿಕೆಯನ್ನು ಸುಧಾರಿಸುವುದಕ್ಕಾಗಿ, ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್ ಆಪ್ಟಿಮೈಸೇಷನ್ ಅನ್ನು ಆಫ್ ಮಾಡುವ ಮೊದಲು ನಿಮ್ಮ ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್ ಅನ್ನು ತೆಗೆದುಹಾಕಿ</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್ ಅನ್ನು ತೆಗೆದುಹಾಕಿ</string>
-    <string name="security_settings_udfps_screen_protector_title">ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್‌ಗಾಗಿ ಆಪ್ಟಿಮೈಸ್ ಮಾಡಿ</string>
-    <string name="sp_apply_dialog_button_got_it">ಅರ್ಥವಾಯಿತು</string>
-    <string name="sp_apply_dialog_msg_incompatible">ನಿಮ್ಮ ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್ ನಿಮ್ಮ ಫೋನ್‌ಗೆ ಹೊಂದಿಕೆಯಾಗದಿರಬಹುದು. ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು, ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು Android ನ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಗೆ ಅಪ್‌ಡೇಟ್ ಮಾಡಿ ಮತ್ತು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">ಅಮಾನ್ಯ QR ಕೋಡ್</string>
-    <string name="sp_apply_dialog_msg_main_user_only">ಈ ಕ್ರಿಯೆಯು ಸಾಧನದ ಮಾಲೀಕರಿಗೆ ಮಾತ್ರ ಸೀಮಿತವಾಗಿದೆ</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">ಹೌದು</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">ಕ್ವಿಕ್ ಟ್ಯಾಪ್ ಪತ್ತೆಯಾಗಿದೆ!</string>

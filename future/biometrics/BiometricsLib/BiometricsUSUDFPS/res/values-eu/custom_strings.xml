@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Orain, hatz-marka erabil dezakezu telefonoa desblokeatzeko edo zeu zarela egiaztatzeko. Malgutasun handiagoa izateko, gehitu beste hatz-marka bat.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Ukitu hatz-puntarekin</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Ukitu ezkerreko ertzarekin</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Ukitu eskuineko ertzarekin</string>
+    <string name="find_usudfps_subtitle_simple">Hatz-marken sentsorea hurrengo pantailan egongo da</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Konfiguratu pantaila babesteko osagarriarekin</string>
+    <string name="fingerprint_acquired_immobile_simple">Doitu apur bat aldi bakoitzean</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">QR kodeak balio du</string>
+    <string name="fingerprint_sp_qr_code_error">QR kode hau ez dagokio pantaila babesteko osagarri ziurtatu bati</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">%s daukazu.\nEzar ezazu hatz-marka bidez desblokeatzeko eginbidea konfiguratu aurretik.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Kokatu pantaila babesteko osagarriaren bilgarrian agertzen den kodea markoaren barruan</string>
+    <string name="fingerprint_sp_title_got_it">Ados!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Eskaneatu QR kodea</string>
+    <string name="protector_edu_subtitle">Baliteke pantaila babesteko osagarriekin zailagoa izatea hatz-markak hautematea. Pantaila babesteko osagarriekin hatz-marka bidez desblokeatzeko eginbideak ahalik eta ondoen funtziona dezan:</string>
+    <string name="screen_protector_edu_apply_instruction">Ahal bada, jarri pantaila babesteko osagarria hatz-marka bidez desblokeatzeko eginbidea konfiguratu aurretik, eta kendu burbuilak. Konfiguratu ondoren aplikatu behar baduzu, eskaneatu QR kodea geroago kamerarekin.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Lortu informazio gehiago hemen: g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Erabili Made for Google ziurtagiria duen pantaila babesteko osagarri bat.</string>
+    <string name="screen_protector_edu_no_qr_code">Ez du QR koderik</string>
+    <string name="screen_protector_edu_scan_it_later">Eskaneatu geroago</string>
+    <string name="screen_protector_edu_scan_qr_code">Eskaneatu QR kodea</string>
+    <string name="screen_protector_edu_title">Eskaneatu pantaila babesteko osagarriaren bilgarrian agertzen den QR kodea</string>
+    <string name="screen_protector_no_qr_code_msg">Made for Google ziurtagiria duten pantaila babesteko osagarriek QR kode bat dute bilgarrian. Baliteke pantaila babesteko beste osagarri batzuek sentsorean interferentziak eragitea eta haren funtzionamendua oztopatzea.\n\nLortu informazio gehiago g.co/pixel/screenprotector helbidean</string>
+    <string name="screen_protector_no_qr_code_ok">Ados</string>
+    <string name="screen_protector_no_qr_code_title">Ez duzu ikusi QR koderik?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Berretsi</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Ez dago pantaila babesteko osagarririk</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Pantaila babesteko osagarria</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Hatz-markak hobeki ezagutzeko, kendu pantaila babesteko osagarria pantaila babesteko osagarrirako optimizazioa desaktibatu baino lehen</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Kendu pantaila babesteko osagarria</string>
+    <string name="security_settings_udfps_screen_protector_title">Optimizatu pantaila babesteko osagarrirako</string>
+    <string name="sp_apply_dialog_button_got_it">Ados</string>
+    <string name="sp_apply_dialog_msg_incompatible">Baliteke pantaila babesteko osagarria telefonoarekin bateragarria ez izatea. Bateragarria dela ziurtatzeko, eguneratu telefonoa Android-en azken bertsiora eta saiatu berriro.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">QR kodeak ez du balio</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Gailuaren jabeak soilik egin dezake ekintza hau</string>
+    <string name="sp_apply_title_product_combined">%s?</string>
+    <string name="sp_apply_yes_button">Bai</string>
+</resources>

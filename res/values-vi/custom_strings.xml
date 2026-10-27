@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Để mở khoá dễ dàng hơn, hãy dùng kết hợp cả tính năng Mở khoá bằng vân tay và Mở khoá bằng khuôn mặt</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Thiết lập tính năng Mở khoá bằng vân tay</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Thiết lập tính năng Mở khoá bằng vân tay cho hồ sơ công việc</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Giờ đây, bạn có thể dùng vân tay để mở khoá điện thoại hoặc xác minh danh tính. Để tối ưu tính linh hoạt, hãy thêm một vân tay khác.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Chạm đầu ngón tay</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Chạm cạnh bên trái</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Chạm cạnh bên phải</string>
     <string name="face_confirmation_hide_illustration_description">Giờ đây, bạn có thể dùng khuôn mặt để mở khoá mỗi khi nhấc điện thoại lên hoặc nhấn vào màn hình.</string>
     <string name="face_confirmation_info_enough_light">Tính năng Mở khoá bằng khuôn mặt hoạt động hiệu quả nhất khi có đủ ánh sáng và bạn không đeo khẩu trang hoặc kính râm.</string>
     <string name="face_confirmation_info_outside_screen">Tính năng Mở khoá bằng khuôn mặt chỉ dùng được với màn hình bên ngoài</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Đưa điện thoại sang trái</string>
     <string name="face_enrolling_turn_head_to_arrow">Hãy quay đầu về phía mũi tên</string>
     <string name="face_enrolling_turned_too_far">Xoay đầu gần hơn</string>
-    <string name="find_usudfps_subtitle_simple">Cảm biến vân tay sẽ xuất hiện trên màn hình tiếp theo</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Thiết lập khi có miếng bảo vệ màn hình</string>
-    <string name="fingerprint_acquired_immobile_simple">Mỗi lần điều chỉnh một chút</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Mã QR hợp lệ</string>
-    <string name="fingerprint_sp_qr_code_error">Mã QR này không phải là mã của miếng bảo vệ màn hình được chứng nhận</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Bạn có một miếng %s.\nHãy dán trước khi thiết lập tính năng Mở khoá bằng vân tay.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Điều chỉnh để mã trên bao bì của miếng bảo vệ màn hình nằm trong khung hình</string>
-    <string name="fingerprint_sp_title_got_it">OK!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Quét mã QR</string>
-    <string name="protector_edu_subtitle">Miếng bảo vệ màn hình có thể ảnh hưởng đến khả năng nhận dạng vân tay. Để dùng tính năng Mở khoá bằng vân tay hiệu quả nhất khi có miếng bảo vệ, hãy làm như sau:</string>
-    <string name="screen_protector_edu_apply_instruction">Nếu được, hãy dán miếng bảo vệ màn hình trước khi thiết lập tính năng Mở khoá bằng vân tay và vuốt hết bọt khí. Nếu bạn dán sau khi đã thiết lập xong, hãy dùng camera để quét mã QR.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Tìm hiểu thêm tại g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Sử dụng miếng bảo vệ màn hình có chứng nhận Made for Google</string>
-    <string name="screen_protector_edu_no_qr_code">Không có mã QR</string>
-    <string name="screen_protector_edu_scan_it_later">Quét sau</string>
-    <string name="screen_protector_edu_scan_qr_code">Quét mã QR</string>
-    <string name="screen_protector_edu_title">Quét mã QR trên bao bì của miếng bảo vệ màn hình</string>
-    <string name="screen_protector_no_qr_code_msg">Miếng bảo vệ màn hình có chứng nhận Made for Google có mã QR trên bao bì. Các miếng bảo vệ màn hình khác có thể ảnh hưởng đến cảm biến và khiến cảm biến hoạt động không ổn định.\n\nTìm hiểu thêm tại g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">Tôi hiểu</string>
-    <string name="screen_protector_no_qr_code_title">Bạn không thấy mã QR?</string>
     <string name="security_settings_face_enroll_consent_message">Dùng khuôn mặt của con bạn để mở khoá điện thoại hoặc xác minh danh tính của trẻ trong các ứng dụng</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Khuôn mặt của con bạn chỉ được lưu trữ trên thiết bị và không bao giờ được gửi cho Google</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Giờ đây, bạn có thể dùng khuôn mặt để mở khoá mỗi lần nhấc điện thoại lên hoặc nhấn vào màn hình.\n\nTính năng Mở khoá bằng khuôn mặt hoạt động hiệu quả nhất khi có đủ ánh sáng và bạn không đeo khẩu trang hoặc kính râm.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Điện thoại quá nóng</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Dùng vân tay của con bạn để mở khoá điện thoại hoặc xác minh danh tính của trẻ trong các ứng dụng</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Vân tay của con bạn chỉ được lưu trữ trên thiết bị và không bao giờ được gửi cho Google</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Xác nhận</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Không có miếng bảo vệ màn hình</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Miếng bảo vệ màn hình</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Để cải thiện khả năng nhận dạng vân tay, hãy gỡ miếng bảo vệ màn hình trước khi tắt tính năng tối ưu hoá cho miếng bảo vệ màn hình</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Gỡ miếng bảo vệ màn hình</string>
-    <string name="security_settings_udfps_screen_protector_title">Tối ưu hoá cho miếng bảo vệ màn hình</string>
-    <string name="sp_apply_dialog_button_got_it">Tôi hiểu</string>
-    <string name="sp_apply_dialog_msg_incompatible">Miếng bảo vệ màn hình có thể không tương thích với điện thoại của bạn. Để đảm bảo, hãy cập nhật điện thoại của bạn lên phiên bản Android mới nhất rồi thử lại.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">Mã QR không hợp lệ</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Chỉ chủ sở hữu thiết bị mới thực hiện được thao tác này</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Có</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Phát hiện thấy chế độ Chạm nhanh!</string>

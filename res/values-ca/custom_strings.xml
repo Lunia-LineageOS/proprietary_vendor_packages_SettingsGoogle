@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Per facilitar el desbloqueig, utilitza Desbloqueig amb empremta digital juntament amb Desbloqueig facial</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Configura Desbloqueig amb empremta digital</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Configura Desbloqueig amb empremta digital per a la feina</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Ara pots utilitzar l\'empremta digital per desbloquejar el telèfon o verificar la teva identitat. Per gaudir de la màxima flexibilitat, afegeix una altra empremta digital.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Toca la punta del dit</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Toca la vora esquerra</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Toca la vora dreta</string>
     <string name="face_confirmation_hide_illustration_description">Ara, quan agafis el telèfon o toquis la pantalla, pots utilitzar la cara per desbloquejar-lo.</string>
     <string name="face_confirmation_info_enough_light">Desbloqueig facial funciona millor quan hi ha prou llum i no portes mascareta ni ulleres fosques.</string>
     <string name="face_confirmation_info_outside_screen">Desbloqueig facial només funciona des de la pantalla exterior</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Mou el telèfon cap a l\'esquerra</string>
     <string name="face_enrolling_turn_head_to_arrow">Gira el cap seguint la fletxa</string>
     <string name="face_enrolling_turned_too_far">No giris tant el cap</string>
-    <string name="find_usudfps_subtitle_simple">El sensor d\'empremtes digitals apareixerà a la pantalla següent</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Configura amb un protector de pantalla</string>
-    <string name="fingerprint_acquired_immobile_simple">Fes ajustos lleugers cada vegada</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Codi QR vàlid</string>
-    <string name="fingerprint_sp_qr_code_error">Aquest codi QR no correspon a un protector de pantalla certificat</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Tens un %s.\nAplica\'l abans de configurar Desbloqueig amb empremta digital.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Col·loca el codi de l\'embalatge del protector de pantalla al marc</string>
-    <string name="fingerprint_sp_title_got_it">Entesos</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Escaneja el codi QR</string>
-    <string name="protector_edu_subtitle">El protector de pantalla pot afectar el reconeixement d\'empremtes digitals. Per obtenir el millor rendiment de Desbloqueig amb empremta digital amb un protector de pantalla:</string>
-    <string name="screen_protector_edu_apply_instruction">Si és possible, aplica el protector de pantalla abans de configurar Desbloqueig amb empremta digital i aplana les bombolles. Si has d\'aplicar-lo després de la configuració, escaneja el codi QR més tard amb la càmera.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Més informació a g.co/pixel/screenprotector&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Utilitza un protector de pantalla certificat com a Made for Google</string>
-    <string name="screen_protector_edu_no_qr_code">Cap codi QR</string>
-    <string name="screen_protector_edu_scan_it_later">Més tard</string>
-    <string name="screen_protector_edu_scan_qr_code">Escaneja</string>
-    <string name="screen_protector_edu_title">Escaneja el codi QR que hi ha a l\'embalatge del protector de pantalla</string>
-    <string name="screen_protector_no_qr_code_msg">Un protector de pantalla amb la certificació Made for Google té un codi QR a l\'embalatge. Altres protectors de pantalla poden interferir amb el sensor i impedir que funcioni de manera fiable.\n\nMés informació a g.co/pixel/screenprotector</string>
-    <string name="screen_protector_no_qr_code_ok">Entesos</string>
-    <string name="screen_protector_no_qr_code_title">No has vist cap codi QR?</string>
     <string name="security_settings_face_enroll_consent_message">Utilitza la cara del teu fill o filla per desbloquejar el seu telèfon o verificar la seva identitat en aplicacions</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">La cara del teu fill o filla només s\'emmagatzema al dispositiu i no s\'envia mai a Google</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Ara, quan agafis el telèfon o toquis la pantalla, pots utilitzar la cara per desbloquejar-lo.\n\nDesbloqueig facial funciona millor quan hi ha prou llum i no portes mascareta ni ulleres fosques.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">El telèfon està massa calent</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Utilitza l\'empremta digital del teu fill o filla per desbloquejar el seu telèfon o verificar la seva identitat en aplicacions</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Les empremtes digitals del teu fill o filla només s\'emmagatzemen al dispositiu i no s\'envien mai a Google</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Confirma</string>
-    <string name="security_settings_udfps_screen_protector_description_none">No hi ha cap protector de pantalla</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Protector de pantalla</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Per millorar el reconeixement de l\'empremta digital, treu el protector de pantalla abans de desactivar l\'optimització del protector de pantalla</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Treu el protector de pantalla</string>
-    <string name="security_settings_udfps_screen_protector_title">Optimitza per al protector de pantalla</string>
-    <string name="sp_apply_dialog_button_got_it">Entesos</string>
-    <string name="sp_apply_dialog_msg_incompatible">És possible que el protector de pantalla no sigui compatible amb el telèfon. Per assegurar-te que això no passi, actualitza el telèfon a la darrera versió d\'Android i torna-ho a provar.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">El codi QR no és vàlid</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Aquesta acció està restringida al propietari del dispositiu</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">Sí</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">S\'ha detectat Toc ràpid.</string>

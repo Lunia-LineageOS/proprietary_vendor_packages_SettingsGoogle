@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">અનલૉક કરવાનું વધુ સરળ બનાવવા માટે, ફેસ અનલૉકની સાથે ફિંગરપ્રિન્ટ અનલૉક સુવિધાનો ઉપયોગ કરો</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">ફિંગરપ્રિન્ટ અનલૉકનું સેટઅપ કરો</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">ઑફિસ માટે ફિંગરપ્રિન્ટ અનલૉકનું સેટઅપ કરો</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">તમારા ફોનને અનલૉક કરવા અથવા આ તમે જ છો તેની ચકાસણી કરવા માટે, હવે તમે તમારી ફિંગરપ્રિન્ટનો ઉપયોગ કરી શકો છો. સૌથી વધુ સુગમતા માટે, બીજી ફિંગરપ્રિન્ટ ઉમેરો.</string>
-    <string name="enroll_usudfps_fingertip_title_simple">તમારી આંગળીના ટેરવાને ટચ કરો</string>
-    <string name="enroll_usudfps_left_edge_title_simple">ડાબી કિનારીને ટચ કરો</string>
-    <string name="enroll_usudfps_right_edge_title_simple">જમણી કિનારીને ટચ કરો</string>
     <string name="face_confirmation_hide_illustration_description">હવે તમે જ્યારે તમારો ફોન ઉપાડો કે સ્ક્રીન પર ટૅપ કરો, અનલૉક કરવા માટે તમે તમારા ચહેરાનો ઉપયોગ કરી શકશો.</string>
     <string name="face_confirmation_info_enough_light">પર્યાપ્ત પ્રકાશ હોય અને તમે માસ્ક કે સ્માર્ટ ગ્લાસ પહેરેલા ન હોય, ત્યારે ફેસ અનલૉકની સુવિધા શ્રેષ્ઠ રીતે કામ કરે છે.</string>
     <string name="face_confirmation_info_outside_screen">ફેસ અનલૉકની સુવિધા માત્ર બાહ્ય સ્ક્રીન પર જ ચાલે છે</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">ફોનને તમારી ડાબી બાજુએ ખસેડો</string>
     <string name="face_enrolling_turn_head_to_arrow">તમારા માથાને ઍરો તરફ ફેરવો</string>
     <string name="face_enrolling_turned_too_far">માથું થોડુંક જ ફેરવો</string>
-    <string name="find_usudfps_subtitle_simple">ફિંગરપ્રિન્ટ સેન્સર આગળની સ્ક્રીન પર હશે</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">સ્ક્રીનગાર્ડ સાથે સેટઅપ કરો</string>
-    <string name="fingerprint_acquired_immobile_simple">દરેક વખતે સહેજ ગોઠવો</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">માન્ય QR કોડ</string>
-    <string name="fingerprint_sp_qr_code_error">આ QR કોડ સર્ટિફિકેટપ્રાપ્ત સ્ક્રીનગાર્ડ માટે નથી</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">તમારી પાસે %s છે.\nફિંગરપ્રિન્ટ અનલૉકની સુવિધાનું સેટઅપ કરતા પહેલાં તેને લાગુ કરો.</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">સ્ક્રીનગાર્ડ પૅકેજિંગ પર આપેલા કોડને ફ્રેમમાં ગોઠવો</string>
-    <string name="fingerprint_sp_title_got_it">સમજાઈ ગયું!</string>
-    <string name="fingerprint_sp_title_scan_qr_code">QR કોડ સ્કૅન કરો</string>
-    <string name="protector_edu_subtitle">સ્ક્રીનગાર્ડને કારણે ફિંગરપ્રિન્ટની ઓળખવાની સુવિધા પર અસર પડી શકે છે. સ્ક્રીનગાર્ડ સાથે ફિંગરપ્રિન્ટ અનલૉકની સુવિધાના શ્રેષ્ઠ પર્ફોર્મન્સ માટે:</string>
-    <string name="screen_protector_edu_apply_instruction">શક્ય હોય ત્યારે ફિંગરપ્રિન્ટ અનલૉકની સુવિધાનું સેટઅપ કરતા પહેલાં સ્ક્રીનગાર્ડ લગાવો અને જો કોઈ બબલ હોય તો તેને કાઢી નાખો. જો તમારે સેટઅપ કર્યા પછી તેને લગાવવું હોય, તો પછીથી તમારા કૅમેરા વડે QR કોડ સ્કૅન કરો.</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt; g.co/pixel/screenprotector&lt;/a&gt; પર વધુ જાણો</string>
-    <string name="screen_protector_edu_mfg_recommendation">\'Google માટે બનાવેલા\' પ્રમાણિત સ્ક્રીનગાર્ડનો ઉપયોગ કરો</string>
-    <string name="screen_protector_edu_no_qr_code">QR કોડ નથી</string>
-    <string name="screen_protector_edu_scan_it_later">પછી સ્કૅન કરો</string>
-    <string name="screen_protector_edu_scan_qr_code">QR સ્કૅન કરો</string>
-    <string name="screen_protector_edu_title">સ્ક્રીનગાર્ડના પૅકેજિંગ પરનો QR કોડ સ્કૅન કરો</string>
-    <string name="screen_protector_no_qr_code_msg">\'Google માટે બનાવેલા\' પ્રમાણિત સ્ક્રીનગાર્ડના પૅકેજિંગ પર QR કોડ હોય છે. અન્ય સ્ક્રીનગાર્ડ સેન્સરમાં અવરોધ પેદા કરી શકે છે અને તેમને વિશ્વસનીય રીતે કાર્ય કરતા અટકાવી શકે છે.\n\ng.co/pixel/screenprotector પર વધુ જાણો</string>
-    <string name="screen_protector_no_qr_code_ok">સમજાઈ ગયું</string>
-    <string name="screen_protector_no_qr_code_title">શું QR કોડ નથી દેખાતો?</string>
     <string name="security_settings_face_enroll_consent_message">તમારા બાળકનો ફોન અનલૉક કરવા અથવા ઍપમાં આ તેઓ જ છે, તેની ચકાસણી કરવા માટે તેમના ચહેરાનો ઉપયોગ કરો</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">તમારા બાળકનો ચહેરા માત્ર ડિવાઇસ પર સ્ટોર કરવામાં આવે છે અને ક્યારેય Googleને મોકલવામાં આવતો નથી</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">હવે તમે જ્યારે તમારા ફોનને ઉપાડો અથવા તેની સ્ક્રીન પર ટૅપ કરો, ત્યારે તમે તેને અનલૉક કરવા માટે તમારા ચહેરાનો ઉપયોગ કરી શકો છો.\n\nજ્યારે પર્યાપ્ત પ્રકાશ હોય અને તમે માસ્ક કે કાળા ચશ્માં પહેરેલા ન હોય ત્યારે ફેસ અનલૉક સુવિધા બહેતર રીતે કામ કરે છે.</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">ફોન ખૂબ ગરમ થઈ ગયો છે</string>
     <string name="security_settings_fingerprint_enroll_consent_message">તમારા બાળકનો ફોન અનલૉક કરવા અથવા ઍપમાં આ તેઓ જ છે, તેની ચકાસણી કરવા માટે તેમની ફિંગરપ્રિન્ટનો ઉપયોગ કરો</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">તમારા બાળકની ફિંગરપ્રિન્ટ માત્ર ડિવાઇસ પર સ્ટોર કરવામાં આવે છે અને તે ક્યારેય Googleને મોકલવામાં આવતી નથી</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">કન્ફર્મ કરો</string>
-    <string name="security_settings_udfps_screen_protector_description_none">કોઈ સ્ક્રીનગાર્ડ નથી</string>
-    <string name="security_settings_udfps_screen_protector_keywords">સ્ક્રીનગાર્ડ</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">ફિંગરપ્રિન્ટનો ઉપયોગ કરીને ઓળખની સુવિધા બહેતર બનાવવા માટે, સ્ક્રીનગાર્ડ ઑપ્ટિમાઇઝેશન બંધ કરતા પહેલાં તમારા સ્ક્રીનગાર્ડને કાઢી નાખો</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">સ્ક્રીનગાર્ડ કાઢી નાખો</string>
-    <string name="security_settings_udfps_screen_protector_title">સ્ક્રીનગાર્ડ સુવિધા માટે ઑપ્ટિમાઇઝ કરો</string>
-    <string name="sp_apply_dialog_button_got_it">સમજાઈ ગયું</string>
-    <string name="sp_apply_dialog_msg_incompatible">તમારું સ્ક્રીનગાર્ડ તમારા ફોન સાથે અસંગત હોઈ શકે છે. ખાતરી કરવા માટે, તમારા ફોનને Androidના લેટેસ્ટ વર્ઝન પર અપડેટ કરો અને ફરી પ્રયાસ કરો.</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">અમાન્ય QR કોડ</string>
-    <string name="sp_apply_dialog_msg_main_user_only">આ ઍક્શન માત્ર ડિવાઇસના માલિક સુધી મર્યાદિત છે</string>
-    <string name="sp_apply_title_product_combined">%s?</string>
-    <string name="sp_apply_yes_button">હા</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">ક્વિક ટૅપ સુવિધાની ભાળ મળી!</string>

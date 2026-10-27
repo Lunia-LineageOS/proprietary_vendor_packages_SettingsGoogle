@@ -88,10 +88,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_subtitle">Ապակողպումն ավելի հարմար դարձնելու համար օգտագործեք մատնահետքով ապակողպումը դեմքով ապակողպման հետ միասին</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Մատնահետքով ապակողպման կարգավորում</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Կարգավորեք մատնահետքով ապակողպումը աշխատանքային պրոֆիլում</string>
-    <string name="confirm_usudfps_subtitle_more_flexibility">Այժմ կարող եք մատնահետքի միջոցով հաստատել ձեր ինքնությունն ու ապակողպել հեռախոսը։ Առավելագույն ճկունության համար ավելացրեք ևս մեկ մատնահետք։</string>
-    <string name="enroll_usudfps_fingertip_title_simple">Հպեք մատի ծայրով</string>
-    <string name="enroll_usudfps_left_edge_title_simple">Հպեք մատի ձախ եզրով</string>
-    <string name="enroll_usudfps_right_edge_title_simple">Հպեք մատի աջ եզրով</string>
     <string name="face_confirmation_hide_illustration_description">Այժմ, երբ դուք վերցնում եք ձեր հեռախոսը կամ հպում եք էկրանին, դուք կարող եք ապակողպել այն ձեր դեմքի միջոցով։</string>
     <string name="face_confirmation_info_enough_light">Դեմքով ապակողպումը լավագույնս աշխատում է լավ լուսավորության պայմաններում, և երբ դիմակ կամ մուգ ակնոց չեք կրում։</string>
     <string name="face_confirmation_info_outside_screen">Դեմքով ապակողպումն աշխատում է միայն արտաքին էկրանից</string>
@@ -114,26 +110,6 @@
     <string name="face_enrolling_too_right">Հեռախոսը տեղափոխեք ձախ</string>
     <string name="face_enrolling_turn_head_to_arrow">Գլուխը շրջեք դեպի սլաքը</string>
     <string name="face_enrolling_turned_too_far">Փոքր-ինչ հետ պտտեք գլուխը</string>
-    <string name="find_usudfps_subtitle_simple">Մատնահետքերի սկաները կհայտնվի հաջորդ էկրանին</string>
-    <string name="find_usudfps_with_sp_setup_sp_button">Կարգավորել էկրանի պաշտպանիչը</string>
-    <string name="fingerprint_acquired_immobile_simple">Ամեն անգամ փոքր-ինչ փոխեք դիրքը</string>
-    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Վավեր QR կոդ</string>
-    <string name="fingerprint_sp_qr_code_error">Այս QR կոդը հավաստագրված էկրանի պաշտպանիչի համար չէ</string>
-    <string name="fingerprint_sp_subtitle_apply_sp_combined">Դուք ունեք %s։\nԱյն կիրառեք նախքան մատնահետքով ապակողպման կարգավորումը։</string>
-    <string name="fingerprint_sp_subtitle_position_code_in_camera">Էկրանի պաշտպանիչ ապակու փաթեթավորման վրայի կոդը վերցրեք շրջանակի մեջ</string>
-    <string name="fingerprint_sp_title_got_it">Եղավ</string>
-    <string name="fingerprint_sp_title_scan_qr_code">Սկանավորեք QR կոդը</string>
-    <string name="protector_edu_subtitle">Էկրանի պաշտպանիչը կարող է ազդել մատնահետքի ճանաչման վրա։ Որպեսզի մատնահետքով ապակողպումը լավ աշխատի էկրանի պաշտպանիչով՝</string>
-    <string name="screen_protector_edu_apply_instruction">Հնարավորության դեպքում էկրանի պաշտպանիչն անցկացրեք նախքան մատնահետքով ապակողպումը կարգավորելը և հարթեցրեք էկրանի բոլոր պղպջակները։ Եթե նման հնարավորություն չկա, սկանավորեք QR կոդը տեսախցիկի միջոցով։</string>
-    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Իմացեք ավելին g.co/pixel/screenprotector էջում&lt;/a&gt;</string>
-    <string name="screen_protector_edu_mfg_recommendation">Օգտագործեք էկրանի պաշտպանիչ՝ «Made for Google» մակնշմամբ։</string>
-    <string name="screen_protector_edu_no_qr_code">QR կոդ չկա</string>
-    <string name="screen_protector_edu_scan_it_later">Ավելի ուշ</string>
-    <string name="screen_protector_edu_scan_qr_code">Սկանավորել</string>
-    <string name="screen_protector_edu_title">Սկանավորեք էկրանի պաշտպանիչի փաթեթի վրա գտնվող QR կոդը</string>
-    <string name="screen_protector_no_qr_code_msg">«Made for Google» մակնշմամբ էկրանի պաշտպանիչի տուփի վրա առկա է QR կոդ։ Առանց այդպիսի մակնշման էկրանի պաշտպանիչները կարող են խանգարել սենսորի նորմալ աշխատանքին։\n\nԻմացեք ավելին g.co/pixel/screenprotector էջում</string>
-    <string name="screen_protector_no_qr_code_ok">Եղավ</string>
-    <string name="screen_protector_no_qr_code_title">Չե՞ք տեսնում QR կոդը</string>
     <string name="security_settings_face_enroll_consent_message">Թույլ տվեք ձեր երեխային օգտագործել իր դեմքը՝ հեռախոսն ապակողպելու կամ հավելվածներում իր ինքնությունը հաստատելու համար</string>
     <string name="security_settings_face_enroll_consent_secure_and_helpful_message_1">Ձեր երեխայի դեմքի նմուշը պահվում է սարքում և երբեք չի ուղարկվում Google-ին</string>
     <string name="security_settings_face_enroll_finish_description_without_bp">Այժմ, երբ վերցնում եք ձեր հեռախոսը կամ հպում եք էկրանին, դուք կարող եք ապակողպել այն ձեր դեմքի միջոցով։\n\nԴեմքով ապակողպումը լավագույնս աշխատում է լավ լուսավորության պայմաններում, և երբ դուք չեք կրում դիմակ կամ մուգ ակնոց։</string>
@@ -154,18 +130,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Հեռախոսը գերտաքացել է</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Թույլ տվեք ձեր երեխային օգտագործել իր մատնահետքը՝ հեռախոսն ապակողպելու կամ հավելվածներում իր ինքնությունը հաստատելու համար</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Ձեր երեխայի մատնահետքերը պահվում են սարքում և երբեք չեն ուղարկվում Google-ին</string>
-    <string name="security_settings_udfps_screen_protector_confirm_button">Հաստատել</string>
-    <string name="security_settings_udfps_screen_protector_description_none">Էկրանի պաշտպանիչ չկա</string>
-    <string name="security_settings_udfps_screen_protector_keywords">Էկրանի պաշտպանիչ</string>
-    <string name="security_settings_udfps_screen_protector_remove_description">Մատնահետքի ճանաչումը բարելավելու համար հեռացրեք էկրանի պաշտպանիչը նախքան էկրանի պաշտպանիչի օպտիմալացումն անջատելը</string>
-    <string name="security_settings_udfps_screen_protector_remove_title">Էկրանի պաշտպանիչի հեռացում</string>
-    <string name="security_settings_udfps_screen_protector_title">Էկրանի պատշպանիչի օպտիմալացում</string>
-    <string name="sp_apply_dialog_button_got_it">Եղավ</string>
-    <string name="sp_apply_dialog_msg_incompatible">Էկրանի պաշտպանիչը կարող է անհամատեղելի լինել ձեր հեռախոսի հետ։ Համոզվելու համար թարմացրեք ձեր հեռախոսը Android-ի նոր տարբերակով և նորից փորձեք։</string>
-    <string name="sp_apply_dialog_msg_invalid_qr_code">QR կոդն անվավեր է</string>
-    <string name="sp_apply_dialog_msg_main_user_only">Այս գործողությունը հասանելի է միայն սարքի սեփականատիրոջը</string>
-    <string name="sp_apply_title_product_combined">Արդյո՞ք %s է</string>
-    <string name="sp_apply_yes_button">Այո</string>
 
     <!-- Quick Tap -->
     <string name="columbus_gesture_detected">Հայտնաբերվել է արագ հպում</string>

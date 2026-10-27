@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Теперь вы можете использовать отпечаток пальца, чтобы разблокировать телефон и подтверждать личность. Для удобства добавьте ещё один отпечаток пальца.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Коснитесь кончиком пальца</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Коснитесь левым краем пальца</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Коснитесь правым краем пальца</string>
+    <string name="find_usudfps_subtitle_simple">Датчик отпечатков пальцев будет на следующем экране.</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Настроить с защитным стеклом или пленкой</string>
+    <string name="fingerprint_acquired_immobile_simple">Каждый раз меняйте положение пальца</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Действительный QR-код</string>
+    <string name="fingerprint_sp_qr_code_error">Это QR-код для несертифицированной защитной пленки или стекла.</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Ваша защитная пленка – %s.\nНаклейте ее перед тем, как настроить разблокировку по отпечатку пальца.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Разместите в кадре код с упаковки защитной пленки или стекла.</string>
+    <string name="fingerprint_sp_title_got_it">Получилось!</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Отсканируйте QR-код</string>
+    <string name="protector_edu_subtitle">Защитная пленка может затруднить распознавание отпечатка пальца. Если вы ее используете, следуйте этим рекомендациям:</string>
+    <string name="screen_protector_edu_apply_instruction">Рекомендуем наклеить защитную пленку или стекло и удалить все пузырьки до того, как начнете настраивать разблокировку по отпечатку пальца. Если такой возможности нет, отсканируйте этот QR-код позже.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Узнайте больше на странице g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Используйте защитную пленку, сертифицированную по программе \"Сделано для Google\".</string>
+    <string name="screen_protector_edu_no_qr_code">Нет кода</string>
+    <string name="screen_protector_edu_scan_it_later">Позже</string>
+    <string name="screen_protector_edu_scan_qr_code">Сканировать</string>
+    <string name="screen_protector_edu_title">Отсканируйте QR-код на упаковке защитной пленки</string>
+    <string name="screen_protector_no_qr_code_msg">У защитных пленок и стекол с сертификатом \"Сделано для Google\" на упаковке есть QR-код. Пленки и стекла без такого сертификата могут мешать правильной работе сенсора.\n\nПодробнее: g.co/pixel/screenprotector.</string>
+    <string name="screen_protector_no_qr_code_ok">ОК</string>
+    <string name="screen_protector_no_qr_code_title">Не нашли QR-код?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Подтвердить</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Нет защитного стекла или пленки</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Защитная пленка, защитное стекло</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Чтобы улучшить распознавание отпечатков пальцев, снимите защитное стекло или пленку, прежде чем отключать оптимизацию.</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Снимите пленку или стекло</string>
+    <string name="security_settings_udfps_screen_protector_title">Оптимизировать для использования защитной пленки</string>
+    <string name="sp_apply_dialog_button_got_it">ОК</string>
+    <string name="sp_apply_dialog_msg_incompatible">Возможно, защитное стекло или пленка несовместимы с телефоном. Обновите Android до последней версии и повторите попытку.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">Недействительный QR-код.</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Это действие доступно только владельцу устройства.</string>
+    <string name="sp_apply_title_product_combined">Это %s?</string>
+    <string name="sp_apply_yes_button">Да</string>
+</resources>

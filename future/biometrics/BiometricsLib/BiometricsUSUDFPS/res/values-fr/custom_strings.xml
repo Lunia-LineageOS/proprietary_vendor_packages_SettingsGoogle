@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_usudfps_subtitle_more_flexibility">Vous pouvez désormais utiliser votre empreinte digitale pour déverrouiller votre téléphone ou confirmer votre identité. Pour plus de flexibilité, ajoutez une autre empreinte digitale.</string>
+    <string name="enroll_usudfps_fingertip_title_simple">Appuyez avec le bout de votre doigt</string>
+    <string name="enroll_usudfps_left_edge_title_simple">Appuyez sur le bord gauche</string>
+    <string name="enroll_usudfps_right_edge_title_simple">Appuyez sur le bord droit</string>
+    <string name="find_usudfps_subtitle_simple">Le lecteur d\'empreinte digitale se trouvera sur l\'écran suivant</string>
+    <string name="find_usudfps_with_sp_setup_sp_button">Configurer avec la protection d\'écran</string>
+    <string name="fingerprint_acquired_immobile_simple">Ajustez légèrement à chaque fois</string>
+    <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">QR code valide</string>
+    <string name="fingerprint_sp_qr_code_error">Ce QR code ne correspond pas à une protection d\'écran certifiée</string>
+    <string name="fingerprint_sp_subtitle_apply_sp_combined">Vous possédez de la protection d\'écran suivante : %s.\nAppliquez-la avant de configurer le déverrouillage par empreinte digitale.</string>
+    <string name="fingerprint_sp_subtitle_position_code_in_camera">Placez dans le cadre le QR code qui figure sur l\'emballage de la protection d\'écran</string>
+    <string name="fingerprint_sp_title_got_it">OK</string>
+    <string name="fingerprint_sp_title_scan_qr_code">Scannez le QR code</string>
+    <string name="protector_edu_subtitle">Les protections d\'écran peuvent affecter la reconnaissance des empreintes. Pour optimiser le déverrouillage par empreinte digitale avec une protection d\'écran :</string>
+    <string name="screen_protector_edu_apply_instruction">Si possible, posez la protection d\'écran avant de configurer le déverrouillage par empreinte digitale et éliminez les bulles d\'air éventuelles. Si vous devez l\'appliquer après la configuration, scannez le QR code plus tard avec l\'appareil photo.</string>
+    <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Plus d\'informations sur g.co/pixel/screenprotector&lt;/a&gt;</string>
+    <string name="screen_protector_edu_mfg_recommendation">Utilisez une protection d\'écran certifiée Made for Google.</string>
+    <string name="screen_protector_edu_no_qr_code">Pas de QR code</string>
+    <string name="screen_protector_edu_scan_it_later">Scanner plus tard</string>
+    <string name="screen_protector_edu_scan_qr_code">Scanner le QR code</string>
+    <string name="screen_protector_edu_title">Scannez le QR code sur l\'emballage de la protection d\'écran</string>
+    <string name="screen_protector_no_qr_code_msg">Les protections d\'écran certifiées Made for Google comportent un QR code sur l\'emballage. Les autres protections d\'écran peuvent interférer avec le capteur et l\'empêcher de fonctionner correctement.\n\nPlus d\'informations sur la page g.co/pixel/screenprotector</string>
+    <string name="screen_protector_no_qr_code_ok">OK</string>
+    <string name="screen_protector_no_qr_code_title">Vous n\'avez pas vu de QR code ?</string>
+    <string name="security_settings_udfps_screen_protector_confirm_button">Confirmer</string>
+    <string name="security_settings_udfps_screen_protector_description_none">Aucune protection d\'écran</string>
+    <string name="security_settings_udfps_screen_protector_keywords">Protection d\'écran</string>
+    <string name="security_settings_udfps_screen_protector_remove_description">Pour améliorer la reconnaissance d\'empreintes digitales, retirez votre protection d\'écran avant de désactiver l\'optimisation pour la protection d\'écran</string>
+    <string name="security_settings_udfps_screen_protector_remove_title">Retirer la protection d\'écran</string>
+    <string name="security_settings_udfps_screen_protector_title">Optimiser pour la protection d\'écran</string>
+    <string name="sp_apply_dialog_button_got_it">OK</string>
+    <string name="sp_apply_dialog_msg_incompatible">Il se peut que votre protection d\'écran ne soit pas compatible avec votre téléphone. Pour vérifier, installez la dernière version d\'Android sur votre téléphone, puis réessayez.</string>
+    <string name="sp_apply_dialog_msg_invalid_qr_code">QR code incorrect</string>
+    <string name="sp_apply_dialog_msg_main_user_only">Cette action est réservée au propriétaire de l\'appareil</string>
+    <string name="sp_apply_title_product_combined">%s ?</string>
+    <string name="sp_apply_yes_button">Oui</string>
+</resources>
