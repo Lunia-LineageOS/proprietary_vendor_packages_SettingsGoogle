@@ -16,9 +16,8 @@
         android:protectionLevel="signature|privileged" />
 
     <application
-        android:name="com.google.android.settings.generalaccess.SettingsGoogleGeneralAccessApplication"
         android:icon="@mipmap/ic_launcher_settings"
-        tools:replace="android:name,android:icon">
+        tools:replace="android:icon">
 
         <uses-library android:name="org.apache.http.legacy" />
 
