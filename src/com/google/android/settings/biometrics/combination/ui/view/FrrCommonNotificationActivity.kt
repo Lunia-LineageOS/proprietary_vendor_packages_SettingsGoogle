@@ -17,7 +17,7 @@ import androidx.lifecycle.lifecycleScope
 import com.android.settings.biometrics.BiometricUtils
 import com.android.settings.biometrics.GatekeeperPasswordProvider
 import com.android.settings.password.ChooseLockSettingsHelper
-import com.google.android.settings.R
+import com.google.android.settings.biometrics.R
 import com.google.android.settings.biometrics.combination.ui.model.GkResult
 import com.google.android.settings.biometrics.combination.ui.viewmodel.FrrCommonNotificationViewModel
 import com.google.android.settings.biometrics.fingerprint.factory.FingerprintViewModelFactory

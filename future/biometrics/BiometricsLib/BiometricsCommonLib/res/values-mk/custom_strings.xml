@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">Не сега</string>
+    <string name="delete_all_fps_dialog_delete_button">Поставете сега</string>
+    <string name="delete_all_fps_dialog_msg">Ова ќе ги избрише сите ваши тековни отпечатоци и нема да може да го користите отпечатокот за да го отклучите телефонот или да го потврдите идентитетот сѐ додека не се постави „Отклучување со отпечаток“ повторно.</string>
+    <string name="delete_all_fps_dialog_title">Да се постави „Отклучување со отпечаток“?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">Додајте уште еден отпечаток</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Отсега може да го користите отпечатокот за да го отклучувате телефонот или да потврдувате дека сте вие. Може да додадете друг отпечаток за дополнителна удобност.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Колку повеќе користите „Отклучување со отпечаток“, толку подобро ќе функционира. А може да додадете уште повеќе отпечатоци.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Колку повеќе користите „Отклучување со отпечаток“, толку подобро. И може да додадете уште повеќе отпечатоци за дополнителна удобност.</string>
+    <string name="fingerprint_enroll_finish_title">Добро е!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">Додаден е 1 отпечаток</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">Сензорот за отпечатоци ќе биде на следниот екран. За најголема флексибилност, поставете најмалку 1 отпечаток од секоја рака.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Избришете го екранот за да ги отстраните сите траги, флеки и дамки. Така ќе снимите почисти отпечатоци.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Исчистете го екранот пред да продолжите</string>
+    <string name="frr_notification_button_got_it">Сфатив</string>
+    <string name="frr_notification_description">За најдобра изведба, следете ги советиве:</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Дознајте повеќе&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">Користете заштитник на екранот сертифициран со „Создадено за Google“. Другите заштитници на екранот може да го попречуваат сензорот и да го спречат да функционира сигурно.</string>
+    <string name="frr_notification_non_mfg_sp_title">Користете сертифициран заштитник на екранот</string>
+    <string name="frr_notification_reset_fingerprint_button">Избришете и поставете „Отклучување со отпечаток“</string>
+    <string name="frr_notification_reset_fingerprint_description">Ова може да ги реши проблемите понекогаш, особено ако сте додале или отстраниле заштитник на екранот неодамна</string>
+    <string name="frr_notification_reset_fingerprint_title">Поставете „Отклучување со отпечаток“ повторно</string>
+    <string name="frr_notification_screen_protector_description">Може да влијае на препознавањето на отпечатокот. Користете заштитник на екранот сертифициран со „Создадено за Google“. Другите заштитници на екранот може да го попречуваат сензорот и да го спречат да функционира сигурно.</string>
+    <string name="frr_notification_screen_protector_title">Ако користите заштитник на екранот…</string>
+    <string name="frr_notification_set_face_unlock_description">Користете „Отклучување со лик“ кога не ви се препознава отпечатокот – на пример, кога прстите ви се влажни</string>
+    <string name="frr_notification_set_face_unlock_title">Поставете „Отклучување со лик“</string>
+    <string name="frr_notification_title">Имате проблем со „Отклучување со отпечаток“?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">Може да го избришете моделот на лик или да ја исклучите „Отклучување со лик“ во „Поставки“ кога сакате. Моделите на лик ќе останат на телефонот сѐ додека не ги избришете.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">Дознајте повеќе на &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">Користете го вашиот лик за да го отклучувате телефонот или да го потврдувате вашиот идентитет во апликациите</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Вашиот лик е зачуван само на уредот и никогаш не се испраќа до Google</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">За најдобро доживување, поставете ја „Отклучување со лик“ заедно со „Отклучување со отпечаток“</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Безбедно и корисно</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Користете ги вашите отпечатоци за да го отклучувате телефонот или да потврдувате дека сте вие во апликациите</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Ако имате заштитник на екранот, за најдобра функционалност залепете го пред да го поставите вашиот отпечаток.\n\nЗа најдобри резултати, користете заштитник на екранот сертифициран со „Создадено за Google“. Вашиот отпечаток може да не функционира со други заштитници на екранот.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Вашите отпечатоци се зачувуваат само на уредот и никогаш не се испраќаат до Google</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">За најдобро доживување, додајте 2 или повеќе отпечатоци и поставете ја „Отклучување со лик“</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Дознајте повеќе на &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Лента за напредок. Допрете двапати за %2$s.</string>
+    <string name="security_settings_udfps_enroll_start_message_new">Задржете го прстот рамно на сензорот додека не почувствувате вибрации. Поставувајте само по 1 прст истовремено.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">Задржете го прстот рамно на сензорот додека не се пополни лентата за напредок. Поставувајте само по 1 прст истовремено.</string>
+</resources>

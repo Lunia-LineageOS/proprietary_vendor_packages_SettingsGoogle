@@ -43,7 +43,7 @@ import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingActio
 import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingScreen
 import com.android.settings.biometrics.fingerprint.FingerprintEnrollEnrolling
 import com.android.settings.biometrics.fingerprint2.lib.model.FingerEnrollState
-import com.google.android.settings.R
+import com.google.android.settings.biometrics.R
 import com.google.android.settings.biometrics.fingerprint.modules.sfps.model.SfpsStageModel
 import com.google.android.settings.biometrics.fingerprint.modules.sfps.viewmodel.EnrollSfpsViewModel
 import com.google.android.settings.biometrics.fingerprint.modules.sfps.widget.FingerprintTouchDialog
@@ -69,7 +69,7 @@ import kotlinx.coroutines.flow.filter
 import kotlinx.coroutines.flow.onEach
 import kotlinx.coroutines.launch
 
-class EnrollSfpsFragment : Fragment(R.layout.sfps_enroll) {
+class EnrollSfpsFragment : Fragment(com.google.android.settings.R.layout.sfps_enroll) {
 
     private val viewModel: EnrollSfpsViewModel by
         viewModels(extrasProducer = { requireActivity().defaultViewModelCreationExtras }) {
@@ -136,7 +136,8 @@ class EnrollSfpsFragment : Fragment(R.layout.sfps_enroll) {
         savedInstanceState: Bundle?,
     ): View? =
         inflater.inflate(
-            if (useExpressStyle) R.layout.sfps_enroll_expressive else R.layout.sfps_enroll,
+            if (useExpressStyle) com.google.android.settings.R.layout.sfps_enroll_expressive
+            else com.google.android.settings.R.layout.sfps_enroll,
             container,
             false,
         )
@@ -147,12 +148,13 @@ class EnrollSfpsFragment : Fragment(R.layout.sfps_enroll) {
         Log.d(TAG, "onViewCreated: immobile=$immobileFpsCount")
         shouldBackToPreviousPageWhenRestart =
             savedInstanceState?.getBoolean(KEY_BACK_WHEN_RESTART, false) ?: false
-        glifLayout = view.requireViewById(R.id.setup_wizard_layout)
+        glifLayout = view.requireViewById(com.google.android.settings.R.id.setup_wizard_layout)
         glifUseCase = GlifLayoutUseCase(glifLayout)
         viewModel.onConfigurationChanged(resources.configuration)
         viewModel.onUpdateOrientation(requireContext().display.rotation)
         progressLottieLayout = view.requireViewById(AR.id.progress_lottie)
-        illustrationLottie = view.requireViewById(R.id.illustration_lottie)
+        illustrationLottie =
+            view.requireViewById(com.google.android.settings.R.id.illustration_lottie)
         helpAnimation = SfpsAnimation.enrollShakeAnimation(progressLottieLayout)
         progressBar = view.requireViewById(AR.id.fingerprint_progress_bar)
         progressBar.progressBackgroundTintMode = PorterDuff.Mode.SRC
@@ -561,7 +563,8 @@ class EnrollSfpsFragment : Fragment(R.layout.sfps_enroll) {
                     SfpsStageModel.Fingertip,
                     SfpsStageModel.LeftEdge,
                     SfpsStageModel.NoAnimation,
-                    SfpsStageModel.RightEdge -> R.raw.sfps_lift_then_touch_lottie_expressive
+                    SfpsStageModel.RightEdge ->
+                        com.google.android.settings.R.raw.sfps_lift_then_touch_lottie_expressive
                 }
             } else {
                 when (stage) {
@@ -693,7 +696,10 @@ class EnrollSfpsFragment : Fragment(R.layout.sfps_enroll) {
 
     private fun setupEnrollIllustrationAnim(lottieView: LottieAnimationView) {
         val colors =
-            requireContext().resources.getStringArray(R.array.sfps_enroll_illustration).toList()
+            requireContext()
+                .resources
+                .getStringArray(com.google.android.settings.R.array.sfps_enroll_illustration)
+                .toList()
         LottieAnimationHelper.get().applyColor(requireContext(), lottieView, colors)
     }
 

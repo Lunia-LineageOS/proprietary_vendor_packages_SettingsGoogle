@@ -35,6 +35,7 @@ import com.android.settings.R as AR
 import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingAction
 import com.android.settingslib.qrcode.QrCamera
 import com.google.android.settings.R
+import com.google.android.settings.biometrics.R as BiometricsR
 import com.google.android.settings.biometrics.fingerprint.ui.view.GlifLayoutUseCase
 import com.google.android.settings.biometrics.fingerprint.ui.view.NavOptionsUseCase
 import com.google.android.settings.biometrics.fingerprint.ui.viewmodel.AccessibilityViewModel
@@ -199,7 +200,7 @@ class SpQrCodeScannerFragment :
     private fun startEnroll() {
         findNavController()
             .navigate(
-                R.id.action_sp_qr_code_scanner_to_enrolling,
+                BiometricsR.id.action_sp_qr_code_scanner_to_enrolling,
                 null,
                 NavOptionsUseCase.newBackToFindSensorNavOptions(),
             )

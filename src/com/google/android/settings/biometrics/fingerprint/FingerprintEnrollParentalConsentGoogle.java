@@ -10,15 +10,16 @@ import android.widget.TextView;
 
 import com.android.settings.biometrics.fingerprint.FingerprintEnrollParentalConsent;
 
-import com.google.android.settings.R;
+import com.google.android.settings.biometrics.R;
 import com.google.android.setupdesign.util.ThemeHelper;
 
 public class FingerprintEnrollParentalConsentGoogle extends FingerprintEnrollParentalConsent {
     public static final int[] CONSENT_STRING_RESOURCES = {
         com.android.settings.R.string
                 .security_settings_fingerprint_enroll_consent_introduction_title,
-        R.string.security_settings_fingerprint_enroll_consent_message,
-        R.string.security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1,
+        com.google.android.settings.R.string.security_settings_fingerprint_enroll_consent_message,
+        com.google.android.settings.R.string
+                .security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1,
         R.string.security_settings_face_enroll_introduction_secure_and_helpful_message_2,
         com.android.settings.R.string
                 .security_settings_fingerprint_enroll_introduction_footer_title_consent_1,
@@ -37,7 +38,9 @@ public class FingerprintEnrollParentalConsentGoogle extends FingerprintEnrollPar
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setDescriptionText(R.string.security_settings_fingerprint_enroll_consent_message);
+        setDescriptionText(
+                com.google.android.settings.R.string
+                        .security_settings_fingerprint_enroll_consent_message);
         ((TextView) findViewById(R.id.footer_message_7))
                 .setText(
                         R.string
@@ -86,6 +89,8 @@ public class FingerprintEnrollParentalConsentGoogle extends FingerprintEnrollPar
     @Override
     protected void updateDescriptionText() {
         super.updateDescriptionText();
-        setDescriptionText(R.string.security_settings_fingerprint_enroll_consent_message);
+        setDescriptionText(
+                com.google.android.settings.R.string
+                        .security_settings_fingerprint_enroll_consent_message);
     }
 }

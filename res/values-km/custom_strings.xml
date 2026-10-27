@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">រៀបចំការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃ</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">រៀបចំការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃសម្រាប់ការងារ</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">ឥឡូវនេះ អ្នកអាចប្រើស្នាមម្រាមដៃរបស់អ្នក ដើម្បីដោះសោទូរសព្ទរបស់អ្នក ឬផ្ទៀងផ្ទាត់ថាជាអ្នក។ ដើម្បីទទួលបានភាពបត់បែនអស្ចារ្យបំផុត សូមបញ្ចូលស្នាមម្រាមដៃមួយទៀត។</string>
-    <string name="delete_all_fps_dialog_cancel_button">កុំទាន់</string>
-    <string name="delete_all_fps_dialog_delete_button">រៀបចំ​ឥឡូវនេះ</string>
-    <string name="delete_all_fps_dialog_msg">សកម្មភាពនេះនឹងលុបស្នាមម្រាមដៃបច្ចុប្បន្នរបស់អ្នកទាំងអស់ ហើយអ្នកនឹងមិនអាចប្រើស្នាមម្រាមដៃរបស់អ្នកដើម្បីដោះសោទូរសព្ទរបស់អ្នក ឬផ្ទៀងផ្ទាត់អត្តសញ្ញាណរបស់អ្នកបានទេ រហូតទាល់តែការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃត្រូវបានរៀបចំម្ដងទៀត។</string>
-    <string name="delete_all_fps_dialog_title">រៀបចំការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃឬ?</string>
     <string name="enroll_usudfps_fingertip_title_simple">ប៉ះចុងម្រាមដៃរបស់អ្នក</string>
     <string name="enroll_usudfps_left_edge_title_simple">ប៉ះគែមខាងឆ្វេង</string>
     <string name="enroll_usudfps_right_edge_title_simple">ប៉ះគែមខាងស្ដាំ</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">សេនស័រចាប់ស្នាមម្រាមដៃនឹងមាននៅលើអេក្រង់បន្ទាប់</string>
     <string name="find_usudfps_with_sp_setup_sp_button">រៀបចំដោយមានកញ្ចក់​ការពារ​អេក្រង់</string>
     <string name="fingerprint_acquired_immobile_simple">រេបញ្ឆិតម្ដងបន្តិចៗ</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">បញ្ចូលស្នាមម្រាមដៃផ្សេងទៀត</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">ឥឡូវនេះ អ្នកអាចប្រើស្នាមម្រាមដៃរបស់អ្នក ដើម្បីដោះសោទូរសព្ទរបស់អ្នក ឬផ្ទៀងផ្ទាត់ថាជាអ្នក។ អ្នកអាចបញ្ចូលស្នាមម្រាមដៃមួយទៀត ដើម្បីទទួលបានភាពងាយស្រួលបន្ថែម។</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">កាលណាអ្នកប្រើការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃកាន់តែច្រើន នោះមុខងារនេះនឹងកាន់តែប្រសើរ។ ហើយអ្នកអាចបញ្ចូលស្នាមម្រាមដៃបានច្រើនទៀតផង។</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">កាលណាអ្នកប្រើការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃកាន់តែច្រើន នោះមុខងារនេះនឹងកាន់តែប្រសើរ។ ហើយអ្នកអាចបញ្ចូលស្នាមម្រាមដៃកាន់តែច្រើន ដើម្បីទទួលបានភាពងាយស្រួលបន្ថែម។</string>
-    <string name="fingerprint_enroll_finish_title">គ្មានបញ្ហា​អ្វីទេ!</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">បានបញ្ចូល​ស្នាមម្រាមដៃ​ 1</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">សេនស័រចាប់ស្នាមម្រាមដៃ​ស្ថិតនៅលើប៊ូតុង​ថាមពល នៅជាប់ប៊ូតុង​កម្រិត​សំឡេងនៅចំហៀងនៃឧបករណ៍របស់អ្នក។ ដើម្បីទទួលបានភាពបត់បែនអស្ចារ្យបំផុត សូមរៀបចំម្រាមដៃយ៉ាងហោច 1 លើប្រអប់ដៃ​ទាំង​សង​ខាង។</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">កូដ QR ត្រឹមត្រូវ</string>
     <string name="fingerprint_sp_qr_code_error">កូដ QR នេះមិនមែនសម្រាប់កញ្ចក់​ការពារ​អេក្រង់ដែលមានការទទួលស្គាល់ទេ</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">ដាក់លេខកូដនៅលើកញ្ចប់កញ្ចក់​ការពារ​អេក្រង់នៅក្នុងស៊ុម</string>
     <string name="fingerprint_sp_title_got_it">យល់ហើយ!</string>
     <string name="fingerprint_sp_title_scan_qr_code">ស្កេនកូដ QR</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">សេនស័រចាប់ស្នាមម្រាមដៃនឹងមាននៅលើអេក្រង់បន្ទាប់។ សម្រាប់ភាពបត់បែនដ៏អស្ចារ្យបំផុត សូមរៀបចំយ៉ាងហោចម្រាមដៃ 1 លើប្រអប់ដៃ​ទាំង​សង​ខាង។</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">ជូតអេក្រង់របស់អ្នក ដើម្បីសម្អាតស្នាមឆ្នូត ប្រតាក ឬប្រឡាក់។ ការធ្វើបែបនេះជួយថតរូបភាពស្នាមម្រាមដៃកាន់តែច្បាស់។</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">សម្អាតអេក្រង់របស់អ្នក មុនពេលបន្ត</string>
-    <string name="frr_notification_button_got_it">យល់ហើយ</string>
-    <string name="frr_notification_description">ដើម្បីទទួលបានប្រតិបត្តិការល្អបំផុត សូមអនុវត្តតាមគន្លឹះទាំងនេះ៖</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;ស្វែងយល់បន្ថែម&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">ប្រើកញ្ចក់​ការពារ​អេក្រង់ដែលបានទទួលស្គាល់ពី Made for Google។ កញ្ចក់​ការពារ​អេក្រង់ផ្សេងទៀតអាចរំខានដល់សេនស័រ និងរារាំងមិនឱ្យវាដំណើរការប្រកបដោយភាពជឿទុកចិត្តបាន។</string>
-    <string name="frr_notification_non_mfg_sp_title">ប្រើកញ្ចក់​ការពារ​អេក្រង់ដែលមានការទទួលស្គាល់</string>
-    <string name="frr_notification_reset_fingerprint_button">លុប រួចរៀបចំការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃ</string>
-    <string name="frr_notification_reset_fingerprint_description">ជួនកាល ការធ្វើបែបនេះអាចដោះស្រាយបញ្ហាបាន ជាពិសេសប្រសិនបើអ្នកបានបញ្ចូល ឬដកកញ្ចក់​ការពារ​អេក្រង់ចេញថ្មីៗនេះ</string>
-    <string name="frr_notification_reset_fingerprint_title">រៀបចំការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃម្ដងទៀត</string>
-    <string name="frr_notification_screen_protector_description">វាអាចប៉ះពាល់ដល់ការសម្គាល់ស្នាមម្រាមដៃ។ ប្រើកញ្ចក់​ការពារ​អេក្រង់ដែលបានទទួលស្គាល់ពី Made for Google។ កញ្ចក់​ការពារ​អេក្រង់ផ្សេងទៀតអាចរំខានដល់សេនស័រ និងរារាំងមិនឱ្យវាដំណើរការប្រកបដោយភាពជឿទុកចិត្តបាន។</string>
-    <string name="frr_notification_screen_protector_title">ប្រសិនបើអ្នកប្រើកញ្ចក់​ការពារ​អេក្រង់...</string>
-    <string name="frr_notification_set_face_unlock_description">ប្រើ​ការដោះ​សោ​ដោយស្កេន​មុខ នៅពេលដែល​មិនស្គាល់​ស្នាមម្រាមដៃ​របស់អ្នក ដូចជា​នៅពេលដែល​ម្រាមដៃ​របស់អ្នក​សើមជាដើម</string>
-    <string name="frr_notification_set_face_unlock_title">រៀបចំ​ការដោះ​សោ​ដោយស្កេន​មុខ</string>
-    <string name="frr_notification_title">មានបញ្ហាពាក់ព័ន្ធនឹងការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃឬ?</string>
     <string name="protector_edu_subtitle">កញ្ចក់​ការពារ​អេក្រង់អាចប៉ះពាល់ដល់ការសម្គាល់ស្នាមម្រាមដៃ។ ដើម្បីទទួលបានប្រតិបត្តិការនៃការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃល្អបំផុតដោយប្រើកញ្ចក់​ការពារ​អេក្រង់៖</string>
     <string name="screen_protector_edu_apply_instruction">ប្រសិនបើអាច សូមប្រើកញ្ចក់​ការពារ​អេក្រង់មុនពេលរៀបចំការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃ និងបំបាត់ពពុះទាំងឡាយ។ ប្រសិនបើអ្នកចាំបាច់ត្រូវប្រើវាបន្ទាប់ពីរៀបចំ សូមស្កេនកូដ QR នៅពេលក្រោយដោយប្រើកាមេរ៉ារបស់អ្នក។</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;ស្វែងយល់បន្ថែមតាមរយៈ g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">ឥឡូវនេះ ពេលដែលអ្នកលើកទូរសព្ទរបស់អ្នកឡើង ឬចុចអេក្រង់ អ្នកអាចប្រើមុខរបស់អ្នកដើម្បីដោះសោ។\n\nដោះ​សោ​តាម​​ទម្រង់​មុខដំណើរការ​បានល្អបំផុត នៅពេលដែលមានពន្លឺគ្រប់គ្រាន់ ហើយអ្នកមិនពាក់ម៉ាស់ ឬវ៉ែនតាខ្មៅ។</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">ឥឡូវនេះ ពេលដែលអ្នកលើកទូរសព្ទរបស់អ្នកឡើង ឬចុចអេក្រង់ អ្នកអាចប្រើមុខរបស់អ្នកដើម្បីដោះសោ។ ត្រូវតែបត់ទូរសព្ទរបស់អ្នក ដើម្បីប្រើការដោះ​សោ​ដោយស្កេន​មុខ។\n\nការដោះ​សោ​ដោយស្កេន​មុខដំណើរការ​បានល្អបំផុត នៅពេលដែលមានពន្លឺគ្រប់គ្រាន់ ហើយអ្នកមិនពាក់ម៉ាស់ ឬវ៉ែនតាខ្មៅ។</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">អ្នក និងកូនរបស់អ្នកអាច​លុបគំរូមុខ​របស់គាត់ ឬបិទ​ការដោះ​សោ​ដោយស្កេន​មុខ​បានគ្រប់ពេល​នៅក្នុង​ការកំណត់។ គំរូមុខ​ត្រូវបានរក្សាទុក​នៅលើទូរសព្ទ រហូតទាល់តែ​គំរូមុខទាំងនោះត្រូវបានលុប។</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">អ្នកអាច​លុបគំរូមុខ​របស់អ្នក ឬបិទ​ការដោះ​សោ​ដោយស្កេន​មុខ​បានគ្រប់ពេល​នៅក្នុង​ការកំណត់។ គំរូមុខ​ត្រូវបានរក្សាទុក​នៅលើទូរសព្ទ រហូតទាល់តែ​អ្នកលុបគំរូ​ទាំង​នោះ។</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">ការដោះ​សោ​ដោយស្កេន​មុខបង្កើតគំរូមុខរបស់កូនអ្នក​ខុសប្លែកពីគេ ដើម្បីផ្ទៀងផ្ទាត់​ថាជាគាត់។ ដើម្បីបង្កើត​គំរូមុខនេះ​ក្នុងអំឡុងពេល​រៀបចំ កូនរបស់អ្នកនឹងត្រូវ​ថតរូបមុខ​របស់គាត់​ពីជ្រុងខុសៗគ្នា។\n\nនៅពេល​គាត់ប្រើការដោះ​សោ​ដោយស្កេន​មុខ រូបភាពត្រូវបានប្រើ ដើម្បីធ្វើបច្ចុប្បន្នភាព​គំរូមុខរបស់គាត់។ រូបភាព​ដែលប្រើ​សម្រាប់​បង្កើត​គំរូមុខ​របស់គាត់​មិនត្រូវបាន​រក្សាទុក​ទេ ប៉ុន្តែ​គំរូមុខនោះ​ត្រូវបានរក្សាទុក​ដោយសុវត្ថិភាព​នៅលើ​ទូរសព្ទ និង​មិនចាកចេញ​ពីទូរសព្ទឡើយ​។ ការដំណើរការ​ទាំងអស់​ប្រព្រឹត្តទៅ​ដោយសុវត្ថិភាព​នៅលើ​ទូរសព្ទ។</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">ស្វែងយល់បន្ថែម​តាមរយៈ &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">ប្រើមុខរបស់អ្នកដើម្បីដោះសោទូរសព្ទរបស់អ្នក ឬផ្ទៀងផ្ទាត់ថាជាអ្នកនៅក្នុងកម្មវិធី</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">មុខរបស់អ្នកត្រូវបានរក្សាទុកតែនៅលើឧបករណ៍ប៉ុណ្ណោះ និងពុំត្រូវបានផ្ញើទៅ Google ទេ</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">ដើម្បីទទួលបានបទពិសោធប្រើប្រាស់ល្អបំផុត សូមរៀបចំការដោះ​សោ​ដោយស្កេន​មុខ រួមជាមួយការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃ</string>
     <string name="security_settings_face_enroll_next">បន្ទាប់</string>
     <string name="security_settings_face_enroll_partial_message">ដើម្បីកែលម្អ​ប្រតិបត្តិការ អ្នកអាចរៀបចំ​ការដោះ​សោ​ដោយស្កេន​មុខ​ម្ដងទៀត​នៅក្នុង \"ការកំណត់\"</string>
     <string name="security_settings_face_enroll_partial_start_over">ចាប់ផ្ដើម​ឡើងវិញ</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">ទូរសព្ទ​ក្ដៅ​ពេក</string>
     <string name="security_settings_fingerprint_enroll_consent_message">ប្រើស្នាមម្រាមដៃកូន​របស់អ្នក ដើម្បីដោះសោទូរសព្ទ​របស់គាត់ ឬផ្ទៀងផ្ទាត់ថាជាគាត់នៅក្នុងកម្មវិធី</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">ស្នាមម្រាមដៃកូនរបស់អ្នកត្រូវបានរក្សាទុកតែនៅលើឧបករណ៍ប៉ុណ្ណោះ និងពុំត្រូវបានផ្ញើទៅ Google ទេ</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">មានសុវត្ថិភាព និងមានប្រយោជន៍</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">ប្រើស្នាមម្រាមដៃរបស់អ្នកដើម្បីដោះសោទូរសព្ទរបស់អ្នក ឬផ្ទៀងផ្ទាត់ថាជាអ្នកនៅក្នុងកម្មវិធី</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">ប្រសិនបើអ្នកមានកញ្ចក់​ការពារ​អេក្រង់ សូមប្រើវាមុនពេលរៀបចំស្នាមម្រាមដៃរបស់អ្នក ដើម្បីឱ្យមានប្រតិបត្តិការល្អបំផុត។\n\nដើម្បីទទួលបាន​លទ្ធផល​ល្អបំផុត សូមប្រើកញ្ចក់​ការពារ​អេក្រង់​ដែលបានទទួលស្គាល់​ពី Made for Google។ បើប្រើកញ្ចក់​ការពារ​អេក្រង់ផ្សេងទៀត ស្នាមម្រាមដៃរបស់អ្នកអាចមិនដំណើរការ។</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">ស្នាមម្រាមដៃរបស់អ្នកត្រូវបានរក្សាទុកតែនៅលើឧបករណ៍ប៉ុណ្ណោះ និងពុំត្រូវបានផ្ញើទៅ Google ទេ</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">ដើម្បីទទួលបានបទពិសោធប្រើប្រាស់ល្អបំផុត សូមបញ្ចូលស្នាមម្រាមដៃ 2 ឬច្រើន និងរៀបចំការដោះ​សោ​ដោយស្កេន​មុខ</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">ស្វែងយល់បន្ថែមតាមរយៈ &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s។ របារ​ដំណើរការ។ ចុច​ពីរដងដើម្បី%2$s។</string>
-    <string name="security_settings_udfps_enroll_start_message_new">ដាក់ម្រាមដៃរបស់អ្នកឱ្យរាបស្មើនៅលើសេនស័រ រហូតទាល់តែអ្នកមានអារម្មណ៍ថាញ័រ។ រៀបចំម្រាមដៃតែ 1 គត់ក្នុងមួយលើក។</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">ដាក់ម្រាមដៃរបស់អ្នកឱ្យរាបស្មើនៅលើសេនស័រ រហូតទាល់តែរបារ​ដំណើរការពេញ។ រៀបចំម្រាមដៃតែ 1 គត់ក្នុងមួយលើក។</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">បញ្ជាក់</string>
     <string name="security_settings_udfps_screen_protector_description_none">គ្មានកញ្ចក់​ការពារ​អេក្រង់</string>
     <string name="security_settings_udfps_screen_protector_keywords">កញ្ចក់​ការពារ​អេក្រង់</string>

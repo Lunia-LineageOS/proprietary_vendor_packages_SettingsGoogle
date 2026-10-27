@@ -196,7 +196,8 @@ public class UdfpsEnrollHelper {
 
     private List<PointF> getCustomizedGuidedEnrollmentPoints() {
         Resources res = mContext.getResources();
-        if (!res.getBoolean(R.bool.config_customized_guided_enroll)) {
+        if (!res.getBoolean(
+                com.google.android.settings.biometrics.R.bool.config_customized_guided_enroll)) {
             return null;
         }
         String[] pointStrings = res.getStringArray(R.array.customized_guided_enroll_points);

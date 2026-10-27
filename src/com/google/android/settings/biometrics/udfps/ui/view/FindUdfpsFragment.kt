@@ -15,7 +15,7 @@ import com.airbnb.lottie.LottieAnimationView
 import com.android.settings.R as AR
 import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingAction
 import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingScreen
-import com.google.android.settings.R
+import com.google.android.settings.biometrics.R
 import com.google.android.settings.biometrics.fingerprint.ui.view.GlifLayoutUseCase
 import com.google.android.settings.biometrics.fingerprint.ui.view.NavOptionsUseCase
 import com.google.android.settings.biometrics.fingerprint.ui.view.SkipFindFpsDialog
@@ -31,7 +31,7 @@ import com.google.android.setupdesign.util.LottieAnimationHelper
 import com.google.android.setupdesign.util.ThemeHelper
 import kotlinx.coroutines.launch
 
-class FindUdfpsFragment : Fragment(R.layout.find_udfps) {
+class FindUdfpsFragment : Fragment(com.google.android.settings.R.layout.find_udfps) {
 
     private val viewModel: FindUdfpsViewModel by
         viewModels(extrasProducer = { requireActivity().defaultViewModelCreationExtras }) {
@@ -63,7 +63,10 @@ class FindUdfpsFragment : Fragment(R.layout.find_udfps) {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         if (useExpressStyle) {
-            val lottieView = view.requireViewById<LottieAnimationView>(R.id.illustration_lottie)
+            val lottieView =
+                view.requireViewById<LottieAnimationView>(
+                    com.google.android.settings.R.id.illustration_lottie
+                )
             lottieView.setAnimation(R.raw.fingerprint_udfps_edu_lottie_expressive)
             val colors =
                 requireContext()
@@ -118,7 +121,9 @@ class FindUdfpsFragment : Fragment(R.layout.find_udfps) {
                     .build()
             footerBarMixin.primaryButton.setOnClickListener(onNextClickListener)
             val lottieView =
-                glifLayout.requireViewById<LottieAnimationView>(R.id.illustration_lottie)
+                glifLayout.requireViewById<LottieAnimationView>(
+                    com.google.android.settings.R.id.illustration_lottie
+                )
             lottieView.setOnClickListener {
                 if (lottieView.isAnimating) {
                     lottieView.pauseAnimation()

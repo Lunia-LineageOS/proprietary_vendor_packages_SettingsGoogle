@@ -20,7 +20,7 @@ import com.android.settings.R as AR
 import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingAction
 import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingScreen
 import com.android.settings.biometrics.fingerprint.FingerprintEnrollFinish
-import com.google.android.settings.R
+import com.google.android.settings.biometrics.R
 import com.google.android.settings.biometrics.fingerprint.ui.view.GlifLayoutUseCase
 import com.google.android.settings.biometrics.fingerprint.ui.view.NavOptionsUseCase
 import com.google.android.settings.biometrics.fingerprint.ui.viewmodel.FingerprintEnrollResult
@@ -87,7 +87,7 @@ class ConfirmSfpsFragment : Fragment(AR.layout.fingerprint_enroll_finish) {
     ): View? =
         inflater.inflate(
             if (useExpressStyle) {
-                R.layout.sfps_enroll_finish_expressive
+                com.google.android.settings.R.layout.sfps_enroll_finish_expressive
             } else {
                 AR.layout.sfps_enroll_finish
             },
@@ -99,7 +99,12 @@ class ConfirmSfpsFragment : Fragment(AR.layout.fingerprint_enroll_finish) {
         super.onViewCreated(view, savedInstanceState)
         Log.d(TAG, "onViewCreated")
         val glifLayoutUseCase =
-            GlifLayoutUseCase(requireView().requireViewById<GlifLayout>(R.id.setup_wizard_layout))
+            GlifLayoutUseCase(
+                requireView()
+                    .requireViewById<GlifLayout>(
+                        com.google.android.settings.R.id.setup_wizard_layout
+                    )
+            )
         val activity = requireActivity()
         view.requireViewById<View>(AR.id.sfps_enrollment_finish_content_frame)
         lifecycleScope.launch {
@@ -172,7 +177,10 @@ class ConfirmSfpsFragment : Fragment(AR.layout.fingerprint_enroll_finish) {
     }
 
     private fun setupExpressiveStyleAnim(view: View) {
-        val lottieView = view.findViewById<LottieAnimationView>(R.id.sfps_enroll_finish_lottie)!!
+        val lottieView =
+            view.findViewById<LottieAnimationView>(
+                com.google.android.settings.R.id.sfps_enroll_finish_lottie
+            )!!
         lottieView.setAnimation(R.raw.fingerprint_enroll_finish_expressive)
         lottieView.visibility = View.VISIBLE
         lottiePlayPauseUseCase =

@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">設定指紋解鎖</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">設定用於工作設定檔的「指紋解鎖」</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">你現可使用指紋解鎖手機或驗證身分。建議新增其他指紋，操作裝置更方便。</string>
-    <string name="delete_all_fps_dialog_cancel_button">暫時不要</string>
-    <string name="delete_all_fps_dialog_delete_button">立即設定</string>
-    <string name="delete_all_fps_dialog_msg">這會刪除你目前的所有指紋。除非你重新設定「指紋解鎖」，否則你無法使用指紋解鎖手機或驗證身分。</string>
-    <string name="delete_all_fps_dialog_title">要設定「指紋解鎖」嗎？</string>
     <string name="enroll_usudfps_fingertip_title_simple">用指尖輕觸</string>
     <string name="enroll_usudfps_left_edge_title_simple">輕觸左側邊緣</string>
     <string name="enroll_usudfps_right_edge_title_simple">輕觸右側邊緣</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">下一個畫面會出現指紋感應器</string>
     <string name="find_usudfps_with_sp_setup_sp_button">貼好螢幕保護貼後設定</string>
     <string name="fingerprint_acquired_immobile_simple">每次稍微調整</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">新增其他指紋</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">你現可使用指紋解鎖手機或驗證身分。你亦可新增其他指紋，解鎖更方便。</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">「指紋解鎖」用得越多，效果越佳。而且，你可新增更多指紋。</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">「指紋解鎖」用得越多，準確度會越高。你還可以新增更多指紋，解鎖更方便。</string>
-    <string name="fingerprint_enroll_finish_title">大功告成！</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">已新增 1 個指紋</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">指紋感應器位於開關按鈕 (裝置側邊的音量按鈕旁)。建議雙手至少各設定 1 隻手指，操作裝置更方便。</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">有效的 QR 碼</string>
     <string name="fingerprint_sp_qr_code_error">此 QR 碼不適用於未認證的螢幕保護貼</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">將掃瞄方框對準螢幕保護貼包裝上的二維碼</string>
     <string name="fingerprint_sp_title_got_it">成功了！</string>
     <string name="fingerprint_sp_title_scan_qr_code">掃瞄二維碼</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">下一個畫面會顯示指紋感應器。建議每隻手至少設定 1 隻手指的指紋，操作裝置更方便。</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">抹除螢幕上的痕跡、污點、污跡，這樣，系統較容易擷取到更清晰的指紋圖像。</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">請先清潔螢幕再繼續操作</string>
-    <string name="frr_notification_button_got_it">知道了</string>
-    <string name="frr_notification_description">為達至最佳效果，請按照以下步驟操作：</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;瞭解詳情&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">使用已通過 Made for Google 認證的螢幕保護貼。其他螢幕保護貼可能會干擾感應器，導致感應器無法順利運作。</string>
-    <string name="frr_notification_non_mfg_sp_title">請使用已通過認證的螢幕保護貼</string>
-    <string name="frr_notification_reset_fingerprint_button">刪除並設定「指紋解鎖」</string>
-    <string name="frr_notification_reset_fingerprint_description">如果你最近曾貼上或移除螢幕保護貼，此操作可能可修正部分問題。</string>
-    <string name="frr_notification_reset_fingerprint_title">重新設定「指紋解鎖」</string>
-    <string name="frr_notification_screen_protector_description">這可能會影響指紋識別功能。使用已通過 Made for Google 認證的螢幕保護貼。其他螢幕保護貼可能會干擾感應器，導致感應器無法順利運作。</string>
-    <string name="frr_notification_screen_protector_title">如使用螢幕保護貼…</string>
-    <string name="frr_notification_set_face_unlock_description">在系統無法識別指紋時 (如手指弄濕) 使用「面孔解鎖」</string>
-    <string name="frr_notification_set_face_unlock_title">設定「面孔解鎖」</string>
-    <string name="frr_notification_title">使用「指紋解鎖」時遇到問題嗎？</string>
     <string name="protector_edu_subtitle">螢幕保護貼會影響指紋識別效能。如要在使用螢幕保護貼的情況下獲取最佳的「指紋解鎖」效能：</string>
     <string name="screen_protector_edu_apply_instruction">在可能的情況下，在設定「指紋解鎖」前貼上螢幕保護貼，並按平任何氣泡。如需在設定後貼上，請稍後使用裝置相機掃瞄二維碼。</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;詳情請參閱 g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">現在拿起手機或輕按螢幕，即可使用面孔解鎖。\n\n要「面孔解鎖」發揮最佳效果，建議確保光線充足，且不要戴上口罩或深色眼鏡。</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">現在拿起手機或輕按螢幕，即可使用面孔解鎖。手機必須處於摺疊狀態，才能使用「面孔解鎖」。\n\n要「面孔解鎖」發揮最佳效果，建議確保光線充足，且不要戴上口罩或深色眼鏡。</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">你和子女可隨時前往「設定」刪除其面部模型或停用「面孔解鎖」。面部模型會儲存在手機上，直到刪除為止。</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">你隨時可以前往「設定」刪除面部模型或停用「面孔解鎖」。面部模型會儲存在手機上，直到你刪除為止。</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">「面孔解鎖」功能會為你子女建立獨一無二的面部模型，以便系統驗證其身分。如要在設定過程中建立此面部模型，子女需要從不同角度拍攝面孔。\n\n子女使用「面孔解鎖」時產生的圖片會作為系統更新面部模型的依據。系統絕不會儲存你子女用來建立面部模型的圖片，只會將面部模型安全地儲存在手機上，但絕不會傳送到手機以外的地方。整個處理過程都會安全地在手機上進行。</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">詳情請參閱 &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">使用面孔解鎖手機或在應用程式中驗證你的身分</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">你的面孔只儲存在裝置上，不會傳送給 Google</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">為達至最佳體驗，請一併設定「面孔解鎖」和「指紋解鎖」</string>
     <string name="security_settings_face_enroll_next">繼續</string>
     <string name="security_settings_face_enroll_partial_message">如要提升效能，你可以前往「設定」重新設定「面孔解鎖」</string>
     <string name="security_settings_face_enroll_partial_start_over">重新開始</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">手機過熱</string>
     <string name="security_settings_fingerprint_enroll_consent_message">使用子女的指紋解鎖其手機或在應用程式中驗證其身分</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">子女的指紋只儲存在裝置上，不會傳送給 Google</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">安全又實用</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">使用指紋解鎖手機或在應用程式中驗證你的身分</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">如要使用螢幕保護貼，請先貼上再設定指紋，這樣指紋識別的效果最好。\n\n為達至最佳效果，請使用 Made For Google 認證的螢幕保護貼。如使用其他螢幕保護貼，系統可能無法辨識你的指紋。</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">你的指紋只儲存在裝置上，不會傳送給 Google</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">為達至最佳體驗，請至少新增 2 個指紋，並設定「面孔解鎖」</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">詳情請參閱 &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s。進度列。㩒兩下就可以%2$s。</string>
-    <string name="security_settings_udfps_enroll_start_message_new">請將手指平放在感應器上，直至感到震動為止。每次只可設定 1 隻手指。</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">請將手指平放在感應器上，直至進度列填滿為止。每次只可設定 1 隻手指。</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">確認</string>
     <string name="security_settings_udfps_screen_protector_description_none">沒有螢幕保護貼</string>
     <string name="security_settings_udfps_screen_protector_keywords">螢幕保護貼</string>

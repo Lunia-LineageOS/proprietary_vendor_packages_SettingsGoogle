@@ -17,7 +17,7 @@ import androidx.lifecycle.viewmodel.MutableCreationExtras
 import androidx.navigation.fragment.NavHostFragment
 import com.android.settings.R as AR
 import com.android.settings.biometrics.BiometricEnrollBase
-import com.google.android.settings.R
+import com.google.android.settings.biometrics.R
 import com.google.android.settings.biometrics.fingerprint.factory.FingerprintViewModelFactory
 import com.google.android.settings.biometrics.fingerprint.ui.model.CredentialModelImpl
 import com.google.android.settings.biometrics.fingerprint.ui.view.ThemeUseCase

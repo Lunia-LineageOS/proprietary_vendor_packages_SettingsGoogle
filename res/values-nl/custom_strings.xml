@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Ontgrendelen met vingerafdruk instellen</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Ontgrendelen met vingerafdruk instellen voor werkprofiel</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">Je kunt nu je vingerafdruk gebruiken om je telefoon te ontgrendelen of te laten verifiëren dat jij het bent. Voeg nog een vingerafdruk toe voor de meeste flexibiliteit.</string>
-    <string name="delete_all_fps_dialog_cancel_button">Niet nu</string>
-    <string name="delete_all_fps_dialog_delete_button">Nu instellen</string>
-    <string name="delete_all_fps_dialog_msg">Hiermee worden al je huidige vingerafdrukken verwijderd. Je kunt je vingerafdruk niet meer gebruiken om je telefoon te ontgrendelen of je identiteit te laten verifiëren totdat je Ontgrendelen met vingerafdruk opnieuw hebt ingesteld.</string>
-    <string name="delete_all_fps_dialog_title">Ontgrendelen met vingerafdruk instellen?</string>
     <string name="enroll_usudfps_fingertip_title_simple">Raak aan met je vingertop</string>
     <string name="enroll_usudfps_left_edge_title_simple">Raak aan met de linker vingerrand</string>
     <string name="enroll_usudfps_right_edge_title_simple">Raak aan met de rechter vingerrand</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">De vingerafdruksensor staat op het volgende scherm</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Instellen met screenprotector</string>
     <string name="fingerprint_acquired_immobile_simple">Pas de positie steeds een beetje aan</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">Nog een vingerafdruk toevoegen</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Je kunt nu je vingerafdruk gebruiken om je telefoon te ontgrendelen of voor verificatie dat jij het bent. Je kunt nog een vingerafdruk toevoegen voor extra gebruiksgemak.</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Hoe vaker je Ontgrendelen met vingerafdruk gebruikt, hoe beter het wordt. Je kunt ook nog meer vingerafdrukken toevoegen.</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Hoe vaker je Ontgrendelen met vingerafdruk gebruikt, hoe beter het wordt. Je kunt ook nog meer vingerafdrukken toevoegen voor extra gebruiksgemak.</string>
-    <string name="fingerprint_enroll_finish_title">Dat ziet er goed uit.</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">1 vingerafdruk toegevoegd</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">De vingerafdruksensor zit in de aan/uit-knop, naast de volumeknoppen aan de zijkant van je apparaat. Stel voor de meeste flexibiliteit minstens 1 vinger van elke hand in.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Geldige QR-code</string>
     <string name="fingerprint_sp_qr_code_error">Deze QR-code is niet voor een gecertificeerde screenprotector</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">Plaats de code op de verpakking van de screenprotector in het kader</string>
     <string name="fingerprint_sp_title_got_it">OK</string>
     <string name="fingerprint_sp_title_scan_qr_code">De QR-code scannen</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">De vingerafdruksensor staat op het volgende scherm. Stel voor de meeste flexibiliteit minstens een vinger van elke hand in.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Maak je scherm schoon om strepen of vlekken te verwijderen. Zo kun je betere vingerafdrukfoto\'s maken.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Veeg je scherm schoon voordat je doorgaat</string>
-    <string name="frr_notification_button_got_it">OK</string>
-    <string name="frr_notification_description">Volg deze tips voor de beste prestaties:</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Meer informatie&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">Gebruik een Made for Google-screenprotector. Andere screenprotectors kunnen de sensor verstoren en voorkomen dat deze betrouwbaar werkt.</string>
-    <string name="frr_notification_non_mfg_sp_title">Gebruik een gecertificeerde screenprotector</string>
-    <string name="frr_notification_reset_fingerprint_button">Ontgrendelen met vingerafdruk verwijderen en instellen</string>
-    <string name="frr_notification_reset_fingerprint_description">Dit kan soms problemen oplossen, vooral als je recent een screenprotector hebt toegevoegd of verwijderd</string>
-    <string name="frr_notification_reset_fingerprint_title">Ontgrendelen met vingerafdruk weer instellen</string>
-    <string name="frr_notification_screen_protector_description">Dit kan de vingerafdrukherkenning beïnvloeden. Gebruik een Made for Google-screenprotector. Andere screenprotectors kunnen de sensor verstoren en voorkomen dat deze betrouwbaar werkt.</string>
-    <string name="frr_notification_screen_protector_title">Als je een screenprotector gebruikt...</string>
-    <string name="frr_notification_set_face_unlock_description">Gebruik Ontgrendelen via gezichtsherkenning als je vingerafdruk niet wordt herkend, bijvoorbeeld als je vingers nat zijn</string>
-    <string name="frr_notification_set_face_unlock_title">Stel Ontgrendelen via gezichtsherkenning in</string>
-    <string name="frr_notification_title">Heb je problemen met Ontgrendelen met vingerafdruk?</string>
     <string name="protector_edu_subtitle">Een screenprotector kan de ­herkenning van een vingerafdruk beïnvloeden. Voor de beste prestaties van Ontgrendelen met vingerafdruk wanneer je een screenprotector gebruikt, doe je het volgende:</string>
     <string name="screen_protector_edu_apply_instruction">Breng de screenprotector indien mogelijk aan voordat je Ontgrendelen met vingerafdruk instelt en zorg dat er geen luchtbellen zijn. Als je de screenprotector na het instellen wilt aanbrengen, scan je de QR-code later met je camera.</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Meer informatie op g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">Als je nu je telefoon oppakt of op het scherm tikt, kun je de telefoon ontgrendelen met je gezicht.\n\nOntgrendelen via gezichtsherkenning werkt het best als er genoeg licht is en je geen mondkapje of donkere bril draagt.</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">Als je nu je telefoon oppakt of op het scherm tikt, kun je de telefoon ontgrendelen met je gezicht. Je telefoon moet zijn dichtgevouwen om Ontgrendelen via gezichtsherkenning te gebruiken.\n\nOntgrendelen via gezichtsherkenning werkt het best als er genoeg licht is en je geen mondkapje of donkere bril draagt.</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">Jij en je kind kunnen op elk moment het gezichtsmodel van het kind verwijderen of Ontgrendelen via gezichtsherkenning uitzetten in Instellingen. Gezichtsmodellen worden opgeslagen op de telefoon totdat ze worden verwijderd.</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">Je kunt op elk moment je gezichtsmodel verwijderen of Ontgrendelen via gezichtsherkenning uitzetten in Instellingen. Gezichtsmodellen worden opgeslagen op de telefoon totdat je ze verwijdert.</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">Ontgrendelen via gezichtsherkenning maakt een uniek model van het gezicht van je kind voor verificatie. Dit gezichtsmodel wordt tijdens het instellen gemaakt door vanuit verschillende hoeken foto\'s van het gezicht van je kind te maken.\n\nAls je kind Ontgrendelen via gezichtsherkenning gebruikt, worden foto\'s gebruikt om het gezichtsmodel van je kind te updaten. De foto\'s die worden gebruikt om je gezichtsmodel te maken, worden nooit opgeslagen, maar het gezichtsmodel zelf wordt beveiligd opgeslagen op je telefoon en verlaat deze nooit. Alle verwerking vindt beveiligd plaats op de telefoon.</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">Ga voor meer informatie naar &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">Gebruik je gezicht om je telefoon te ontgrendelen of voor verificatie in apps</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Je gezicht wordt alleen op het apparaat opgeslagen en nooit naar Google gestuurd</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Stel Ontgrendelen via gezichtsherkenning in combinatie met Ontgrendelen met vingerafdruk in voor de beste functionaliteit</string>
     <string name="security_settings_face_enroll_next">Volgende</string>
     <string name="security_settings_face_enroll_partial_message">Als je de prestaties wilt verbeteren, kun je Ontgrendelen via gezichtsherkenning opnieuw instellen via Instellingen</string>
     <string name="security_settings_face_enroll_partial_start_over">Opnieuw beginnen</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">De telefoon is te heet</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Gebruik de vingerafdruk van je kind om de telefoon te ontgrendelen of te laten verifiëren dat het je kind is in apps</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">De vingerafdrukken van je kind worden alleen op het apparaat opgeslagen en nooit naar Google gestuurd</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Beveiligd en nuttig</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Gebruik je vingerafdrukken om je telefoon te ontgrendelen of te bevestigen dat jij het bent in apps</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Wil je een screenprotector gebruiken, breng die dan eerst aan op je telefoon zodat de herkenning van je vingerafdruk beter werkt.\n\nVoor de beste resultaten gebruik je een Made for Google-gecertificeerde screenprotector. Bij andere screenprotectors werkt je vingerafdruk misschien niet.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Je vingerafdrukken worden alleen op het apparaat opgeslagen en nooit naar Google gestuurd</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Voeg 2 of meer vingerafdrukken toe en stel Ontgrendelen via gezichtsherkenning in voor de beste functionaliteit</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Ga voor meer informatie naar &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Voortgangsbalk. Dubbeltik voor %2$s.</string>
-    <string name="security_settings_udfps_enroll_start_message_new">Houd je vinger plat op de sensor totdat je een trilling voelt. Stel maar 1 vinger tegelijk in.</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">Houd je vinger plat op de sensor totdat de voortgangsbalk is gevuld. Stel maar 1 vinger tegelijk in.</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">Bevestigen</string>
     <string name="security_settings_udfps_screen_protector_description_none">Geen screenprotector</string>
     <string name="security_settings_udfps_screen_protector_keywords">Screenprotector</string>

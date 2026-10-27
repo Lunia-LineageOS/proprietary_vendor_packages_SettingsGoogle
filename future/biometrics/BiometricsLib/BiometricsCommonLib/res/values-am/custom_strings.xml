@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">አሁን አይደለም</string>
+    <string name="delete_all_fps_dialog_delete_button">አሁን ያዋቅሩ</string>
+    <string name="delete_all_fps_dialog_msg">ይህ ሁሉንም የአሁን የጣት አሻራዎችዎ ይሰርዛል እና በጣት አሻራ መክፈቻ እንደገና እስከሚዋቀር ድረስ ስልክዎን ለመክፈት ወይም ማንነትዎን ለማረጋገጥ የጣት አሻራን መጠቀም አይችሉም።</string>
+    <string name="delete_all_fps_dialog_title">በጣት አሻራ መክፈቻ ይዋቀር?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">ሌላ የጣት አሻራ ያክሉ</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">አሁን ስልክዎን ለመክፈት ወይም እርስዎ መሆንዎን ለማረጋገጥ የጣት አሻራዎን መጠቀም ይችላሉ። ለተጨማሪ ምቾት ሌላ የጣት አሻራ ማከል ይችላሉ።</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">በጣት አሻራ መክፈቻን የበለጠ በተጠቀሙ ቁጥር የተሻለ ይሆናል። እና ከዚህም በላይ የጣት አሻራዎችን ማከል ይችላሉ።</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">በጣት አሻራ መክፈቻን የበለጠ በተጠቀሙ ቁጥር የተሻለ ይሆናል። እና ለተጨማሪ ምቾት ከዚህም በላይ የጣት አሻራዎችን ማከል ይችላሉ።</string>
+    <string name="fingerprint_enroll_finish_title">ጥሩ ይመስላል!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">1 የጣት አሻራ ታክሏል</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">የጣት አሻራ ዳሳሹ በሚቀጥለው ማያ ገጽ ላይ ይሆናል። ለምርጡ ተለዋዋጭነት በእያንዳንዱ እጅ ላይ ቢያንስ 1 ጣት ያዋቅሩ።</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">ማናቸውንም ጭረቶች፣ ጭምልቆችን ወይም ነጠብጣቦችን ለማስወገድ ማያ ገጽዎን ይጥረጉ። ይህ ይበልጥ ግልጽ የሆኑ የጣት አሻራ ምስሎችን ለመያዝ ይረዳል።</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">ከመቀጠልዎ በፊት ማያ ገጽዎን ያጽዱ</string>
+    <string name="frr_notification_button_got_it">ገባኝ</string>
+    <string name="frr_notification_description">ለምርጥ አፈጻጸም እነዚህን ጠቃሚ ምክሮች ይከተሉ፦</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;የበለጠ ለመረዳት&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">ለGoogle የተሠራ የእውቅና ማረጋገጫ ያለው የማያ ገጽ መከላከያ ይጠቀሙ። ሌሎች የማያ ገጽ መከላከያዎች ዳሳሹ ላይ ጣልቃ ሊገቡ እና በአስተማማኝ ሁኔታ እንዳይሠራ ሊከለክሉት ይችላሉ።</string>
+    <string name="frr_notification_non_mfg_sp_title">የእውቅና ማረጋገጫ የተሰጠው የማያ ገጽ መከላከያ ይጠቀሙ</string>
+    <string name="frr_notification_reset_fingerprint_button">ይሰርዙ እና በጣት አሻራ መክፈቻን ያዋቅሩ</string>
+    <string name="frr_notification_reset_fingerprint_description">ይህ አንዳንድ ጊዜ ችግሮችን ማስተካከል ይችላል፣ በተለይ በቅርብ ጊዜ የማያ ገፅ መከላከያ ካከሉ ወይም ካስወገዱ</string>
+    <string name="frr_notification_reset_fingerprint_title">በጣት አሻራ መክፈቻን እንደገና ያዋቅሩ</string>
+    <string name="frr_notification_screen_protector_description">የጣት አሻራ ለይቶ ማወቅ ላይ ተጽዕኖ ሊያሳድር ይችላል። ለGoogle የተሠራ የእውቅና ማረጋገጫ ያለው የማያ ገጽ መከላከያ ይጠቀሙ። ሌሎች የማያ ገጽ መከላከያዎች ዳሳሹ ላይ ጣልቃ ሊገቡ እና በአስተማማኝ ሁኔታ እንዳይሠራ ሊከለክሉት ይችላሉ።</string>
+    <string name="frr_notification_screen_protector_title">የማያ ገጽ መከላከያ ከተጠቀሙ...</string>
+    <string name="frr_notification_set_face_unlock_description">የጣት አሻራዎ ተለይቶ ሳይታወቅ ሲቀር፣ ለምሳሌ ጣትዎ እርጥብ ሲሆን በመልክ መክፈትን ይጠቀሙ</string>
+    <string name="frr_notification_set_face_unlock_title">በመልክ መክፈትን ያዋቅሩ</string>
+    <string name="frr_notification_title">በጣት አሻራ መክፈቻ ችግር እያጋጠመዎት ነው?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">በማንኛውም ጊዜ በቅንብሮች ውስጥ የእርስዎን የመልክ ሞዴል መሰረዝ ወይም በመልክ መክፈትን ማጥፋት ይችላሉ። የመልክ ሞዴሎች እስከሚሰርዟቸው ድረስ በስልኩ ላይ ይከማቻሉ።</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; ላይ የበለጠ ይወቁ</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">ስልክዎን ለመክፈት ወይም በመተግበሪያዎች ውስጥ እርስዎ መሆንዎን ለማረጋገጥ መልክዎን ይጠቀሙ</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">መልክዎ በመሣሪያ ላይ ብቻ ይከማቻል እና ወደ Google በፍጹም አይላክም</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">ለምርጥ ተሞክሮ፣ በመልክ መክፈትን በጣት አሻራ መክፈቻ ጋር ያዋቅሩ</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">ደህነቱ የተጠበቀ እና አጋዥ</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">ስልክዎን ለመክፈት ወይም በመተግበሪያዎች ውስጥ እርስዎ መሆንዎን ለማረጋገጥ የጣት አሻራዎችዎን ይጠቀሙ</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">የማያ ገጽ መከላከያ ካለዎት ለምርጥ አፈጻጸም የጣት አሻራዎን ከማዋቀርዎ በፊት ይተግብሩ።\n\nለምርጥ ውጤቶች ለGoogle የተሠራ የዕውቅና ማረጋገጫ ያለው የማያ ገጽ መከላከያ ይጠቀሙ። በሌሎች የማያ ገጽ መከላከያዎች አማካኝነት የጣት አሻራዎ ላይሰራ ይችላል።</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">የጣት አሻራዎችዎ በመሣሪያ ላይ ብቻ ይከማቻሉ እና ወደ Google በፍፁም አይላኩም</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">ለምርጥ ተሞክሮ 2 ወይም ከዚያ በላይ የጣት አሻራዎችን ያክሉ እና በመልክ መክፈትን ያዋቅሩ</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">&lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt; ላይ የበለጠ ይወቁ</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s። የግስጋሴ አሞሌ። ለ%2$s ሁለቴ መታ ያድርጉ።</string>
+    <string name="security_settings_udfps_enroll_start_message_new">ንዝረት እስከሚሰማዎት ድረስ ጣትዎን በዳሳሹ ላይ ያቆዩ። በአንድ ጊዜ አንድ ጣት ብቻ ያዋቅሩ።</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">የግስጋሴ አሞሌው እስኪሞላ ድረስ ዳሳሹ ላይ ጣትዎን ጠፍጣፋ አድርገው ያቆዩ። በአንድ ጊዜ አንድ ጣት ብቻ ያዋቅሩ።</string>
+</resources>

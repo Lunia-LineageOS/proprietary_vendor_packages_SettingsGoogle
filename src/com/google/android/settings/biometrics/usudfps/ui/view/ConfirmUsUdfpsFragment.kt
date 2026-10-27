@@ -16,7 +16,7 @@ import com.airbnb.lottie.LottieAnimationView
 import com.android.settings.R as AR
 import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingAction
 import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingScreen
-import com.google.android.settings.R
+import com.google.android.settings.biometrics.R
 import com.google.android.settings.biometrics.fingerprint.model.HareMode
 import com.google.android.settings.biometrics.fingerprint.ui.view.GlifLayoutUseCase
 import com.google.android.settings.biometrics.fingerprint.ui.view.NavOptionsUseCase
@@ -103,7 +103,10 @@ class ConfirmUsUdfpsFragment : Fragment(AR.layout.fingerprint_enroll_finish) {
             glifLayoutUseCase.setDescriptionText(
                 if (viewModel.getEnrolledFingerprints() == 1) {
                     if (viewModel.getHareMode() is HareMode.Enabled) {
-                        getString(R.string.confirm_usudfps_subtitle_more_flexibility)
+                        getString(
+                            com.google.android.settings.R.string
+                                .confirm_usudfps_subtitle_more_flexibility
+                        )
                     } else {
                         getString(
                             R.string.fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled

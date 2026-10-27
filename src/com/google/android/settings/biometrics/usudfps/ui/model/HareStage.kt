@@ -1,7 +1,7 @@
 package com.google.android.settings.biometrics.usudfps.ui.model
 
 import com.android.settings.R as AR
-import com.google.android.settings.R
+import com.google.android.settings.biometrics.R
 
 enum class HareStage(
     val value: Int,
@@ -34,19 +34,19 @@ enum class HareStage(
     FINGERTIP(
         value = 1,
         lottieResId = R.raw.udfps_tip_hint_lottie_expressive,
-        titleResId = R.string.enroll_usudfps_fingertip_title_simple,
+        titleResId = com.google.android.settings.R.string.enroll_usudfps_fingertip_title_simple,
     ),
     LEFT_EDGE1(
         value = 2,
         lottieResId = R.raw.udfps_left_edge_hint_lottie_expressive,
-        titleResId = R.string.enroll_usudfps_left_edge_title_simple,
+        titleResId = com.google.android.settings.R.string.enroll_usudfps_left_edge_title_simple,
         subtitleResId = AR.string.security_settings_udfps_enroll_edge_message,
         vibratorDisabledSubtitleResId = AR.string.security_settings_udfps_enroll_edge_message,
     ),
     LEFT_EDGE2(
         value = 3,
         lottieResId = R.raw.udfps_left_edge_hint_lottie_expressive,
-        titleResId = R.string.enroll_usudfps_left_edge_title_simple,
+        titleResId = com.google.android.settings.R.string.enroll_usudfps_left_edge_title_simple,
         subtitleResId = AR.string.security_settings_fingerprint_enroll_repeat_message,
         vibratorDisabledSubtitleResId =
             AR.string.security_settings_fingerprint_enroll_repeat_message,
@@ -54,14 +54,14 @@ enum class HareStage(
     RIGHT_EDGE1(
         value = 4,
         lottieResId = R.raw.udfps_right_edge_hint_lottie_expressive,
-        titleResId = R.string.enroll_usudfps_right_edge_title_simple,
+        titleResId = com.google.android.settings.R.string.enroll_usudfps_right_edge_title_simple,
         subtitleResId = AR.string.security_settings_udfps_enroll_edge_message,
         vibratorDisabledSubtitleResId = AR.string.security_settings_udfps_enroll_edge_message,
     ),
     RIGHT_EDGE2(
         value = 5,
         lottieResId = R.raw.udfps_right_edge_hint_lottie_expressive,
-        titleResId = R.string.enroll_usudfps_right_edge_title_simple,
+        titleResId = com.google.android.settings.R.string.enroll_usudfps_right_edge_title_simple,
         subtitleResId = AR.string.security_settings_fingerprint_enroll_repeat_message,
         vibratorDisabledSubtitleResId =
             AR.string.security_settings_fingerprint_enroll_repeat_message,

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">İndi yox</string>
+    <string name="delete_all_fps_dialog_delete_button">İndi ayarlayın</string>
+    <string name="delete_all_fps_dialog_msg">Bununla bütün cari barmaq izləriniz silinəcək və Barmaqla Kiliddən Açma yenidən ayarlanana qədər barmaq iziniz ilə telefonu kiliddən çıxara və ya kimliyinizi doğrulaya bilməyəcəksiniz.</string>
+    <string name="delete_all_fps_dialog_title">Barmaqla Kiliddən Açma ayarlansın?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">Başqa barmaq izi əlavə edin</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Barmaq izi ilə telefonu kiliddən çıxara və ya kimliyinizi doğrulaya bilərsiniz. Rahatlıq üçün başqa barmaq izi əlavə edə bilərsiniz.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Barmaqla Kiliddən Açmadan nə qədər çox istifadə etsəniz, o qədər təkmilləşir. Hətta daha çox barmaq izi əlavə edə bilərsiniz.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Barmaqla Kiliddən Açmadan nə qədər çox istifadə etsəniz, o qədər təkmilləşir. Rahatlıq üçün başqa barmaq izləri də əlavə edə bilərsiniz.</string>
+    <string name="fingerprint_enroll_finish_title">Qaydasındadır!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">1 barmaq izi əlavə edildi</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">Barmaq izi sensoru növbəti ekranda olacaq. Rahatlıq üçün hər əlinizdə ən azı 1 barmağınızı ayarlayın.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Zolaq, ləkə və ya izləri təmizləmək üçün ekranı silin. Bu, daha aydın barmaq izi təsvirləri çəkməyə kömək edir.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Davam etməzdən əvvəl ekranı təmizləyin</string>
+    <string name="frr_notification_button_got_it">Anladım</string>
+    <string name="frr_notification_description">Ən yaxşı performans üçün bu məsləhətlərə əməl edin:</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Ətraflı məlumat&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">\"Google üçün hazırlanıb\" sertifikatlı ekran qoruyucusundan istifadə edin. Digər ekran qoruyucuları sensora müdaxilə edə və onun düzgün işləməsinə mane ola bilər.</string>
+    <string name="frr_notification_non_mfg_sp_title">Sertifikatlı ekran qoruyucusundan istifadə edin</string>
+    <string name="frr_notification_reset_fingerprint_button">Barmaqla Kiliddən Açmanı silin və ayarlayın</string>
+    <string name="frr_notification_reset_fingerprint_description">Bu, bəzən problemləri həll edə bilər, xüsusən də bu yaxınlarda ekran qoruyucusu əlavə etmisinizsə və ya çıxarmısınızsa</string>
+    <string name="frr_notification_reset_fingerprint_title">Barmaqla Kiliddən Açmanı yenidən ayarlayın</string>
+    <string name="frr_notification_screen_protector_description">Bu, barmaq izinin tanınmasına təsir edə bilər. \"Google üçün hazırlanıb\" sertifikatlı ekran qoruyucusundan istifadə edin. Digər ekran qoruyucuları sensora müdaxilə edə və onun düzgün işləməsinə mane ola bilər.</string>
+    <string name="frr_notification_screen_protector_title">Ekran qoruyucusundan istifadə edirsinizsə...</string>
+    <string name="frr_notification_set_face_unlock_description">Məsələn, barmaqlarınız yaş olduğu üçün barmaq izi tanınmadıqda Üz ilə Kiliddən Açma funksiyasından istifadə edin</string>
+    <string name="frr_notification_set_face_unlock_title">Üz ilə Kiliddən Açma funksiyasını ayarlayın</string>
+    <string name="frr_notification_title">Barmaqla Kiliddən Açma ilə bağlı problem var?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">Ayarlarda istənilən vaxt üz modelinizi silə, yaxud Üz ilə Kiliddən Açmanı deaktiv edə bilərsiniz. Üz modelləri siz onları silənə qədər telefonunuzda saxlanılır.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">Ətraflı məlumat: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">Telefonunuzun kilidini açmaq və ya tətbiqlərdə kimliyinizi doğrulamaq üçün üzünüzdən istifadə edin</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Üzünüz yalnız cihazda saxlanılır və Google-a göndərilmir</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Ən yaxşı təcrübə üçün Barmaqla Kiliddən Açma ilə birlikdə Üz ilə Kiliddən Açma funksiyasını ayarlayın</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Təhlükəsiz və faydalı</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Telefonunuzun kilidini açmaq və ya tətbiqlərdə kimliyinizi doğrulamaq üçün barmaq izindən istifadə edin</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Ekran qoruyucunuz varsa, mükəmməl performans üçün barmaq izi quraşdırmazdan əvvəl onu tətbiq edin.\n\nMükəmməl nəticə üçün \"Google üçün hazırlanıb\" sertifikatlı ekran qoruyucusu istifadə edin. Digər ekran qoruyucuları ilə barmaq iziniz işləməyə bilər.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Barmaq izləriniz yalnız cihazda saxlanılır və heç vaxt Google-a göndərilmir</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Ən yaxşı təcrübə üçün 2 və ya daha çox barmaq izi əlavə edin və Üz ilə Kiliddən Açma funksiyasını ayarlayın</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Ətraflı məlumat: &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Gedişat paneli. %2$s üçün iki dəfə toxunun.</string>
+    <string name="security_settings_udfps_enroll_start_message_new">Vibrasiya hiss edənə qədər barmağınızı sensorun üzərində düz saxlayın. Eyni anda yalnız 1 barmaq ayarlayın.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">Gedişat zolağı dolana qədər barmağınızı sensorun üzərində düz saxlayın. Eyni anda yalnız bir barmaq ayarlayın.</string>
+</resources>

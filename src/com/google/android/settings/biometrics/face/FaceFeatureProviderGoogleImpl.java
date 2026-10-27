@@ -55,7 +55,10 @@ public class FaceFeatureProviderGoogleImpl implements FaceFeatureProvider {
 
     @Override
     public int getMaxEnrollableCount(Context context) {
-        return context.getResources().getInteger(R.integer.settings_max_face_enrollable);
+        return context.getResources()
+                .getInteger(
+                        com.google.android.settings.biometrics.R.integer
+                                .settings_max_face_enrollable);
     }
 
     @Override

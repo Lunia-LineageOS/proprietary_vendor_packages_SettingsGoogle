@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">Để sau</string>
+    <string name="delete_all_fps_dialog_delete_button">Thiết lập ngay</string>
+    <string name="delete_all_fps_dialog_msg">Thao tác này sẽ xoá mọi vân tay hiện tại của bạn. Bạn sẽ không thể dùng vân tay để mở khoá điện thoại hay xác minh danh tính cho đến khi thiết lập lại tính năng Mở khoá bằng vân tay.</string>
+    <string name="delete_all_fps_dialog_title">Thiết lập tính năng Mở khoá bằng vân tay?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">Thêm một vân tay khác</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Giờ đây, bạn có thể dùng vân tay để mở khoá điện thoại hoặc xác minh danh tính. Bạn có thể thêm một vân tay khác để thuận tiện hơn.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Bạn dùng tính năng Mở khoá bằng vân tay càng nhiều thì tính năng này càng hoạt động hiệu quả. Bạn có thể thêm nhiều vân tay hơn nữa.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Bạn dùng tính năng Mở khoá bằng vân tay càng nhiều thì tính năng này càng hoạt động hiệu quả. Bạn có thể thêm nhiều vân tay hơn nữa để thuận tiện hơn.</string>
+    <string name="fingerprint_enroll_finish_title">Vậy là xong!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">Đã thêm 1 vân tay</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">Cảm biến vân tay sẽ xuất hiện trên màn hình tiếp theo. Để tối ưu tính linh hoạt, hãy thiết lập vân tay cho ít nhất một ngón tay trên mỗi bàn tay.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Lau màn hình để làm sạch mọi vết ố bẩn. Thao tác này giúp chụp được hình ảnh dấu vân tay rõ ràng hơn.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Làm sạch màn hình trước khi tiếp tục</string>
+    <string name="frr_notification_button_got_it">Tôi hiểu</string>
+    <string name="frr_notification_description">Để có hiệu quả tốt nhất, hãy làm theo các mẹo sau:</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Tìm hiểu thêm&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">Sử dụng miếng bảo vệ màn hình có chứng nhận Made for Google. Các miếng bảo vệ màn hình khác có thể ảnh hưởng đến cảm biến và khiến cảm biến hoạt động không ổn định.</string>
+    <string name="frr_notification_non_mfg_sp_title">Sử dụng miếng bảo vệ màn hình có chứng nhận</string>
+    <string name="frr_notification_reset_fingerprint_button">Xoá và thiết lập tính năng Mở khoá bằng vân tay</string>
+    <string name="frr_notification_reset_fingerprint_description">Đôi khi, cách này có thể khắc phục được vấn đề, đặc biệt là nếu gần đây bạn đã dán hoặc gỡ miếng bảo vệ màn hình</string>
+    <string name="frr_notification_reset_fingerprint_title">Thiết lập lại tính năng Mở khoá bằng vân tay</string>
+    <string name="frr_notification_screen_protector_description">Việc này có thể ảnh hưởng đến khả năng nhận dạng vân tay. Sử dụng miếng bảo vệ màn hình có chứng nhận Made for Google. Các miếng bảo vệ màn hình khác có thể ảnh hưởng đến cảm biến và khiến cảm biến hoạt động không ổn định.</string>
+    <string name="frr_notification_screen_protector_title">Nếu bạn dùng miếng bảo vệ màn hình...</string>
+    <string name="frr_notification_set_face_unlock_description">Hãy dùng tính năng Mở khoá bằng khuôn mặt khi thiết bị không nhận dạng được vân tay của bạn, chẳng hạn như khi ngón tay bị ướt</string>
+    <string name="frr_notification_set_face_unlock_title">Thiết lập tính năng Mở khoá bằng khuôn mặt</string>
+    <string name="frr_notification_title">Bạn gặp sự cố khi sử dụng tính năng Mở khoá bằng vân tay?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">Bạn có thể xoá mẫu khuôn mặt hoặc tắt tính năng Mở khoá bằng khuôn mặt bất cứ lúc nào trong phần Cài đặt. Các mẫu khuôn mặt sẽ được lưu trữ trên điện thoại này cho đến khi bạn xoá đi.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">Tìm hiểu thêm tại &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">Dùng khuôn mặt để mở khoá điện thoại hoặc xác minh danh tính trong các ứng dụng</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Khuôn mặt của bạn chỉ được lưu trữ trên thiết bị và không bao giờ được gửi cho Google</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Để có trải nghiệm tốt nhất, hãy thiết lập tính năng Mở khoá bằng khuôn mặt cùng với tính năng Mở khoá bằng vân tay</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Bảo mật và hữu ích</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Bạn có thể dùng vân tay để mở khoá điện thoại hoặc xác minh danh tính trong các ứng dụng</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Nếu bạn có miếng bảo vệ màn hình, hãy dán miếng đó trước khi thiết lập vân tay để mang lại hiệu quả tốt nhất.\n\nĐể có kết quả tốt nhất, hãy sử dụng miếng bảo vệ màn hình được chứng nhận Made for Google. Với các miếng bảo vệ màn hình khác, thiết bị có thể không nhận dạng được vân tay của bạn.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Vân tay của bạn chỉ được lưu trữ trên thiết bị và không bao giờ được gửi cho Google</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Để có trải nghiệm tốt nhất, hãy thêm ít nhất 2 vân tay và thiết lập tính năng Mở khoá bằng khuôn mặt</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Tìm hiểu thêm tại &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Thanh tiến trình. Nhấn đúp để %2$s.</string>
+    <string name="security_settings_udfps_enroll_start_message_new">Áp vân tay vào cảm biến cho đến khi bạn cảm thấy rung. Mỗi lần chỉ thiết lập một ngón tay.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">Áp vân tay vào cảm biến cho đến khi thanh tiến trình đầy. Mỗi lần chỉ thiết lập một ngón tay.</string>
+</resources>

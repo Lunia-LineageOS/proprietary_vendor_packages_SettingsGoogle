@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">ഇപ്പോൾ വേണ്ട</string>
+    <string name="delete_all_fps_dialog_delete_button">ഇപ്പോൾ സജ്ജീകരിക്കുക</string>
+    <string name="delete_all_fps_dialog_msg">ഇത് നിങ്ങളുടെ നിലവിലെ ഫിംഗർപ്രിന്റുകൾ എല്ലാം ഇല്ലാതാക്കും, ഫിംഗർപ്രിന്റ് അൺലോക്ക് വീണ്ടും സജ്ജീകരിക്കുന്നതുവരെ ഫോൺ അൺലോക്ക് ചെയ്യാനോ നിങ്ങളുടെ ഐഡന്റിറ്റി പരിശോധിച്ചുറപ്പിക്കാനോ നിങ്ങളുടെ ഫിംഗർപ്രിന്റ് ഉപയോഗിക്കാനാകില്ല.</string>
+    <string name="delete_all_fps_dialog_title">ഫിംഗർപ്രിന്റ് അൺലോക്ക് സജ്ജീകരിക്കണോ?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">മറ്റൊരു ഫിംഗർപ്രിന്റ് ചേർക്കുക</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">ഫോൺ അൺലോക്ക് ചെയ്യാനോ ഇത് നിങ്ങൾ തന്നെയാണെന്ന് പരിശോധിച്ചുറപ്പിക്കാനോ ഇപ്പോൾ നിങ്ങളുടെ ഫിംഗർപ്രിന്റ് ഉപയോഗിക്കാം. അധിക സൗകര്യത്തിനായി നിങ്ങൾക്ക് മറ്റൊരു ഫിംഗർപ്രിന്റ് ചേർക്കാം.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">ഉപയോഗിക്കുന്നതിനനുസരിച്ച് ഫിംഗർപ്രിന്റ് അൺലോക്ക് മെച്ചപ്പെടും. നിങ്ങൾക്ക് കൂടുതൽ ഫിംഗർപ്രിന്റുകൾ ചേർക്കാനും കഴിയും.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">ഉപയോഗിക്കുന്നതിനനുസരിച്ച് ഫിംഗർപ്രിന്റ് അൺലോക്ക് മെച്ചപ്പെടും. അധിക സൗകര്യത്തിനായി നിങ്ങൾക്ക് കൂടുതൽ ഫിംഗർപ്രിന്റുകൾ ചേർക്കാനും കഴിയും.</string>
+    <string name="fingerprint_enroll_finish_title">കൊള്ളാം!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">1 ഫിംഗർപ്രിന്റ് ചേർത്തു</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">ഫിംഗർപ്രിന്റ് സെൻസർ അടുത്ത സ്‌ക്രീനിലാണുണ്ടാകുക. കൂടുതൽ സൗകര്യത്തിന്, ഓരോ കയ്യിലെയും ഒരു വിരലെങ്കിലും സജ്ജീകരിക്കുക.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">എല്ലാ പാടുകളും അഴുക്കുകളും അല്ലെങ്കിൽ കറകളും നീക്കം ചെയ്യാൻ സ്ക്രീൻ തുടയ്ക്കുക. വ്യക്തമായ ഫിംഗർപ്രിന്റ് ചിത്രങ്ങൾ പകർത്താൻ ഇത് സഹായിക്കുന്നു.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">തുടരുന്നതിന് മുമ്പ് നിങ്ങളുടെ സ്ക്രീൻ വൃത്തിയാക്കുക</string>
+    <string name="frr_notification_button_got_it">മനസ്സിലായി</string>
+    <string name="frr_notification_description">മികച്ച പ്രകടനത്തിന്, ഇനിപ്പറയുന്ന നുറുങ്ങുകൾ പിന്തുടരുക:</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;കൂടുതലറിയുക&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">Google-നായി നിർമ്മിച്ചതെന്ന് സാക്ഷ്യപ്പെടുത്തിയ സ്‌ക്രീൻ പ്രൊട്ടക്‌ടർ ഉപയോഗിക്കുക. മറ്റ് സ്‌ക്രീൻ പ്രൊട്ടക്‌ടറുകൾ സെൻസറിന്റെ പ്രവർത്തനത്തിൽ ഇടപെടുകയും അത് വിശ്വസനീയമായി പ്രവർത്തിക്കുന്നതിൽ നിന്ന് തടയുകയും ചെയ്‌തേക്കാം.</string>
+    <string name="frr_notification_non_mfg_sp_title">സാക്ഷ്യപ്പെടുത്തിയ സ്‌ക്രീൻ പ്രൊട്ടക്‌ടർ ഉപയോഗിക്കുക</string>
+    <string name="frr_notification_reset_fingerprint_button">ഫിംഗർപ്രിന്റ് അൺലോക്ക് ഇല്ലാതാക്കി വീണ്ടും സജ്ജീകരിക്കുക</string>
+    <string name="frr_notification_reset_fingerprint_description">ഇത് ചിലപ്പോൾ പ്രശ്നങ്ങൾ പരിഹരിക്കും, പ്രത്യേകിച്ചും നിങ്ങൾ അടുത്തിടെ ഒരു സ്ക്രീൻ പ്രൊട്ടക്‌ടർ ചേർക്കുകയോ നീക്കം ചെയ്യുകയോ ചെയ്തിട്ടുണ്ടെങ്കിൽ</string>
+    <string name="frr_notification_reset_fingerprint_title">ഫിംഗർപ്രിന്റ് അൺലോക്ക് വീണ്ടും സജ്ജീകരിക്കുക</string>
+    <string name="frr_notification_screen_protector_description">ഫിംഗർപ്രിന്റ് തിരിച്ചറിയലിനെ ഇത് ബാധിക്കാം. Google-നായി നിർമ്മിച്ചതെന്ന് സാക്ഷ്യപ്പെടുത്തിയ സ്‌ക്രീൻ പ്രൊട്ടക്‌ടർ ഉപയോഗിക്കുക. മറ്റ് സ്‌ക്രീൻ പ്രൊട്ടക്‌ടറുകൾ സെൻസറിന്റെ പ്രവർത്തനത്തിൽ ഇടപെടുകയും അത് വിശ്വസനീയമായി പ്രവർത്തിക്കുന്നതിൽ നിന്ന് തടയുകയും ചെയ്‌തേക്കാം.</string>
+    <string name="frr_notification_screen_protector_title">നിങ്ങളൊരു സ്ക്രീൻ പ്രൊട്ടക്‌ടർ ഉപയോഗിക്കുകയാണെങ്കിൽ...</string>
+    <string name="frr_notification_set_face_unlock_description">ഫിംഗർപ്രിന്റ് തിരിച്ചറിയാൻ കഴിയാത്ത സാഹചര്യങ്ങളിൽ (ഉദാഹരണത്തിന്, വിരൽ നനഞ്ഞിരിക്കുമ്പോൾ) ഫെയ്‌സ് അൺലോക്ക് ഉപയോഗിക്കുക</string>
+    <string name="frr_notification_set_face_unlock_title">ഫെയ്‌സ് അൺലോക്ക് സജ്ജീകരിക്കുക</string>
+    <string name="frr_notification_title">ഫിംഗർപ്രിന്റ് അൺലോക്കുമായി ബന്ധപ്പെട്ട് പ്രശ്നം നേരിടുന്നുണ്ടോ?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">നിങ്ങൾക്ക് ക്രമീകരണം സന്ദർശിച്ച് എപ്പോൾ വേണമെങ്കിലും ഫെയ്സ് മോഡൽ ഇല്ലാതാക്കാനോ ഫെയ്സ് അൺലോക്ക് ഓഫാക്കാനോ കഴിയും. നിങ്ങൾ ഇല്ലാതാക്കുന്നത് വരെ ഫെയ്സ് മോഡലുകൾ ഫോണിൽ സംഭരിക്കും.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; എന്നതിൽ കൂടുതലറിയുക</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">ഫോൺ അൺലോക്ക് ചെയ്യാനോ ആപ്പുകളിൽ ഇത് നിങ്ങൾ തന്നെയാണെന്ന് പരിശോധിച്ചുറപ്പാക്കാനോ നിങ്ങളുടെ മുഖം ഉപയോഗിക്കുക</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">നിങ്ങളുടെ മുഖം ഉപകരണത്തിൽ മാത്രമേ സംഭരിച്ചിട്ടുള്ളൂ, ഒരിക്കലും Google-ലേക്ക് അയച്ചിട്ടില്ല</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">മികച്ച അനുഭവത്തിനായി, ഫിംഗർപ്രിന്റ് അൺലോക്കിനൊപ്പം ഫെയ്‌സ് അൺലോക്ക് സജ്ജീകരിക്കുക</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">സുരക്ഷിതവും സഹായകരവുമാണ്</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">നിങ്ങളുടെ ഫോൺ അൺലോക്ക് ചെയ്യാനും ആപ്പുകളിൽ നിങ്ങൾ തന്നെയാണോ എന്ന് പരിശോധിച്ചുറപ്പിക്കാനും നിങ്ങളുടെ ഫിംഗർപ്രിന്റുകൾ ഉപയോഗിക്കുക</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">നിങ്ങൾക്ക് സ്ക്രീൻ പ്രൊട്ടക്ടർ ഉണ്ടെങ്കിൽ, മികച്ച പ്രകടനത്തിന് ഫിംഗർപ്രിന്റ് സജ്ജീകരിക്കുന്നതിന് മുമ്പ് അത് ഒട്ടിക്കുക.\n\nമികച്ച ഫലങ്ങൾക്ക്, Google-നായി നിർമ്മിച്ചതെന്ന് സാക്ഷ്യപ്പെടുത്തിയ സ്‌ക്രീൻ പ്രൊട്ടക്ടർ ഉപയോഗിക്കുക. മറ്റ് സ്ക്രീൻ പ്രൊട്ടക്‌ടറുകളിൽ നിങ്ങളുടെ ഫിംഗർപ്രിന്റ് പ്രവർത്തിച്ചേക്കില്ല.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">നിങ്ങളുടെ ഫിംഗർപ്രിന്റുകൾ ഉപകരണത്തിൽ മാത്രമേ സംഭരിക്കുകയുള്ളൂ, ഒരിക്കലും Google-ലേക്ക് അയയ്ക്കില്ല</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">മികച്ച അനുഭവത്തിനായി, രണ്ടോ അതിലധികമോ ഫിംഗർപ്രിന്റ് ചേർക്കുക, ഫെയ്‌സ് അൺലോക്ക് സജ്ജീകരിക്കുക</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">&lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt; എന്നതിൽ കൂടുതലറിയുക</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. പ്രോഗ്രസ് ബാർ. %2$s എന്നതിന് ഡബിൾ ടാപ്പ് ചെയ്യുക.</string>
+    <string name="security_settings_udfps_enroll_start_message_new">വൈബ്രേഷൻ അനുഭവപ്പെടുന്നത് വരെ സെൻസറിൽ നിങ്ങളുടെ വിരൽ ചേർത്തുപിടിക്കുക. ഒരു സമയം ഒരു വിരൽ മാത്രം സജ്ജീകരിക്കുക.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">പ്രോഗ്രസ് ബാർ പൂർത്തിയാകുന്നത് വരെ സെൻസറിൽ നിങ്ങളുടെ വിരൽ ചേർത്തുപിടിക്കുക. ഒരു സമയം ഒരു വിരൽ മാത്രം സജ്ജീകരിക്കുക.</string>
+</resources>

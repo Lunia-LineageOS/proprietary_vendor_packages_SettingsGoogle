@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Configurar o desbloqueo dactilar</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Configurar o desbloqueo dactilar para o perfil de traballo</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">Agora podes utilizar a impresión dixital para desbloquear o teléfono ou verificar a túa identidade. Para maior flexibilidade, engade outra impresión dixital.</string>
-    <string name="delete_all_fps_dialog_cancel_button">Agora non</string>
-    <string name="delete_all_fps_dialog_delete_button">Configurar agora</string>
-    <string name="delete_all_fps_dialog_msg">Con esta acción eliminaranse todas as túas impresións dixitais actuais, polo que non poderás usar a impresión dixital para desbloquear o teléfono nin para verificar a túa identidade ata que se volva configurar o desbloqueo dactilar.</string>
-    <string name="delete_all_fps_dialog_title">Queres configurar o desbloqueo dactilar?</string>
     <string name="enroll_usudfps_fingertip_title_simple">Toca coa xema do dedo</string>
     <string name="enroll_usudfps_left_edge_title_simple">Toca co bordo esquerdo</string>
     <string name="enroll_usudfps_right_edge_title_simple">Toca co bordo dereito</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">O sensor de impresión dixital aparecerá na próxima pantalla</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Configurar co protector de pantalla</string>
     <string name="fingerprint_acquired_immobile_simple">Axusta lixeiramente cada vez</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">Engadir outra impresión dixital</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Agora podes utilizar a impresión dixital para desbloquear o teléfono ou verificar a túa identidade. Podes engadir outra impresión dixital para maior comodidade.</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Canto máis uses o desbloqueo dactilar, mellor funcionará. Ademais, podes engadir máis impresións dixitais.</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Canto máis uses o desbloqueo dactilar, mellor funcionará. Ademais, podes engadir máis impresións dixitais para maior comodidade.</string>
-    <string name="fingerprint_enroll_finish_title">Parece que todo está ben</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">Engadiuse unha impresión dixital</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">O sensor de impresión dixital está no botón de acendido, a carón dos botóns de volume no lateral do dispositivo. Para maior flexibilidade, configura como mínimo un dedo de cada man.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Código QR válido</string>
     <string name="fingerprint_sp_qr_code_error">Este código QR non corresponde a ningún protector de pantalla certificado</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">Encadra o código da embalaxe do protector de pantalla</string>
     <string name="fingerprint_sp_title_got_it">Entendido</string>
     <string name="fingerprint_sp_title_scan_qr_code">Escanea o código QR</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">O sensor de impresión dixital aparecerá na próxima pantalla. Para maior flexibilidade, configura como mínimo un dedo de cada man.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Limpa a pantalla para quitar as raias, os borróns ou as manchas. Ao facelo, axudas a capturar unha imaxe máis nítida da impresión dixital.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Limpa a pantalla antes de continuar</string>
-    <string name="frr_notification_button_got_it">Entendido</string>
-    <string name="frr_notification_description">Para gozar do mellor rendemento, sigue estes consellos:</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Máis información&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">Utiliza un protector de pantalla que conte coa certificación Made for Google. Os demais protectores de pantalla poden interferir no correcto funcionamento do sensor.</string>
-    <string name="frr_notification_non_mfg_sp_title">Usa un protector de pantalla con certificación</string>
-    <string name="frr_notification_reset_fingerprint_button">Eliminar e configurar desbloqueo dactilar</string>
-    <string name="frr_notification_reset_fingerprint_description">Con esta opción ás veces soluciónanse os problemas, sobre todo se hai pouco engadiches ou quitaches un protector de pantalla</string>
-    <string name="frr_notification_reset_fingerprint_title">Configura de novo o desbloqueo dactilar</string>
-    <string name="frr_notification_screen_protector_description">Pode afectar ao recoñecemento das impresións dixitais. Utiliza un protector de pantalla que conte coa certificación Made for Google. Os demais protectores de pantalla poden interferir no correcto funcionamento do sensor.</string>
-    <string name="frr_notification_screen_protector_title">Se usas un protector de pantalla...</string>
-    <string name="frr_notification_set_face_unlock_description">Usa o desbloqueo facial cando non se dea recoñecido a túa impresión dixital (por exemplo, cando teñas os dedos húmidos)</string>
-    <string name="frr_notification_set_face_unlock_title">Configura o desbloqueo facial</string>
-    <string name="frr_notification_title">Tes problemas co desbloqueo dactilar?</string>
     <string name="protector_edu_subtitle">Os protectores de pantalla poden afectar o recoñecemento da impresión dixital. Velaquí tes uns consellos para que o desbloqueo dactilar funcione perfectamente cun protector de pantalla:</string>
     <string name="screen_protector_edu_apply_instruction">Se é posible, coloca o protector de pantalla antes de configurar o desbloqueo dactilar e elimina as burbullas que poida ter. Se tes que colocalo despois da configuración, escanea o código QR coa cámara máis tarde.</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Máis información en g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">Agora, cando collas o teléfono ou toques a pantalla, podes usar o desbloqueo facial.\n\nO desbloqueo facial funciona mellor cando hai luz suficiente e non levas máscara nin lentes escuras.</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">Agora, cando collas o teléfono ou toques a pantalla, poderás usar o desbloqueo facial. Para usar esta función, o teléfono ten que esta pregado.\n\nO desbloqueo facial funciona mellor cando hai luz suficiente e non levas máscara nin lentes escuras.</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">A túa filla ou fillo e mais ti podedes eliminar o seu modelo facial ou desactivar o desbloqueo facial cando queirades en Configuración. Os modelos faciais almacenaranse no teléfono ata que se eliminen.</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">Podes eliminar o teu modelo facial ou desactivar o desbloqueo facial cando queiras en Configuración. Os modelos faciais almacénanse no teléfono ata que os elimines.</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">Co desbloqueo facial, créase un modelo único da cara da túa filla ou fillo para verificar a súa identidade. Para crear este modelo facial durante a configuración, a túa filla ou fillo deberá facer fotos da cara desde distintos ángulos.\n\nCando usa o desbloqueo facial, utilízanse imaxes para actualizar o seu modelo facial. As imaxes empregadas para crear o modelo facial non se almacenarán en ningún caso, e o modelo gárdase de maneira segura no teléfono e nunca sae del. Todo o procesamento ten lugar de maneira fiable no teléfono.</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">Tes máis información en &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">Utiliza o recoñecemento facial para desbloquear o teléfono ou verificar a túa identidade nas aplicacións</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">A túa cara só se almacena no dispositivo, non se envía nunca a Google.</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Para gozar da mellor experiencia, configura o desbloqueo facial canda o desbloqueo dactilar.</string>
     <string name="security_settings_face_enroll_next">Seguinte</string>
     <string name="security_settings_face_enroll_partial_message">Para mellorar o funcionamento, podes configurar de novo o desbloqueo facial en Configuración</string>
     <string name="security_settings_face_enroll_partial_start_over">Comezar de novo</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">O teléfono está demasiado quente</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Usa a impresión dixital da túa filla ou fillo para desbloquear o teléfono ou verificar a súa identidade nas aplicacións</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">As impresións dixitais da túa filla ou fillo só se almacenan no dispositivo; non se envían nunca a Google</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Función segura e útil</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Utiliza as túas impresións dixitais para desbloquear o teléfono ou verificar a túa identidade nas aplicacións</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Se tes un protector de pantalla, colócao antes de configurar a impresión dixital para que o rendemento sexa óptimo.\n\nPara obter os mellores resultados, utiliza un protector de pantalla que conte coa certificación Made for Google. Se utilizas outros protectores, pode que non se detecte a túa impresión dixital.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">As túas impresións dixitais só se almacenan no dispositivo; non se envían nunca a Google.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Para gozar da mellor experiencia, engade dúas ou máis impresións dixitais e configura o desbloqueo facial.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Tes máis información en &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Barra de progreso. Toca dúas veces para %2$s.</string>
-    <string name="security_settings_udfps_enroll_start_message_new">Mantén todo o dedo sobre o sensor ata que notes unha vibración. Configura un dedo de cada vez.</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">Mantén o dedo sobre o sensor ata que a barra de progreso se complete. Configura un dedo de cada vez.</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">Confirmar</string>
     <string name="security_settings_udfps_screen_protector_description_none">Non hai ningún protector de pantalla</string>
     <string name="security_settings_udfps_screen_protector_keywords">Protector de pantalla</string>

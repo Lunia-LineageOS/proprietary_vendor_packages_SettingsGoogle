@@ -20,6 +20,7 @@ import com.android.settings.R as AR
 import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingAction
 import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingScreen
 import com.google.android.settings.R
+import com.google.android.settings.biometrics.R as BiometricsR
 import com.google.android.settings.biometrics.fingerprint.model.HareMode
 import com.google.android.settings.biometrics.fingerprint.ui.view.GlifLayoutUseCase
 import com.google.android.settings.biometrics.fingerprint.ui.view.NavOptionsUseCase
@@ -63,14 +64,22 @@ class FindUsUdfpsWithSpFragment : Fragment() {
         viewModel.setNoScreenProtectorIfUnsetBefore()
         metricsViewModel.appendAction(OnboardingAction.ACTION_NEXT)
         findNavController()
-            .navigate(R.id.action_find_sensor_to_enroll, null, NavOptionsUseCase.newNavOptions())
+            .navigate(
+                BiometricsR.id.action_find_sensor_to_enroll,
+                null,
+                NavOptionsUseCase.newNavOptions(),
+            )
     }
 
     private val onSpClickListener = View.OnClickListener {
         Log.d(TAG, "start to setup sp")
         metricsViewModel.appendAction(OnboardingAction.ACTION_SETUP_CAPYBARA)
         findNavController()
-            .navigate(R.id.action_find_sensor_to_sp_edu, null, NavOptionsUseCase.newNavOptions())
+            .navigate(
+                BiometricsR.id.action_find_sensor_to_sp_edu,
+                null,
+                NavOptionsUseCase.newNavOptions(),
+            )
     }
 
     private val useExpressiveUi: Boolean by lazy {
@@ -142,7 +151,7 @@ class FindUsUdfpsWithSpFragment : Fragment() {
                     if (useExpressiveUi) {
                         R.array.touch_sensor_education
                     } else {
-                        R.array.touch_sensor_education_2024
+                        BiometricsR.array.touch_sensor_education_2024
                     }
                 )
                 .toList()
@@ -161,7 +170,7 @@ class FindUsUdfpsWithSpFragment : Fragment() {
                     if (viewModel.getHareMode() is HareMode.Enabled) {
                         R.string.find_usudfps_subtitle_simple
                     } else {
-                        R.string.fingerprint_udfps_enroll_find_sensor_description
+                        BiometricsR.string.fingerprint_udfps_enroll_find_sensor_description
                     }
                 )
         )

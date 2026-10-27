@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">ຕັ້ງຄ່າການປົດລັອກດ້ວຍລາຍນິ້ວມື</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">ຕັ້ງຄ່າການປົດລັອກດ້ວຍລາຍນິ້ວມືສຳລັບບ່ອນເຮັດວຽກ</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">ຕອນນີ້ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານເພື່ອປົດລັອກໂທລະສັບຂອງທ່ານ ຫຼື ຢັ້ງຢືນວ່າແມ່ນທ່ານໄດ້ແລ້ວ. ເພີ່ມລາຍນິ້ວມືອີກເພື່ອການນຳໃຊ້ທີ່ຍືດຫຍຸ່ນທີ່ສຸດ.</string>
-    <string name="delete_all_fps_dialog_cancel_button">ບໍ່ຟ້າວເທື່ອ</string>
-    <string name="delete_all_fps_dialog_delete_button">ຕັ້ງຄ່າດຽວນີ້</string>
-    <string name="delete_all_fps_dialog_msg">ນີ້ຈະເປັນການລຶບລາຍນິ້ວມືປັດຈຸບັນທັງໝົດຂອງທ່ານ ແລະ ທ່ານຈະບໍ່ສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານເພື່ອປົດລັອກໂທລະສັບຂອງທ່ານ ຫຼື ຢືນຢັນຕົວຕົນຂອງທ່ານໄດ້ ຈົນກວ່າຈະຕັ້ງຄ່າການປົດລັອກດ້ວຍລາຍນິ້ວມືຄືນໃໝ່.</string>
-    <string name="delete_all_fps_dialog_title">ຕັ້ງຄ່າການປົດລັອກດ້ວຍລາຍນິ້ວມືບໍ?</string>
     <string name="enroll_usudfps_fingertip_title_simple">ແຕະປາຍນິ້ວຂອງທ່ານ</string>
     <string name="enroll_usudfps_left_edge_title_simple">ສຳຜັດຂອບຊ້າຍ</string>
     <string name="enroll_usudfps_right_edge_title_simple">ສຳຜັດຂອບຂວາ</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">ເຊັນເຊີລາຍນິ້ວມືຈະຢູ່ໜ້າຈໍຕໍ່ໄປ</string>
     <string name="find_usudfps_with_sp_setup_sp_button">ຕັ້ງຄ່າໂດຍມີຕົວປົກປ້ອງໜ້າຈໍ</string>
     <string name="fingerprint_acquired_immobile_simple">ປັບເລັກນ້ອຍໃນແຕ່ລະເທື່ອ</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">ເພີ່ມລາຍນິ້ວມືອື່ນ</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">ຕອນນີ້ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານເພື່ອປົດລັອກໂທລະສັບຂອງທ່ານ ຫຼື ຢັ້ງຢືນວ່າແມ່ນທ່ານໄດ້ແລ້ວ. ທ່ານສາມາດເພີ່ມລາຍນິ້ວອື່ນເພື່ອຄວາມສະດວກຍິ່ງຂຶ້ນໄດ້.</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">ຍິ່ງທ່ານໃຊ້ປົດລັອກດ້ວຍລາຍນິ້ວມືຫຼາຍເທົ່າໃດ, ລະບົບຈະຍິ່ງດີຂຶ້ນເທົ່ານັ້ນ. ແລະ ທ່ານສາມາດເພີ່ມລາຍນິ້ວມືເພີ່ມເຕີມໄດ້ອີກ.</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">ຍິ່ງທ່ານໃຊ້ປົດລັອກດ້ວຍລາຍນິ້ວມືຫຼາຍເທົ່າໃດ, ລະບົບຈະຍິ່ງດີຂຶ້ນເທົ່ານັ້ນ. ແລະ ທ່ານສາມາດເພີ່ມລາຍນິ້ວມືເພີ່ມເຕີມໄດ້ອີກສຳລັບຄວາມສະດວກສະບາຍພິເສດຍິ່ງຂຶ້ນ.</string>
-    <string name="fingerprint_enroll_finish_title">ດີແລ້ວ!</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">ເພີ່ມ 1 ລາຍນິ້ວມືແລ້ວ</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">ເຊັນ​ເຊີລາຍນິ້ວ​ມືຢູ່ປຸ່ມເປີດປິດ, ຖັດຈາກປຸ່ມລະດັບສຽງຢູ່ດ້ານຂ້າງຂອງອຸປະກອນຂອງທ່ານ. ເພື່ອຄວາມຍືດຫຍຸ່ນສູງສຸດ, ໃຫ້ຕັ້ງຢ່າງໜ້ອຍ 1 ນິ້ວຢູ່ມືແຕ່ລະຂ້າງ.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">ລະຫັດ QR ຖືກຕ້ອງ</string>
     <string name="fingerprint_sp_qr_code_error">ລະຫັດ QR ນີ້ບໍ່ເປັນໄປຕາມມາດຕະຖານສຳລັບຕົວປົກປ້ອງໜ້າຈໍທີ່ຜ່ານການຮັບຮອງ</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">ວາງຕຳແໜ່ງລະຫັດຢູ່ບັນຈຸພັນຂອງຕົວປົກປ້ອງໜ້າຈໍໃຫ້ຢູ່ໃນກອບ</string>
     <string name="fingerprint_sp_title_got_it">ເຂົ້າໃຈແລ້ວ!</string>
     <string name="fingerprint_sp_title_scan_qr_code">ສະແກນລະຫັດ QR</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">ເຊັນເຊີລາຍນິ້ວມືຈະຢູ່ໜ້າຈໍຕໍ່ໄປ. ເພື່ອຄວາມຍືດຫຍຸ່ນສູງສຸດ, ໃຫ້ຕັ້ງຢ່າງໜ້ອຍ 1 ນິ້ວຢູ່ມືແຕ່ລະຂ້າງ.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">ລ້າງໜ້າຈໍຂອງທ່ານເພື່ອລຶບຮອຍ, ຮອຍເປື້ອນ ຫຼື ຄາບຕ່າງໆອອກ. ສິ່ງນີ້ຊ່ວຍຖ່າຍຮູບລາຍນິ້ວມືຊັດເຈນຂຶ້ນ.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">ອະນາໄມໜ້າຈໍຂອງທ່ານກ່ອນທີ່ຈະສືບຕໍ່</string>
-    <string name="frr_notification_button_got_it">ເຂົ້າໃຈແລ້ວ</string>
-    <string name="frr_notification_description">ເພື່ອປະສິດທິພາບທີ່ດີທີ່ສຸດ, ໃຫ້ເຮັດຕາມເຄັດລັບເຫຼົ່ານີ້:</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;ສຶກສາເພີ່ມເຕີມ&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">ໃຊ້ຕົວປົກປ້ອງໜ້າຈໍທີ່ມີໃບຮັບຮອງ Made for Google. ຕົວປົກປ້ອງໜ້າຈໍອື່ນໆອາດລົບກວນເຊັນເຊີ ແລະ ເຮັດໃຫ້ເຊັນເຊີເຮັດວຽກໄດ້ຢ່າງບໍ່ສະຖຽນ.</string>
-    <string name="frr_notification_non_mfg_sp_title">ໃຊ້ຕົວປົກປ້ອງໜ້າຈໍທີ່ມີໃບຮັບຮອງ</string>
-    <string name="frr_notification_reset_fingerprint_button">ລຶບ ແລະ ຕັ້ງຄ່າການປົດລັອກດ້ວຍລາຍນິ້ວມື</string>
-    <string name="frr_notification_reset_fingerprint_description">ບາງເທື່ອການດຳເນີນການນີ້ອາດຊ່ວຍແກ້ບັນຫາໄດ້, ໂດຍສະເພາະໃນກໍລະນີທີ່ທ່ານຫາກໍຕິດ ຫຼື ເອົາຕົວປົກປ້ອງໜ້າຈໍອອກ</string>
-    <string name="frr_notification_reset_fingerprint_title">ຕັ້ງຄ່າການປົດລັອກດ້ວຍລາຍນິ້ວມືອີກຄັ້ງ</string>
-    <string name="frr_notification_screen_protector_description">ອາດສົ່ງຜົນຕໍ່ການຈຳແນກລາຍນິ້ວມືໄດ້. ໃຊ້ຕົວປົກປ້ອງໜ້າຈໍທີ່ມີໃບຮັບຮອງ Made for Google. ຕົວປົກປ້ອງໜ້າຈໍອື່ນໆອາດລົບກວນເຊັນເຊີ ແລະ ເຮັດໃຫ້ເຊັນເຊີເຮັດວຽກໄດ້ຢ່າງບໍ່ສະຖຽນ.</string>
-    <string name="frr_notification_screen_protector_title">ຫາກທ່ານໃຊ້ຕົວປົກປ້ອງໜ້າຈໍ...</string>
-    <string name="frr_notification_set_face_unlock_description">ໃຊ້ການປົດລັອກດ້ວຍໜ້າເມື່ອລະບົບຈຳແນກລາຍນິ້ວມືຂອງທ່ານບໍ່ໄດ້ ເຊັ່ນ: ເມື່ອນິ້ວມືຂອງທ່ານປຽກ</string>
-    <string name="frr_notification_set_face_unlock_title">ຕັ້ງຄ່າການປົດລັອກດ້ວຍໜ້າ</string>
-    <string name="frr_notification_title">ພົບບັນຫາໃນການປົດລັອກດ້ວຍລາຍນິ້ວມືບໍ?</string>
     <string name="protector_edu_subtitle">ຕົວປົກປ້ອງໜ້າຈໍອາດສົ່ງຜົນກະທົບຕໍ່ການຈຳແນກລາຍນິ້ວມື. ເພື່ອປະສິດທິພາບສູງສຸດໃນການປົດລັອກດ້ວຍລາຍນິ້ວມືເມື່ອໃຊ້ຕົວປົກປ້ອງໜ້າຈໍ, ໃຫ້ເຮັດດັ່ງນີ້:</string>
     <string name="screen_protector_edu_apply_instruction">ຫາກເປັນໄປໄດ້, ໃຫ້ຕິດຕົວປົກປ້ອງໜ້າຈໍກ່ອນຕັ້ງຄ່າການປົດລັອກດ້ວຍລາຍນິ້ວມື ແລະ ໄລ່ຟອງອາກາດອອກ. ຫາກທ່ານຕ້ອງການຕິດຫຼັງຈາກການຕັ້ງຄ່າ, ໃຫ້ສະແກນລະຫັດ QR ໃນພາຍຫຼັງດ້ວຍກ້ອງຂອງທ່ານ.</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;ສຶກສາເພີ່ມເຕີມຢູ່ g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">ຕອນນີ້ເມື່ອທ່ານຈັບໂທລະສັບຂອງທ່ານຂຶ້ນມາ ຫຼື ແຕະໃສ່ໜ້າຈໍຂອງທ່ານ, ທ່ານຈະສາມາດໃຊ້ໜ້າຂອງທ່ານເພື່ອປົດລັອກໄດ້.\n\nການປົດລັອກດ້ວຍໜ້າຈະເຮັດວຽກໄດ້ດີທີ່ສຸດເມື່ອມີແສງພຽງພໍ ແລະ ທ່ານບໍ່ໄດ້ໃສ່ຜ້າອັດປາກ ຫຼື ແວ່ນຕາດຳ.</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">ຕອນນີ້ເມື່ອທ່ານຈັບໂທລະສັບຂອງທ່ານຂຶ້ນມາ ຫຼື ແຕະໃສ່ໜ້າຈໍຂອງທ່ານ, ທ່ານຈະສາມາດໃຊ້ໜ້າຂອງທ່ານເພື່ອປົດລັອກໄດ້. ຕ້ອງພັບໂທລະສັບຂອງທ່ານເພື່ອໃຊ້ການປົດລັອກດ້ວຍໜ້າ.\n\nການປົດລັອກດ້ວຍໜ້າຈະເຮັດວຽກໄດ້ດີທີ່ສຸດເມື່ອມີແສງພຽງພໍ ແລະ ທ່ານບໍ່ໄດ້ໃສ່ຜ້າອັດປາກ ຫຼື ແວ່ນຕາດຳ.</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">ທ່ານ ແລະ ລູກຂອງທ່ານສາມາດລຶບຮູບແບບໃບໜ້າຂອງເຂົາເຈົ້າ ຫຼື ປິດການປົດລັອກດ້ວຍໜ້າໄດ້ທຸກເວລາໃນການຕັ້ງຄ່າ. ລະບົບຈະຈັດເກັບຮູບແບບໃບໜ້າໄວ້ໃນໂທລະສັບຈົນກວ່າຈະມີການລຶບອອກ.</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">ທ່ານສາມາດລຶບຮູບແບບໃບໜ້າຂອງທ່ານ ຫຼື ປິດການປົດລັອກດ້ວຍໜ້າຕອນໃດກໍໄດ້ໃນການຕັ້ງຄ່າ. ລະບົບຈະຈັດເກັບຮູບແບບໃບໜ້າໄວ້ໃນໂທລະສັບຈົນກວ່າທ່ານຈະລຶບອອກ.</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">ການປົດລັອກດ້ວຍໜ້າຈະສ້າງຮູບແບບໃບໜ້າທີ່ບໍ່ຊ້ຳກັນຂອງລູກຂອງທ່ານເພື່ອຢັ້ງຢືນວ່າແມ່ນເຂົາເຈົ້າ. ເພື່ອສ້າງຮູບແບບໃບໜ້ານີ້ໃນລະຫວ່າງການຕັ້ງຄ່າ, ລູກຂອງທ່ານຈະຖ່າຍຮູບໃບໜ້າຂອງຕົນເອງຈາກມຸມຕ່າງໆທີ່ບໍ່ຊ້ຳກັນ.\n\nເມື່ອເຂົາເຈົ້າໃຊ້ການປົດລັອກດ້ວຍໜ້າ, ລະບົບຈະໃຊ້ຮູບເພື່ອອັບເດດຮູບແບບໃບໜ້າຂອງເຂົາເຈົ້າ. ລະບົບຈະບໍ່ຈັດເກັບຮູບທີ່ໃຊ້ສ້າງຮູບແບບໃບໜ້າຂອງເຂົາເຈົ້າ, ແຕ່ຈະຈັດເກັບຮູບແບບໃບໜ້າໄວ້ຢ່າງປອດໄພຢູ່ໂທລະສັບ ແລະ ຈະບໍ່ມີການສົ່ງອອກຈາກໂທລະສັບຢ່າງເດັດຂາດ. ການປະມວນຜົນທັງໝົດເກີດຂຶ້ນຢ່າງປອດໄພຢູ່ໂທລະສັບ.</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">ສຶກສາເພີ່ມເຕີມຢູ່ &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">ໃຊ້ໃບໜ້າຂອງທ່ານເພື່ອປົດລັອກໂທລະສັບຂອງທ່ານ ຫຼື ຢັ້ງຢືນວ່າແມ່ນທ່ານໃນແອັບ</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">ລະບົບຈະຈັດເກັບໃບໜ້າຂອງທ່ານໄວ້ໃນອຸປະກອນເທົ່ານັ້ນ ແລະ ຈະບໍ່ສົ່ງໄປໃຫ້ Google</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">ເພື່ອປະສົບການໃນການນຳໃຊ້ທີ່ດີທີ່ສຸດ, ໃຫ້ຕັ້ງຄ່າການປົດລັອກດ້ວຍໜ້າຄວບຄູ່ກັບການປົດລັອກດ້ວຍລາຍນິ້ວມື</string>
     <string name="security_settings_face_enroll_next">ຕໍ່ໄປ</string>
     <string name="security_settings_face_enroll_partial_message">ເພື່ອປັບປຸງປະສິດທິພາບ, ທ່ານສາມາດຕັ້ງຄ່າການປົດລັອກດ້ວຍໜ້າອີກຄັ້ງໄດ້ໃນການຕັ້ງຄ່າ</string>
     <string name="security_settings_face_enroll_partial_start_over">ເລີ່ມຕົ້ນໃຫມ່</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">ໂທລະສັບຮ້ອນເກີນໄປ</string>
     <string name="security_settings_fingerprint_enroll_consent_message">ໃຊ້ລາຍນິ້ວມືຂອງລູກຂອງທ່ານເພື່ອປົດລັອກໂທລະສັບຂອງເຂົາເຈົ້າ ຫຼື ຢັ້ງຢືນວ່າແມ່ນເຂົາເຈົ້າໃນແອັບ</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">ລະບົບຈະຈັດເກັບລາຍນິ້ວມືລູກຂອງທ່ານໄວ້ຢູ່ອຸປະກອນເທົ່ານັ້ນ ແລະ ຈະບໍ່ສົ່ງໄປໃຫ້ Google</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">ປອດໄພ ແລະ ເປັນປະໂຫຍດ</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">ໃຊ້ລາຍນິ້ວມືຂອງທ່ານເພື່ອປົດລັອກໂທລະສັບຂອງທ່ານ ຫຼື ຢັ້ງຢືນວ່າແມ່ນທ່ານໃນແອັບ</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">ຫາກທ່ານມີຕົວປົກປ້ອງໜ້າຈໍ, ໃຫ້ຕິດກ່ອນທີ່ຈະຕັ້ງຄ່າລາຍນິ້ວມືຂອງທ່ານເພື່ອປະສິດທິພາບທີ່ດີທີ່ສຸດ.\n\nເພື່ອໃຫ້ໄດ້ຜົນຮັບທີ່ດີທີ່ສຸດ, ໃຫ້ໃຊ້ຕົວປົກປ້ອງໜ້າຈໍທີ່ໄດ້ຮັບການຮັບຮອງ Made for Google. ດ້ວຍຕົວປົກປ້ອງໜ້າຈໍແບບອື່ນ, ລາຍນິ້ວມືຂອງທ່ານອາດໃຊ້ບໍ່ໄດ້.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">ລະບົບຈະຈັດເກັບລາຍນິ້ວມືຂອງທ່ານໄວ້ໃນອຸປະກອນເທົ່ານັ້ນ ແລະ ຈະບໍ່ສົ່ງໄປໃຫ້ Google</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">ເພື່ອປະສົບການໃນການນຳໃຊ້ທີ່ດີທີ່ສຸດ, ໃຫ້ເພີ່ມລາຍນິ້ວມືຢ່າງໜ້ອຍ 2 ລາຍ ແລະ ຕັ້ງຄ່າການປົດລັອກດ້ວຍໜ້າ</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">ສຶກສາເພີ່ມເຕີມຢູ່ &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. ແຖບສະຖານະ. ແຕະສອງເທື່ອເພື່ອ %2$s.</string>
-    <string name="security_settings_udfps_enroll_start_message_new">ວາງນິ້ວມືຂອງທ່ານເທິງເຊັນເຊີຈົນກວ່າທ່ານຈະຮູ້ສຶກເຖິງການສັ່ນເຕືອນ. ຕັ້ງຄ່າໄດ້ເທື່ອລະ 1 ນິ້ວເທົ່ານັ້ນ.</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">ວາງນິ້ວມືຂອງທ່ານເທິງເຊັນເຊີຈົນກວ່າແຖບສະຖານະຈະເຕັມ. ຕັ້ງຄ່າໄດ້ເທື່ອລະ 1 ນິ້ວເທົ່ານັ້ນ.</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">ຢືນຢັນ</string>
     <string name="security_settings_udfps_screen_protector_description_none">ບໍ່ມີຕົວປົກປ້ອງໜ້າຈໍ</string>
     <string name="security_settings_udfps_screen_protector_keywords">ຕົວປົກປ້ອງໜ້າຈໍ</string>

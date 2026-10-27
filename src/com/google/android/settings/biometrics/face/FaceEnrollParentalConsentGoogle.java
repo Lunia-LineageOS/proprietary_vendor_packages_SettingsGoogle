@@ -11,13 +11,14 @@ import android.widget.TextView;
 import com.android.settings.biometrics.face.FaceEnrollParentalConsent;
 import com.android.settingslib.widget.theme.R.color;
 
-import com.google.android.settings.R;
+import com.google.android.settings.biometrics.R;
 import com.google.android.setupdesign.util.ThemeHelper;
 
 public class FaceEnrollParentalConsentGoogle extends FaceEnrollParentalConsent {
     public static final int[] CONSENT_STRING_RESOURCES = {
         com.android.settings.R.string.security_settings_face_enroll_consent_introduction_title,
-        R.string.security_settings_face_enroll_consent_secure_and_helpful_message_1,
+        com.google.android.settings.R.string
+                .security_settings_face_enroll_consent_secure_and_helpful_message_1,
         R.string.security_settings_face_enroll_introduction_secure_and_helpful_message_2,
         com.android.settings.R.string.security_settings_face_enroll_introduction_consent_message,
         com.android.settings.R.string
@@ -25,13 +26,14 @@ public class FaceEnrollParentalConsentGoogle extends FaceEnrollParentalConsent {
         com.android.settings.R.string
                 .security_settings_face_enroll_introduction_info_consent_looking,
         com.android.settings.R.string.security_settings_face_enroll_introduction_info_consent_gaze,
-        R.string.security_settings_face_enroll_introduction_how_consent_message_1,
+        com.google.android.settings.R.string
+                .security_settings_face_enroll_introduction_how_consent_message_1,
         com.android.settings.R.string
                 .security_settings_face_enroll_introduction_control_consent_title,
         com.android.settings.R.string
                 .security_settings_face_enroll_introduction_control_consent_message,
         com.android.settings.R.string.security_settings_face_enroll_introduction_consent_message_0,
-        R.string.security_settings_face_enroll_consent_message,
+        com.google.android.settings.R.string.security_settings_face_enroll_consent_message,
         com.android.settings.R.string
                 .security_settings_face_enroll_introduction_info_consent_less_secure,
         R.string.security_settings_face_enroll_introduction_learn_more_message,
@@ -83,19 +85,24 @@ public class FaceEnrollParentalConsentGoogle extends FaceEnrollParentalConsent {
 
     @Override
     protected int getHowMessage() {
-        return R.string.security_settings_face_enroll_introduction_how_consent_message_1;
+        return com.google.android.settings.R.string
+                .security_settings_face_enroll_introduction_how_consent_message_1;
     }
 
     @Override
     protected int getInControlMessage() {
-        return R.string.security_settings_face_enroll_introduction_control_consent_message_1;
+        return com.google.android.settings.R.string
+                .security_settings_face_enroll_introduction_control_consent_message_1;
     }
 
     @Override
     protected void updateDescriptionText() {
         super.updateDescriptionText();
         if (isFaceStrong()) {
-            setDescriptionText(getString(R.string.security_settings_face_enroll_consent_message));
+            setDescriptionText(
+                    getString(
+                            com.google.android.settings.R.string
+                                    .security_settings_face_enroll_consent_message));
         } else {
             setDescriptionText(
                     com.android.settings.R.string

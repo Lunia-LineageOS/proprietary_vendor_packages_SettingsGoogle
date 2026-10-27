@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">指紋認証を設定する</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">仕事用の指紋認証の設定</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">指紋認証でスマートフォンのロック解除や本人確認を行えるようになりました。状況に応じて柔軟に対応できるように、別の指紋を追加してください。</string>
-    <string name="delete_all_fps_dialog_cancel_button">後で</string>
-    <string name="delete_all_fps_dialog_delete_button">今すぐ設定</string>
-    <string name="delete_all_fps_dialog_msg">現在の指紋がすべて削除されます。指紋認証をもう一度設定するまで、指紋を使用してスマートフォンのロックを解除したり、本人確認を行ったりすることはできません。</string>
-    <string name="delete_all_fps_dialog_title">指紋認証を設定しますか？</string>
     <string name="enroll_usudfps_fingertip_title_simple">指先を押し当ててください</string>
     <string name="enroll_usudfps_left_edge_title_simple">指の左端を押し当ててください</string>
     <string name="enroll_usudfps_right_edge_title_simple">指の右端を押し当ててください</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">指紋認証センサーは次の画面にあります</string>
     <string name="find_usudfps_with_sp_setup_sp_button">画面保護シートを装着した状態で登録</string>
     <string name="fingerprint_acquired_immobile_simple">位置を毎回少しずつ変えてください</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">別の指紋を追加</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">指紋認証でスマートフォンのロック解除や本人確認を行えるようになりました。別の指紋を追加して、さらに使いやすくすることもできます。</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">指紋認証は使えば使うほど精度が向上します。別の指紋を追加することもできます。</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">指紋認証は使えば使うほど精度が向上します。別の指紋を追加して、さらに使いやすくすることもできます。</string>
-    <string name="fingerprint_enroll_finish_title">完了です</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">1 個の指紋を登録しました</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">指紋認証センサーが電源ボタン（デバイス側面の音量ボタンの横）に内蔵されています。状況に応じて柔軟に対応できるように、両手の指をそれぞれ 1 本以上登録してください。</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">有効な QR コード</string>
     <string name="fingerprint_sp_qr_code_error">これは Google 認定の画面保護シートの QR コードではありません</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">画面保護シートのパッケージのコードがフレーム内に収まるようにしてください</string>
     <string name="fingerprint_sp_title_got_it">OK！</string>
     <string name="fingerprint_sp_title_scan_qr_code">QR コードをスキャンする</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">指紋認証センサーがこの次の画面に表示されます。状況に応じて柔軟に対応できるように、両手の指をそれぞれ 1 本以上登録してください。</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">画面を拭いて、すじ、汚れ、しみなどを取り除いてください。指紋の画像をより鮮明に登録できるようになります。</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">次に進む前に画面をきれいにします</string>
-    <string name="frr_notification_button_got_it">OK</string>
-    <string name="frr_notification_description">最適な状態でお使いいただくには、次のヒントを参考にしてください。</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;詳細&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">Made For Google 認定の画面保護シートを使用してください。他の画面保護シートを使うと、センサーが正しく機能しないことがあります。</string>
-    <string name="frr_notification_non_mfg_sp_title">認定を受けた画面保護シートを使用してください</string>
-    <string name="frr_notification_reset_fingerprint_button">指紋認証を削除して再設定</string>
-    <string name="frr_notification_reset_fingerprint_description">特に画面保護シートを最近追加したり削除したりした場合は、この手順で問題が解決することがあります</string>
-    <string name="frr_notification_reset_fingerprint_title">指紋認証をもう一度設定してください</string>
-    <string name="frr_notification_screen_protector_description">指紋認証に影響している可能性があります。Made For Google 認定の画面保護シートを使用してください。他の画面保護シートを使うと、センサーが正しく機能しないことがあります。</string>
-    <string name="frr_notification_screen_protector_title">画面保護シートを使用している場合</string>
-    <string name="frr_notification_set_face_unlock_description">指が濡れている場合など、指紋が認識されないときに顔認証を使用できます</string>
-    <string name="frr_notification_set_face_unlock_title">顔認証を設定します</string>
-    <string name="frr_notification_title">指紋認証で問題が発生している場合</string>
     <string name="protector_edu_subtitle">画面保護シートが指紋認証に影響している可能性があります。画面保護シートを装着した状態で指紋認証の精度を高めるため、次のオプションを選んでください。</string>
     <string name="screen_protector_edu_apply_instruction">可能であれば、指紋認証を設定する前に画面保護シートを貼り、気泡をすべて取り除いてください。設定後にシートを貼る場合は、後でカメラで QR コードをスキャンしてください。</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;詳細: g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">スマートフォンを持ち上げるか画面をタップしたときに、顔認証を使用してロック解除できるようになりました。\n\n顔が十分に照らされていて、マスクやサングラスを着けていない場合は、顔認証が特に便利です。</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">スマートフォンを持ち上げるか画面をタップしたときに、顔認証を使用してロック解除できるようになりました。顔認証を使用するには、スマートフォンを折りたたむ必要があります。\n\n顔認証は、十分に明るい環境で、マスクやサングラスを着けていない場合に最適に動作します。</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">あなたとお子様はいつでも [設定] で顔モデルを削除したり、顔認証を OFF にしたりできます。顔モデルは、削除するまでスマートフォンに保存されたままになります。</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">いつでも [設定] で顔モデルを削除したり、顔認証を OFF にしたりできます。顔モデルは、削除するまでスマートフォンに保存されたままになります。</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">顔認証を設定する際に、本人確認に使うお子様の顔の一意のモデルを作成します。この顔モデルを作成するため、さまざまな角度からお子様の顔の画像を撮影します。\n\n顔認証を使用すると、画像を基に顔モデルが更新されます。顔モデルの作成に使用された画像が保存されることはありませんが、顔モデルはスマートフォンに安全に保存されます。この情報が外部に送信されることは一切なく、処理はすべてスマートフォン上で安全に行われます。</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">詳細: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">顔を使って、スマートフォンのロック解除やアプリでの本人確認を行います</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">顔の情報はデバイスにのみ保存され、Google に送信されることはありません</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">状況に応じて柔軟に対応できるように、指紋認証と顔認証の両方を設定してください</string>
     <string name="security_settings_face_enroll_next">次へ</string>
     <string name="security_settings_face_enroll_partial_message">パフォーマンスを改善するには、[設定] で顔認証を設定し直します。</string>
     <string name="security_settings_face_enroll_partial_start_over">最初からやり直す</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">スマートフォンが過熱しています</string>
     <string name="security_settings_fingerprint_enroll_consent_message">お子様の指紋を使って、スマートフォンのロック解除やアプリでの本人確認を行います</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">お子様の指紋はデバイスにのみ保存され、Google に送信されることはありません</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">安全で便利です</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">指紋を使って、スマートフォンのロック解除やアプリでの本人確認を行います</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">画面保護シートをお使いになる場合は、性能の低下を防ぐため、シートを装着してから指紋を追加してください。\n\n正常に動作するよう、Made For Google 認定の画面保護シートを使用してください。これ以外の製品を使うと、指紋が認識されないおそれがあります。</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">指紋はデバイスにのみ保存され、Google に送信されることはありません</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">状況に応じて柔軟に対応できるように、指紋を 2 つ以上追加し、顔認証も設定してください</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">詳細: &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s。進行状況バー。ダブルタップで%2$s。</string>
-    <string name="security_settings_udfps_enroll_start_message_new">振動を感じるまでセンサーに指を平らに押し当てたままにします。一度に 1 本のみ登録してください。</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">進行状況バーが完了に達するまで、センサーに指を平らに押し当てたままにします。一度に 1 本のみ登録してください。</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">確認</string>
     <string name="security_settings_udfps_screen_protector_description_none">画面保護シートなし</string>
     <string name="security_settings_udfps_screen_protector_keywords">画面保護シート</string>

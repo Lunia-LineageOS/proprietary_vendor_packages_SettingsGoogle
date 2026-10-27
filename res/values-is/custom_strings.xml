@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Setja upp fingrafarskenni</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Settu upp fingrafarskenni fyrir vinnuna</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">Nú geturðu notað fingrafarið þitt til að taka símann úr lás eða staðfesta að þetta sért þú. Bættu öðru fingrafari við til að auka sveigjanleikann.</string>
-    <string name="delete_all_fps_dialog_cancel_button">Ekki núna</string>
-    <string name="delete_all_fps_dialog_delete_button">Setja upp núna</string>
-    <string name="delete_all_fps_dialog_msg">Þetta verður til þess að öllum núverandi fingraförum verður eytt og þú munt hvorki geta notað fingrafarið þitt til að taka símann úr lás né staðfesta hver þú ert fyrr en þú hefur sett fingrafarskenni aftur upp.</string>
-    <string name="delete_all_fps_dialog_title">Setja upp fingrafarskenni?</string>
     <string name="enroll_usudfps_fingertip_title_simple">Snertu fingurgóminn</string>
     <string name="enroll_usudfps_left_edge_title_simple">Snertu vinstri brúnina</string>
     <string name="enroll_usudfps_right_edge_title_simple">Snertu hægri brúnina</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Fingrafaralesarinn er á næsta skjá</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Setja upp með skjávörn</string>
     <string name="fingerprint_acquired_immobile_simple">Færðu fingurinn örlítið í hvert skipti</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">Bæta öðru fingrafari við</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Nú geturðu notað fingrafarið þitt til að taka símann úr lás eða staðfesta að þetta sért þú. Þú getur bætt öðru fingrafari við til að auka þægindin enn frekar.</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Því meira sem þú notar fingrafarskenni, því betra verður það. Þú getur jafnvel bætt fleiri fingraförum við.</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Því meira sem þú notar fingrafarskenni, því betra verður það. Þú getur jafnvel bætt fleiri fingraförum við til að auka þægindin enn frekar.</string>
-    <string name="fingerprint_enroll_finish_title">Lítur vel út!</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">Einu fingrafari bætt við</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">Fingrafaralesarinn er á aflrofanum, við hliðina á hljóðstyrkshnöppunum á hlið tækisins. Þér til hægðarauka skaltu setja upp a.m.k. einn fingur á hvorri hönd.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Gildur QR-kóði</string>
     <string name="fingerprint_sp_qr_code_error">Þessi QR-kóði endurspeglar ekki vottaða skjávörn</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">Settu kóðann á umbúðum skjávarnarinnar í rammann</string>
     <string name="fingerprint_sp_title_got_it">Ég skil</string>
     <string name="fingerprint_sp_title_scan_qr_code">Skannaðu QR-kóðann</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">Fingrafaralesarinn er á næsta skjá. Þér til hægðarauka skaltu setja upp a.m.k. einn fingur á hvorri hönd.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Strjúktu af skjánum til að fjarlægja öll óhreinindi. Þannig er hægt að fá skýrari mynd af fingrafarinu.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Þrífðu skjáinn áður en þú heldur áfram</string>
-    <string name="frr_notification_button_got_it">Ég skil</string>
-    <string name="frr_notification_description">Fylgdu þessum ráðum til að ná bestum árangri:</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Nánar&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">Notaðu skjávörn með vottunina „Hannað fyrir Google“. Aðrar skjávarnir kunna að trufla skynjarann og koma í veg fyrir að hann virki rétt.</string>
-    <string name="frr_notification_non_mfg_sp_title">Notaðu vottaða skjávörn</string>
-    <string name="frr_notification_reset_fingerprint_button">Eyða og setja upp fingrafarskenni</string>
-    <string name="frr_notification_reset_fingerprint_description">Þetta getur stundum lagað vandamál, sérstaklega ef þú hefur nýlega bætt við eða fjarlægt skjávörn</string>
-    <string name="frr_notification_reset_fingerprint_title">Setja upp fingrafarskenni aftur</string>
-    <string name="frr_notification_screen_protector_description">Það getur haft áhrif á greiningu fingrafara. Notaðu skjávörn með vottunina „Hannað fyrir Google“. Aðrar skjávarnir kunna að trufla skynjarann og koma í veg fyrir að hann virki rétt.</string>
-    <string name="frr_notification_screen_protector_title">Ef þú notar skjávörn...</string>
-    <string name="frr_notification_set_face_unlock_description">Notaðu andlitskenni þegar ekki er hægt að greina fingrafarið, t.d. þegar fingurnir eru blautir</string>
-    <string name="frr_notification_set_face_unlock_title">Setja upp andlitskenni</string>
-    <string name="frr_notification_title">Ertu í vandræðum með fingrafarskenni?</string>
     <string name="protector_edu_subtitle">Skjávörn getur haft áhrif á greiningu fingrafars. Til að sjá til þess að fingrafarskenni virki sem best þegar þú ert með skjávörn:</string>
     <string name="screen_protector_edu_apply_instruction">Settu skjávörnina á áður en þú setur upp fingrafarskenni ef mögulegt er og fjarlægðu allar loftbólur. Ef þú þarft að setja hana á eftir uppsetningu skaltu skanna QR-kóðann með myndavélinni.</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Nánar á g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">Nú geturðu notað andlitið til að taka símann úr lás þegar þú tekur hann upp eða ýtir á skjáinn.\n\nAndlitskenni virkar best þegar birtan er næg og þú ert ekki með grímu eða dökk gleraugu.</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">Nú geturðu notað andlitið til að taka símann úr lás þegar þú tekur hann upp eða ýtir á skjáinn. Síminn þarf að vera samanbrotinn svo andlitskenni virki.\n\nAndlitskenni virkar best þegar birtan er næg og þú ert ekki með grímu eða dökk gleraugu.</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">Þú og barnið þitt getið eytt andlitslíkaninu eða slökkt á andlitskenni hvenær sem er í stillingum. Andlitslíkanið eru vistað í símanum þar til því er eytt.</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">Þú getur eytt andlitslíkaninu þínu eða slökkt á andlitskenni hvenær sem er í stillingunum. Andlitslíkön eru geymd í símanum þar til þú eyðir þeim.</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">Andlitskenni býr til einkvæmt líkan af andliti barnsins þíns til að staðfesta hver það er. Til að búa andlitslíkanið til við uppsetningu tekur barnið þitt myndir af andlitinu á sér frá nokkrum sjónarhornum.\n\nMyndir frá notkun barnsins á andlitskenni eru einnig notaðar til að uppfæra andlitslíkanið. Myndir sem eru notaðar til að búa til andlitslíkan barnsins eru ekki vistaðar en andlitslíkanið er vistað með öruggum hætti í símanum og aldrei sent þaðan. Öll úrvinnsla fer fram í símanum á öruggan hátt.</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">Nánar á &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">Notaðu andlitið til að taka símann úr lás eða staðfesta að þetta sért þú í forritum</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Andlitslíkanið þitt er eingöngu vistað í tækinu og aldrei sent til Google</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Settu upp fingrafarskenni ásamt andlitskenni til að létta þér lífið</string>
     <string name="security_settings_face_enroll_next">Áfram</string>
     <string name="security_settings_face_enroll_partial_message">Þú getur sett andlitskenni aftur upp í stillingunum til að bæta afköst eiginleikans</string>
     <string name="security_settings_face_enroll_partial_start_over">Byrja upp á nýtt</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Síminn er of heitur</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Leyfðu barninu þínu að nota fingrafarið sitt til að taka símann sinn úr lás eða sannvotta sig í forritum</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Fingrafarslíkan barnsins er eingöngu vistað í tækinu og aldrei sent til Google</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Öruggt og gagnlegt</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Notaðu fingraförin þín til að taka símann úr lás eða staðfesta að þetta sért þú í forritum</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Ef þú ert með skjávörn skaltu setja hana á áður en þú setur upp fingrafarskenni svo að eiginleikinn virki sem best.\n\nBest er að nota skjávörn sem er vottuð sem „Hannað fyrir Google“. Fingrafarskenni virkar hugsanlega ekki með öðrum skjávörnum.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Fingraförin þín eru eingöngu vistuð í tækinu og aldrei send til Google</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Bættu tveimur eða fleiri fingraförum við og settu upp andlitskenni til að fá sem mest út úr upplifuninni</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Nánar á &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Framvindustika. Ýttu tvisvar til að %2$s.</string>
-    <string name="security_settings_udfps_enroll_start_message_new">Haltu fingri á skynjaranum þar til þú finnur titring. Settu aðeins upp eitt fingrafar í einu.</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">Haltu fingri á skynjaranum þar til framvindustikan fyllist. Settu aðeins upp eitt fingrafar í einu.</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">Staðfesta</string>
     <string name="security_settings_udfps_screen_protector_description_none">Engin skjávörn</string>
     <string name="security_settings_udfps_screen_protector_keywords">Skjávörn</string>

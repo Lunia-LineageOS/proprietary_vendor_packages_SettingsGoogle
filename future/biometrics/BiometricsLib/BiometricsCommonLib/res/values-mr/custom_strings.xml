@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">आताच नको</string>
+    <string name="delete_all_fps_dialog_delete_button">आता सेट करा</string>
+    <string name="delete_all_fps_dialog_msg">हे तुमचे सध्याचे सर्व फिंगरप्रिंट हटवेल आणि फिंगरप्रिंट अनलॉक पुन्हा सेट होईपर्यंत तुम्ही तुमचा फोन अनलॉक करण्यासाठी किंवा तुमची ओळख पडताळण्यासाठी तुमचे फिंगरप्रिंट वापरू शकणार नाही.</string>
+    <string name="delete_all_fps_dialog_title">फिंगरप्रिंट अनलॉक सेट अप करायचे आहे का?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">दुसरी फिंगरप्रिंट जोडा</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">आता तुमचा फोन अनलॉक करण्यासाठी किंवा ते तुम्हीच आहात याची पडताळणी करण्यासाठी, तुम्ही तुमची फिंगरप्रिंट वापरू शकता. अधिक सोयीसाठी तुम्ही दुसरी फिंगरप्रिंट जोडू शकता.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">फिंगरप्रिंट अनलॉक जितके जास्त वापरता तितके ते जास्त चांगले होईल आणि तुम्ही आणखी फिंगरप्रिंटदेखील जोडू शकता.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">फिंगरप्रिंट अनलॉक जितकी जास्त वापरता तितकी ती जास्त चांगली होईल आणि अधिक सोयीसाठी तुम्ही आणखी फिंगरप्रिंटदेखील जोडू शकता.</string>
+    <string name="fingerprint_enroll_finish_title">कोणत्याही समस्या नाहीत!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">१ फिंगरप्रिंट जोडली</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">फिंगरप्रिंट सेन्सर पुढील स्क्रीनवर असेल. सर्वोत्तम सोयीसाठी, प्रत्येक हातावरील किमान १ बोट सेट करा.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">कोणत्याही रेषा, स्मज किंवा डाग काढून टाकण्यासाठी तुमची स्क्रीन पुसा. यामुळे स्पष्ट फिंगरप्रिंट इमेज कॅप्चर करण्यात मदत होते.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">पुढे सुरू ठेवण्यापूर्वी तुमची स्क्रीन साफ करा</string>
+    <string name="frr_notification_button_got_it">समजले</string>
+    <string name="frr_notification_description">सर्वोत्तम परफॉर्मन्ससाठी, या टिपा फॉलो करा:</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;अधिक जाणून घ्या&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">Google साठी बनवलेले असे प्रमाणीकरण असलेल्या स्क्रीन प्रोटेक्टरचा वापर करा. इतर स्क्रीन प्रोटेक्टरमुळे सेन्सरमध्ये अडथळे येऊ शकतात आणि त्याला विश्वसनीयरीत्या काम करण्यापासून रोखू शकतात.</string>
+    <string name="frr_notification_non_mfg_sp_title">प्रमाणीकरण असलेला स्क्रीन प्रोटेक्‍टर वापरा</string>
+    <string name="frr_notification_reset_fingerprint_button">फिंगरप्रिंट अनलॉक हटवा आणि सेट करा</string>
+    <string name="frr_notification_reset_fingerprint_description">यामुळे काही वेळा समस्येचे निराकरण होऊ शकते, विशेषतः जर तुम्ही अलीकडेच स्क्रीन प्रोटेक्टर जोडला असेल किंवा काढून टाकला असेल</string>
+    <string name="frr_notification_reset_fingerprint_title">फिंगरप्रिंट अनलॉक पुन्हा सेट करा</string>
+    <string name="frr_notification_screen_protector_description">याचा फिंगरप्रिंट ओळखीवर परिणाम होऊ शकतो. Google साठी बनवलेले असे प्रमाणीकरण असलेल्या स्क्रीन प्रोटेक्टरचा वापर करा. इतर स्क्रीन प्रोटेक्टरमुळे सेन्सरमध्ये अडथळे येऊ शकतात आणि त्याला विश्वसनीयरीत्या काम करण्यापासून रोखू शकतात.</string>
+    <string name="frr_notification_screen_protector_title">तुम्ही स्क्रीन प्रोटेक्‍टर वापरत असल्यास...</string>
+    <string name="frr_notification_set_face_unlock_description">तुमची बोटे ओली असताना, तुमची फिंगरप्रिंट ओळखली जात नाही, तेव्हा फेस अनलॉक वापरा</string>
+    <string name="frr_notification_set_face_unlock_title">फेस अनलॉक सेट करा</string>
+    <string name="frr_notification_title">फिंगरप्रिंट अनलॉक यामध्ये समस्या येत आहे का?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">तुम्ही सेटिंग्ज मध्ये कधीही तुमचे फेस मॉडेल हटवू शकता किंवा फेस अनलॉक बंद करू शकता. तुम्ही फेस मॉडेल हटवत नाही, तोपर्यंत ती फोनवर स्टोअर केलेली असतात.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; इथे अधिक जाणून घ्या</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">तुमचा फोन अनलॉक करण्यासाठी तुमचा चेहरा वापरा किंवा अ‍ॅप्समध्‍ये तुम्हीच आहात याची पडताळणी करा</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">तुमचा चेहरा फक्त डिव्हाइसवर स्टोअर केला जातो आणि Google ला कधीही पाठवला जात नाही</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">सर्वोत्तम अनुभवासाठी, फिंगरप्रिंट अनलॉकसह फेस अनलॉक सेट करा</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">सुरक्षित आणि उपयुक्त</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">तुमचा फोन अनलॉक करण्यासाठी तुमची फिंगरप्रिंट वापरा आणि अ‍ॅप्समध्‍ये तुम्हीच आहात याची पडताळणी करा</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">तुमच्याकडे स्क्रीन प्रोटेक्टर असल्यास, सर्वोत्तम परफॉर्मन्ससाठी, तुमची फिंगरप्रिंट सेट करण्याआधी तो लावा.\n\nसर्वोत्तम परिणामांसाठी, Google साठी बनवलेल्या प्रमाणित स्क्रीन प्रोटेक्टरचा वापर करा. इतर स्क्रीन प्रोटेक्‍टरसह, तुमची फिंगरप्रिंट कदाचित काम करणार नाही.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">तुमच्या फिंगरप्रिंट फक्त डिव्हाइसवर स्टोअर केल्या जातात आणि कधीही Google ला पाठवल्या जात नाहीत</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">सर्वोत्तम अनुभवासाठी, २ किंवा त्याहून अधिक फिंगरप्रिंट जोडा आणि फेस अनलॉक सेट करा</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">&lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt; इथे अधिक जाणून घ्या</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. प्रोग्रेस बार. %2$s साठी दोनदा टॅप करा.</string>
+    <string name="security_settings_udfps_enroll_start_message_new">तुम्हाला व्हायब्रेशन जाणवेपर्यंत तुमचे बोट सेन्सरवर सरळ ठेवा. एका वेळी फक्त १ बोट सेट करा.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">प्रोग्रेस बार पूर्ण भरेपर्यंत तुमचे बोट सेन्सरवर सरळ ठेवा. एका वेळी फक्त १ बोट सेट करा.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="biometric_enroll_introduction_title_padding_vertical">24dp</dimen>
+    <dimen name="frr_divider_height_expressive">@dimen/settingslib_expressive_radius_extrasmall1</dimen>
+    <dimen name="frr_entry_bg_corner_radius_large_expressive">@dimen/settingslib_expressive_radius_extralarge1</dimen>
+    <dimen name="frr_entry_bg_corner_radius_small_expressive">@dimen/settingslib_expressive_radius_extrasmall2</dimen>
+    <dimen name="immobile_dialog_width">380dp</dimen>
+</resources>

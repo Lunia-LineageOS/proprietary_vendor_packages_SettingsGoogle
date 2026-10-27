@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Konfiguro \"Shkyçjen me gjurmën e gishtit\"</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Konfiguro \"Shkyçjen me gjurmën e gishtit\" për punën</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">Tani mund të përdorësh gjurmën e gishtit për të shkyçur telefonin ose për të verifikuar që je ti. Për fleksibilitetin më të madh, shto një gjurmë tjetër gishti.</string>
-    <string name="delete_all_fps_dialog_cancel_button">Jo tani</string>
-    <string name="delete_all_fps_dialog_delete_button">Konfiguro tani</string>
-    <string name="delete_all_fps_dialog_msg">Kjo do të fshijë të gjitha gjurmët e tua aktuale të gishtave dhe nuk do të jesh në gjendje të përdorësh gjurmën e gishtit për të shkyçur telefonin ose për të verifikuar identitetin tënd derisa të konfigurohet përsëri \"Shkyçja me gjurmën e gishtit\".</string>
-    <string name="delete_all_fps_dialog_title">Të konfigurohet \"Shkyçja me gjurmën e gishtit\"?</string>
     <string name="enroll_usudfps_fingertip_title_simple">Prek me majën e gishtit</string>
     <string name="enroll_usudfps_left_edge_title_simple">Prek me skajin e majtë</string>
     <string name="enroll_usudfps_right_edge_title_simple">Prek me skajin e djathtë</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Sensori i gjurmës së gishtit do të jetë në ekranin tjetër</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Konfiguro me mbrojtësin e ekranit</string>
     <string name="fingerprint_acquired_immobile_simple">Rregulloje pak çdo herë</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">Shto një gjurmë tjetër gishti</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Tani mund të përdorësh gjurmën e gishtit për të shkyçur telefonin ose për të verifikuar që je ti. Mund të shtosh një gjurmë tjetër gishti për më shumë lehtësi.</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Sa më shumë e përdor \"Shkyçjen me gjurmën e gishtit\", aq më e mirë bëhet ajo. Dhe mund të shtosh edhe më shumë gjurmë gishtash.</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Sa më shumë e përdor \"Shkyçjen me gjurmën e gishtit\", aq më e mirë bëhet ajo. Dhe mund të shtosh edhe më shumë gjurmë gishtash për më shumë lehtësi.</string>
-    <string name="fingerprint_enroll_finish_title">Duket mirë!</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">1 gjurmë gishti u shtua</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">Sensori i gjurmës së gishtit është në butonin e energjisë, pranë butonave të volumit në pjesën anësore të pajisjes. Për fleksibilitetin më të lartë, konfiguro të paktën 1 gisht në çdo dorë.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Kod i vlefshëm QR</string>
     <string name="fingerprint_sp_qr_code_error">Ky kod QR nuk është për një mbrojtës të certifikuar të ekranit</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">Poziciono kodin në paketimin e mbrojtësit të ekranit në kuadër</string>
     <string name="fingerprint_sp_title_got_it">E kuptova!</string>
     <string name="fingerprint_sp_title_scan_qr_code">Skano kodin QR</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">Sensori i gjurmës së gishtit do të jetë në ekranin tjetër. Për fleksibilitetin më të lartë, konfiguro të paktën 1 gisht në çdo dorë.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Fshije ekranin për të hequr vijat, fërkimet ose njollat. Kjo ndihmon për të regjistruar imazhe më të qarta të gjurmëve të gishtave.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Pastro ekranin para se të vazhdosh</string>
-    <string name="frr_notification_button_got_it">E kuptova</string>
-    <string name="frr_notification_description">Për cilësinë më të mirë të funksionimit, ndiq këta hapa:</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Mëso më shumë&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">Përdor një mbrojtës ekrani që është i certifikuar si i \"Prodhuar për Google\". Mbrojtësit e tjerë të ekranit mund të ndërhyjnë me sensorin dhe të bëjnë që ai të mos funksionojë në mënyrë të qëndrueshme.</string>
-    <string name="frr_notification_non_mfg_sp_title">Përdor një mbrojtës ekrani të certifikuar</string>
-    <string name="frr_notification_reset_fingerprint_button">Fshi dhe konfiguro \"Shkyçjen me gjurmën e gishtit\"</string>
-    <string name="frr_notification_reset_fingerprint_description">Ndonjëherë kjo mund të rregullojë problemet, veçanërisht nëse së fundi ke shtuar ose hequr një mbrojtës ekrani</string>
-    <string name="frr_notification_reset_fingerprint_title">Konfiguro përsëri \"Shkyçjen me gjurmën e gishtit\"</string>
-    <string name="frr_notification_screen_protector_description">Mund të ketë ndikim te njohja e gjurmës së gishtit. Përdor një mbrojtës ekrani që është i certifikuar si i \"Prodhuar për Google\". Mbrojtësit e tjerë të ekranit mund të ndërhyjnë me sensorin dhe të bëjnë që ai të mos funksionojë në mënyrë të qëndrueshme.</string>
-    <string name="frr_notification_screen_protector_title">Nëse përdor një mbrojtës ekrani...</string>
-    <string name="frr_notification_set_face_unlock_description">Përdor \"Shkyçjen me fytyrë\" kur gjurma e gishtit nuk njihet, si p.sh. kur i ke gishtat të lagur</string>
-    <string name="frr_notification_set_face_unlock_title">Konfiguro \"Shkyçjen me fytyrë\"</string>
-    <string name="frr_notification_title">Ke probleme me \"Shkyçjen me gjurmën e gishtit\"?</string>
     <string name="protector_edu_subtitle">Një mbrojtës ekrani mund të ndikojë në njohjen e gjurmës së gishtit. Për performancën më të mirë të \"Shkyçjes me gjurmën e gishtit\" me një mbrojtës ekrani:</string>
     <string name="screen_protector_edu_apply_instruction">Kur është e mundur, vendos mbrojtësin e ekranit para konfigurimit të \"Shkyçjes me gjurmën e gishtit\" dhe elimino flluskat. Nëse duhet ta vendosësh pas konfigurimit, skano kodin QR më vonë me kamerën.</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Mëso më shumë në g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">Tani kur ngre telefonin ose troket ekranin, mund të përdorësh fytyrën tënde për ta shkyçur.\n\n\"Shkyçja me fytyrë\" funksionon më mirë kur ka mjaftueshëm ndriçim dhe nuk ke vënë një maskë ose syze të errëta.</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">Tani kur ngre telefonin ose troket në ekran, mund të përdorësh fytyrën tënde për ta shkyçur. Telefoni yt duhet të jetë i palosur për të përdorur \"Shkyçjen me fytyrë\".\n\n\"Shkyçja me fytyrë\" funksionon më mirë kur ka ndriçim të mjaftueshëm dhe nuk ke vënë një maskë ose syze të errëta.</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">Ti dhe fëmija yt mund ta fshini modelin e fytyrës së tij ose ta çaktivizoni \"Shkyçjen me fytyrë\" në çdo kohë te \"Cilësimet\". Modelet e fytyrës ruhen në telefon derisa të fshihen.</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">Mund ta fshish modelin e fytyrës sate ose ta çaktivizosh \"Shkyçjen me fytyrë\" në çdo kohë te \"Cilësimet\". Modelet e fytyrave ruhen në telefon derisa t\'i fshish.</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">\"Shkyçja me fytyrë\" krijon një model unik të fytyrës së fëmijës tënd për të verifikuar që është fëmija. Për ta krijuar këtë model të fytyrës gjatë konfigurimit, fëmija do të nxjerrë imazhe të fytyrës së vet nga kënde të ndryshme.\n\nKur të përdorë \"Shkyçjen me fytyrë\", imazhet do të përdoren për të përditësuar modelin e fytyrës së fëmijës. Imazhet e përdorura për të krijuar modelin e fytyrës së fëmijës nuk ruhen asnjëherë, por modeli i fytyrës ruhet në mënyrë të sigurt në telefon dhe nuk largohet asnjëherë nga telefoni. I gjithë përpunimi ndodh në mënyrë të sigurt në telefon.</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">Mëso më shumë në &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">Përdor fytyrën tënde për të shkyçur telefonin ose për të verifikuar që je ti në aplikacione</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Fytyra jote ruhet vetëm në pajisje dhe nuk dërgohet asnjëherë te Google</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Për përvojën më të mirë, konfiguro \"Shkyçjen me fytyrë\" bashkë me \"Shkyçjen me gjurmën e gishtit\"</string>
     <string name="security_settings_face_enroll_next">Para</string>
     <string name="security_settings_face_enroll_partial_message">Për të përmirësuar performancën, mund ta konfigurosh \"Shkyçjen me fytyrë\" përsëri te \"Cilësimet\"</string>
     <string name="security_settings_face_enroll_partial_start_over">Fillo nga e para</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Telefoni është tepër i nxehtë</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Përdor gjurmën e gishtit të fëmijës tënd për t\'i shkyçur telefonin ose për të verifikuar që është fëmija në aplikacione</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Gjurmët e gishtave të fëmijës tënd ruhen vetëm në pajisje dhe nuk i dërgohen asnjëherë Google</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">E sigurt dhe e dobishme</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Përdor gjurmët e gishtave për të shkyçur telefonin tënd ose për të verifikuar që je ti në aplikacione</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Nëse ke një mbrojtës ekrani, vendose atë para se të konfigurosh gjurmën e gishtit për performancën më të mirë.\n\nPër rezultatet më të mira, përdor një mbrojtës ekrani që është i certifikuar me \"Prodhuar për Google\". Me mbrojtës të tjerë ekrani, gjurma jote e gishtit mund të mos funksionojë.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Gjurmët e tua të gishtave ruhen vetëm në pajisje dhe nuk i dërgohen asnjëherë Google</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Për përvojën më të mirë, shto 2 ose më shumë gjurmë gishtash dhe konfiguro \"Shkyçjen me fytyrë\"</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Mëso më shumë në &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Shiriti i progresit. Trokit dy herë: %2$s.</string>
-    <string name="security_settings_udfps_enroll_start_message_new">Mbaje gishtin mbi sensor derisa të ndiesh një dridhje. Konfiguro 1 gisht në të njëjtën kohë.</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">Mbaje gishtin mbi sensor derisa të mbushet shiriti i progresit. Konfiguro 1 gisht në të njëjtën kohë.</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">Konfirmo</string>
     <string name="security_settings_udfps_screen_protector_description_none">Nuk ka mbrojtës ekrani</string>
     <string name="security_settings_udfps_screen_protector_keywords">Mbrojtësi i ekranit</string>

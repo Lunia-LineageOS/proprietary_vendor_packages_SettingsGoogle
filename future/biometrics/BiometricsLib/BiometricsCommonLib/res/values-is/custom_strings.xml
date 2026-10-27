@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">Ekki núna</string>
+    <string name="delete_all_fps_dialog_delete_button">Setja upp núna</string>
+    <string name="delete_all_fps_dialog_msg">Þetta verður til þess að öllum núverandi fingraförum verður eytt og þú munt hvorki geta notað fingrafarið þitt til að taka símann úr lás né staðfesta hver þú ert fyrr en þú hefur sett fingrafarskenni aftur upp.</string>
+    <string name="delete_all_fps_dialog_title">Setja upp fingrafarskenni?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">Bæta öðru fingrafari við</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Nú geturðu notað fingrafarið þitt til að taka símann úr lás eða staðfesta að þetta sért þú. Þú getur bætt öðru fingrafari við til að auka þægindin enn frekar.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Því meira sem þú notar fingrafarskenni, því betra verður það. Þú getur jafnvel bætt fleiri fingraförum við.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Því meira sem þú notar fingrafarskenni, því betra verður það. Þú getur jafnvel bætt fleiri fingraförum við til að auka þægindin enn frekar.</string>
+    <string name="fingerprint_enroll_finish_title">Lítur vel út!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">Einu fingrafari bætt við</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">Fingrafaralesarinn er á næsta skjá. Þér til hægðarauka skaltu setja upp a.m.k. einn fingur á hvorri hönd.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Strjúktu af skjánum til að fjarlægja öll óhreinindi. Þannig er hægt að fá skýrari mynd af fingrafarinu.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Þrífðu skjáinn áður en þú heldur áfram</string>
+    <string name="frr_notification_button_got_it">Ég skil</string>
+    <string name="frr_notification_description">Fylgdu þessum ráðum til að ná bestum árangri:</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Nánar&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">Notaðu skjávörn með vottunina „Hannað fyrir Google“. Aðrar skjávarnir kunna að trufla skynjarann og koma í veg fyrir að hann virki rétt.</string>
+    <string name="frr_notification_non_mfg_sp_title">Notaðu vottaða skjávörn</string>
+    <string name="frr_notification_reset_fingerprint_button">Eyða og setja upp fingrafarskenni</string>
+    <string name="frr_notification_reset_fingerprint_description">Þetta getur stundum lagað vandamál, sérstaklega ef þú hefur nýlega bætt við eða fjarlægt skjávörn</string>
+    <string name="frr_notification_reset_fingerprint_title">Setja upp fingrafarskenni aftur</string>
+    <string name="frr_notification_screen_protector_description">Það getur haft áhrif á greiningu fingrafara. Notaðu skjávörn með vottunina „Hannað fyrir Google“. Aðrar skjávarnir kunna að trufla skynjarann og koma í veg fyrir að hann virki rétt.</string>
+    <string name="frr_notification_screen_protector_title">Ef þú notar skjávörn...</string>
+    <string name="frr_notification_set_face_unlock_description">Notaðu andlitskenni þegar ekki er hægt að greina fingrafarið, t.d. þegar fingurnir eru blautir</string>
+    <string name="frr_notification_set_face_unlock_title">Setja upp andlitskenni</string>
+    <string name="frr_notification_title">Ertu í vandræðum með fingrafarskenni?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">Þú getur eytt andlitslíkaninu þínu eða slökkt á andlitskenni hvenær sem er í stillingunum. Andlitslíkön eru geymd í símanum þar til þú eyðir þeim.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">Nánar á &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">Notaðu andlitið til að taka símann úr lás eða staðfesta að þetta sért þú í forritum</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Andlitslíkanið þitt er eingöngu vistað í tækinu og aldrei sent til Google</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Settu upp fingrafarskenni ásamt andlitskenni til að létta þér lífið</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Öruggt og gagnlegt</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Notaðu fingraförin þín til að taka símann úr lás eða staðfesta að þetta sért þú í forritum</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Ef þú ert með skjávörn skaltu setja hana á áður en þú setur upp fingrafarskenni svo að eiginleikinn virki sem best.\n\nBest er að nota skjávörn sem er vottuð sem „Hannað fyrir Google“. Fingrafarskenni virkar hugsanlega ekki með öðrum skjávörnum.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Fingraförin þín eru eingöngu vistuð í tækinu og aldrei send til Google</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Bættu tveimur eða fleiri fingraförum við og settu upp andlitskenni til að fá sem mest út úr upplifuninni</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Nánar á &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Framvindustika. Ýttu tvisvar til að %2$s.</string>
+    <string name="security_settings_udfps_enroll_start_message_new">Haltu fingri á skynjaranum þar til þú finnur titring. Settu aðeins upp eitt fingrafar í einu.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">Haltu fingri á skynjaranum þar til framvindustikan fyllist. Settu aðeins upp eitt fingrafar í einu.</string>
+</resources>

@@ -9,7 +9,7 @@ import androidx.core.content.ContextCompat
 import com.android.settings.R as AR
 import com.android.settings.biometrics.BiometricUtils
 import com.android.settings.password.ChooseLockSettingsHelper
-import com.google.android.settings.R
+import com.google.android.settings.biometrics.R
 import com.google.android.settings.biometrics.combination.ui.model.GkResult
 
 class FrrActivityUseCase {

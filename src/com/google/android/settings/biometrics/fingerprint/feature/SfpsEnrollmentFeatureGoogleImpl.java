@@ -33,7 +33,8 @@ import com.android.settingslib.widget.LottieColorUtils;
 import com.airbnb.lottie.LottieAnimationView;
 import com.airbnb.lottie.LottieProperty;
 import com.airbnb.lottie.model.KeyPath;
-import com.google.android.settings.R;
+// Stock uses the Google R here; the SFPS stage resources live in BiometricsCommonLib's R.
+import com.google.android.settings.biometrics.R;
 import com.google.android.settings.biometrics.fingerprint.Utils;
 
 import java.util.function.Function;
@@ -62,7 +63,8 @@ public class SfpsEnrollmentFeatureGoogleImpl implements SfpsEnrollmentFeature {
         if (isDarkMode(context)) {
             return;
         }
-        final int color = context.getColor(R.color.sfps_enroll_grey300_light);
+        final int color =
+                context.getColor(com.google.android.settings.R.color.sfps_enroll_grey300_light);
         lottieAnimationView.addValueCallback(
                 new KeyPath("**", ".grey300", "**"),
                 LottieProperty.COLOR_FILTER,
@@ -231,7 +233,9 @@ public class SfpsEnrollmentFeatureGoogleImpl implements SfpsEnrollmentFeature {
         @Override
         public Dialog onCreateDialog(@Nullable Bundle savedInstanceState) {
             return new AlertDialog.Builder(getContext())
-                    .setView(R.layout.biometric_enrollment_immobile_dialog)
+                    .setView(
+                            com.google.android.settings.R.layout
+                                    .biometric_enrollment_immobile_dialog)
                     .create();
         }
 
@@ -241,14 +245,17 @@ public class SfpsEnrollmentFeatureGoogleImpl implements SfpsEnrollmentFeature {
             if (dialog != null) {
                 dialog.setCancelable(false);
                 dialog.setCanceledOnTouchOutside(false);
-                View continueButton = dialog.findViewById(R.id.immobile_continue_btn);
+                View continueButton =
+                        dialog.findViewById(com.google.android.settings.R.id.immobile_continue_btn);
                 continueButton.setOnClickListener(
                         v -> {
                             Utils.resumeEnroll();
                             getDialog().dismiss();
                         });
                 setUpTouchDelegate(
-                        dialog.findViewById(R.id.biometric_enrollment_immobile_help),
+                        dialog.findViewById(
+                                com.google.android.settings.R.id
+                                        .biometric_enrollment_immobile_help),
                         continueButton);
                 adjustDimensionsIfNeeded(dialog);
             } else {

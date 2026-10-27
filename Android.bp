@@ -12,11 +12,11 @@ android_library {
         "res-product",
     ],
     static_libs: [
+        "BiometricsCommonLib",
         "Settings-core",
         "SettingsGoogle-SimpleMode",
         "androidx.compose.runtime_runtime",
         "columbus-lib",
-        "com.google.hardware.biometrics.fingerprint.fingerprint-ext-V3-java",
         "com.google.hardware.biometrics.sidefps.fingerprint-ext-V1-java",
         "googlebattery-lib",
         "reversecharging-lib",

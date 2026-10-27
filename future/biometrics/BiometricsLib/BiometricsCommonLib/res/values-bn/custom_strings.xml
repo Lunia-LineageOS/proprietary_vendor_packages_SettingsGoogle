@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">এখন নয়</string>
+    <string name="delete_all_fps_dialog_delete_button">এখনই সেট-আপ করুন</string>
+    <string name="delete_all_fps_dialog_msg">এটি আপনার বর্তমান সব ফিঙ্গারপ্রিন্ট মুছে দেবে এবং আবার ফিঙ্গারপ্রিন্ট আনলক সেট-আপ না হওয়া পর্যন্ত, নিজের ফোন আনলক করতে বা পরিচয় যাচাই করতে ফিঙ্গারপ্রিন্ট ব্যবহার করতে পারবেন না।</string>
+    <string name="delete_all_fps_dialog_title">ফিঙ্গারপ্রিন্ট আনলক সেট-আপ করবেন?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">অন্য একটি ফিঙ্গারপ্রিন্ট যোগ করুন</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">আপনি এখন নিজের ফোন আনলক বা পরিচয় যাচাই করার জন্য ফিঙ্গারপ্রিন্ট ব্যবহার করতে পারবেন। অতিরিক্ত সুবিধার জন্য আপনি অন্য ফিঙ্গারপ্রিন্ট যোগ করতে পারবেন।</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">যত বেশি ফিঙ্গারপ্রিন্ট আনলক ব্যবহার করবেন, ততই এটি আরও ভালো হবে। এবং আপনি আরও ফিঙ্গারপ্রিন্ট যোগ করতেও পারবেন।</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">যত বেশি ফিঙ্গারপ্রিন্ট আনলক ব্যবহার করবেন, ততই এটি আরও ভালো হবে। এবং আপনি অতিরিক্ত সুবিধার জন্য আরও ফিঙ্গারপ্রিন্ট যোগ করতে পারবেন।</string>
+    <string name="fingerprint_enroll_finish_title">ঠিক আছে!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">১টি ফিঙ্গারপ্রিন্ট যোগ করা হয়েছে</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">পরবর্তী স্ক্রিনে ফিঙ্গারপ্রিন্ট সেন্সর পাবেন। দুই হাত থেকেই কমপক্ষে এক একটি ফিঙ্গারপ্রিন্ট সেট-আপ করুন যাতে ফোনটি সহজেই আনলক করা যায়।</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">কাঁচের ওপর দাগ হলে, অস্পষ্ট হয়ে গেলে বা কোনও ছোপ পড়লে তা সরিয়ে দিতে আপনার স্ক্রিন ওয়াইপ করুন। এটি আরও পরিস্কার ফিঙ্গারপ্রিন্টের ছবি ক্যাপচার করতে সাহায্য করে।</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">চালিয়ে যাওয়ার আগে আপনার স্ক্রিন পরিস্কার করুন</string>
+    <string name="frr_notification_button_got_it">বুঝেছি</string>
+    <string name="frr_notification_description">সেরা পারফর্ম্যান্স পেতে, এইসব পরামর্শ ফলো করুন:</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;আরও জানুন&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">\'Google-এর জন্য তৈরি\' সার্টিফায়েড স্ক্রিন প্রোটেকটর ব্যবহার করুন। সেন্সরকে অন্যান্য স্ক্রিন প্রোটেকটর বাধা দিতে পারে এবং সঠিকভাবে কাজ করা থেকে বিরত রাখতে পারে।</string>
+    <string name="frr_notification_non_mfg_sp_title">সার্টিফায়েড স্ক্রিন প্রোটেকটর</string>
+    <string name="frr_notification_reset_fingerprint_button">ফিঙ্গারপ্রিন্ট আনলক মুছে দিয়ে সেট-আপ করুন</string>
+    <string name="frr_notification_reset_fingerprint_description">কখনও কখনও এটি সমস্যা সমাধান করতে পারে, বিশেষ করে আপনি কোনও স্ক্রিন প্রোটেকটর যোগ করলে বা সরিয়ে দিলে</string>
+    <string name="frr_notification_reset_fingerprint_title">ফিঙ্গারপ্রিন্ট আনলক আবার সেট-আপ করুন</string>
+    <string name="frr_notification_screen_protector_description">এটি ফিঙ্গারপ্রিন্ট শনাক্তকরণে প্রভাব ফেলতে পারে। \'Google-এর জন্য তৈরি\' সার্টিফায়েড স্ক্রিন প্রোটেকটর ব্যবহার করুন। সেন্সরকে অন্যান্য স্ক্রিন প্রোটেকটর বাধা দিতে পারে এবং সঠিকভাবে কাজ করা থেকে বিরত রাখতে পারে।</string>
+    <string name="frr_notification_screen_protector_title">আপনি কোনও স্ক্রিন প্রোটেকটর ব্যবহার করলে...</string>
+    <string name="frr_notification_set_face_unlock_description">আপনার ফিঙ্গারপ্রিন্ট শনাক্ত করা না গেলে, যেমন আপনার আঙুল ভিজে থাকলে, \'ফেস আনলক\' ফিচার ব্যবহার করুন</string>
+    <string name="frr_notification_set_face_unlock_title">\'ফেস আনলক\' সেট আপ করুন</string>
+    <string name="frr_notification_title">\'ফিঙ্গারপ্রিন্ট আনলক\' ফিচারে সমস্যা হচ্ছে?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">আপনি যেকোনও সময় সেটিংস থেকে ফেস মডেল মুছে ফেলতে বা \'ফেস আনলক\' ফিচার বন্ধ করে দিতে পারবেন। আপনি মুছে না ফেলা পর্যন্ত ফেস মডেল ফোনে সেভ করা থাকে।</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; থেকে আরও জানুন</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">আপনার ফোন আনলক করতে বা অ্যাপে আপনিই আছেন তা যাচাই করতে নিজের মুখ ব্যবহার করুন</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">আপনার মুখ সম্পর্কিত তথ্য শুধুমাত্র ডিভাইসে সেভ করা হয় এবং Google-কে পাঠানো হয় না</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">সেরা অভিজ্ঞতার জন্য, ফিঙ্গারপ্রিন্ট আনলক সুবিধার সাথে \'ফেস আনলক\' ফিচারও সেট-আপ করুন</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">সুরক্ষিত ও সহায়ক</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">আপনার ফোন আনলক করতে অথবা অ্যাপে নিজের পরিচয় যাচাই করাতে ফিঙ্গারপ্রিন্ট ব্যবহার করুন</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">আপনার ডিভাইসে স্ক্রিন প্রোটেকটর থাকলে, সেরা পারফর্ম্যান্সের জন্য আপনার ফিঙ্গারপ্রিন্ট সেট-আপ করার আগে এটি প্রয়োগ করুন।\n\nসেরা ফলাফল পেতে, এমন কোনও স্ক্রিন প্রোটেকটর ব্যবহার করুন যেটি Google-এর জন্য তৈরি হিসেবে সার্টিফিকেটপ্রাপ্ত। অন্যান্য স্ক্রিন প্রোটেকটর ব্যবহার করলে, আপনার ফিঙ্গারপ্রিন্ট কাজ নাও করতে পারে।</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">আপনার ফিঙ্গারপ্রিন্ট সম্পর্কিত তথ্য শুধুমাত্র ডিভাইসে সেভ করা হয় এবং Google-কে পাঠানো হয় না</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">সেরা অভিজ্ঞতার জন্য ২টি বা তার বেশি ফিঙ্গারপ্রিন্ট যোগ করে ফেস আনলক সেট-আপ করুন</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">&lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt; থেকে আরও জানুন</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s। প্রগ্রেস বার। %2$s-এর জন্য ডবল ট্যাপ করুন।</string>
+    <string name="security_settings_udfps_enroll_start_message_new">ভাইব্রেশন অনুভব না করা পর্যন্ত আপনার আঙ্গুল দিয়ে সেন্সরের উপর চেপে ধরে রাখুন। একবারে শুধুমাত্র একটি আঙুল সেট-আপ করুন।</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">প্রোগ্রেস বার সম্পূর্ণ না হওয়া পর্যন্ত আপনার আঙুল সেন্সরের উপর সোজা রাখুন। একবারে শুধুমাত্র একটি আঙুল সেট-আপ করুন।</string>
+</resources>

@@ -20,6 +20,7 @@ import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingActio
 import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingScreen
 import com.android.settingslib.widget.LottieColorUtils
 import com.google.android.settings.R
+import com.google.android.settings.biometrics.R as BiometricsR
 import com.google.android.settings.biometrics.fingerprint.ui.view.GlifLayoutUseCase
 import com.google.android.settings.biometrics.fingerprint.ui.view.NavOptionsUseCase
 import com.google.android.settings.biometrics.fingerprint.ui.viewmodel.FingerprintMetricsViewModel
@@ -66,7 +67,7 @@ class SpEduFragment : Fragment(R.layout.sp_edu) {
             Log.d(TAG, "run to next scan")
             findNavController()
                 .navigate(
-                    R.id.action_sp_edu_to_sp_qr_code_scanner,
+                    BiometricsR.id.action_sp_edu_to_sp_qr_code_scanner,
                     null,
                     NavOptionsUseCase.newNavOptions(),
                 )
@@ -109,7 +110,7 @@ class SpEduFragment : Fragment(R.layout.sp_edu) {
     private fun startEnroll() {
         findNavController()
             .navigate(
-                R.id.action_sp_edu_to_enrolling,
+                BiometricsR.id.action_sp_edu_to_enrolling,
                 null,
                 NavOptionsUseCase.newBackToFindSensorNavOptions(),
             )

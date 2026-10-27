@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Nastavte odomknutie odtlačkom prsta</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Nastavte odomknutie odtlačkom prsta pre pracovný profil</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">Teraz môžete odomykať telefón alebo overovať svoju totožnosť odtlačkom prsta. Väčšiu flexibilitu získate pridaním ďalšieho odtlačku prsta.</string>
-    <string name="delete_all_fps_dialog_cancel_button">Teraz nie</string>
-    <string name="delete_all_fps_dialog_delete_button">Nastaviť</string>
-    <string name="delete_all_fps_dialog_msg">Týmto odstránite všetky svoje aktuálne odtlačky prsta a nebudete môcť nimi odomykať telefón ani overovať svoju totožnosť, kým odomknutie odtlačkom prsta znova nenastavíte.</string>
-    <string name="delete_all_fps_dialog_title">Chcete nastaviť odomknutie odtlačkom prsta?</string>
     <string name="enroll_usudfps_fingertip_title_simple">Priložte konček prsta</string>
     <string name="enroll_usudfps_left_edge_title_simple">Dotknite sa ľavého okraja</string>
     <string name="enroll_usudfps_right_edge_title_simple">Dotknite sa pravého okraja</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Senzor odtlačkov prstov bude na ďalšej obrazovke</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Nastaviť s ochranou obrazovky</string>
     <string name="fingerprint_acquired_immobile_simple">Polohu zakaždým mierne zmeňte</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">Pridať ďalší odtlačok prsta</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Teraz môžete odomykať telefón alebo overovať svoju totožnosť odtlačkom prsta. Môžete pridať ďalší odtlačok prsta pre ešte väčšie pohodlie.</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Čím viac budete odomknutie odtlačkom prsta používať, tým lepšie bude fungovať. A môžete pridať ďalšie odtlačky prstov.</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Čím viac budete odomknutie odtlačkom prsta používať, tým lepšie bude fungovať. Pre ešte väčšie pohodlie môžete pridať ďalšie odtlačky prsta.</string>
-    <string name="fingerprint_enroll_finish_title">Vyzerá to dobre!</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">Bol pridaný 1 odtlačok prsta</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">Senzor odtlačkov prstov je na vypínači vedľa tlačidiel hlasitosti na bočnej strane zariadenia. Najväčšiu flexibilitu dosiahnete nastavením aspoň jedného odtlačku prsta na každej ruke.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Platný QR kód</string>
     <string name="fingerprint_sp_qr_code_error">Toto nie je QR kód certifikovanej ochrany obrazovky</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">Umiestnite kód na obale ochrany obrazovky do rámčeka</string>
     <string name="fingerprint_sp_title_got_it">Dobre</string>
     <string name="fingerprint_sp_title_scan_qr_code">Naskenujte QR kód</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">Senzor odtlačkov prstov bude na ďalšej obrazovke. Najväčšiu flexibilitu dosiahnete nastavením aspoň jedného odtlačku prsta na každej ruke.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Vyčistením obrazovku zbavte šmúh či škvŕn. Pomôže to zaznamenať jasnejšie snímky odtlačkov prstov.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Pred pokračovaním vyčistite obrazovku</string>
-    <string name="frr_notification_button_got_it">Dobre</string>
-    <string name="frr_notification_description">Najlepšie výsledky dosiahnete takto:</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Ďalšie informácie&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">Používajte ochranu obrazovky s certifikátom Made for Google. Iné ochrany obrazovky môžu rušiť senzor a brániť jeho spoľahlivému fungovaniu.</string>
-    <string name="frr_notification_non_mfg_sp_title">Používajte certifikovanú ochranu obrazovky</string>
-    <string name="frr_notification_reset_fingerprint_button">Odstráňte a nastavte odomknutie odtlačkom prsta</string>
-    <string name="frr_notification_reset_fingerprint_description">Niekedy to môže pomôcť vyriešiť problémy, najmä ak ste nedávno pridali alebo odstránili ochranu obrazovky</string>
-    <string name="frr_notification_reset_fingerprint_title">Znova nastavte odomknutie odtlačkom prsta</string>
-    <string name="frr_notification_screen_protector_description">Môže to ovplyvniť rozpoznávanie odtlačku prsta. Používajte ochranu obrazovky s certifikátom Made for Google. Iné ochrany obrazovky môžu rušiť senzor a brániť jeho spoľahlivému fungovaniu.</string>
-    <string name="frr_notification_screen_protector_title">Ak používate ochranu obrazovky…</string>
-    <string name="frr_notification_set_face_unlock_description">Použite odomknutie tvárou, keď odtlačok prsta nefunguje, napríklad keď máte mokré prsty</string>
-    <string name="frr_notification_set_face_unlock_title">Nastavte odomknutie tvárou</string>
-    <string name="frr_notification_title">Máte problémy s odomknutím odtlačkom prsta?</string>
     <string name="protector_edu_subtitle">Ochrana obrazovky môže mať vplyv na rozpoznávanie odtlačkov prstov. Ak chcete, aby odomykanie odtlačkom prsta pri používaní ochrany obrazovky fungovalo čo najlepšie:</string>
     <string name="screen_protector_edu_apply_instruction">Ochranu obrazovky pripevnite podľa možnosti ešte pred nastavením odomknutia odtlačkom prsta a vytlačte všetky bubliny. Ak ju chcete pripevniť až po nastavení, naskenujte QR kód kamerou neskôr.</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Viac sa dozviete na g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">Keď teraz zdvihnete telefón alebo klepnete na obrazovku, môžete ho odomknúť tvárou.\n\nOdomknutie tvárou najlepšie funguje pri dobrom osvetlení a keď na sebe nemáte rúško či tmavé okuliare.</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">Keď teraz zdvihnete telefón alebo klepnete na obrazovku, môžete ho odomknúť tvárou. Ak chcete použiť odomknutie tvárou, telefón musí byť zložený.\n\nOdomknutie tvárou funguje najlepšie pri dostatočnom osvetlení, keď na sebe nemáte rúško či tmavé okuliare.</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">Vy a vaše dieťa môžete kedykoľvek v Nastaveniach model tváre odstrániť alebo odomknutie tvárou vypnúť. Modely tváre sú uložené v telefóne, kým ich neodstránite.</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">V Nastaveniach môžete kedykoľvek model tváre odstrániť alebo odomknutie tvárou vypnúť. Modely tváre sú uložené v telefóne, dokým ich neodstránite.</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">Odomknutie tvárou používa jedinečný model tváre vášho dieťaťa, ktorým sa overuje jeho totožnosť. Počas nastavovania musí vaše dieťa nasnímať svoju tvár z rôznych uhlov, aby bolo možné tento model tváre vytvoriť.\n\nPri používaní odomknutia tvárou sa pomocou aktuálnych snímok model tváre aktualizuje. Snímky použité na vytvorenie modelu jeho tváre sa za žiadnych okolností neukladajú. Model jeho tváre sa uloží v telefóne a nikdy ho neopustí. Všetko sa bezpečne spracúva v telefóne.</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">Viac sa dozviete na &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">Odomykajte telefón alebo overujte svoju totožnosť v aplikáciách tvárou</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Vaša tvár sa ukladá iba v zariadení a Googlu sa nikdy neodošle.</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Najlepšie výsledky dosiahnete, keď nastavíte odomknutie tvárou spolu s odomknutím odtlačkom prsta.</string>
     <string name="security_settings_face_enroll_next">Ďalej</string>
     <string name="security_settings_face_enroll_partial_message">Ak chcete zlepšiť výkonnosť, môžete v Nastaveniach znova nastaviť odomknutie tvárou</string>
     <string name="security_settings_face_enroll_partial_start_over">Začať odznova</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Telefón je príliš horúci</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Odomykajte telefón svojho dieťaťa alebo overujte jeho totožnosť v aplikáciách odtlačkom prsta dieťaťa</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Odtlačky prstov vášho dieťaťa budú uložená iba v zariadení a Googlu sa nikdy neodošlú</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Bezpečné a užitočné</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Odtlačkom prsta môžete odomykať telefón a overovať svoju totožnosť v aplikáciách</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Ak máte ochranu obrazovky, prilepte ju pred tým, než začnete nastavovať odtlačok prsta, aby ste zaistili lepšiu funkčnosť.\n\nNajlepšie výsledky dosiahnete, keď budete používať ochranu obrazovky s certifikátom Made for Google. S inými ochranami obrazovky nemusí odtlačok prsta fungovať.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Vaše odtlačky prstov budú uložené iba v zariadení a Googlu sa nikdy neodošlú.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Najlepšie výsledky dosiahnete, keď pridáte aspoň dva odtlačky prstov a nastavíte odomknutie tvárou.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Viac sa dozviete na &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Ukazovateľ priebehu. Ak chcete %2$s, dvakrát klepnite</string>
-    <string name="security_settings_udfps_enroll_start_message_new">Držte prst na senzore, kým nezacítite vibrácie. Súčasne nastavujte iba jeden prst.</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">Držte prst na senzore, kým sa ukazovateľ priebehu nevyplní. Súčasne nastavujte iba jeden prst.</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">Potvrdiť</string>
     <string name="security_settings_udfps_screen_protector_description_none">Žiadna ochrana obrazovky</string>
     <string name="security_settings_udfps_screen_protector_keywords">Ochrana obrazovky</string>

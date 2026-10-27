@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">ఇప్పుడు కాదు</string>
+    <string name="delete_all_fps_dialog_delete_button">ఇప్పుడే సెటప్ చేయండి</string>
+    <string name="delete_all_fps_dialog_msg">దీని వలన మీ ప్రస్తుత వేలిముద్రలన్నీ తొలగిపోతాయి, అలాగే వేలిముద్ర అన్‌లాక్‌ను మళ్లీ సెటప్ చేసే వరకు మీరు మీ ఫోన్‌ను అన్‌లాక్ చేయడానికి లేదా మీ గుర్తింపును వెరిఫై చేయడానికి మీ వేలిముద్రను ఉపయోగించలేరు.</string>
+    <string name="delete_all_fps_dialog_title">వేలిముద్ర అన్‌లాక్‌ను సెటప్ చేయాలా?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">వేరొక వేలిముద్రను జోడించండి</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">మీ ఫోన్‌ను అన్‌లాక్ చేయడానికి లేదా మీ గుర్తింపును వెరిఫై చేయడానికి ఇప్పుడు మీ వేలిముద్రను ఉపయోగించవచ్చు. మరింత సౌలభ్యం కోసం మరో వేలిముద్రను కూడా జోడించండి.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">మీరు వేలిముద్ర అన్‌లాక్‌ను ఎంత ఎక్కువగా ఉపయోగిస్తే, అది అంత మెరుగ్గా పని చేస్తుంది. మీరు మరిన్ని వేలిముద్రలను కూడా జోడించవచ్చు.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">మీరు వేలిముద్ర అన్‌లాక్‌ను ఎంత ఎక్కువగా ఉపయోగిస్తే, అది అంత మెరుగ్గా పని చేస్తుంది. మీరు మరింత సౌలభ్యం కోసం మరిన్ని వేలిముద్రలను కూడా జోడించవచ్చు.</string>
+    <string name="fingerprint_enroll_finish_title">బాగుంది!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">1 వేలిముద్ర యాడ్ అయింది</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">వేలిముద్ర సెన్సర్, తదుపరి స్క్రీన్‌లో ఉంది. ఈజీగా అన్‌లాక్‌ చేయ‌డానికి, ఒక్కో చేతి నుండి కనీసం 1 వేలిముద్రను సెట‌ప్ చేయండి.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">మీ స్క్రీన్‌ను శుభ్రం చేయడం వలన గీతలు, మచ్చలు, లేదా మరకలు ఏవైనా ఉంటే, తొలగిపోతాయి. ఇది స్పష్టమైన వేలిముద్ర ఇమేజ్‌లను క్యాప్చర్ చేయడంలో సహాయపడుతుంది.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">కొనసాగించడానికి ముందు మీ స్క్రీన్‌ను క్లీన్ చేయండి</string>
+    <string name="frr_notification_button_got_it">అర్థమైంది</string>
+    <string name="frr_notification_description">ఉత్తమ పనితీరు కోసం, ఈ చిట్కాలను ఫాలో అవ్వండి:</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Learn more&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">Google కోసం తయారు చేసినదిగా సర్టిఫికెట్ పొందిన స్క్రీన్ గార్డ్‌ను ఉపయోగించండి. ఇతర స్క్రీన్ గార్డ్‌లు, సెన్సార్ పని చేయడానికి అంతరాయాన్ని కలిగించి, విశ్వసనీయంగా పని చేయకుండా నివారించవచ్చు.</string>
+    <string name="frr_notification_non_mfg_sp_title">సర్టిఫికెట్ పొందిన స్క్రీన్ గార్డ్‌ను ఉపయోగించండి</string>
+    <string name="frr_notification_reset_fingerprint_button">తొలగించండి, వేలిముద్ర అన్‌లాక్‌ను సెటప్ చేయండి</string>
+    <string name="frr_notification_reset_fingerprint_description">ఇది కొన్నిసార్లు సమస్యలను పరిష్కరించగలదు, ప్రత్యేకించి మీరు ఇటీవల స్క్రీన్ ప్రొటెక్టర్‌ను జోడించిన లేదా తీసివేసిన సందర్భాలలో.</string>
+    <string name="frr_notification_reset_fingerprint_title">వేలిముద్ర అన్‌లాక్‌ను మళ్లీ సెటప్ చేయండి</string>
+    <string name="frr_notification_screen_protector_description">ఇది వేలిముద్ర గుర్తింపును ప్రభావితం చేయవచ్చు. Google కోసం తయారు చేసినదిగా సర్టిఫికెట్ పొందిన స్క్రీన్ గార్డ్‌ను ఉపయోగించండి. ఇతర స్క్రీన్ గార్డ్‌లు, సెన్సార్ పని చేయడానికి అంతరాయాన్ని కలిగించి, విశ్వసనీయంగా పని చేయకుండా నివారించవచ్చు.</string>
+    <string name="frr_notification_screen_protector_title">మీరు స్క్రీన్ గార్డ్‌ను ఉపయోగిస్తే...</string>
+    <string name="frr_notification_set_face_unlock_description">మీ వేళ్లు తడిగా ఉండటం లేక ఇతరత్రా కారణాల వల్ల మీ వేలిముద్రను గుర్తించకపోతే, ఫేస్ అన్‌లాక్‌ను ఉపయోగించండి</string>
+    <string name="frr_notification_set_face_unlock_title">ఫేస్ అన్‌లాక్‌ను సెటప్ చేయండి</string>
+    <string name="frr_notification_title">వేలిముద్ర అన్‌లాక్‌తో సమస్య ఉందా?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">మీరు సెట్టింగ్‌లలో ఎప్పుడైనా మీ ఫేస్ మోడల్‌ను తొలగించవచ్చు లేదా ఫేస్ అన్‌లాక్‌ను ఆఫ్ చేయవచ్చు. మీరు ఫేస్ మోడల్స్‌ను తొలగించే వరకు అవి ఫోన్‌లో స్టోర్ అయ్యి ఉంటాయి.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; లింక్‌లో దీని గురించి మరింత తెలుసుకోండి</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">మీ ఫోన్‌ను అన్‌లాక్ చేయడానికి లేదా యాప్‌లలో ఇది మీరేనని వెరిఫై చేయడానికి మీ ముఖాన్ని ఉపయోగించండి</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">మీ ముఖం డివైజ్‌లో మాత్రమే స్టోర్ అవుతుంది, Googleకు పంపబడదు</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">ఉత్తమ ఎక్స్‌పీరియన్స్ కోసం, వేలిముద్ర అన్‌లాక్‌తో పాటు ఫేస్ అన్‌లాక్‌ను సెటప్ చేయండి</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">సురక్షితంగా, సహాయకరంగా ఉంటుంది</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">మీ ఫోన్‌ను అన్‌లాక్ చేయడానికి లేదా యాప్‌లలో ఇది మీరేనని వెరిఫై చేయడానికి మీ వేలిముద్రలను ఉపయోగించండి</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">మీ వద్ద స్క్రీన్ గార్డ్ ఉంటే, అత్యుత్తమ పనితీరు కోసం మీ వేలిముద్రను సెటప్ చేయడానికి ముందే దాన్ని సెట్ చేయించుకోండి.\n\nఅత్యుత్తమ ఫలితాల కోసం, Google కోసం తయారు చేసిన, సర్టిఫైడ్ స్క్రీన్ గార్డ్‌ను ఉపయోగించండి. ఇతర స్క్రీన్ గార్డ్‌లతో, మీ వేలిముద్ర పని చేయకపోవచ్చు.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">మీ వేలిముద్రలు (ఫింగర్‌ఫ్రింట్లు) కేవలం డివైజ్‌లోనే స్టోర్ అవుతాయి, ఎప్పుడూ Googleకు వెళ్లవు</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">ఉత్తమ ఎక్స్‌పీరియన్స్ కోసం, 2 లేదా అంతకన్నా ఎక్కువ వేలిముద్రలను జోడించి, ఫేస్ అన్‌లాక్‌ను సెటప్ చేయండి</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">&lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt; లింక్‌లో దీని గురించి మరింత తెలుసుకోండి</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. ప్రోగ్రెస్ బార్. %2$s కోసం డబుల్-ట్యాప్ చేయండి.</string>
+    <string name="security_settings_udfps_enroll_start_message_new">వైబ్రేషన్ వచ్చే దాకా మీ వేలును సెన్సర్ మీద ఫ్లాట్‌గా ఉంచండి. ఒకసారికి 1 వేలును మాత్రమే సెటప్ చేయండి.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">ప్రోగ్రెస్ బార్ పూర్తిగా కవర్ అయ్యే దాకా మీ వేలును సెన్సర్ మీద సమతలంగా (ఫ్లాట్‌గా) ఉంచండి. ఒకసారికి 1 వేలును మాత్రమే సెటప్ చేయండి.</string>
+</resources>

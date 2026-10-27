@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Setha Ukuvula Ngesigxivizo Somunwe</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Setha Ukuvula ngesigxivizo somunwe komsebenzi</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">Manje ungasebenzisa isigxivizo somunwe ukuze uvule ifoni yakho noma uqinisekise ukuthi nguwe. Ukuze uthole ukuguquguquka okukhulu, engeza esinye isigxivizo somunwe.</string>
-    <string name="delete_all_fps_dialog_cancel_button">Hhayi manje</string>
-    <string name="delete_all_fps_dialog_delete_button">Setha manje</string>
-    <string name="delete_all_fps_dialog_msg">Lokhu kuzosula zonke izigxivizo zakho zeminwe zamanje futhi ngeke ukwazi ukusebenzisa izigxivizo zakho zeminwe ukuze uvule ifoni yakho noma uqinisekise ubuwena kuze kube yilapho Ukuvula Ngezigxivizo Zeminwe kusethwa futhi.</string>
-    <string name="delete_all_fps_dialog_title">Setha Ukuvula Ngesigxivizo Somunwe?</string>
     <string name="enroll_usudfps_fingertip_title_simple">Thinta ithiphu yomunwe wakho</string>
     <string name="enroll_usudfps_left_edge_title_simple">Thinta umphetho ongakwesokunxele</string>
     <string name="enroll_usudfps_right_edge_title_simple">Thinta umphetho ongakwesokudla</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Inzwa yesigxivizo somunwe izoba sesikrinini esilandelayo</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Setha isivikeli sesikrini</string>
     <string name="fingerprint_acquired_immobile_simple">Lungisa kancane isikhathi ngasinye</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">Faka ezinye izigxivizo zeminwe</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Manje ungasebenzisa isigxivizo somunwe ukuze uvule ifoni yakho noma uqinisekise ukuthi nguwe. Ungafaka esinye isigxivizo somunwe ukuze kube lula nakakhulu.</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Uma usebenzisa kakhulu Ukuvula Ngezigxivizo Zeminwe, kuba ngcono. Futhi ungangeza izigxivizo zeminwe ezengeziwe.</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Uma usebenzisa kakhulu Ukuvula Ngezigxivizo Zeminwe, kuba ngcono. Futhi ungafaka izigxivizo zeminwe ezengeziwe ukuze kube lula.</string>
-    <string name="fingerprint_enroll_finish_title">Kubukeka kukuhle!</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">Isigxivizo somunwe esi-1 sifakiwe</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">Inzwa yesigxivizo somunwe isenkinobhweni yokuvula nokuvala, eduze nezinkinobho zevolumu ngaseceleni kudivayisi yakho. Ukuze ukwazi ukukhululeka kakhudlwana, setha okungenani umunwe owodwa esandleni ngasinye.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Ikhodi ye-QR evumelekile</string>
     <string name="fingerprint_sp_qr_code_error">Le khodi ye-QR akuyona eyesivikeli sesikrini esigunyaziwe</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">Beka ikhodi kumaphakheji okuvikela isikrini ohlakeni</string>
     <string name="fingerprint_sp_title_got_it">Uyitholile!</string>
     <string name="fingerprint_sp_title_scan_qr_code">Skena ikhodi ye-QR</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">Inzwa yesigxivizo somunwe izoba sesikrinini esilandelayo. Ukuze ukhululeke kakhudlwana, setha okungenani umunwe owodwa esandleni ngasinye.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Sula isikrini sakho ukuze ususe noma yimiphi imithende, ukungcola, noma amabala. Lokhu kusiza ukuthatha izithombe ezisobala zesigxivizo somunwe.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Hlanza isikrini sakho ngaphambi kokuqhubeka</string>
-    <string name="frr_notification_button_got_it">Ngiyezwa</string>
-    <string name="frr_notification_description">Ukuze isebenze kahle, landela lawa macebiso:</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Funda kabanzi&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">Sebenzisa isivikeli sesikrini esenzelwe isitifiketi Sokwenzelwe iGoogle Ezinye izivikeli zesikrini zingase ziphazamise inzwa futhi ziyivimbe ukuba ingasebenzi ngokwethembeka.</string>
-    <string name="frr_notification_non_mfg_sp_title">Sebenzisa isivikeli sesikrini esiqinisekisiwe</string>
-    <string name="frr_notification_reset_fingerprint_button">Sula futhi usethe Ukuvula Ngesigxivizo Somunwe</string>
-    <string name="frr_notification_reset_fingerprint_description">Lokhu kungalungisa izinkinga ngezinye izikhathi, ikakhulukazi uma usanda kufakwa noma ususe isivikeli sesikrini</string>
-    <string name="frr_notification_reset_fingerprint_title">Setha Ukuvula ngesigxivizo somunwe futhi</string>
-    <string name="frr_notification_screen_protector_description">Kungathinta ukubonwa kwesigxivizo somunwe. Sebenzisa isivikeli sesikrini esenzelwe isitifiketi Sokwenzelwe iGoogle Ezinye izivikeli zesikrini zingase ziphazamise inzwa futhi ziyivimbe ukuba ingasebenzi ngokwethembeka.</string>
-    <string name="frr_notification_screen_protector_title">Uma usebenzisa isivikeli sesikrini...</string>
-    <string name="frr_notification_set_face_unlock_description">Sebenzisa Ukuvula Ngobuso uma isigxivizo somunwe wakho singaqashelwa, njengalapho iminwe yakho imanzi</string>
-    <string name="frr_notification_set_face_unlock_title">Setha Ukuvula ngobuso</string>
-    <string name="frr_notification_title">Unenkinga Ngokuvula Isigxivizo Somunwe?</string>
     <string name="protector_edu_subtitle">Isivikeli sesikrini singaba nomphumela ekubonweni kwesigxivizo somunwe. Ukuze uthole ukusebenza okungcono kakhulu Kokuvula ngesigxivizo somunwe ngesivikeli sesikrini:</string>
     <string name="screen_protector_edu_apply_instruction">Uma kwenzeka, faka isivikelo sesikrini ngaphambi kokusetha Ukuvula Ngezigxivizo Zeminwe bese ucindezela wenze isicaba noma yimaphi amabhamuza akhona. Uma kudingeka ukusebenzise ngemva kokusetha, skena ikhodi ye-QR kamuva ngekhamera yakho.</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Funda kabanzi kokuthi g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">Manje uma uthatha ifoni yakho noma uthepha isikrini, ungasebenzisa ubuso bakho ukuze uvule.\n\nUkuvula Ngobuso kusebenza kahle kakhulu uma kunokukhanya okwanele futhi ungafakanga imaski noma izibuko ezimnyama.</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">Manje uma uthatha ifoni yakho noma uthepha isikrini, usungasebenzisa ubuso bakho ukuze uyivule. Ifoni yakho kufanele igoqwe ukuze usebenzise Ukuvula Ngobuso.\n\nUkuvula Ngobuso kusebenza kangcono uma kunokukhanya okwanele futhi ungagqokile isifonyo noma izibuko ezimnyama.</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">Wena nengane yakho ningasula imodeli yobuso bayo noma nivale Ukuvula Ngobuso noma kunini Kumasethingi. Amamodeli obuso agcinwa efonini aze asulwe.</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">Ungasula imodeli yobuso bakho noma uvale Ukuvula Ngobuso noma kunini Kumasethingi. Amamodeli obuso agcinwa kwifoni uze uwasule.</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">Ukuvula Ngobuso kusungula imodeli ehlukile yobuso bengane yakho ukuqinisekisa ukuthi yiyo. Ukuze isungule le modeli yobuso ngesikhathi sokusetha, ingane yakho izothatha imifanekiso yobuso bayo ngezindlela ezihlukile.\n\nLapho isebenzisa Ukuvula Ngobuso, imifanekiso isetshenziselwa ukuvuselela imodeli yayo yobuso. Izithombe ezisetshenziselwe ukusungula imodeli yobuso bayo azilokothi zigcinwe, kodwa imodeli yobuso igcinwa ngokuphephile efonini yayo futhi ayilokothi ishiye ifoni. Konke ukucubungula kwenzeka ngokuphepha efonini.</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">Funda kabanzi kokuthi &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">Sebenzisa ubuso bakho ukuze uvule ifoni yakho noma uqinisekise ukuthi uwena kuma-app</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Ubuso bakho bugcinwa kuphela kudivayisi futhi abuthunyelwa kuGoogle</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Ukuze uthole umuzwa ongcono kakhulu, setha Ukuvula Ngobuso kanye Nokuvula Ngesigxivizo Somunwe</string>
     <string name="security_settings_face_enroll_next">Okulandelayo</string>
     <string name="security_settings_face_enroll_partial_message">Ukuze uthuthukise ukusebenza, ungasetha Ukuvula ngobuso futhi kokuthi Amasethingi</string>
     <string name="security_settings_face_enroll_partial_start_over">Qala phansi</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Ifoni ishisa kakhulu</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Sebenzisa isigxivizo somunwe wengane yakho ukuvula ifoni yayo noma ukuqinisekisa ukuthi yiyo kuma-app</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Izigxivizo zomunwe wengane yakho zigcinwa kuphela kudivayisi futhi azithunyelwa kuGoogle</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Ivikelekile futhi iyasiza</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Sebenzisa izigxivizo zakho zomunwe ukuze uvule ifoni yakho noma uqinisekise ukuthi unguwe kuma-app</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Uma unesivikelo sesikrini, sisebenzise ngaphambi kokusetha izigxivizo zakho zeminwe ukuze sisebenze kahle.\n\nUkuze uthole imiphumela ehamba phambili, sebenzisa isivikelo sesikrini esenzelwe iGoogle esiqinisekisiwe. Kwezinye izivikeli zesikrini, izigxivizo zakho zeminwe zingase zingasebenzi.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Izigxivizo zakho zeminwe zigcinwa kuphela kudivayisi futhi azithunyelwa kuGoogle</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Ukuze uthole ulwazi olungcono kakhulu, faka izigxivizo zeminwe ezi-2 noma ngaphezulu futhi usethe Ukuvula Ngobuso</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Funda kabanzi kokuthi &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&lt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Ibha Yokuqhubeka. Thepha kabili ku-%2$s.</string>
-    <string name="security_settings_udfps_enroll_start_message_new">Gcina umunwe bakho enzweni kuze kube yilapho uzwa ukudlidliza Setha umunwe o-1 kuphela ngesikhathi.</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">Gcina umunwe wakho uphansi kunzwa kuze kugcwale ibha yokuqhubeka. Setha umunwe o-1 kuphela ngesikhathi.</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">Qinisekisa</string>
     <string name="security_settings_udfps_screen_protector_description_none">Asikho isivikeli sesikrini</string>
     <string name="security_settings_udfps_screen_protector_keywords">Isivikeli sesikrini</string>

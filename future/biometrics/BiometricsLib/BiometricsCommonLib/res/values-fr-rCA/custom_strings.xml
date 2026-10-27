@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">Pas maintenant</string>
+    <string name="delete_all_fps_dialog_delete_button">Configurer maintenant</string>
+    <string name="delete_all_fps_dialog_msg">Cette action supprimera toutes vos empreintes digitales actuelles. Vous ne pourrez plus utiliser votre empreinte digitale pour déverrouiller votre téléphone ou confirmer votre identité jusqu\'à ce que la fonctionnalité Déverrouillage par empreinte digitale soit à nouveau configurée.</string>
+    <string name="delete_all_fps_dialog_title">Configurer le Déverrouillage par empreinte digitale?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">Ajouter une autre empreinte digitale</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Vous pouvez maintenant utiliser votre empreinte digitale pour déverrouiller votre téléphone ou confirmer qu\'il s\'agit bien de vous. Vous pouvez ajouter une autre empreinte digitale pour plus de commodité.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Plus vous utilisez le Déverrouillage par empreinte digitale, plus il s\'améliore. Et vous pouvez ajouter encore plus d\'empreintes digitales.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Plus vous utilisez le Déverrouillage par empreinte digitale, plus il s\'améliore. Et vous pouvez ajouter encore plus d\'empreintes digitales pour plus de commodité.</string>
+    <string name="fingerprint_enroll_finish_title">Tout semble correct!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">Une empreinte digitale a été ajoutée</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">Le capteur d\'empreintes digitales sera affiché à l\'écran suivant. Pour plus de flexibilité, configurez au moins un doigt sur chaque main.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Essuyez votre écran pour éliminer toute trace ou tache. Cela permet de capturer des images d\'empreintes digitales plus claires.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Nettoyez votre écran avant de continuer</string>
+    <string name="frr_notification_button_got_it">OK</string>
+    <string name="frr_notification_description">Pour obtenir des performances optimales, suivez ces conseils :</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;En savoir plus&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">Utilisez un protecteur d\'écran certifié Fait pour Google. D\'autres protecteurs d\'écran peuvent interférer avec le capteur et l\'empêcher de fonctionner de manière fiable.</string>
+    <string name="frr_notification_non_mfg_sp_title">Utilisez un protecteur d\'écran certifié</string>
+    <string name="frr_notification_reset_fingerprint_button">Supprimer et configurer le Déverrouillage par empreinte digitale</string>
+    <string name="frr_notification_reset_fingerprint_description">Cela peut parfois résoudre les problèmes, surtout si vous avez récemment ajouté ou retiré un protecteur d\'écran</string>
+    <string name="frr_notification_reset_fingerprint_title">Configurez le Déverrouillage par empreinte digitale à nouveau</string>
+    <string name="frr_notification_screen_protector_description">Cela peut avoir une incidence sur la reconnaissance des empreintes digitales. Utilisez un protecteur d\'écran certifié Fait pour Google. D\'autres protecteurs d\'écran peuvent interférer avec le capteur et l\'empêcher de fonctionner de manière fiable.</string>
+    <string name="frr_notification_screen_protector_title">Si vous utilisez un protecteur d\'écran…</string>
+    <string name="frr_notification_set_face_unlock_description">Utilisez la fonctionnalité Déverrouillage par reconnaissance faciale lorsque votre empreinte digitale n\'est pas reconnue, par exemple lorsque vos doigts sont mouillés</string>
+    <string name="frr_notification_set_face_unlock_title">Configurer la fonctionnalité Déverrouillage par reconnaissance faciale</string>
+    <string name="frr_notification_title">Vous rencontrez des problèmes avec le Déverrouillage par empreinte digitale?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">Vous pouvez supprimer votre modèle facial ou désactiver le Déverrouillage par reconnaissance faciale à tout moment dans Paramètres. Les modèles faciaux sont stockés sur le téléphone jusqu\'à ce que vous les supprimiez.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">Apprenez-en plus à la page &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">Utilisez votre visage pour déverrouiller votre téléphone ou confirmer qu\'il s\'agit bien de vous dans les applis</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Votre visage est seulement stocké sur l\'appareil et n\'est jamais envoyé à Google.</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Pour une expérience optimale, configurez le Déverrouillage par reconnaissance faciale ainsi que le Déverrouillage par empreinte digitale.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Sécuritaire et utile</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Utilisez vos empreintes digitales pour déverrouiller votre téléphone ou confirmer qu\'il s\'agit bien de vous dans les applis</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Si vous avez un protecteur d\'écran, appliquez-le avant de configurer votre empreinte digitale pour une performance optimale.\n\nPour de meilleurs résultats, utilisez un protecteur d\'écran certifié Fait pour Google. Votre empreinte digitale peut ne pas être reconnue avec d\'autres protecteurs d\'écran.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Vos empreintes digitales sont seulement stockées sur l\'appareil et ne sont jamais envoyées à Google</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Pour une expérience optimale, ajoutez deux empreintes digitales ou plus et configurez le Déverrouillage par reconnaissance faciale</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">En savoir plus à la page &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Barre de progression. Toucher deux fois pour %2$s.</string>
+    <string name="security_settings_udfps_enroll_start_message_new">Maintenez le doigt à plat sur le capteur jusqu\'à ce que vous sentiez une vibration. Configurez seulement un doigt à la fois.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">Maintenez votre doigt à plat sur le capteur jusqu\'à ce que la barre de progression soit pleine. Configurez seulement un doigt à la fois.</string>
+</resources>

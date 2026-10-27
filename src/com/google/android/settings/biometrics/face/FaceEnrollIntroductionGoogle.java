@@ -19,7 +19,7 @@ import com.android.settings.biometrics.metrics.OnboardingEvent;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settingslib.widget.theme.R.color;
 
-import com.google.android.settings.R;
+import com.google.android.settings.biometrics.R;
 import com.google.android.setupcompat.util.WizardManagerHelper;
 import com.google.android.setupdesign.util.ThemeHelper;
 

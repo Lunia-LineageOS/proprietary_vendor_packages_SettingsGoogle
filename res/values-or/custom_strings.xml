@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକ ସେଟ ଅପ କରନ୍ତୁ</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">ୱାର୍କ ପାଇଁ ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକ ସେଟ ଅପ କରନ୍ତୁ</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">ଆପଣଙ୍କ ଫୋନ ଅନଲକ କରିବାକୁ କିମ୍ବା ଏହା ଆପଣ ବୋଲି ଯାଞ୍ଚ କରିବାକୁ ବର୍ତ୍ତମାନ ଆପଣ ଆପଣଙ୍କର ଟିପଚିହ୍ନ ବ୍ୟବହାର କରିପାରିବେ। ସର୍ବାଧିକ ସୁବିଧା ପାଇଁ, ଅନ୍ୟ ଏକ ଟିପଚିହ୍ନ ଯୋଗ କରନ୍ତୁ।</string>
-    <string name="delete_all_fps_dialog_cancel_button">ବର୍ତ୍ତମାନ ନୁହେଁ</string>
-    <string name="delete_all_fps_dialog_delete_button">ବର୍ତ୍ତମାନ ସେଟ ଅପ କରନ୍ତୁ</string>
-    <string name="delete_all_fps_dialog_msg">ଏହା ଆପଣଙ୍କର ବର୍ତ୍ତମାନର ସମସ୍ତ ଟିପଚିହ୍ନକୁ ଡିଲିଟ କରିଦେବ ଏବଂ ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକ ପୁଣି ସେଟ ଅପ ନହେବା ପର୍ଯ୍ୟନ୍ତ ଆପଣ ଆପଣଙ୍କର ଫୋନ ଅନଲକ କରିବା କିମ୍ବା ଆପଣଙ୍କର ପରିଚୟ ଯାଞ୍ଚ କରିବାକୁ ଆପଣଙ୍କ ଟିପଚିହ୍ନକୁ ବ୍ୟବହାର କରିବାରେ ସକ୍ଷମ ହେବେ ନାହିଁ।</string>
-    <string name="delete_all_fps_dialog_title">ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକ ସେଟ ଅପ କରିବେ?</string>
     <string name="enroll_usudfps_fingertip_title_simple">ଆପଣଙ୍କ ଆଙ୍ଗୁଠି ଟିପକୁ ସ୍ପର୍ଶ କରନ୍ତୁ</string>
     <string name="enroll_usudfps_left_edge_title_simple">ବାମ ଧାରକୁ ସ୍ପର୍ଶ କରନ୍ତୁ</string>
     <string name="enroll_usudfps_right_edge_title_simple">ଡାହାଣ ଧାରକୁ ସ୍ପର୍ଶ କରନ୍ତୁ</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">ଟିପଚିହ୍ନ ସେନ୍ସର ପରବର୍ତ୍ତୀ ସ୍କ୍ରିନରେ ରହିବ</string>
     <string name="find_usudfps_with_sp_setup_sp_button">ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ସହ ସେଟ ଅପ କରନ୍ତୁ</string>
     <string name="fingerprint_acquired_immobile_simple">ପ୍ରତି ଥର ସାମାନ୍ୟ ଆଡଜଷ୍ଟ କରନ୍ତୁ</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">ଅନ୍ୟ ଏକ ଟିପଚିହ୍ନ ଯୋଗ କରନ୍ତୁ</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">ଆପଣଙ୍କ ଫୋନ ଅନଲକ କରିବାକୁ କିମ୍ବା ଏହା ଆପଣ ବୋଲି ଯାଞ୍ଚ କରିବାକୁ ବର୍ତ୍ତମାନ ଆପଣ ଆପଣଙ୍କର ଟିପଚିହ୍ନ ବ୍ୟବହାର କରିପାରିବେ। ଏହା ପରେ ଆପଣ ଅତିରିକ୍ତ ସୁବିଧା ପାଇଁ ଆଉ ଏକ ଟିପଚିହ୍ନ ଯୋଗ କରିପାରିବେ।</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">ଆପଣ ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକକୁ ଯେତେ ଅଧିକ ବ୍ୟବହାର କରିବେ, ଏହା ସେତେ ଉନ୍ନତ ହେବ। ଏବଂ ଆପଣ ଆହୁରି ଅଧିକ ଟିପଚିହ୍ନ ଯୋଗ କରିପାରିବେ।</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">ଆପଣ ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକକୁ ଯେତେ ଅଧିକ ବ୍ୟବହାର କରିବେ, ଏହା ସେତେ ଉନ୍ନତ ହେବ। ଏବଂ ଅତିରିକ୍ତ ସୁବିଧା ପାଇଁ ଆପଣ ଆହୁରି ଅଧିକ ଟିପଚିହ୍ନ ଯୋଗ କରିପାରିବେ।</string>
-    <string name="fingerprint_enroll_finish_title">ଠିକ ଥିବା ପରି ଲାଗୁଛି!</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">1 ଟିପଚିହ୍ନ ଯୋଗ କରାଯାଇଛି</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ସେନ୍ସର ପାୱାର ବଟନରେ ଅଛି, ଆପଣଙ୍କ ଡିଭାଇସର ପାର୍ଶ୍ୱରେ ଥିବା ଭଲ୍ୟୁମ ବଟନ ପାଖରେ। ସର୍ବାଧିକ ସୁବିଧା ପାଇଁ ପ୍ରତ୍ୟେକ ହାତରେ ଅତି କମରେ 1 ଆଙ୍ଗୁଠିକୁ ସେଟ ଅପ କରନ୍ତୁ।</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">ବୈଧ QR କୋଡ</string>
     <string name="fingerprint_sp_qr_code_error">ଏହି QR କୋଡ ସାର୍ଟିଫାଏ କରାଯାଇଥିବା ଏକ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ପାଇଁ ଉଦ୍ଦିଷ୍ଟ ନୁହେଁ</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ପେକେଜିଂରେ କୋଡକୁ ଫ୍ରେମରେ ପୋଜିସନ କରନ୍ତୁ</string>
     <string name="fingerprint_sp_title_got_it">ବୁଝିଗଲି!</string>
     <string name="fingerprint_sp_title_scan_qr_code">QR କୋଡକୁ ସ୍କାନ କରନ୍ତୁ</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">ଟିପଚିହ୍ନ ସେନ୍ସର ପରବର୍ତ୍ତୀ ସ୍କ୍ରିନରେ ରହିବ। ସର୍ବାଧିକ ସୁବିଧା ପାଇଁ, ପ୍ରତ୍ୟେକ ହାତରେ ଅତି କମରେ 1 ଆଙ୍ଗୁଠି ସେଟ ଅପ କରନ୍ତୁ।</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">ଯେ କୌଣସି ଷ୍ଟ୍ରିକ, ସ୍ମଜ କିମ୍ବା ଦାଗ କାଢ଼ି ଦେବା ପାଇଁ ଆପଣଙ୍କ ସ୍କ୍ରିନକୁ ପୋଛି ଦିଅନ୍ତୁ। ଏହା ସ୍ପଷ୍ଟ ଟିପଚିହ୍ନ ଇମେଜ କେପଚର କରିବାରେ ସାହାଯ୍ୟ କରେ।</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">ଜାରି ରଖିବା ପୂର୍ବରୁ ଆପଣଙ୍କ ସ୍କ୍ରିନକୁ ସଫା କରନ୍ତୁ</string>
-    <string name="frr_notification_button_got_it">ବୁଝିଗଲି</string>
-    <string name="frr_notification_description">ସର୍ବୋତ୍ତମ ପରଫରମାନ୍ସ ପାଇଁ, ଏହି ଟିପ୍ସ ଫଲୋ କରନ୍ତୁ:</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;ଅଧିକ ଜାଣନ୍ତୁ&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">Made for Google ସାର୍ଟିଫାଏ କରିଥିବା ଏକ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ବ୍ୟବହାର କରନ୍ତୁ। ଅନ୍ୟ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ସେନ୍ସରରେ ବାଧା ଦେଇପାରେ ଏବଂ ଏହାକୁ ନିର୍ଭରଯୋଗ୍ୟ ଭାବରେ କାମ କରିବାରୁ ପ୍ରତିରୋଧ କରିପାରେ।</string>
-    <string name="frr_notification_non_mfg_sp_title">ଏକ ସାର୍ଟିଫାଏ କରାଯାଇଥିବା ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ବ୍ୟବହାର କରନ୍ତୁ</string>
-    <string name="frr_notification_reset_fingerprint_button">ଡିଲିଟ କରନ୍ତୁ ଏବଂ ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକ ସେଟ ଅପ କରନ୍ତୁ</string>
-    <string name="frr_notification_reset_fingerprint_description">ଏହା କେତେକ ସମୟରେ ସମସ୍ୟାଗୁଡ଼ିକର ସମାଧାନ କରିପାରେ, ବିଶେଷକରି ଯଦି ଆପଣ ସମ୍ପ୍ରତି ଏକ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ଯୋଗ କରିଛନ୍ତି କିମ୍ବା କାଢ଼ି ଦେଇଛନ୍ତି</string>
-    <string name="frr_notification_reset_fingerprint_title">ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକ ପୁଣି ସେଟ ଅପ କରନ୍ତୁ</string>
-    <string name="frr_notification_screen_protector_description">ଏହା ଟିପଚିହ୍ନ ଚିହ୍ନଟକରଣକୁ ପ୍ରଭାବିତ କରିପାରେ। Made for Google ସାର୍ଟିଫାଏ କରିଥିବା ଏକ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ବ୍ୟବହାର କରନ୍ତୁ। ଅନ୍ୟ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ସେନ୍ସରରେ ବାଧା ଦେଇପାରେ ଏବଂ ଏହାକୁ ନିର୍ଭରଯୋଗ୍ୟ ଭାବରେ କାମ କରିବାରୁ ପ୍ରତିରୋଧ କରିପାରେ।</string>
-    <string name="frr_notification_screen_protector_title">ଯଦି ଆପଣ ଏକ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ବ୍ୟବହାର କରନ୍ତି…</string>
-    <string name="frr_notification_set_face_unlock_description">ଆପଣଙ୍କ ଆଙ୍ଗୁଠି ଓଦା ଥିବା ସମୟରେ ଆପଣଙ୍କର ଟିପଚିହ୍ନ ଚିହ୍ନଟ ନହେଲେ ଫେସ ଅନଲକ ବ୍ୟବହାର କରନ୍ତୁ</string>
-    <string name="frr_notification_set_face_unlock_title">ଫେସ ଅନଲକ ସେଟ ଅପ କରନ୍ତୁ</string>
-    <string name="frr_notification_title">ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକ ପାଇଁ ଅସୁବିଧାର ସମ୍ମୁଖୀନ ହେଉଛନ୍ତି?</string>
     <string name="protector_edu_subtitle">ଏକ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ଟିପଚିହ୍ନ ଚିହ୍ନଟକରଣକୁ ପ୍ରଭାବିତ କରିପାରେ। ଏକ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ସହ ସର୍ବୋତ୍ତମ ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକ ପରଫରମାନ୍ସ ପାଇଁ:</string>
     <string name="screen_protector_edu_apply_instruction">ସମ୍ଭବ ହେଲେ, ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକ ସେଟ ଅପ କରିବା ପୂର୍ବରୁ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ଲାଗୁ କରନ୍ତୁ ଏବଂ ଯେ କୌଣସି ବବଲକୁ ଫ୍ଲାଟ କରନ୍ତୁ। ଯଦି ଆପଣ ସେଟଅପ ପରେ ଏହାକୁ ଲାଗୁ କରିବାକୁ ଆବଶ୍ୟକ କରନ୍ତି, ତେବେ ପରେ ଆପଣଙ୍କ କେମେରା ମାଧ୍ୟମରେ QR କୋଡ ସ୍କାନ କରନ୍ତୁ।</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt; g.co/pixel/screenprotector&lt;/a&gt;ରେ ଅଧିକ ଜାଣନ୍ତୁ</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">ବର୍ତ୍ତମାନ ଆପଣ ଆପଣଙ୍କ ଫୋନ ଉଠାଇବା କିମ୍ବା ସ୍କ୍ରିନରେ ଟାପ କରିବା ସମୟରେ ଏହାକୁ ଅନଲକ କରିବା ପାଇଁ ଆପଣ ଆପଣଙ୍କର ଫେସ ବ୍ୟବହାର କରିପାରିବେ।\n\nପର୍ଯ୍ୟାପ୍ତ ଆଲୋକ ଥିବା ବେଳେ ଏବଂ ଆପଣ କୌଣସି ମାସ୍କ କିମ୍ବା ଗାଢ଼ା ରଙ୍ଗର ଚଷମା ପିନ୍ଧି ନଥିଲେ ଫେସ ଅନଲକ ସବୁଠାରୁ ଭଲ କାମ କରେ।</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">ବର୍ତ୍ତମାନ ଆପଣ ଆପଣଙ୍କ ଫୋନ ଉଠାଇବା ବା ସ୍କ୍ରିନରେ ଟାପ କରିବା ସମୟରେ ଏହାକୁ ଅନଲକ କରିବା ପାଇଁ ଆପଣ ଆପଣଙ୍କର ଫେସ ବ୍ୟବହାର କରିପାରିବେ। ଫେସ ଅନଲକ ବ୍ୟବହାର କରିବା ପାଇଁ ଆପଣଙ୍କ ଫୋନ ଫୋଲ୍ଡ ହେବା ଆବଶ୍ୟକ।\n\nପର୍ଯ୍ୟାପ୍ତ ଆଲୋକ ଥିବା ସମୟରେ ଏବଂ ଆପଣ କୌଣସି ମାସ୍କ ବା ଗାଢ଼ା ରଙ୍ଗର ଚଷମା ପିନ୍ଧି ନଥିଲେ ଫେସ ଅନଲକ ସବୁଠାରୁ ଭଲ କାମ କରେ।</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">ଆପଣଙ୍କ ପିଲାର ଫେସ ମଡେଲକୁ ଆପଣ ଏବଂ ସେ ଡିଲିଟ କରିପାରିବେ କିମ୍ବା ଯେ କୌଣସି ସମୟରେ ସେଟିଂସରେ ଫେସ ଅନଲକ ବନ୍ଦ କରିପାରିବେ। ଫେସ ମଡେଲଗୁଡ଼ିକୁ ଡିଲିଟ କରାନଯିବା ପର୍ଯ୍ୟନ୍ତ ସେଗୁଡ଼ିକ ଫୋନରେ ଷ୍ଟୋର ହୋଇ ରହିଥାଏ।</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">ଆପଣ ଆପଣଙ୍କ ଫେସ ମଡେଲକୁ ଡିଲିଟ କରିପାରିବେ କିମ୍ବା ଯେ କୌଣସି ସମୟରେ ସେଟିଂସରେ ଫେସ ଅନଲକ ବନ୍ଦ କରିପାରିବେ। ଫେସ ମଡେଲଗୁଡ଼ିକୁ ଆପଣ ଡିଲିଟ ନକରିବା ପର୍ଯ୍ୟନ୍ତ ସେଗୁଡ଼ିକ ଫୋନରେ ଷ୍ଟୋର ହୋଇ ରହିଥାଏ।</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">ଏହା ଆପଣଙ୍କ ପିଲା ଅଟେ ବୋଲି ଯାଞ୍ଚ କରିବା ପାଇଁ ଫେସ ଅନଲକ ତା\'ର ଫେସର ଏକ ସ୍ୱତନ୍ତ୍ର ମଡେଲ ତିଆରି କରିଥାଏ। ସେଟଅପ ସମୟରେ ଏହି ଫେସ ମଡେଲ ତିଆରି କରିବା ପାଇଁ, ଆପଣଙ୍କ ପିଲା ବିଭିନ୍ନ ଆଙ୍ଗେଲରୁ ତା’ର ଫେସର ଇମେଜ ନେବ।\n\nସେ ଫେସ ଅନଲକ ବ୍ୟବହାର କରିବା ସମୟରେ, ତା’ର ଫେସ ମଡେଲକୁ ଅପଡେଟ କରିବା ପାଇଁ ଇମେଜଗୁଡ଼ିକୁ ବ୍ୟବହାର କରାଯାଏ। ତା\'ର ଫେସ ମଡେଲ ତିଆରି କରିବା ପାଇଁ ବ୍ୟବହୃତ ଇମେଜଗୁଡ଼ିକୁ କେବେ ବି ଷ୍ଟୋର କରାଯାଏ ନାହିଁ, କିନ୍ତୁ ଫେସ ମଡେଲକୁ ଫୋନରେ ସୁରକ୍ଷିତ ଭାବେ ଷ୍ଟୋର କରାଯାଇଥାଏ ଏବଂ ଏହାକୁ କେବେ ବି ଫୋନରୁ କାଢ଼ି ଦିଆଯାଏ ନାହିଁ। ସମସ୍ତ ପ୍ରକ୍ରିୟାକରଣ ସୁରକ୍ଷିତ ଭାବେ ଫୋନରେ କରାଯାଇଥାଏ।</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;ରେ ଅଧିକ ଜାଣନ୍ତୁ</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">ଆପଣଙ୍କ ଫୋନକୁ ଅନଲକ କରିବା କିମ୍ବା ଆପ୍ସରେ ଏହା ଆପଣ ବୋଲି ଯାଞ୍ଚ କରିବାକୁ ଆପଣଙ୍କ ଫେସକୁ ବ୍ୟବହାର କରନ୍ତୁ</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">ଆପଣଙ୍କ ଫେସ କେବଳ ଡିଭାଇସରେ ଷ୍ଟୋର ହୋଇ ରହିଥାଏ ଏବଂ କେବେ ବି Googleକୁ ପଠାଯାଏ ନାହିଁ</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">ସର୍ବୋତ୍ତମ ଅନୁଭୂତି ପାଇଁ ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକ ସହ ଫେସ ଅନଲକ ସେଟ ଅପ କରନ୍ତୁ</string>
     <string name="security_settings_face_enroll_next">ପରବର୍ତ୍ତୀ</string>
     <string name="security_settings_face_enroll_partial_message">ପରଫରମାନ୍ସରେ ଉନ୍ନତି ଆଣିବାକୁ, ଆପଣ ସେଟିଂସରେ ପୁଣି ଫେସ ଅନଲକ ସେଟ ଅପ କରିପାରିବେ</string>
     <string name="security_settings_face_enroll_partial_start_over">ଆରମ୍ଭ କରନ୍ତୁ</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">ଫୋନ ବହୁତ ଗରମ ଅଛି</string>
     <string name="security_settings_fingerprint_enroll_consent_message">ଆପଣଙ୍କ ପିଲାର ଫୋନକୁ ଅନଲକ କରିବା କିମ୍ବା ଆପ୍ସରେ ଏହା ଆପଣଙ୍କ ପିଲା ଅଟେ ବୋଲି ଯାଞ୍ଚ କରିବାକୁ ତା\'ର ଟିପଚିହ୍ନକୁ ବ୍ୟବହାର କରନ୍ତୁ</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">ଆପଣଙ୍କ ପିଲାର ଟିପଚିହ୍ନ କେବଳ ଡିଭାଇସରେ ଷ୍ଟୋର କରାଯାଇଥାଏ ଏବଂ କେବେବି Googleକୁ ପଠାଯାଏ ନାହିଁ</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">ସୁରକ୍ଷିତ ଏବଂ ଉପଯୋଗୀ</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">ଆପଣଙ୍କ ଫୋନକୁ ଅନଲକ କରିବା କିମ୍ବା ଆପ୍ସରେ ଏହା ଆପଣ ବୋଲି ଯାଞ୍ଚ କରିବା ପାଇଁ ଆପଣଙ୍କର ଟିପଚିହ୍ନକୁ ବ୍ୟବହାର କରନ୍ତୁ</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">ଯଦି ଆପଣଙ୍କ ପାଖରେ ଏକ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ଅଛି, ତେବେ ସର୍ବୋତ୍ତମ ପରଫରମାନ୍ସ ପାଇଁ ଆପଣଙ୍କର ଟିପଚିହ୍ନ ସେଟ ଅପ କରିବା ପୂର୍ବରୁ ଏହାକୁ ଲାଗୁ କରନ୍ତୁ।\n\nସର୍ବୋତ୍ତମ ଫଳାଫଳ ପାଇଁ Made for Google ସାର୍ଟିଫାଏ କରାଯାଇଥିବା ଏକ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟରକୁ ବ୍ୟବହାର କରନ୍ତୁ। ଅନ୍ୟ ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟରଗୁଡ଼ିକ ସହିତ ଆପଣଙ୍କ ଟିପଚିହ୍ନ କାମ କରିନପାରେ।</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">ଆପଣଙ୍କ ଟିପଚିହ୍ନ କେବଳ ଡିଭାଇସରେ ଷ୍ଟୋର ହୋଇ ରହିଥାଏ ଏବଂ କେବେ ବି Googleକୁ ପଠାଯାଏ ନାହିଁ</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">ସର୍ବୋତ୍ତମ ଅନୁଭୂତି ପାଇଁ 2 କିମ୍ବା ଅଧିକ ଟିପଚିହ୍ନ ଯୋଗ କରି ଫେସ ଅନଲକ ସେଟ ଅପ କରନ୍ତୁ</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">&lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;ରେ ଅଧିକ ଜାଣନ୍ତୁ</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s। ପ୍ରୋଗ୍ରେସ ବାର। %2$s କରିବାକୁ ଦୁଇଥର-ଟାପ କରନ୍ତୁ।</string>
-    <string name="security_settings_udfps_enroll_start_message_new">ଆପଣ ଏକ ଭାଇବ୍ରେସନ ଅନୁଭବ ନକରିବା ପର୍ଯ୍ୟନ୍ତ ଆପଣଙ୍କ ଆଙ୍ଗୁଠିକୁ ସେନ୍ସର ଉପରେ ସିଧା ରଖନ୍ତୁ। ଥରକେ କେବଳ 1 ଆଙ୍ଗୁଠି ସେଟ ଅପ କରନ୍ତୁ।</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">ପ୍ରୋଗ୍ରେସ ବାର ପୂରଣ ନହେବା ପର୍ଯ୍ୟନ୍ତ ଆପଣଙ୍କ ଆଙ୍ଗୁଠିକୁ ସେନ୍ସର ଉପରେ ସିଧା ରଖନ୍ତୁ। ଥରକେ କେବଳ 1 ଆଙ୍ଗୁଠି ସେଟ ଅପ କରନ୍ତୁ।</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">ସୁନିଶ୍ଚିତ କରନ୍ତୁ</string>
     <string name="security_settings_udfps_screen_protector_description_none">କୌଣସି ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର ନାହିଁ</string>
     <string name="security_settings_udfps_screen_protector_keywords">ସ୍କ୍ରିନ ପ୍ରୋଟେକ୍ଟର</string>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">나중에</string>
+    <string name="delete_all_fps_dialog_delete_button">지금 설정</string>
+    <string name="delete_all_fps_dialog_msg">이렇게 하면 현재의 모든 지문이 삭제되며, 지문 잠금 해제를 다시 설정할 때까지 지문을 사용하여 휴대전화를 잠금 해제하거나 본인 인증을 할 수 없습니다.</string>
+    <string name="delete_all_fps_dialog_title">지문 잠금 해제를 설정하시겠습니까?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">다른 지문 추가</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">이제 지문을 사용하여 휴대전화를 잠금 해제하거나 본인 인증을 진행할 수 있습니다. 편의를 위해 다른 지문을 추가할 수 있습니다.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">지문 잠금 해제 기능을 더 많이 사용할수록 인식 성능이 좋아집니다. 지문도 더 추가할 수 있습니다.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">지문 잠금 해제를 많이 사용할수록 인식 성능이 좋아집니다. 더 편리하게 사용하기 위해 지문을 여러 개 추가할 수 있습니다.</string>
+    <string name="fingerprint_enroll_finish_title">설정 완료</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">지문 1개 추가됨</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">다음 화면에 지문 센서가 표시됩니다. 보다 편리한 사용을 위해 한 손에서 1개 이상의 손가락을 설정하는 것이 좋습니다.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">화면을 닦아 지저분한 얼룩이나 자국, 이물질을 제거하세요. 지문 이미지를 더 또렷하게 캡처할 수 있습니다.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">화면을 닦은 후 계속하기</string>
+    <string name="frr_notification_button_got_it">확인</string>
+    <string name="frr_notification_description">최상의 성능을 위해 다음 도움말을 따르세요.</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;자세히 알아보기&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">Made for Google 인증을 받은 화면 보호필름을 사용하세요. 다른 화면 보호필름은 센서를 방해하여 안정적으로 작동하지 않을 수도 있습니다.</string>
+    <string name="frr_notification_non_mfg_sp_title">인증된 화면 보호필름을 사용하세요</string>
+    <string name="frr_notification_reset_fingerprint_button">지문 잠금 해제 삭제 및 설정</string>
+    <string name="frr_notification_reset_fingerprint_description">이 방법으로 문제가 해결되기도 합니다. 특히 최근에 화면 보호필름을 추가하거나 삭제한 경우 그렇습니다.</string>
+    <string name="frr_notification_reset_fingerprint_title">지문 잠금 해제를 다시 설정하세요</string>
+    <string name="frr_notification_screen_protector_description">지문 인식에 영향을 미칠 수 있습니다. Made for Google 인증을 받은 화면 보호필름을 사용하세요. 다른 화면 보호필름은 센서를 방해하여 안정적으로 작동하지 않을 수도 있습니다.</string>
+    <string name="frr_notification_screen_protector_title">화면 보호필름을 사용하는 경우…</string>
+    <string name="frr_notification_set_face_unlock_description">손가락에 물기가 있을 때와 같이 지문이 인식되지 않을 경우에는 얼굴 인식 잠금 해제를 사용하세요.</string>
+    <string name="frr_notification_set_face_unlock_title">얼굴 인식 잠금 해제 설정</string>
+    <string name="frr_notification_title">지문 잠금 해제에 문제가 있나요?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">언제든지 설정에서 얼굴 모델을 삭제하거나 얼굴 인식 잠금 해제를 사용 중지할 수 있습니다. 얼굴 모델은 삭제하기 전까지 휴대전화에 저장됩니다.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;에서 자세히 알아보세요.</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">얼굴 인식을 사용하여 휴대전화를 잠금 해제하거나 앱에서 본인 인증을 진행하세요.</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">얼굴은 기기에만 저장되며, Google로 전송되지 않습니다.</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">최상의 사용 경험을 위해 얼굴 인식 잠금 해제를 지문 잠금 해제와 함께 설정하세요.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">안전하고 유용함</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">지문을 사용하여 휴대전화를 잠금 해제하거나 앱에서 본인 인증을 진행하세요.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">화면 보호필름을 가지고 있다면 지문을 설정하기 전에 붙이세요. 그래야 지문 인식이 가장 잘 작동합니다.\n\nMade For Google 인증을 받은 화면 보호필름을 사용하는 것이 가장 좋습니다. 다른 화면 보호필름을 사용할 경우 지문이 인식되지 않을 수 있습니다.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">지문은 기기에만 저장되며, Google로 전송되지 않습니다.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">최상의 사용 경험을 위해 지문을 2개 이상 추가하고 얼굴 인식 잠금 해제를 설정하세요.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">&lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;에서 자세히 알아보기</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. 진행률 표시줄입니다. %2$s하려면 두 번 탭하세요.</string>
+    <string name="security_settings_udfps_enroll_start_message_new">진동이 느껴질 때까지 손가락을 센서에 밀착해서 올려 둡니다. 한 번에 하나의 손가락만 설정합니다.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">진행률 표시줄이 모두 채워질 때까지 손가락을 센서에 밀착해서 올려 둡니다. 한 번에 하나의 손가락만 설정합니다.</string>
+</resources>

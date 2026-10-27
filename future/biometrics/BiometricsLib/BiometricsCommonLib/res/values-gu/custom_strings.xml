@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">હમણાં નહીં</string>
+    <string name="delete_all_fps_dialog_delete_button">હમણાં સેટઅપ કરો</string>
+    <string name="delete_all_fps_dialog_msg">આનાથી તમારી બધી વર્તમાન ફિંગરપ્રિન્ટ ડિલીટ થઈ જશે અને જ્યાં સુધી ફિંગરપ્રિન્ટ અનલૉકની સુવિધાને ફરીથી સેટઅપ કરવામાં ન આવે ત્યાં સુધી તમે તમારા ફોનને અનલૉક કરવા અથવા તમારી ઓળખ ચકાસવા માટે તમારી ફિંગરપ્રિન્ટનો ઉપયોગ કરી શકશો નહીં.</string>
+    <string name="delete_all_fps_dialog_title">ફિંગરપ્રિન્ટ અનલૉકની સુવિધાનું સેટઅપ કરીએ?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">બીજી ફિંગરપ્રિન્ટ ઉમેરો</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">તમારા ફોનને અનલૉક કરવા અથવા આ તમે જ છો તેની ચકાસણી કરવા માટે, હવે તમે તમારી ફિંગરપ્રિન્ટનો ઉપયોગ કરી શકો છો. તમે વધારાની સગવડ માટે બીજી ફિંગરપ્રિન્ટ ઉમેરી શકો છો.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">તમે ફિંગરપ્રિન્ટ અનલૉક સુવિધાનો જેટલો વધુ ઉપયોગ કરશો, તે તેટલી વધુ બહેતર બનશે. સાથે જ તમે હજી પણ વધુ ફિંગરપ્રિન્ટ ઉમેરી શકો છો.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">તમે ફિંગરપ્રિન્ટ અનલૉક સુવિધાનો જેટલો વધુ ઉપયોગ કરશો, તે તેટલી વધુ બહેતર બનશે. સાથે જ તમે વધારાની સુવિધા માટે હજી પણ વધુ ફિંગરપ્રિન્ટ ઉમેરી શકો છો.</string>
+    <string name="fingerprint_enroll_finish_title">બધું બરાબર લાગે છે!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">1 ફિંગરપ્રિન્ટ ઉમેરી</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">ફિંગરપ્રિન્ટ સેન્સર આગળની સ્ક્રીન પર હશે. સૌથી વધુ સુગમતા માટે, બંને હાથની ઓછામાં ઓછી 1 આંગળીનું સેટઅપ કરો.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">તમારી સ્ક્રીન પરના લીટાં, ડાઘ કે ધબ્બા કાઢી નાખવા માટે તેને લૂછી નાખો. આમ કરવાથી ફિંગરપ્રિન્ટની વધુ સાફ છબીઓ કૅપ્ચર કરવામાં સહાય મળે છે.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">આગળ વધતા પહેલાં તમારી સ્ક્રીન સાફ કરો</string>
+    <string name="frr_notification_button_got_it">સમજાઈ ગયું</string>
+    <string name="frr_notification_description">શ્રેષ્ઠ પર્ફોર્મન્સ માટે, આ ટિપ ફૉલો કરો:</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;વધુ જાણો&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">\'Google માટે બનાવેલા\' સર્ટિફિકેટવાળા સ્ક્રીનગાર્ડનો ઉપયોગ કરો. અન્ય સ્ક્રીનગાર્ડ સેન્સરમાં અવરોધ પેદા કરી શકે છે અને તેમને વિશ્વસનીય રીતે કાર્ય કરતા અટકાવી શકે છે.</string>
+    <string name="frr_notification_non_mfg_sp_title">સર્ટિફિકેટવાળા સ્ક્રીનગાર્ડનો ઉપયોગ કરો</string>
+    <string name="frr_notification_reset_fingerprint_button">અગાઉની ફિંગરપ્રિન્ટને ડિલીટ કરો અને નવી ફિંગરપ્રિન્ટ અનલૉકની સુવિધા સેટઅપ કરો</string>
+    <string name="frr_notification_reset_fingerprint_description">ખાસ કરીને જો તમે તાજેતરમાં સ્ક્રીનગાર્ડ ઉમેર્યું હોય અથવા કાઢી નાખ્યું હોય તો આ ક્યારેક સમસ્યાઓનું નિરાકરણ લાવી શકે છે</string>
+    <string name="frr_notification_reset_fingerprint_title">ફિંગરપ્રિન્ટ અનલૉક સુવિધાનું ફરી સેટઅપ કરો</string>
+    <string name="frr_notification_screen_protector_description">તે ફિંગરપ્રિન્ટ ઓળખને અસર કરી શકે છે. \'Google માટે બનાવેલા\' સર્ટિફિકેટવાળા સ્ક્રીનગાર્ડનો ઉપયોગ કરો. અન્ય સ્ક્રીનગાર્ડ સેન્સરમાં અવરોધ પેદા કરી શકે છે અને તેમને વિશ્વસનીય રીતે કાર્ય કરતા અટકાવી શકે છે.</string>
+    <string name="frr_notification_screen_protector_title">જો તમે સ્ક્રીનગાર્ડનો ઉપયોગ કરી રહ્યા છો...</string>
+    <string name="frr_notification_set_face_unlock_description">જ્યારે તમારી ફિંગરપ્રિન્ટની ઓળખ ન થાય, જેમ કે જ્યારે તમારી આંગળીઓ ભીની હોય ત્યારે ફેસ અનલૉક સુવિધાનો ઉપયોગ કરો</string>
+    <string name="frr_notification_set_face_unlock_title">ફેસ અનલૉક સુવિધાનું સેટઅપ કરો</string>
+    <string name="frr_notification_title">ફિંગરપ્રિન્ટ અનલૉક સુવિધાનો ઉપયોગ કરવામાં સમસ્યા આવી રહી છે?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">સેટિંગમાં જઈને તમે કોઈપણ સમયે તમારા ચહેરાનું મૉડલ ડિલીટ કરી શકો છો અથવા ફેસ અનલૉક સુવિધા બંધ કરી શકો છો. જ્યાં સુધી તમે ચહેરાના મૉડલ ડિલીટ ન કરો, ત્યાં સુધી તેને ફોન પર સ્ટોર કરવામાં આવે છે.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; પર વધુ જાણો</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">તમારો ફોન અનલૉક કરવા માટે અથવા ઍપમાં આ તમે જ હોવાની ચકાસણી કરવા માટે તમારા ચહેરાનો ઉપયોગ કરો</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">તમારા ચહેરાને માત્ર ડિવાઇસ પર સ્ટોર કરવામાં આવે છે અને ક્યારેય Googleને મોકલવામાં આવતો નથી</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">શ્રેષ્ઠ અનુભવ મેળવવા માટે, ફિંગરપ્રિન્ટ અનલૉક સાથે ફેસ અનલૉકનું સેટઅપ પણ કરો</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">સુરક્ષિત અને મદદરૂપ</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">તમારો ફોન અનલૉક કરવા માટે અથવા ઍપમાં આ તમે જ હોવાની ચકાસણી કરવા માટે તમારી ફિંગરપ્રિન્ટનો ઉપયોગ કરો</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">જો તમારી પાસે સ્ક્રીનગાર્ડ હોય, તો શ્રેષ્ઠ પર્ફોર્મન્સ માટે તમારી ફિંગરપ્રિન્ટનું સેટઅપ કરતા પહેલાં સ્ક્રીનગાર્ડ લગાડી દો.\n\nશ્રેષ્ઠ પરિણામો માટે, \'Google માટે બનાવેલા\' સર્ટિફિકેટવાળા સ્ક્રીનગાર્ડનો ઉપયોગ કરો. અન્ય સ્ક્રીનગાર્ડમાં, તમારી ફિંગરપ્રિન્ટ કદાચ યોગ્ય રીતે કામ કરી શકશે નહીં.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">તમારી ફિંગરપ્રિન્ટને માત્ર ડિવાઇસ પર સ્ટોર કરવામાં આવે છે અને ક્યારેય Googleને મોકલવામાં આવતી નથી</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">શ્રેષ્ઠ અનુભવ મેળવવા માટે, 2 કે તેથી વધુ ફિંગરપ્રિન્ટ ઉમેરો અને ફેસ અનલૉકનું સેટઅપ કરો</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">&lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt; પર વધુ જાણો</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. પ્રોગ્રેસ બાર. %2$s માટે બે વાર ટૅપ કરો.</string>
+    <string name="security_settings_udfps_enroll_start_message_new">જ્યાં સુધી તમને વાઇબ્રેશન ન અનુભવાય, ત્યાં સુધી સેન્સર પર તમારી આંગળીને સપાટ મૂકી રાખો. એક સમયે માત્ર 1 આંગળીનું સેટઅપ કરો.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">પ્રોગ્રેસ બાર ભરાઈ જાય ત્યાં સુધી તમારી આંગળી સેન્સર પર સપાટ મૂકી રાખો. એક સમયે માત્ર 1 આંગળીનું સેટઅપ કરો.</string>
+</resources>

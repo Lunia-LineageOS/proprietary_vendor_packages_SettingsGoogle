@@ -14,7 +14,7 @@ import androidx.activity.OnBackPressedCallback
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.DialogFragment
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
-import com.google.android.settings.R
+import com.google.android.settings.biometrics.R
 import com.google.android.setupdesign.util.ThemeHelper
 
 class ImmobileHelpDialog : DialogFragment() {
@@ -35,7 +35,10 @@ class ImmobileHelpDialog : DialogFragment() {
         if (TextUtils.isEmpty(continueText)) {
             continueText =
                 requireActivity()
-                    .getString(R.string.setup_fingerprint_enroll_immobile_help_continue_fallback)
+                    .getString(
+                        com.google.android.settings.R.string
+                            .setup_fingerprint_enroll_immobile_help_continue_fallback
+                    )
         }
         message.setPositiveButton(continueText) { dialog, which ->
             if (which != DialogInterface.BUTTON_POSITIVE) {

@@ -29,7 +29,7 @@ import com.android.settings.biometrics.fingerprint.SetupFingerprintEnrollEnrolli
 import com.android.settings.biometrics.fingerprint.SetupFingerprintEnrollFindSensor
 import com.android.settings.biometrics.metrics.OnboardingEvent
 import com.android.settings.password.ChooseLockSettingsHelper
-import com.google.android.settings.R
+import com.google.android.settings.biometrics.R
 import com.google.android.settings.biometrics.fingerprint.factory.FingerprintViewModelFactory
 import com.google.android.settings.biometrics.fingerprint.ui.model.CredentialModelImpl
 import com.google.android.settings.biometrics.fingerprint.ui.model.EnrollmentRequestImpl
@@ -43,7 +43,10 @@ import kotlinx.coroutines.launch
 open class FingerprintEnrollmentActivity : FragmentActivity() {
 
     private val navController: NavController by lazy {
-        val fragment = supportFragmentManager.findFragmentById(R.id.nav_host_fragment)
+        val fragment =
+            supportFragmentManager.findFragmentById(
+                com.google.android.settings.R.id.nav_host_fragment
+            )
         (fragment as NavHostFragment).navController
     }
 
@@ -122,7 +125,7 @@ open class FingerprintEnrollmentActivity : FragmentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         ThemeUseCase(this).applyTheme()
-        setContentView(R.layout.fingerprint_enrollment_activity)
+        setContentView(com.google.android.settings.R.layout.fingerprint_enrollment_activity)
         Log.d(TAG, "onCreate() savedInstance:${savedInstanceState != null}")
 
         lifecycleScope.launch {
@@ -353,7 +356,12 @@ open class FingerprintEnrollmentActivity : FragmentActivity() {
             val builder = ChooseLockSettingsHelper.Builder(this)
             builder
                 .setRequestCode(REQUEST_CONFIRM_OR_CHOOSE_LOCK)
-                .setTitle(getString(R.string.security_settings_fingerprint_preference_title))
+                .setTitle(
+                    getString(
+                        com.google.android.settings.R.string
+                            .security_settings_fingerprint_preference_title
+                    )
+                )
                 .setRequestGatekeeperPasswordHandle(true)
                 .setForegroundOnly(true)
                 .setReturnCredentials(true)

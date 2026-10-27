@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">Пазней</string>
+    <string name="delete_all_fps_dialog_delete_button">Наладзіць</string>
+    <string name="delete_all_fps_dialog_msg">Усе існуючыя адбіткі пальцаў будуць выдалены, і вы не зможаце выкарыстоўваць свой адбітак пальца для разблакіроўкі тэлефона ці спраўджання сваёй асобы, пакуль разблакіроўка адбіткам пальца зноў не будзе наладжана.</string>
+    <string name="delete_all_fps_dialog_title">Наладзіць разблакіроўку адбіткам пальца?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">Дадаць яшчэ адзін адбітак</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Цяпер вы можаце выкарыстаць адбітак пальца, каб разблакіраваць тэлефон ці спраўдзіць асобу. Для большай зручнасці можна дадаць яшчэ адзін адбітак.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Чым часцей вы выкарыстоўваеце разблакіроўку адбіткам пальца, тым лепей яна працуе. Вы нават можаце дадаць больш адбіткаў.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Чым часцей вы выкарыстоўваеце разблакіроўку адбіткам пальца, тым лепей яна працуе. Для большай зручнасці вы нават можаце дадаць больш адбіткаў.</string>
+    <string name="fingerprint_enroll_finish_title">Усё добра!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">Дададзены 1 адбітак пальца</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">Сканер адбіткаў пальцаў з’явіцца на наступным экране. Каб мець больш варыянтаў, дадайце адбітак як мінімум аднаго пальца кожнай рукі.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Пратрыце экран, каб ачысціць яго ад плям і бруду. Гэта неабходна для атрымання больш выразных відарысаў адбітка пальца.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Перад тым як працягнуць, ачысціце экран</string>
+    <string name="frr_notification_button_got_it">Зразумела</string>
+    <string name="frr_notification_description">Для найбольшай прадукцыйнасці выконвайце гэтыя парады:</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Даведацца больш&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">Выкарыстоўвайце ахоўную плёнку, якая мае сертыфікат \"Made for Google\". Ахоўныя плёнкі іншых вытворцаў могуць перашкаджаць правільнай працы датчыка.</string>
+    <string name="frr_notification_non_mfg_sp_title">Выкарыстоўвайце сертыфікаваную ахоўную плёнку</string>
+    <string name="frr_notification_reset_fingerprint_button">Выдаліць і наладзіць разблакіроўку адбіткам пальца</string>
+    <string name="frr_notification_reset_fingerprint_description">Часам гэта дапамагае вырашыць праблемы, асабліва калі вы нядаўна ўсталёўвалі ці знімалі ахоўную плёнку</string>
+    <string name="frr_notification_reset_fingerprint_title">Наладзіць разблакіроўку адбіткам пальца паўторна</string>
+    <string name="frr_notification_screen_protector_description">Гэта можа паўплываць на распазнаванне адбітка пальца. Выкарыстоўвайце ахоўную плёнку, якая мае сертыфікат \"Made for Google\". Ахоўныя плёнкі іншых вытворцаў могуць перашкаджаць правільнай працы датчыка.</string>
+    <string name="frr_notification_screen_protector_title">Калі вы выкарыстоўваеце ахоўную плёнку…</string>
+    <string name="frr_notification_set_face_unlock_description">Выкарыстоўвайце распазнаванне твару, калі прылада не распазнае ваш адбітак пальца (напрыклад, калі ў вас мокрыя пальцы)</string>
+    <string name="frr_notification_set_face_unlock_title">Наладзіць распазнаванне твару</string>
+    <string name="frr_notification_title">Узніклі праблемы з разблакіроўкай адбіткам пальца?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">Вы можаце ў любы час выдаліць мадэль твару ці выключыць распазнаванне твару ў Наладах. Мадэлі твару будуць захоўвацца на тэлефоне, пакуль вы іх не выдаліце.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">Даведайцеся больш на старонцы &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">Выкарыстоўвайце распазнаванне твару як спосаб разблакіроўкі тэлефона або пацвярджэння сваёй асобы ў праграмах</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Відарыс з вашым тварам захоўваецца толькі на прыладзе і ніколі не будзе перададзены ў Google</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Для найбольшай зручнасці наладзьце распазнаванне твару разам з разблакіроўкай адбіткам пальца</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Бяспечна і карысна</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Выкарыстоўвайце распазнаванне твару як спосаб разблакіроўкі тэлефона або пацвярджэння сваёй асобы ў праграмах</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Калі ў вас ёсць ахоўная плёнка, для большай эфектыўнасці нанясіце яе да таго, як наладзіце сканер адбіткаў пальцаў.\n\nКаб забяспечыць найбольшую эфектыўнасць, выкарыстоўвайце ахоўную плёнку, якая мае сертыфікат Made for Google. Калі выкарыстоўваць іншыя ахоўныя плёнкі, сканер адбіткаў пальцаў можа не працаваць.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Вашы адбіткі пальцаў захоўваюцца толькі на прыладзе і ніколі не перадаюцца ў Google</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Для найбольшай зручнасці дадайце як мінімум два адбіткі пальцаў і наладзьце распазнаванне твару</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Даведацца больш на старонцы &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Індыкатар выканання. Каб %2$s, націсніце двойчы.</string>
+    <string name="security_settings_udfps_enroll_start_message_new">Утрымлівайце палец на датчыку, пакуль не адчуеце вібрацыю. Наладзіць разблакіроўку можна толькі для аднаго адбітка пальца за раз.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">Утрымлівайце палец на датчыку, пакуль не запоўніцца індыкатар выканання. Наладзіць разблакіроўку можна толькі для аднаго адбітка пальца за раз.</string>
+</resources>

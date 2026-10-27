@@ -1,0 +1,9 @@
+android_library {
+    name: "BiometricsCommonLib",
+    srcs: ["src/**/*.kt"],
+    use_resource_processor: true,
+    static_libs: [
+        "Settings-core",
+        "com.google.hardware.biometrics.fingerprint.fingerprint-ext-V3-java",
+    ],
+}

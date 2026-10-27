@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">இப்போது வேண்டாம்</string>
+    <string name="delete_all_fps_dialog_delete_button">இப்போதே அமை</string>
+    <string name="delete_all_fps_dialog_msg">இது உங்கள் தற்போதைய கைரேகைகள் அனைத்தையும் நீக்கிவிடும். மேலும் “கைரேகை அன்லாக்” அம்சத்தை மீண்டும் அமைக்கும் வரை உங்கள் கைரேகையைப் பயன்படுத்தி மொபைலை அன்லாக் செய்யவோ அடையாளத்தை உறுதிசெய்யவோ முடியாது.</string>
+    <string name="delete_all_fps_dialog_title">கைரேகை அன்லாக் அம்சத்தை அமைக்கவா?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">மற்றொரு கைரேகையைச் சேருங்கள்</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">இப்போது உங்கள் கைரேகையைப் பயன்படுத்தி மொபைலை அன்லாக் செய்யலாம் அல்லது இது நீங்கள்தான் என்பதை உறுதிப்படுத்தலாம். கூடுதல் வசதிக்காக நீங்கள் மற்றொரு கைரேகையைச் சேர்க்கலாம்.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">கைரேகை அன்லாக் அம்சத்தை நீங்கள் எவ்வளவு அதிகமாகப் பயன்படுத்துகிறீர்களோ அவ்வளவு சிறப்பாக இருக்கும். அத்துடன், நீங்கள் இன்னும் பல கைரேகைகளையும் சேர்க்கலாம்.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">கைரேகை அன்லாக் அம்சத்தை நீங்கள் எவ்வளவு அதிகமாகப் பயன்படுத்துகிறீர்களோ அவ்வளவு சிறப்பாக இருக்கும். அத்துடன், கூடுதல் வசதிக்காக நீங்கள் இன்னும் பல கைரேகைகளையும் சேர்க்கலாம்.</string>
+    <string name="fingerprint_enroll_finish_title">சரியாக உள்ளது!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">1 கைரேகை சேர்க்கப்பட்டது</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">அடுத்தத் திரையில் கைரேகை சென்சார் இருக்கும். மிகவும் எளிதாக அன்லாக் செய்ய, ஒவ்வொரு கையிலும் குறைந்தது 1 விரலையாவது அமைக்கவும்.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">திரையைத் துடைத்து அதில் ஏதேனும் கோடுகள், அழுக்குகள் அல்லது கறைகள் இருந்தால் அகற்றுங்கள். இது கைரேகைப் படங்களைத் துல்லியமாகப் பதிவுசெய்ய உதவும்.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">தொடர்வதற்கு முன்பு உங்கள் திரையைத் துடைக்கவும்</string>
+    <string name="frr_notification_button_got_it">சரி</string>
+    <string name="frr_notification_description">சிறந்த செயல்திறனுக்கு, இந்த உதவிக்குறிப்புகளைப் பின்பற்றுங்கள்:</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;மேலும் அறிக&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">Made for Google சான்றளிக்கப்பட்ட ஸ்கிரீன் கார்டைப் பயன்படுத்துங்கள். மற்ற ஸ்கிரீன் கார்டுகள் சென்சாரில் குறுக்கிட்டு அது நம்பகத்தன்மையுடன் செயல்படுவதைத் தடுக்கக்கூடும்.</string>
+    <string name="frr_notification_non_mfg_sp_title">சான்றளிக்கப்பட்ட ஸ்கிரீன் கார்டைப் பயன்படுத்துங்கள்</string>
+    <string name="frr_notification_reset_fingerprint_button">கைரேகை அன்லாக் அம்சத்தை நீக்கிவிட்டு மீண்டும் அமை</string>
+    <string name="frr_notification_reset_fingerprint_description">குறிப்பாக நீங்கள் சமீபத்தில் ஸ்கிரீன் கார்டைச் சேர்த்தோ அகற்றியோ இருந்தால், சில சமயங்களில் இது சிக்கல்களைச் சரிசெய்யலாம்</string>
+    <string name="frr_notification_reset_fingerprint_title">கைரேகை அன்லாக் அம்சத்தை மீண்டும் அமையுங்கள்</string>
+    <string name="frr_notification_screen_protector_description">இது கைரேகை அறிதலைப் பாதிக்கலாம். Made for Google சான்றளிக்கப்பட்ட ஸ்கிரீன் கார்டைப் பயன்படுத்துங்கள். மற்ற ஸ்கிரீன் கார்டுகள் சென்சாரில் குறுக்கிட்டு அது நம்பகத்தன்மையுடன் செயல்படுவதைத் தடுக்கக்கூடும்.</string>
+    <string name="frr_notification_screen_protector_title">நீங்கள் ஸ்கிரீன் கார்டைப் பயன்படுத்தினால்...</string>
+    <string name="frr_notification_set_face_unlock_description">உங்கள் கைரேகையை அடையாளங்காண முடியாதபோது முகம் காட்டித் திறத்தல் அம்சத்தைப் பயன்படுத்தலாம் (உதாரணமாக, உங்கள் விரல்கள் ஈரமாக இருக்கும்போது)</string>
+    <string name="frr_notification_set_face_unlock_title">முகம் காட்டித் திறத்தல் அம்சத்தை அமையுங்கள்</string>
+    <string name="frr_notification_title">கைரேகை அன்லாக் அம்சத்தைப் பயன்படுத்தும்போது ஏதேனும் சிக்கலை எதிர்கொள்கிறீர்களா?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">அமைப்புகளில் எப்போது வேண்டுமானாலும் உங்கள் முகத் தோற்றப் பதிவை நீக்கலாம் அல்லது முகம் காட்டித் திறத்தல் அம்சத்தை முடக்கலாம். முகத் தோற்றப் பதிவுகளை நீங்கள் நீக்கும் வரை அவை மொபைலிலேயே சேமிக்கப்பட்டிருக்கும்.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; பக்கத்தில் மேலும் அறிந்துகொள்ளுங்கள்</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">மொபைலை அன்லாக் செய்ய அல்லது ஆப்ஸில் இது நீங்கள்தான் என்பதை உறுதிப்படுத்த உங்கள் முகத்தைப் பயன்படுத்தலாம்</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">உங்கள் முகம் சாதனத்தில் மட்டுமே சேமிக்கப்படும், ஒருபோதும் அது Googleளுக்கு அனுப்பப்படாது</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">சிறந்த அனுபவத்தைப் பெற, கைரேகை அன்லாக்குடன் முகம் காட்டித் திறத்தல் அம்சத்தையும் அமையுங்கள்</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">பாதுகாப்பானது மற்றும் உதவிகரமானது</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">மொபைலை அன்லாக் செய்ய அல்லது ஆப்ஸில் நீங்கள்தான் என்பதை உறுதிப்படுத்த உங்கள் கைரேகைகளைப் பயன்படுத்தலாம்</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">உங்களிடம் ஸ்கிரீன் கார்டு இருந்தால், உங்கள் கைரேகையை அமைப்பதற்கு முன்பு அதைப் பொருத்துங்கள். இதன்மூலம் சிறந்த செயல்பாட்டைப் பெறலாம்.\n\nசிறந்த செயல்பாடுகளுக்கு, Made for Google சான்றளித்த ஸ்கிரீன் கார்டைப் பயன்படுத்துங்கள். உங்கள் கைரேகை மற்ற ஸ்கிரீன் கார்டுகளுடன் பொருந்தாமல் போகக்கூடும்.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">உங்கள் கைரேகைகள் சாதனத்தில் மட்டுமே சேமிக்கப்படும், ஒருபோதும் அவை Googleளுக்கு அனுப்பப்படாது</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">சிறந்த அனுபவத்தைப் பெற, 2 அல்லது அதற்கு மேற்பட்ட கைரேகைகளைச் சேர்த்து முகம் காட்டித் திறத்தல் அம்சத்தை அமையுங்கள்</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">மேலும் தெரிந்துகொள்ள &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt; இணைப்பிற்குச் செல்லுங்கள்</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. செயல்நிலைப் பட்டி. %2$s இருமுறை தட்டவும்.</string>
+    <string name="security_settings_udfps_enroll_start_message_new">அதிர்வை உணரும்வரை சென்சார் மீது உங்கள் விரலைத் தட்டையாக வைத்திருக்கவும். ஒரு நேரத்தில் 1 விரலை மட்டும் அமைக்கவும்.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">செயல்நிலைப் பட்டி முழுமையாகும் வரை சென்சார் மீது உங்கள் விரலைத் தட்டையாக வைத்திருக்கவும். ஒரு நேரத்தில் 1 விரலை மட்டும் அமைக்கவும்.</string>
+</resources>

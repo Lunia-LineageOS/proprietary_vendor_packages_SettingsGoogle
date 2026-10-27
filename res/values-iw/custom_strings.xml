@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">הגדרה של \"פתיחה בטביעת אצבע\"</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">הגדרת \"פתיחה בטביעת אצבע\" בפרופיל העבודה</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">עכשיו אפשר להשתמש בטביעת האצבע כדי לפתוח את נעילת הטלפון או לאמת את הזהות. כדי שתהיה לך יותר גמישות, כדאי להוסיף עוד טביעת אצבע.</string>
-    <string name="delete_all_fps_dialog_cancel_button">לא עכשיו</string>
-    <string name="delete_all_fps_dialog_delete_button">להגדרה</string>
-    <string name="delete_all_fps_dialog_msg">הפעולה הזאת תמחק את כל טביעות האצבע שלך ששמורות כרגע, ולא תהיה לך אפשרות להשתמש בטביעת האצבע כדי לפתוח את הנעילה של הטלפון או לאמת את הזהות שלך עד להגדרה מחדש של התכונה \"פתיחה בטביעת אצבע\".</string>
-    <string name="delete_all_fps_dialog_title">להגדיר את התכונה \"פתיחה בטביעת אצבע\"?</string>
     <string name="enroll_usudfps_fingertip_title_simple">צריך לגעת כאן בקצה האצבע</string>
     <string name="enroll_usudfps_left_edge_title_simple">צריך לגעת כאן עם הקצה השמאלי של האצבע</string>
     <string name="enroll_usudfps_right_edge_title_simple">צריך לגעת כאן עם הקצה הימני של האצבע</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">חיישן טביעות האצבע יופיע במסך הבא</string>
     <string name="find_usudfps_with_sp_setup_sp_button">הגדרה עם מגן מסך</string>
     <string name="fingerprint_acquired_immobile_simple">צריך להזיז קצת את האצבע בכל נגיעה</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">הוספת עוד טביעת אצבע</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">עכשיו אפשר להשתמש בטביעת האצבע כדי לפתוח את נעילת הטלפון או לאמת את הזהות. רוצה שהתהליך יהיה אפילו יותר נוח? אפשר להוסיף עוד טביעת אצבע.</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">התכונה \"פתיחה בטביעת אצבע\" משתפרת ככל שמשתמשים בה יותר, וגם אפשר להוסיף עוד טביעות אצבע.</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">התכונה \"פתיחה בטביעת אצבע\" משתפרת ככל שמשתמשים בה יותר. כדי שיהיה לך נוח לפתוח את המכשיר בכל מצב, כדאי להוסיף עוד טביעות אצבע.</string>
-    <string name="fingerprint_enroll_finish_title">נראה מעולה</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">נוספה טביעת אצבע אחת</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">חיישן טביעות האצבע נמצא על כפתור ההפעלה, ליד כפתורי עוצמת הקול בצד המכשיר. כדי לאפשר שימוש קל בכל מצב, מומלץ להגדיר לפחות טביעת אצבע אחת בכל יד.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">‏קוד QR תקין</string>
     <string name="fingerprint_sp_qr_code_error">‏קוד ה-QR הזה לא משויך למגן מסך שאושר</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">צריך למקם את הקוד שמופיע על האריזה של מגן המסך בתוך המסגרת</string>
     <string name="fingerprint_sp_title_got_it">הקוד נקלט</string>
     <string name="fingerprint_sp_title_scan_qr_code">‏סריקת קוד ה-QR</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">חיישן טביעות האצבע יופיע במסך הבא. כדי שתהיה לו כמה שיותר גמישות, מומלץ להגדיר לפחות טביעת אצבע אחת בכל יד.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">צריך לנגב את המסך כדי להסיר כתמים או אבק. כך אפשר לצלם תמונות ברורות יותר של טביעת האצבע.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">צריך לנקות את המסך לפני שממשיכים</string>
-    <string name="frr_notification_button_got_it">הבנתי</string>
-    <string name="frr_notification_description">כדי שהביצועים יהיו הכי טובים שאפשר, כדאי לפעול לפי הטיפים הבאים:</string>
-    <string name="frr_notification_learn_more">‏&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;מידע נוסף&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">‏חשוב להשתמש במגן מסך שקיבל אישור Made for Google. מגיני מסך אחרים עלולים להפריע לחיישן ולשבש את הפעילות שלו.</string>
-    <string name="frr_notification_non_mfg_sp_title">חשוב להשתמש במגן מסך מאושר</string>
-    <string name="frr_notification_reset_fingerprint_button">מחיקה והגדרה מחדש של פתיחה בטביעת אצבע</string>
-    <string name="frr_notification_reset_fingerprint_description">לפעמים ההגדרה מחדש פותרת את הבעיות, במיוחד אם הוספת או הסרת מגן מסך לא מזמן</string>
-    <string name="frr_notification_reset_fingerprint_title">הגדרה מחדש של פתיחה בטביעת אצבע</string>
-    <string name="frr_notification_screen_protector_description">‏מגן מסך יכול להשפיע על הזיהוי של טביעת האצבע. חשוב להשתמש במגן מסך שקיבל אישור Made for Google. מגיני מסך אחרים עלולים להפריע לחיישן ולשבש את הפעילות שלו.</string>
-    <string name="frr_notification_screen_protector_title">אם יש לך מגן מסך…</string>
-    <string name="frr_notification_set_face_unlock_description">אפשר להשתמש בפתיחה בזיהוי פנים כשטביעת האצבע לא מזוהה, למשל כשהאצבעות רטובות</string>
-    <string name="frr_notification_set_face_unlock_title">הגדרה של פתיחה בזיהוי פנים</string>
-    <string name="frr_notification_title">נתקלת בבעיה בפתיחה בטביעת אצבע?</string>
     <string name="protector_edu_subtitle">מגן מסך יכול להקשות על הזיהוי של טביעת האצבע. סקירת הקוד תשפר את התכונה \"פתיחה בטביעת אצבע\".</string>
     <string name="screen_protector_edu_apply_instruction">‏אם אפשר, כדאי לשים את מגן המסך ולהוציא את הבועות לפני שמגדירים את התכונה \"פתיחה בטביעת אצבע\". אם צריך לשים את המגן רק אחרי ההגדרה, אפשר לסרוק את קוד ה-QR אחר כך במצלמה.</string>
     <string name="screen_protector_edu_learn_more">‏&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;מידע נוסף זמין בכתובת g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">עכשיו אפשר להרים את הטלפון או ללחוץ על המסך ולהשתמש בזיהוי פנים כדי לפתוח את הטלפון.\n\nפתיחה בזיהוי הפנים פועלת הכי טוב כשיש מספיק אור, וכשאין על הפנים מסכה או משקפיים כהים.</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">עכשיו אפשר להרים את הטלפון או ללחוץ על המסך ולהשתמש בזיהוי פנים כדי לבטל את הנעילה. כדי להשתמש בפתיחה ע\"י זיהוי הפנים, הטלפון חייב להיות מקופל.\n\nפתיחה ע\"י זיהוי הפנים פועלת בצורה הטובה ביותר כשיש מספיק אור, ללא מסכה וללא משקפיים כהים.</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">לך ולילד או לילדה שלך יש אפשרות להיכנס בכל שלב להגדרות ולמחוק את התבנית לזיהוי הפנים, או להשבית את התכונה \"פתיחה בזיהוי פנים\". התבניות לזיהוי הפנים נשמרות בטלפון עד שהן נמחקות.</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">בכל שלב אפשר להיכנס להגדרות ולמחוק את התבנית לזיהוי הפנים, או להשבית את התכונה הזו. התבניות מאוחסנות בטלפון עד שמוחקים אותן.</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">כשמפעילים את התכונה \"פתיחה בזיהוי פנים\" המערכת יוצרת תבנית ייחודית של הפנים של הילד או הילדה כדי לאמת את הזהות שלהם. כדי ליצור את התבנית הזו במהלך ההגדרה, הילד או הילדה יצטרכו לצלם את הפנים שלהם מזוויות שונות.\n\nכשהם ישתמשו בתכונה \"פתיחה בזיהוי פנים\", המערכת תעדכן את התבנית לזיהוי הפנים בעזרת התמונות שהם צילמו. התמונות שמשמשות ליצירת התבנית לזיהוי הפנים אף פעם לא נשמרות. התבנית לזיהוי הפנים נשמרת באופן מאובטח בטלפון ואף פעם לא נשלחת או מועברת ממנו. כל פעולות העיבוד מתבצעות בטלפון באופן מאובטח.</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">‏מידע נוסף מפורט בכתובת &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">אפשר להראות את הפנים כדי לפתוח את הנעילה של הטלפון או לאמת את הזהות באפליקציות</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">‏נתוני הפנים שלך מאוחסנים רק במכשיר ולא נשלחים אף פעם ל-Google</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">לחוויית שימוש מיטבית, מומלץ להגדיר את הפתיחה בזיהוי הפנים בנוסף ל\"פתיחה בטביעת אצבע\"</string>
     <string name="security_settings_face_enroll_next">הבא</string>
     <string name="security_settings_face_enroll_partial_message">כדי לשפר את הביצועים, אפשר להגדיר שוב את התכונה \"פתיחה בזיהוי פנים\" בהגדרות</string>
     <string name="security_settings_face_enroll_partial_start_over">התחלה מחדש</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">הטלפון חם מדי</string>
     <string name="security_settings_fingerprint_enroll_consent_message">באמצעות טביעת האצבע של הילד או הילדה, אפשר לפתוח את נעילת הטלפון או לאמת את הזהות שלהם באפליקציות</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">‏טביעות האצבע של הילד או הילדה נשמרות רק במכשיר ואף פעם לא נשלחות ל-Google</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">אבטחה ונוחות</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">באמצעות טביעת אצבע אפשר לפתוח את הטלפון או לאמת את הזהות באפליקציות</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">‏אם יש לך מגן מסך, צריך לשים אותו לפני תהליך ההגדרה של טביעת האצבע כדי שהחיישן יידע לזהות את האצבע דרך מגן המסך.\n\nלקבלת התוצאות הטובות ביותר, כדאי להשתמש במגן מסך שקיבל אישור Made for Google. עם מגני מסך אחרים, יכול להיות שהמכשיר לא יצליח לזהות את טביעת האצבע שלך.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">‏טביעות האצבע שלך מאוחסנות רק במכשיר ולא נשלחות אף פעם ל-Google</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">לחוויית שימוש מיטבית, מומלץ להוסיף לפחות 2 טביעות אצבע ולהגדיר גם \"פתיחה בזיהוי פנים\"</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">‏מידע נוסף זמין בכתובת &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">‫%1$s. סרגל ההתקדמות. כדי %2$s, לוחצים לחיצה כפולה.</string>
-    <string name="security_settings_udfps_enroll_start_message_new">משאירים את האצבע צמודה לחיישן עד שמרגישים רטט. אפשר להגדיר רק אצבע אחת בכל פעם.</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">צריך להשאיר את האצבע צמודה לחיישן עד שסרגל ההתקדמות יתמלא. אפשר להגדיר רק אצבע אחת בכל פעם.</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">אישור</string>
     <string name="security_settings_udfps_screen_protector_description_none">בלי מגן מסך</string>
     <string name="security_settings_udfps_screen_protector_keywords">מגן מסך</string>

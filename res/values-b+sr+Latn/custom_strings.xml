@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Podesite otključavanje otiskom prsta</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Podesite Otključavanje otiskom prsta za poslovni profil</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">Sada možete da koristite otisak prsta za otključavanje telefona ili potvrdu identiteta. Za najveću fleksibilnost, dodajte još jedan otisak prsta.</string>
-    <string name="delete_all_fps_dialog_cancel_button">Ne sada</string>
-    <string name="delete_all_fps_dialog_delete_button">Podesi</string>
-    <string name="delete_all_fps_dialog_msg">Time ćete izbrisati sve aktuelne otiske prsta. Nećete moći da koristite otisak prsta za otključavanje telefona ni za verifikaciju identiteta dok ponovo ne podesite otključavanje otiskom prsta.</string>
-    <string name="delete_all_fps_dialog_title">Želite da podesite otključavanje otiskom prsta?</string>
     <string name="enroll_usudfps_fingertip_title_simple">Dodirnite vrhom prsta</string>
     <string name="enroll_usudfps_left_edge_title_simple">Dodirnite levom ivicom</string>
     <string name="enroll_usudfps_right_edge_title_simple">Dodirnite desnom ivicom</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Senzor za otisak prsta će se prikazati na sledećem ekranu</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Podesi sa zaštitom za ekran</string>
     <string name="fingerprint_acquired_immobile_simple">Svaki put pomalo prilagodite</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">Dodaj još jedan otisak prsta</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Sada možete da koristite otisak prsta za otključavanje telefona ili potvrdu identiteta. Možete da dodate još jedan otisak prsta da bi vam bilo još praktičnije.</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Što više koristite Otključavanje otiskom prsta, ono je sve bolje. Možete da dodate još više otisaka prstiju.</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Što više koristite Otključavanje otiskom prsta, ono je sve bolje. Možete da dodate još više otisaka prstiju iz praktičnih razloga.</string>
-    <string name="fingerprint_enroll_finish_title">Odlično!</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">Dodat je 1 otisak prsta</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">Senzor za otisak prsta se nalazi na dugmetu za uključivanje, pored dugmadi za jačinu zvuka na bočnoj strani uređaja. Za najveću fleksibilnost, podesite bar 1 prst na svakoj ruci.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Važeći QR kôd</string>
     <string name="fingerprint_sp_qr_code_error">Ovaj QR kôd ne služi za sertifikovanu zaštitu za ekran</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">Postavite kôd prikazan na pakovanju zaštite za ekran u kadar</string>
     <string name="fingerprint_sp_title_got_it">Važi!</string>
     <string name="fingerprint_sp_title_scan_qr_code">Skenirajte QR kôd</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">Senzor za otisak prsta će se prikazati na sledećem ekranu. Za najveću fleksibilnost, podesite bar 1 prst na svakoj ruci.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Obrišite ekran da biste uklonili tragove poteza prstima, masne mrlje ili fleke. Tako ćete snimiti jasnije slike otiska prsta.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Očistite ekran pre nego što nastavite dalje</string>
-    <string name="frr_notification_button_got_it">Važi</string>
-    <string name="frr_notification_description">Za najbolji učinak pratite ove savete:</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Saznajte više&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">Koristite zaštitu za ekran sa sertifikatom Napravljeno za Google. Druge zaštite za ekran mogu da ometaju senzor i spreče ga da pouzdano radi.</string>
-    <string name="frr_notification_non_mfg_sp_title">Koristite zaštitu za ekran sa sertifikatom</string>
-    <string name="frr_notification_reset_fingerprint_button">Izbrišite i podesite otključavanje otiskom prsta</string>
-    <string name="frr_notification_reset_fingerprint_description">To ponekad može da reši probleme, naročito ako ste nedavno dodali ili uklonili zaštitu za ekran</string>
-    <string name="frr_notification_reset_fingerprint_title">Ponovo podesite otključavanje otiskom prsta</string>
-    <string name="frr_notification_screen_protector_description">Može da utiče na prepoznavanje otiska prsta. Koristite zaštitu za ekran sa sertifikatom Napravljeno za Google. Druge zaštite za ekran mogu da ometaju senzor i spreče ga da pouzdano radi.</string>
-    <string name="frr_notification_screen_protector_title">Ako koristite zaštitu za ekran…</string>
-    <string name="frr_notification_set_face_unlock_description">Koristite otključavanje licem kada vam se otisak prsta ne prepozna, na primer, kada su vam prsti vlažni</string>
-    <string name="frr_notification_set_face_unlock_title">Podesite otključavanje licem</string>
-    <string name="frr_notification_title">Imate problema sa otključavanjem otiskom prsta?</string>
     <string name="protector_edu_subtitle">Zaštita za ekran može da utiče na prepoznavanje otiska prsta. Za najbolje performanse otključavanja otiskom prsta uz zaštitu za ekran:</string>
     <string name="screen_protector_edu_apply_instruction">Kada je to moguće, stavite zaštitu za ekran pre nego što podesite otključavanje otiskom prsta i istisnite sve mehuriće. Ako treba da je stavite posle podešavanja, kasnije skenirajte QR kôd kamerom.</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Saznajte više na g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">Sada možete da otključate telefon pomoću lica kada ga uzmete ili dodirnete ekran.\n\nOtključavanje licem najbolje radi kada ima dovoljno svetla i ne nosite masku ili tamne naočare.</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">Sada možete pomoću lica da otključate telefon kada ga uzmete ili dodirnete ekran. Telefon mora da bude preklopljen da biste koristili otključavanje licem.\n\nOtključavanje licem najbolje radi kada ima dovoljno svetla i ne nosite masku ili tamne naočare.</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">Vi i dete možete da izbrišete model lica ili da isključite otključavanje licem u svakom trenutku u Podešavanjima. Modeli lica se čuvaju na telefonu dok se ne izbrišu.</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">U svakom trenutku možete da izbrišete model lica ili da isključite Otključavanje licem u Podešavanjima. Modeli lica se čuvaju na telefonu dok ih ne izbrišete.</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">Otključavanje licem pravi jedinstveni model detetovog lica radi potvrde identiteta. Da bi napravilo ovaj model lica tokom podešavanja, dete treba da slika lice iz različitih uglova.\n\nKada dete koristi otključavanje licem, slike se koriste za ažuriranje modela lica. Slike koje se koriste za pravljenje modela lica nikada se ne čuvaju, ali se model lica bezbedno čuva na telefonu i ostaje samo na njemu. Čitav proces obrade se bezbedno odvija na telefonu.</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">Saznajte više na &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">Koristite lice da biste otključali telefon ili verifikovali identitet u aplikacijama</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Lice se čuva samo na uređaju i nikada se ne šalje Google-u</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Da biste imali najbolji doživljaj, podesite Otključavanje licem i Otključavanje otiskom prsta</string>
     <string name="security_settings_face_enroll_next">Dalje</string>
     <string name="security_settings_face_enroll_partial_message">Da biste poboljšali učinak, možete ponovo da podesite otključavanje licem u Podešavanjima</string>
     <string name="security_settings_face_enroll_partial_start_over">Počni ponovo</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Telefon je previše zagrejan</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Omogućite da dete koristi otisak prsta za otključavanje telefona ili potvrdu identiteta u aplikacijama</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Otisci prstiju deteta se čuvaju samo na uređaju i nikada se ne šalju Google-u</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Bezbedno i korisno</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Koristite otiske prstiju da biste otključali telefon ili verifikovali identitet u aplikacijama</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Ako imate zaštitu za ekran, stavite je pre nego što podesite otisak prsta da biste ostvarili najbolje performanse.\n\nDa biste postigli najbolje rezultate, koristite zaštitu za ekran sa sertifikatom Napravljeno za Google. Otisak prsta možda neće raditi sa drugim zaštitama za ekran.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Otisci prsta se čuvaju samo na uređaju i nikada se ne šalju Google-u</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Da biste imali najbolji doživljaj, dodajte bar 2 otiska prsta i podesite Otključavanje licem</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Saznajte više na &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Traka napretka. Dvaput dodirnite i %2$s.</string>
-    <string name="security_settings_udfps_enroll_start_message_new">Držite prst ravno na senzoru dok ne osetite vibriranje. Podešavajte samo jedan po jedan prst.</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">Držite prst ravno na senzoru dok se traka napretka ne popuni. Podešavajte jedan po jedan prst.</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">Potvrdi</string>
     <string name="security_settings_udfps_screen_protector_description_none">Nema zaštite za ekran</string>
     <string name="security_settings_udfps_screen_protector_keywords">Zaštita za ekran</string>

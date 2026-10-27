@@ -16,7 +16,7 @@ import com.airbnb.lottie.LottieAnimationView
 import com.android.settings.R as AR
 import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingAction
 import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingScreen
-import com.google.android.settings.R
+import com.google.android.settings.biometrics.R
 import com.google.android.settings.biometrics.fingerprint.ui.view.GlifLayoutUseCase
 import com.google.android.settings.biometrics.fingerprint.ui.view.NavOptionsUseCase
 import com.google.android.settings.biometrics.fingerprint.ui.viewmodel.FingerprintEnrollResult

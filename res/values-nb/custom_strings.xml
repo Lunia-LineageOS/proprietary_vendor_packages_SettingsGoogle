@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Konfigurer opplåsing med fingeravtrykk</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Konfigurer opplåsing med fingeravtrykk for jobb</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">Nå kan du bruke fingeravtrykket til å låse opp telefonen eller bekrefte at det er deg. Legg til et fingeravtrykk til for å få mest mulig fleksibilitet.</string>
-    <string name="delete_all_fps_dialog_cancel_button">Ikke nå</string>
-    <string name="delete_all_fps_dialog_delete_button">Konfigurer nå</string>
-    <string name="delete_all_fps_dialog_msg">Dette sletter alle fingeravtrykkene dine, og du kan ikke bruke fingeravtrykket til å låse opp telefonen eller bekrefte identiteten din før opplåsing med fingeravtrykk er konfigurert på nytt.</string>
-    <string name="delete_all_fps_dialog_title">Vil du konfigurere opplåsing med fingeravtrykk?</string>
     <string name="enroll_usudfps_fingertip_title_simple">Trykk med fingertuppen</string>
     <string name="enroll_usudfps_left_edge_title_simple">Trykk på venstre kant</string>
     <string name="enroll_usudfps_right_edge_title_simple">Trykk på høyre kant</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Fingeravtrykkssensoren er på den neste skjermen</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Konfigurer med skjermbeskytter</string>
     <string name="fingerprint_acquired_immobile_simple">Juster litt hver gang</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">Legg til et nytt fingeravtrykk</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Nå kan du bruke fingeravtrykket til å låse opp telefonen eller bekrefte at det er deg. Du kan legge til et fingeravtrykk til for å gjøre ting enda enklere.</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Jo mer du bruker Opplåsing med fingeravtrykk, desto bedre blir det. Du kan også legge til flere fingeravtrykk.</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Jo mer du bruker Opplåsing med fingeravtrykk, desto bedre blir det. Og du kan legge til enda flere fingeravtrykk for å gjøre ting enda enklere.</string>
-    <string name="fingerprint_enroll_finish_title">Dette ser bra ut</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">1 fingeravtrykk er lagt til</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">Fingeravtrykkssensoren er på av/på-knappen ved siden av volumknappene på siden av enheten. Du får mest fleksibilitet ved å konfigurere minst én finger på hver hånd.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Gyldig QR-kode</string>
     <string name="fingerprint_sp_qr_code_error">Denne QR-koden er ikke for en sertifisert skjermbeskytter</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">Plasser koden på emballasjen til skjermbeskytteren i rammen</string>
     <string name="fingerprint_sp_title_got_it">Greit!</string>
     <string name="fingerprint_sp_title_scan_qr_code">Skann QR-koden</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">Fingeravtrykkssensoren er på den neste skjermen. Du får mest fleksibilitet ved å konfigurere minst én finger på hver hånd.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Tørk av skjermen for å fjerne striper, smuss eller flekker. Dette bidrar til å registrere tydeligere fingeravtrykkbilder.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Rengjør skjermen før du fortsetter</string>
-    <string name="frr_notification_button_got_it">Greit</string>
-    <string name="frr_notification_description">Følg disse tipsene for å få best mulig ytelse:</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Finn ut mer&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">Bruk en skjermbeskytter som er Made For Google-sertifisert. Andre skjermbeskyttere kan forstyrre sensoren og hindre at den fungerer som den skal.</string>
-    <string name="frr_notification_non_mfg_sp_title">Bruk en sertifisert skjermbeskytter</string>
-    <string name="frr_notification_reset_fingerprint_button">Slett og konfigurer Opplåsing med fingeravtrykk</string>
-    <string name="frr_notification_reset_fingerprint_description">Dette kan noen ganger løse problemer, spesielt hvis du nylig har lagt til eller fjernet en skjermbeskytter</string>
-    <string name="frr_notification_reset_fingerprint_title">Konfigurer Opplåsingen med fingeravtrykk på nytt</string>
-    <string name="frr_notification_screen_protector_description">Det kan påvirke gjenkjenning av fingeravtrykk. Bruk en skjermbeskytter som er Made For Google-sertifisert. Andre skjermbeskyttere kan forstyrre sensoren og hindre at den fungerer som den skal.</string>
-    <string name="frr_notification_screen_protector_title">Hvis du bruker en skjermbeskytter</string>
-    <string name="frr_notification_set_face_unlock_description">Bruk ansiktslåsen når fingeravtrykket ditt ikke gjenkjennes, for eksempel når du har våte fingre</string>
-    <string name="frr_notification_set_face_unlock_title">Konfigurer ansiktslås</string>
-    <string name="frr_notification_title">Har du problemer med Opplåsing med fingeravtrykk?</string>
     <string name="protector_edu_subtitle">Skjermbeskyttere kan påvirke gjenkjenning av fingeravtrykk. Slik får du best mulig ytelse for Opplåsing med fingeravtrykk med en skjermbeskytter:</string>
     <string name="screen_protector_edu_apply_instruction">Hvis det er mulig, bør du sette på skjermbeskytteren før du konfigurerer Opplåsing med fingeravtrykk, og du bør fjerne eventuelle bobler. Hvis du må sette den på etter konfigureringen, kan du skanne QR-koden med kameraet senere.</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Finn ut mer på g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">Når du løfter telefonen eller trykker på skjermen, kan du nå bruke ansiktet til å låse opp.\n\nAnsiktslås fungerer best når det er nok lys og du ikke bruker munnbind eller mørke briller.</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">Nå kan du låse opp telefonen med ansiktet når du løfter den opp eller trykker på skjermen. Telefonen må være foldet sammen for å bruke ansiktslås.\n\nAnsiktslås fungerer best når det er tilstrekkelig lys og du ikke bruker munnbind eller mørke briller.</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">Du og barnet ditt kan når som helst slette ansiktsmodellen til barnet eller slå av ansiktslås i innstillingene. Ansiktsmodellene lagres på telefonen til de slettes.</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">Du kan når som helst slette ansiktsmodellen din eller slå av ansiktslåsen i innstillingene. Ansiktsmodellene lagres på telefonen til du sletter dem.</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">Ansiktslås lager en unik modell av ansiktet til barnet for å bekrefte barnets identitet. For å lage denne ansiktsmodellen under konfigureringen tar barnet bilder av ansiktet sitt fra forskjellige vinkler.\n\nNår hen bruker ansiktslås, brukes bilder til å oppdatere ansiktsmodellen. Bildene som brukes til å lage ansiktsmodellen, lagres aldri, men ansiktsmodellen lagres på en sikker måte på telefonen og forlater aldri telefonen. All behandling skjer på en sikker måte på telefonen.</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">Finn ut mer på &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">Bruk ansiktet til å låse opp telefonen eller bekrefte identiteten din i apper</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Ansiktet ditt lagres bare på enheten og sendes aldri til Google</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">For å få den beste opplevelsen bør du konfigurere ansiktslåsen sammen med opplåsing med fingeravtrykk</string>
     <string name="security_settings_face_enroll_next">Neste</string>
     <string name="security_settings_face_enroll_partial_message">For å forbedre ytelsen kan du konfigurere ansiktslås på nytt i innstillingene</string>
     <string name="security_settings_face_enroll_partial_start_over">Start på nytt</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">Telefonen er for varm</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Bruk barnets fingeravtrykk til å låse opp telefonen eller bekrefte identiteten i apper</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Fingeravtrykkene til barnet lagres bare på enheten og sendes aldri til Google</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Sikkert og nyttig</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Bruk fingeravtrykket til å låse opp telefonen eller bekrefte identiteten din i apper</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Hvis du har en skjermbeskytter, får du best ytelse ved å sette den på før du konfigurerer fingeravtrykket.\n\nDu får best resultat ved å bruke en skjermbeskytter som er Made For Google-sertifisert. Fingeravtrykk fungerer muligens ikke med andre skjermbeskyttere.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Fingeravtrykkene lagres bare på enheten og sendes aldri til Google</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">For å få den beste opplevelsen bør du legge til to eller flere fingeravtrykk og konfigurere ansiktslåsen</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Finn ut mer på &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Fremdriftslinje. Dobbelttrykk for å %2$s.</string>
-    <string name="security_settings_udfps_enroll_start_message_new">Hold fingeren på sensoren til du føler en vibrering. Konfigurer bare én finger om gangen.</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">Hold fingeren på sensoren til fremdriftslinjen er fylt. Konfigurer bare én finger om gangen.</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">Bekreft</string>
     <string name="security_settings_udfps_screen_protector_description_none">Ingen skjermbeskytter</string>
     <string name="security_settings_udfps_screen_protector_keywords">Skjermbeskytter</string>

@@ -6,7 +6,7 @@ import androidx.appcompat.app.AlertDialog
 import androidx.core.os.bundleOf
 import androidx.fragment.app.DialogFragment
 import androidx.fragment.app.setFragmentResult
-import com.google.android.settings.R
+import com.google.android.settings.biometrics.R
 
 class FrrDeleteAllFpsDialogFragment : DialogFragment() {
 

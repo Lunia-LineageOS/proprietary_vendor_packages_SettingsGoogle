@@ -26,6 +26,7 @@ import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingScree
 import com.android.settings.biometrics.fingerprint2.lib.model.FingerEnrollState
 import com.android.settingslib.widget.LottieColorUtils
 import com.google.android.settings.R
+import com.google.android.settings.biometrics.R as BiometricsR
 import com.google.android.settings.biometrics.fingerprint.ui.view.GlifLayoutUseCase
 import com.google.android.settings.biometrics.fingerprint.ui.view.NavOptionsUseCase
 import com.google.android.settings.biometrics.fingerprint.ui.view.SkipFindFpsDialog
@@ -183,7 +184,11 @@ class FindSfpsFragment : Fragment(R.layout.sfps_education) {
         viewModel.finishEnrollment()
         metricsViewModel.appendAction(OnboardingAction.ACTION_NEXT)
         findNavController()
-            .navigate(R.id.action_find_sensor_to_enroll, null, NavOptionsUseCase.newNavOptions())
+            .navigate(
+                BiometricsR.id.action_find_sensor_to_enroll,
+                null,
+                NavOptionsUseCase.newNavOptions(),
+            )
     }
 
     private fun setupSecondaryButton(footerBarMixin: FooterBarMixin) {

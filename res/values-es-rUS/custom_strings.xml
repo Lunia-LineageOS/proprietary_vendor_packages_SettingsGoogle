@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Configura el Desbloqueo con huellas dactilares</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Configura el Desbloqueo con huellas dactilares para el trabajo</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">Ahora puedes usar tu huella dactilar para desbloquear el teléfono o verificar tu identidad. Para obtener la mayor flexibilidad, agrega otra huella dactilar.</string>
-    <string name="delete_all_fps_dialog_cancel_button">Ahora no</string>
-    <string name="delete_all_fps_dialog_delete_button">Configurar ahora</string>
-    <string name="delete_all_fps_dialog_msg">Se borrarán todas las huellas dactilares actuales y no podrás usar la huella para desbloquear el teléfono ni verificar tu identidad hasta que vuelvas a configurar el Desbloqueo con huellas dactilares.</string>
-    <string name="delete_all_fps_dialog_title">¿Quieres configurar el Desbloqueo con huellas dactilares?</string>
     <string name="enroll_usudfps_fingertip_title_simple">Toca con la punta del dedo</string>
     <string name="enroll_usudfps_left_edge_title_simple">Toca el borde izquierdo</string>
     <string name="enroll_usudfps_right_edge_title_simple">Toca el borde derecho</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">El sensor de huellas dactilares estará en la siguiente pantalla</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Configurar con protector de pantalla</string>
     <string name="fingerprint_acquired_immobile_simple">Cambia de a poco el lugar que tocas</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">Agregar otra huella dactilar</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Ahora puedes usar tu huella dactilar para desbloquear el teléfono o verificar tu identidad. Agrega otra huella para mayor comodidad.</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Cuanto más uses el Desbloqueo con huellas dactilares, mejor funcionará. Incluso puedes agregar más huellas.</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Cuanto más uses el Desbloqueo con huellas dactilares, mejor funcionará. Incluso puedes agregar más huellas para mayor comodidad.</string>
-    <string name="fingerprint_enroll_finish_title">¡Muy bien!</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">Se agregó 1 huella dactilar</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">El sensor de huellas dactilares está en el botón de encendido, junto a los botones de volumen en el lateral del dispositivo. Para obtener mayor flexibilidad, configura al menos 1 dedo de cada mano.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Código QR válido</string>
     <string name="fingerprint_sp_qr_code_error">Este código QR no corresponde a un protector de pantalla certificado</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">Posiciona el código del empaque del protector de pantalla en el marco</string>
     <string name="fingerprint_sp_title_got_it">Se escaneó el QR</string>
     <string name="fingerprint_sp_title_scan_qr_code">Escanea el código QR</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">El sensor de huellas dactilares estará en la siguiente pantalla. Para obtener mayor flexibilidad, configura al menos 1 dedo de cada mano.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Limpia la pantalla para quitar vetas, manchas y marcas. Esto ayuda a capturar imágenes más nítidas de tu huella dactilar.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Limpia la pantalla antes de continuar</string>
-    <string name="frr_notification_button_got_it">Entendido</string>
-    <string name="frr_notification_description">Para obtener el mejor rendimiento, sigue estas sugerencias:</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Más información&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">Usa un protector de pantalla que tenga certificación Made for Google. Es posible que otros protectores de pantalla interfieran con el sensor y le impidan funcionar de manera confiable.</string>
-    <string name="frr_notification_non_mfg_sp_title">Usa un protector de pantalla certificado</string>
-    <string name="frr_notification_reset_fingerprint_button">Borra y configura el Desbloqueo con huellas dactilares</string>
-    <string name="frr_notification_reset_fingerprint_description">A veces, esto puede solucionar problemas, en especial si agregaste o quitaste un protector de pantalla recientemente</string>
-    <string name="frr_notification_reset_fingerprint_title">Vuelve a configurar el Desbloqueo con huellas dactilares</string>
-    <string name="frr_notification_screen_protector_description">Puede afectar el reconocimiento de huellas dactilares. Usa un protector de pantalla que tenga certificación Made for Google. Es posible que otros protectores de pantalla interfieran con el sensor y le impidan funcionar de manera confiable.</string>
-    <string name="frr_notification_screen_protector_title">Si usas un protector de pantalla…</string>
-    <string name="frr_notification_set_face_unlock_description">Usa el Desbloqueo facial si no se reconoce tu huella dactilar (p. ej., si tienes los dedos mojados)</string>
-    <string name="frr_notification_set_face_unlock_title">Configura el Desbloqueo facial</string>
-    <string name="frr_notification_title">¿Tienes problemas con el Desbloqueo con huellas dactilares?</string>
     <string name="protector_edu_subtitle">Un protector de pantalla puede afectar el reconocimiento de huellas dactilares. Para que el Desbloqueo con huellas dactilares funcione de manera óptima con un protector de pantalla, sigue estos pasos:</string>
     <string name="screen_protector_edu_apply_instruction">Cuando sea posible, coloca el protector de pantalla antes de configurar el Desbloqueo con huellas dactilares y aplana las burbujas. Si necesitas aplicarlo después de la configuración, escanea el código QR más tarde con la cámara.</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Más información en g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">Ahora podrás desbloquear el teléfono con el rostro cuando lo levantes o cuando toques la pantalla.\n\nEl Desbloqueo facial funciona mejor cuando hay suficiente luz y no llevas mascarilla ni lentes oscuros.</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">Ahora, puedes usar tu rostro para desbloquear el teléfono cuando lo levantes o toques la pantalla. El teléfono debe estar plegado para usar Desbloqueo facial.\n\nDesbloqueo facial funciona mejor cuando hay suficiente luz y no llevas puestos lentes o una máscara.</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">Tu hijo o hija, y tú pueden borrar el modelo de rostro o desactivar el Desbloqueo facial en cualquier momento en Configuración. Los modelos de rostro se almacenan en el teléfono hasta que se borran.</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">Puedes borrar el modelo de rostro o desactivar la función Desbloqueo facial en cualquier momento en Configuración. Los modelos se almacenarán en el teléfono hasta que los borres.</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">El Desbloqueo facial crea un modelo único del rostro de tu hijo o hija para verificar su identidad. Para crear el modelo de rostro durante la configuración, tu hijo o hija deberá tomar imágenes de su rostro desde distintos ángulos.\n\nCuando usa el Desbloqueo facial, se utilizan imágenes para actualizar el modelo de su rostro. Las imágenes que se usan para crear el modelo de rostro nunca se almacenan, sino que el modelo en sí se almacena de manera segura en el dispositivo y nunca sale de él. Todo el proceso se lleva a cabo en el teléfono de forma segura.</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">Más información en &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">Usa tu rostro para desbloquear el teléfono o verificar tu identidad en apps</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">El modelo de tu rostro solo se almacena en el dispositivo y no se envía a Google</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Para obtener la mejor experiencia, configura el Desbloqueo facial junto con el Desbloqueo con huellas dactilares</string>
     <string name="security_settings_face_enroll_next">Siguiente</string>
     <string name="security_settings_face_enroll_partial_message">Para mejorar el rendimiento, puedes volver a establecer el Desbloqueo facial en Configuración</string>
     <string name="security_settings_face_enroll_partial_start_over">Volver a empezar</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">El teléfono se sobrecalentó</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Usa la huella dactilar de tu hijo o hija para desbloquear el teléfono o verificar su identidad en apps</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">Las huellas dactilares de tu hijo o hija solo se almacenan en el dispositivo y nunca se envían a Google</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Seguro y útil</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Usa tus huellas dactilares para desbloquear el teléfono o verificar tu identidad en apps</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Si tienes un protector de pantalla, aplícalo antes de configurar tu huella dactilar para un mejor rendimiento.\n\nSi quieres obtener los mejores resultados, utiliza un protector de pantalla que tenga la certificación Made for Google. Es posible que tu huella dactilar no funcione con otros protectores.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Las huellas dactilares solo se almacenan en el dispositivo y nunca se envían a Google</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Para obtener la mejor experiencia, agrega 2 o más huellas dactilares, y configura el Desbloqueo facial</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Más información en &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Barra de progreso. Presiona dos veces para %2$s.</string>
-    <string name="security_settings_udfps_enroll_start_message_new">Mantén todo el dedo en el sensor hasta que notes una vibración. Configura un solo dedo a la vez.</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">Mantén todo el dedo en el sensor hasta que se complete la barra de progreso. Configura un solo dedo a la vez.</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">Confirmar</string>
     <string name="security_settings_udfps_screen_protector_description_none">Sin protector de pantalla</string>
     <string name="security_settings_udfps_screen_protector_keywords">Protector de pantalla</string>

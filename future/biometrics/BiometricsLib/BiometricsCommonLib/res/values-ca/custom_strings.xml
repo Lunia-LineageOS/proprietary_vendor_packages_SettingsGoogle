@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">Ara no</string>
+    <string name="delete_all_fps_dialog_delete_button">Configura ara</string>
+    <string name="delete_all_fps_dialog_msg">D\'aquesta manera, se suprimiran totes les empremtes digitals actuals i no podràs utilitzar-les per desbloquejar el telèfon o verificar la teva identitat fins que no tornis a configurar Desbloqueig amb empremta digital.</string>
+    <string name="delete_all_fps_dialog_title">Vols configurar Desbloqueig amb empremta digital?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">Afegeix una altra empremta digital</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Ara pots utilitzar l\'empremta digital per desbloquejar el telèfon o verificar la teva identitat. Pots afegir una altra empremta digital per a més comoditat.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Com més utilitzis Desbloqueig amb empremta digital, millor funcionarà. I pots afegir encara més empremtes digitals.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Com més utilitzis Desbloqueig amb empremta digital, millor funcionarà. I pots afegir encara més empremtes digitals per a més comoditat.</string>
+    <string name="fingerprint_enroll_finish_title">Tot correcte!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">S\'ha afegit 1 empremta digital</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">El sensor d\'empremtes digitals apareixerà a la pantalla següent. Per gaudir de la màxima flexibilitat, configura com a mínim 1 dit de cada mà.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Neteja la pantalla per esborrar ratlles, esborralls o taques. Això ajuda a capturar imatges d\'empremta digital amb més claredat.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Neteja la pantalla abans de continuar</string>
+    <string name="frr_notification_button_got_it">Entesos</string>
+    <string name="frr_notification_description">Per obtenir un millor rendiment, segueix aquests consells:</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Més informació&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">Utilitza un protector de pantalla certificat com a Made for Google. Altres protectors de pantalla poden interferir amb el sensor i impedir que funcioni de manera fiable.</string>
+    <string name="frr_notification_non_mfg_sp_title">Utilitza un protector de pantalla certificat</string>
+    <string name="frr_notification_reset_fingerprint_button">Suprimeix i configura Desbloqueig amb empremta digital</string>
+    <string name="frr_notification_reset_fingerprint_description">De vegades, això pot corregir problemes, sobretot si fa poc has afegit o suprimit un protector de pantalla</string>
+    <string name="frr_notification_reset_fingerprint_title">Torna a configurar Desbloqueig amb empremta digital</string>
+    <string name="frr_notification_screen_protector_description">Pot afectar el reconeixement d\'empremtes digitals. Utilitza un protector de pantalla certificat com a Made for Google. Altres protectors de pantalla poden interferir amb el sensor i impedir que funcioni de manera fiable.</string>
+    <string name="frr_notification_screen_protector_title">Si utilitzes un protector de pantalla...</string>
+    <string name="frr_notification_set_face_unlock_description">Utilitza Desbloqueig facial quan no es reconegui la teva empremta digital, com ara quan tens els dits mullats</string>
+    <string name="frr_notification_set_face_unlock_title">Configura Desbloqueig facial</string>
+    <string name="frr_notification_title">Tens problemes amb Desbloqueig amb empremta digital?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">Pots suprimir el teu model facial o desactivar Desbloqueig facial en qualsevol moment a Configuració. Els models facials s\'emmagatzemen al telèfon fins que els suprimeixes.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">Més informació a &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">Utilitza la cara per desbloquejar el telèfon o verificar la teva identitat en aplicacions</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">La teva cara només s\'emmagatzema al dispositiu i no s\'envia mai a Google</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Per gaudir de la millor experiència, configura Desbloqueig facial juntament amb Desbloqueig amb empremta digital</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Segur i útil</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Utilitza les empremtes digitals per desbloquejar el telèfon o verificar la teva identitat en aplicacions</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Si utilitzes un protector de pantalla, aplica\'l abans de configurar l\'empremta digital per gaudir d\'un millor rendiment.\n\nPer obtenir els millors resultats, utilitza un protector de pantalla que tingui la certificació Made for Google. Si utilitzes altres protectors de pantalla, pot ser que la teva empremta digital no funcioni.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Les teves empremtes digitals només s\'emmagatzemen al dispositiu i no s\'envien mai a Google</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Per gaudir de la millor experiència, afegeix dues empremtes digitals o més i configura Desbloqueig facial</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Més informació a &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Barra de progrés. Fes doble toc per %2$s.</string>
+    <string name="security_settings_udfps_enroll_start_message_new">Mantén el dit pla sobre el sensor fins que notis una vibració. Configura només un dit alhora.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">Mantén el dit pla sobre el sensor fins que s\'empleni la barra de progrés. Configura només un dit alhora.</string>
+</resources>

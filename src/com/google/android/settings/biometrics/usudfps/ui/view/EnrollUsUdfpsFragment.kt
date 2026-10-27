@@ -27,7 +27,7 @@ import com.android.settings.biometrics.BiometricsOnboardingProto.OnboardingScree
 import com.android.settings.biometrics.fingerprint2.lib.model.FingerEnrollState
 import com.android.settingslib.display.DisplayDensityUtils
 import com.android.systemui.biometrics.shared.model.FingerprintSensor
-import com.google.android.settings.R
+import com.google.android.settings.biometrics.R
 import com.google.android.settings.biometrics.combination.ui.viewmodel.VibratorViewModel
 import com.google.android.settings.biometrics.fingerprint.model.HareMode
 import com.google.android.settings.biometrics.fingerprint.ui.view.NavOptionsUseCase
@@ -57,7 +57,8 @@ import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.yield
 
-class EnrollUsUdfpsFragment : Fragment(R.layout.enroll_usudfps_fragment) {
+class EnrollUsUdfpsFragment :
+    Fragment(com.google.android.settings.R.layout.enroll_usudfps_fragment) {
 
     private val setEnrollResultViewModel: SetEnrollResultViewModel by activityViewModels()
     private val metricsViewModel: FingerprintMetricsViewModel by activityViewModels()
@@ -152,7 +153,12 @@ class EnrollUsUdfpsFragment : Fragment(R.layout.enroll_usudfps_fragment) {
                     enrollHelper.onEnrollmentHelp()
                 } else if (enrollHelp.helpMsgId == FINGERPRINT_ACQUIRED_IMMOBILE) {
                     if (viewModel.getHareMode() is HareMode.Enabled) {
-                        showError(getString(R.string.fingerprint_acquired_immobile_simple))
+                        showError(
+                            getString(
+                                com.google.android.settings.R.string
+                                    .fingerprint_acquired_immobile_simple
+                            )
+                        )
                         enrollHelper.onEnrollmentHelp()
                     } else if (enrollHelp.helpString.isNotEmpty()) {
                         showError(enrollHelp.helpString)
@@ -232,7 +238,7 @@ class EnrollUsUdfpsFragment : Fragment(R.layout.enroll_usudfps_fragment) {
         if ((currentRotation != 0 && currentRotation != 2) || !getShouldShowLottie()) {
             return null
         }
-        return view!!.requireViewById(R.id.illustration_lottie)
+        return view!!.requireViewById(com.google.android.settings.R.id.illustration_lottie)
     }
 
     private fun getShouldShowLottie(): Boolean {
@@ -434,7 +440,9 @@ class EnrollUsUdfpsFragment : Fragment(R.layout.enroll_usudfps_fragment) {
         val currentRotation = rotation
         val lottieView =
             if (currentRotation == 0 || currentRotation == 2) {
-                enrollingView.requireViewById<LottieAnimationView>(R.id.illustration_lottie)
+                enrollingView.requireViewById<LottieAnimationView>(
+                    com.google.android.settings.R.id.illustration_lottie
+                )
             } else {
                 null
             }

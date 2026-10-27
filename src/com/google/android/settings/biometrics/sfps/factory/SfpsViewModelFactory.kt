@@ -9,7 +9,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewmodel.CreationExtras
 import com.android.settings.SettingsApplication
 import com.android.settings.Utils
-import com.google.android.settings.R
+import com.google.android.settings.biometrics.R
 import com.google.android.settings.biometrics.fingerprint.factory.FingerprintRepositoryFactory
 import com.google.android.settings.biometrics.fingerprint.factory.FingerprintViewModelFactory.Companion.CREDENTIAL_MODEL_KEY
 import com.google.android.settings.biometrics.fingerprint.factory.FingerprintViewModelFactory.Companion.ENROLLMENT_REQUEST_KEY

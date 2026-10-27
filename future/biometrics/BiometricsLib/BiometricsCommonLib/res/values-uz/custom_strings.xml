@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">Hozir emas</string>
+    <string name="delete_all_fps_dialog_delete_button">Hozir sozlash</string>
+    <string name="delete_all_fps_dialog_msg">Barcha barmoq izlari oʻchib ketadi. Barmoq izi bilan ochishni qayta sozlash uchun telefonni qulfdan chiqarish va shaxsingizni barmoq izi bilan tasdiqlash talab etiladi.</string>
+    <string name="delete_all_fps_dialog_title">Barmoq izi bilan ochish qayta sozlansinmi?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">Boshqa barmoq izini kiritish</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Endi barmoq izi bilan telefonni qulfdan chiqarish yoki shaxsni tasdiqlash mumkin. Qoʻshimcha qulaylik uchun yana boshqa barmoq izlarini kiritish mumkin.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Barmoq izi bilan ochish qancha koʻp ishlatilsa, uning ishlashi shuncha yaxshilanadi. Shuningdek, yana boshqa barmoq izlarini kiritish mumkin.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Barmoq izi bilan ochish qancha koʻp ishlatilsa, uning ishlashi shuncha yaxshilanadi. Shuningdek, qoʻshimcha qulaylik uchun yana boshqa barmoq izlarini kiritish mumkin.</string>
+    <string name="fingerprint_enroll_finish_title">Hammasi joyida!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">1 ta barmoq izi kiritildi</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">Barmoq izi skaneri keyingi ekranda chiqadi. Eng yaxshi moslashuvchanlik uchun har bir qoʻldagi kamida 1 ta barmoqni sozlang.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Ekrandagi dogʻ va chiziqlarni artib tozalang. Bu barmoq izini tiniqroq yozib olishga yordam beradi.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Davom etishdan avval ekranni tozalang</string>
+    <string name="frr_notification_button_got_it">OK</string>
+    <string name="frr_notification_description">Eng yaxshi samaradorlik uchun ushbu maslahatlarga amal qiling:</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Batafsil&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">Made for Google sertifikatiga ega ekran himoyasidan foydalaning. Boshqa ekran himoyachilari sensorga xalaqit berishi va uning ishonchli ishlashiga toʻsqinlik qilishi mumkin.</string>
+    <string name="frr_notification_non_mfg_sp_title">Sertfikatlangan ekran himoyasini ishlating</string>
+    <string name="frr_notification_reset_fingerprint_button">Barmoq izi bilan ochishni oʻchirish va sozlash</string>
+    <string name="frr_notification_reset_fingerprint_description">Bu baʼzida muammolarni tuzatadi, ayniqsa, yaqinda ekran himoyasini yopishtirgan yoki olib tashlagan boʻlsangiz</string>
+    <string name="frr_notification_reset_fingerprint_title">Barmoq izi bilan ochish funksiyasini qayta sozlang</string>
+    <string name="frr_notification_screen_protector_description">U barmoq izini tanishga taʼsir qilishi mumkin. Made for Google sertifikatiga ega ekran himoyasidan foydalaning. Boshqa ekran himoyachilari sensorga xalaqit berishi va uning ishonchli ishlashiga toʻsqinlik qilishi mumkin.</string>
+    <string name="frr_notification_screen_protector_title">Ekran himoyasidan foydalansangiz...</string>
+    <string name="frr_notification_set_face_unlock_description">Barmoq izi aniqlanmasa, masalan, barmoqlar hoʻl boʻlsa, Yuz bilan ochish funksiyasidan foydalaning</string>
+    <string name="frr_notification_set_face_unlock_title">Yuz bilan ochishni sozlash</string>
+    <string name="frr_notification_title">Barmoq izi bilan ochishda muammo bormi?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">Istalgan vaqt Sozlamalar orqali yuz modelini oʻchirib tashlashingiz yoki yuz bilan ochishni faolsizlantirishingiz mumkin. Yuz modellari telefonda oʻchirilmaguncha saqlanadi.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">Batafsil: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">Telefoningizni ochishdan oldin yuzingizdan foydalaning yoki ilovalarda bu siz ekaningizni tasdiqlang</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Yuzingiz faqat qurilmada saqlanadi va aslo Googleʼga yuborilmaydi</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Yaxshi ishlashi uchun Yuz bilan ochish bilan birga Barmoq izi bilan ochishni sozlang.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Xavfsiz va foydali</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Telefoningizni ochish uchun barmoq izlaridan foydalaning yoki ilovalarda bu siz ekaningizni tasdiqlang</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Agar sizda ekran himoyasi boʻlsa, yaxshi ishlashi uchun barmoq izini sozlashdan oldin uni taqing.\n\nEng yaxshi natijaga erishish uchun Made for Google sertifikatli ekran himoyasidan foydalaning. Boshqa ekran himoyasida barmoq izi ishlamasligi mumkin.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Barmoq izingiz faqat qurilmada saqlanadi va aslo Googleʼga yuborilmaydi</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Yaxshi ishlashi uchun 2 yoki undan ortiq barmoqni kiritib, Yuz bilan ochishni sozlang</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Batafsil: &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Jarayon indikatori. %2$s uchun ikki marta tegining.</string>
+    <string name="security_settings_udfps_enroll_start_message_new">Barmoqni tebranish sezilguniga qadar sensorga bosib turing. Bir vaqtda faqat bitta barmoqni sozlang.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">Jarayon paneli toʻlguniga qadar barmogʻingizni sensorga bosib turing. Bir vaqtda faqat bitta barmoqni sozlang.</string>
+</resources>

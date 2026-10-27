@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">Vēlāk</string>
+    <string name="delete_all_fps_dialog_delete_button">Iestatīt tūlīt</string>
+    <string name="delete_all_fps_dialog_msg">Tiks dzēsti visi pašreizējie pirkstu nospiedumi, un jūs nevarēsiet izmantot pirksta nospiedumu, lai atbloķētu tālruni vai verificētu savu identitāti, kamēr autorizācija ar pirksta nospiedumu nebūs atkārtoti iestatīta.</string>
+    <string name="delete_all_fps_dialog_title">Vai iestatīt autorizāciju ar pirksta nospiedumu?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">Pievienot cita pirksta nospiedumu</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Tagad varat izmantot pirksta nospiedumu, lai atbloķētu tālruni vai apstiprinātu savu identitāti. Ērtākai lietošanai varat pievienot vēl vienu pirksta nospiedumu.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Jo biežāk izmantosiet autorizāciju ar pirksta nospiedumu, jo labāk tā darbosies. Varat pievienot vēl vairāk pirkstu nospiedumu.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Jo biežāk izmantosiet autorizāciju ar pirksta nospiedumu, jo labāk tā darbosies. Ērtības labad varat pievienot vēl vairāk pirkstu nospiedumu.</string>
+    <string name="fingerprint_enroll_finish_title">Gatavs!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">Pievienots viens pirksta nospiedums</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">Nākamajā ekrānā būs redzams pirksta nospieduma sensors. Lai nodrošinātu lielāku elastību, iestatiet vismaz vienu katras rokas pirkstu.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Notīriet ekrānu, lai uz tā nebūtu švīku vai traipu. Tādējādi kamera varēs uzņemt skaidrākus pirksta nospieduma attēlus.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Notīriet savu ekrānu, pirms turpināt</string>
+    <string name="frr_notification_button_got_it">Labi</string>
+    <string name="frr_notification_description">Lai nodrošinātu vislabāko veiktspēju, ņemiet vērā tālāk sniegtos padomus.</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Uzzināt vairāk&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">Izmantojiet ekrāna aizsargplēvi, kam ir “Made for Google” sertifikāts. Citas ekrāna aizsargplēves var traucēt sensora darbību un neļaut tam droši darboties.</string>
+    <string name="frr_notification_non_mfg_sp_title">Izmantojiet sertificētu ekrāna aizsargplēvi</string>
+    <string name="frr_notification_reset_fingerprint_button">Dzēst un iestatīt autorizāciju ar pirksta nospiedumu</string>
+    <string name="frr_notification_reset_fingerprint_description">Dažkārt tas var novērst problēmas, jo īpaši, ja nesen pievienojāt vai noņēmāt ekrāna aizsargplēvi.</string>
+    <string name="frr_notification_reset_fingerprint_title">Vēlreiz iestatiet autorizāciju ar pirksta nospiedumu</string>
+    <string name="frr_notification_screen_protector_description">Tas var ietekmēt pirksta nospieduma atpazīšanu. Izmantojiet ekrāna aizsargplēvi, kam ir “Made for Google” sertifikāts. Citas ekrāna aizsargplēves var traucēt sensora darbību un neļaut tam droši darboties.</string>
+    <string name="frr_notification_screen_protector_title">Ja izmantojat ekrāna aizsargplēvi…</string>
+    <string name="frr_notification_set_face_unlock_description">Izmantojiet autorizāciju pēc sejas, ja netiek atpazīts pirksta nospiedums, piemēram, kad pirksti ir mitri.</string>
+    <string name="frr_notification_set_face_unlock_title">Iestatiet autorizāciju pēc sejas</string>
+    <string name="frr_notification_title">Vai radušās problēmas saistībā ar autorizāciju ar pirksta nospiedumu?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">Varat jebkurā laikā dzēst sejas modeli vai iestatījumos izslēgt autorizāciju pēc sejas. Sejas modeļi tiek glabāti tālrunī, līdz jūs tos izdzēšat.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">Uzziniet vairāk vietnē &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">Izmantojiet autorizāciju pēc sejas, lai atbloķētu tālruni vai apstiprinātu savu identitāti lietotnēs.</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Jūsu sejas modelis tiek glabāts tikai ierīcē un nekad netiek nosūtīts uzņēmumam Google.</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Lai gūtu vislabāko pieredzi, iestatiet autorizāciju pēc sejas un autorizāciju ar pirksta nospiedumu.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Droši un ērti</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Izmantojiet pirkstu nospiedumus, lai atbloķētu tālruni vai apstiprinātu savu identitāti lietotnēs.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Ja jums ir ekrāna aizsargplēve, uzklājiet to pirms pirksta nospieduma iestatīšanas, lai nodrošinātu vislabāko darbību.\n\nLai iegūtu vislabākos rezultātus, izmantojiet ekrāna aizsargplēvi, kam ir “Made for Google” sertifikāts. Ar citām ekrāna aizsargplēvēm jūsu pirksta nospiedums, iespējams, nedarbosies.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Jūsu pirkstu nospiedumi tiek glabāti tikai ierīcē un nekad netiek nosūtīti uzņēmumam Google.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Lai gūtu vislabāko pieredzi, pievienojiet vismaz divu pirkstu nospiedumus un iestatiet autorizāciju pēc sejas.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Uzziniet vairāk vietnē &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;.</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Norises josla. Veiciet dubultskārienu, lai veiktu šo darbību: %2$s</string>
+    <string name="security_settings_udfps_enroll_start_message_new">Turiet pirkstu plakaniski uz sensora, līdz sajūtat vibrāciju. Vienlaikus iestatiet tikai vienu pirkstu.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">Turiet pirkstu plakaniski uz sensora, līdz norises josla ir aizpildīta. Vienlaikus iestatiet tikai vienu pirkstu.</string>
+</resources>

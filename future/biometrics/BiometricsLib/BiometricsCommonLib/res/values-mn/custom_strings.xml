@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all_fps_dialog_cancel_button">Одоо биш</string>
+    <string name="delete_all_fps_dialog_delete_button">Одоо тохируулах</string>
+    <string name="delete_all_fps_dialog_msg">Энэ нь таны одоогийн хурууны хээг устгах бөгөөд та Хурууны хээгээр түгжээ тайлах онцлогийг дахин тохируулах хүртлээ хурууны хээгээ утасныхаа түгжээг тайлах, хувийн мэдээллээ баталгаажуулахад ашиглах боломжгүй болно.</string>
+    <string name="delete_all_fps_dialog_title">Хурууны хээгээр түгжээ тайлах онцлогийг тохируулах уу?</string>
+    <string name="fingerprint_enroll_finish_footer_button_add">Өөр хурууны хээ нэмэх</string>
+    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Та одоо утасныхаа түгжээг тайлах, өөрийгөө мөн болохыг баталгаажуулахад хурууны хээгээ ашиглах боломжтой. Та илүү дөхөм хэрэглээнд зориулж өөр нэг хурууны хээ нэмэх боломжтой.</string>
+    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Та Хурууны хээгээр түгжээ тайлахыг ашиглах тусам илүү сайжирдаг. Мөн та илүү олон хурууны хээ нэмэх боломжтой.</string>
+    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Та Хурууны хээгээр түгжээ тайлахыг ашиглах тусам илүү сайжирдаг. Мөн та илүү дөхөм хэрэглээтэй болох үүднээс бүр олон хурууны хээ нэмэх боломжтой.</string>
+    <string name="fingerprint_enroll_finish_title">Дажгүй харагдаж байна!</string>
+    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">1 хурууны хээ нэмсэн</string>
+    <string name="fingerprint_udfps_enroll_find_sensor_description">Хурууны хээ мэдрэгч дараагийн дэлгэц дээр байх болно. Хамгийн уян хатан байдалд зориулж хоёр гарынхаа дор хаяж 1, 1 хурууны хээг тохируулаарай.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Ямар нэг зураас, толбо эсвэл сэвийг арилгахын тулд дэлгэцээ арчина уу. Энэ нь хурууны хээний илүү тод зураг авахад тусална.</string>
+    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Үргэлжлүүлэхээсээ өмнө дэлгэцээ цэвэрлэнэ үү</string>
+    <string name="frr_notification_button_got_it">Ойлголоо</string>
+    <string name="frr_notification_description">Гүйцэтгэлийг шилдэг байлгахын тулд эдгээр зөвлөгөөг дагана уу:</string>
+    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Learn more&lt;/a&gt;</string>
+    <string name="frr_notification_non_mfg_sp_description">Made for Google гэрчилгээтэй дэлгэц хамгаалагч ашиглана уу. Бусад дэлгэц хамгаалагч мэдрэгчид саад болж, найдвартай ажиллахад нь саад учруулж болзошгүй.</string>
+    <string name="frr_notification_non_mfg_sp_title">Гэрчилгээтэй дэлгэц хамгаалагч ашиглах</string>
+    <string name="frr_notification_reset_fingerprint_button">Устгаад, Хурууны хээгээр түгжээ тайлахыг тохируулах</string>
+    <string name="frr_notification_reset_fingerprint_description">Хэрэв та саяхан дэлгэц хамгаалагч наасан эсвэл хуулж авсан бол энэ нь заримдаа асуудлыг засах боломжтой</string>
+    <string name="frr_notification_reset_fingerprint_title">Хурууны хээгээр түгжээ тайлахыг дахин тохируулна уу</string>
+    <string name="frr_notification_screen_protector_description">Энэ нь хурууны хээ танихад нөлөөлж болно. Made for Google гэрчилгээтэй дэлгэц хамгаалагч ашиглана уу. Бусад дэлгэц хамгаалагч мэдрэгчид саад болж, найдвартай ажиллахад нь саад учруулж болзошгүй.</string>
+    <string name="frr_notification_screen_protector_title">Хэрэв та дэлгэц хамгаалагч ашиглавал...</string>
+    <string name="frr_notification_set_face_unlock_description">Таны хуруу нойтон байх гэх мэт үед хурууны хээг тань танихгүй бол Царайгаар түгжээ тайлах онцлогоор түгжээг тайлаарай</string>
+    <string name="frr_notification_set_face_unlock_title">Царайгаар түгжээ тайлах онцлогийг тохируулна уу</string>
+    <string name="frr_notification_title">Хурууны хээгээр түгжээ тайлахтай холбоотой асуудал гарсан уу?</string>
+    <string name="security_settings_face_enroll_introduction_control_message_2">Та Тохиргоонд хүссэн үедээ царайн загвараа устгах, Царайгаар түгжээ тайлах онцлогийг унтраах боломжтой. Таныг устгах хүртэл царайн загваруудыг утсан дээр хадгална.</string>
+    <string name="security_settings_face_enroll_introduction_learn_more_message">&lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; дээрээс нэмэлт мэдээлэл авна уу</string>
+    <string name="security_settings_face_enroll_introduction_message_class3_2">Утасныхаа түгжээг тайлах, аппад өөрийгөө мөн болохыг баталгаажуулахад царайгаа ашиглана уу</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Таны царайг зөвхөн төхөөрөмж дээр хадгалдаг ба Google рүү хэзээ ч илгээдэггүй</string>
+    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Шилдэг хэрэглээг авах бол Хурууны хээгээр түгжээ тайлах онцлогийн зэрэгцээ Царайгаар түгжээ тайлах онцлогийг тохируулна уу</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Аюулгүй бөгөөд тустай</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Утасныхаа түгжээг тайлах, аппад өөрийгөө мөн болохыг баталгаажуулахад хурууны хээгээ ашиглана уу</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Хэрэв танд дэлгэц хамгаалагч байгаа бол шилдэг гүйцэтгэлийг авахын тулд хурууны хээгээ тохируулахаас өмнө үүнийг ашиглана уу.\n\nШилдэг үр дүн авах бол Made for Google гэрчилгээтэй дэлгэц хамгаалагч ашиглана уу. Бусад дэлгэц хамгаалагчийг ашиглах үед таны хурууны хээг танихгүй байж болзошгүй.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Таны хурууны хээг зөвхөн төхөөрөмж дээр хадгалдаг ба Google рүү хэзээ ч илгээдэггүй</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Шилдэг хэрэглээг авах бол 2 эсвэл түүнээс олон хурууны хээ нэмж, Царайгаар түгжээ тайлахыг тохируулна уу</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">&lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt; дээрээс нэмэлт мэдээлэл авна уу</string>
+    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Явцын заалт. %2$s-н тулд хоёр товшино уу.</string>
+    <string name="security_settings_udfps_enroll_start_message_new">Та чичиргээ мэдрэх хүртлээ мэдрэгч дээр хуруугаа тэгш байлгана уу. Нэг удаад 1 л хуруу тохируулна уу.</string>
+    <string name="security_settings_udfps_enroll_start_message_without_haptic">Явцын заалт дүүрэх хүртэл мэдрэгч дээр хуруугаа тэгш байлгана уу. Нэг удаад 1 л хуруу тохируулна уу.</string>
+</resources>

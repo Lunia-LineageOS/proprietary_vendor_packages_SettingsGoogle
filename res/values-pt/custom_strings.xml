@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">Configurar o desbloqueio por impressão digital</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">Configurar o desbloqueio por impressão digital para o perfil de trabalho</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">Agora você pode usar sua impressão digital para desbloquear o celular ou confirmar sua identidade. Para maior flexibilidade, adicione outra impressão digital.</string>
-    <string name="delete_all_fps_dialog_cancel_button">Agora não</string>
-    <string name="delete_all_fps_dialog_delete_button">Configurar agora</string>
-    <string name="delete_all_fps_dialog_msg">Essa ação vai excluir todas as suas impressões digitais atuais. Você não poderá usar a impressão digital para desbloquear o smartphone ou confirmar sua identidade até que o desbloqueio por impressão digital seja configurado de novo.</string>
-    <string name="delete_all_fps_dialog_title">Configurar o desbloqueio por impressão digital?</string>
     <string name="enroll_usudfps_fingertip_title_simple">Toque com a ponta do dedo</string>
     <string name="enroll_usudfps_left_edge_title_simple">Toque com o canto esquerdo do dedo</string>
     <string name="enroll_usudfps_right_edge_title_simple">Toque com o canto direito do dedo</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">O sensor de impressão digital vai aparecer na próxima tela</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Configurar com película</string>
     <string name="fingerprint_acquired_immobile_simple">Vá ajustando a posição a cada tentativa</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">Adicionar outra impressão digital</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">Agora você pode usar sua impressão digital para desbloquear o celular ou confirmar sua identidade. Adicione outra impressão digital para facilitar ainda mais o desbloqueio</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">Quanto mais você usa o desbloqueio por impressão digital, melhor ele fica. Você também pode adicionar mais impressões digitais.</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">Quanto mais você usa o desbloqueio por impressão digital, melhor ele fica. Você também pode adicionar mais impressões digitais para facilitar ainda mais o desbloqueio.</string>
-    <string name="fingerprint_enroll_finish_title">Tudo certo!</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">1 digital adicionada</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">O sensor de impressão digital fica no botão liga/desliga, ao lado dos botões de volume na lateral do dispositivo. Para maior flexibilidade, configure pelo menos 1 dedo de cada mão</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">QR code válido</string>
     <string name="fingerprint_sp_qr_code_error">Esse QR code não é de uma película certificada</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">Enquadre o código mostrado na embalagem da película</string>
     <string name="fingerprint_sp_title_got_it">Pronto!</string>
     <string name="fingerprint_sp_title_scan_qr_code">Faça a leitura do QR code</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">O sensor de impressão digital vai aparecer na próxima tela. Para maior flexibilidade, configure pelo menos 1 dedo de cada mão.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Limpe a tela para remover manchas, borrões ou poeira. Isso ajuda a capturar imagens mais nítidas das impressões digitais.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Limpe a tela antes de continuar</string>
-    <string name="frr_notification_button_got_it">Entendi</string>
-    <string name="frr_notification_description">Para melhorar o desempenho, siga estas dicas:</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Saiba mais&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">Use uma película com certificação Made For Google. Outras películas podem interferir no sensor, impedindo que ele funcione como deveria.</string>
-    <string name="frr_notification_non_mfg_sp_title">Use uma película com certificação</string>
-    <string name="frr_notification_reset_fingerprint_button">Excluir e configurar o desbloqueio por impressão digital</string>
-    <string name="frr_notification_reset_fingerprint_description">Isso pode corrigir problemas, principalmente se você adicionou ou removeu uma película recentemente.</string>
-    <string name="frr_notification_reset_fingerprint_title">Configurar o desbloqueio por impressão digital de novo</string>
-    <string name="frr_notification_screen_protector_description">Isso pode afetar o reconhecimento de impressões digitais. Use uma película com certificação Made For Google. Outras películas podem interferir no sensor, impedindo que ele funcione como deveria.</string>
-    <string name="frr_notification_screen_protector_title">Se você usa uma película…</string>
-    <string name="frr_notification_set_face_unlock_description">Use o Desbloqueio Facial quando sua impressão digital não for reconhecida, como quando seus dedos estiverem molhados</string>
-    <string name="frr_notification_set_face_unlock_title">Configure o Desbloqueio Facial</string>
-    <string name="frr_notification_title">Está tendo problemas com o desbloqueio por impressão digital?</string>
     <string name="protector_edu_subtitle">A película pode afetar o reconhecimento de impressões digitais. Para que o desbloqueio por impressão digital não tenha problemas com a película, faça o seguinte:</string>
     <string name="screen_protector_edu_apply_instruction">Quando possível, coloque a película e retire as bolhas antes de configurar o desbloqueio por impressão digital. Se quiser colocá-la depois, é só fazer a leitura do QR code com a câmera.</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;Saiba mais em g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">Agora, você pode usar seu rosto para desbloquear o telefone ao pegar o dispositivo ou tocar na tela.\n\nO desbloqueio facial funciona melhor quando há luz suficiente e você não está usando máscara ou óculos escuros.</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">Agora, quando você pegar o smartphone ou tocar na tela dele, poderá usar seu rosto para fazer o desbloqueio. O telefone pode ser dobrado para usar o desbloqueio facial.\n\nO desbloqueio facial funciona melhor quando há luz suficiente e você não está usando máscara ou óculos escuros.</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">Você e a criança podem excluir o modelo de rosto dela ou desativar o Desbloqueio Facial a qualquer momento nas Configurações. Os modelos de rosto são armazenados no celular até serem excluídos.</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">Você pode excluir seu modelo de rosto ou desativar o desbloqueio facial quando quiser nas Configurações. Os modelos de rosto ficam armazenados no telefone até serem excluídos.</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">O Desbloqueio Facial cria um modelo exclusivo do rosto da criança para confirmar a identidade dela. Para gerar esse modelo durante a configuração, é preciso tirar fotos de vários ângulos do rosto da criança.\n\nQuando ela usa o Desbloqueio Facial, as imagens servem para atualizar o modelo de rosto. As imagens usadas para criar o modelo nunca são armazenadas, mas ele fica salvo em segurança no celular, sem deixar o dispositivo. Todo o processamento é feito com segurança no celular.</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">Saiba mais em &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">Use seu rosto para desbloquear o smartphone ou confirmar sua identidade nos apps.</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">Seu rosto é armazenado apenas no dispositivo e nunca é enviado ao Google.</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">Para ter a melhor experiência, configure o Desbloqueio Facial e o Desbloqueio por Impressão Digital.</string>
     <string name="security_settings_face_enroll_next">Avançar</string>
     <string name="security_settings_face_enroll_partial_message">Para melhorar o desempenho, é possível configurar o Desbloqueio Facial novamente nas configurações</string>
     <string name="security_settings_face_enroll_partial_start_over">Recomeçar</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">O celular está muito quente</string>
     <string name="security_settings_fingerprint_enroll_consent_message">Use a impressão digital da criança para desbloquear o celular ou confirmar a identidade dela em apps</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">As impressões digitais da criança são armazenadas apenas no dispositivo e nunca são enviadas ao Google</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">Seguro e útil</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">Use suas digitais para desbloquear o telefone ou confirmar sua identidade em apps</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">Para melhores resultados, coloque sua película (caso tenha uma) antes de configurar a impressão digital.\n\nO ideal é usar uma película com o certificado Made For Google. Sua digital pode não funcionar com outras opções.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">Suas impressões digitais são armazenadas apenas no dispositivo e nunca são enviadas ao Google.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">Para ter a melhor experiência, adicione 2 ou mais digitais e configure o desbloqueio facial.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">Saiba mais em &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. Barra de progresso. Toque duas vezes para %2$s.</string>
-    <string name="security_settings_udfps_enroll_start_message_new">Mantenha o dedo no sensor até sentir uma vibração. Configure apenas um dedo por vez.</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">Deixe o dedo no sensor até que a barra de progresso seja preenchida. Configure apenas 1 dedo por vez.</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">Confirmar</string>
     <string name="security_settings_udfps_screen_protector_description_none">Sem película</string>
     <string name="security_settings_udfps_screen_protector_keywords">Película</string>

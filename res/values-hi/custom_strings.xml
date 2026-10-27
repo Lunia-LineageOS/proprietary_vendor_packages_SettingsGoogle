@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">फ़िंगरप्रिंट अनलॉक की सुविधा सेट अप करें</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">वर्क प्रोफ़ाइल के लिए, फ़िंगरप्रिंट अनलॉक की सुविधा सेट अप करें</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">अब अपने फ़ोन को अनलॉक करने या अपनी पहचान की पुष्टि करने के लिए, फ़िंगरप्रिंट का इस्तेमाल किया जा सकता है. फ़ोन को आसानी से अनलॉक करने के लिए, दूसरा फ़िंगरप्रिंट जोड़ें.</string>
-    <string name="delete_all_fps_dialog_cancel_button">अभी नहीं</string>
-    <string name="delete_all_fps_dialog_delete_button">अभी सेट अप करें</string>
-    <string name="delete_all_fps_dialog_msg">ऐसा करने पर, आपके सभी मौजूदा फ़िंगरप्रिंट मिट जाएंगे. फ़ोन को अनलॉक करने या अपनी पहचान की पुष्टि करने के लिए, अपने फ़िंगरप्रिंट का इस्तेमाल तब तक नहीं किया जा सकेगा, जब तक फ़िंगरप्रिंट अनलॉक की सुविधा को फिर से सेट अप नहीं किया जाता.</string>
-    <string name="delete_all_fps_dialog_title">क्या फ़िंगरप्रिंट अनलॉक की सुविधा सेटअप करनी है?</string>
     <string name="enroll_usudfps_fingertip_title_simple">अपनी उंगली से छुएं</string>
     <string name="enroll_usudfps_left_edge_title_simple">स्क्रीन के बाएं किनारे को छुएं</string>
     <string name="enroll_usudfps_right_edge_title_simple">स्क्रीन के दाएं किनारे को छुएं</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">फ़िंगरप्रिंट सेंसर अगली स्क्रीन पर दिखेगा</string>
     <string name="find_usudfps_with_sp_setup_sp_button">स्क्रीन प्राेटेक्टर लगाकर फ़िंगरप्रिंट सेट अप करें</string>
     <string name="fingerprint_acquired_immobile_simple">हर बार अपनी उंगली को थोड़ा अडजस्ट करें</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">दूसरा फ़िंगरप्रिंट जोड़ें</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">अब अपने फ़ोन को अनलॉक करने या अपनी पहचान की पुष्टि करने के लिए, फ़िंगरप्रिंट का इस्तेमाल किया जा सकता है. ज़्यादा सुविधा के लिए, दूसरा फ़िंगरप्रिंट जोड़ा जा सकता है.</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">फ़िंगरप्रिंट अनलॉक सुविधा का जितना ज़्यादा इस्तेमाल किया जाता है, यह सुविधा उतने ही बेहतर तरीके से काम करती है. इसमें आपको एक से ज़्यादा फ़िंगरप्रिंट जोड़ने की सुविधा भी मिलती है.</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">फ़िंगरप्रिंट अनलॉक सुविधा का जितना ज़्यादा इस्तेमाल किया जाता है, यह उतने ही बेहतर तरीके से काम करती है. ज़्यादा सुविधा के लिए, एक से ज़्यादा फ़िंगरप्रिंट जोड़े जा सकते हैं.</string>
-    <string name="fingerprint_enroll_finish_title">सब ठीक लग रहा है!</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">एक फ़िंगरप्रिंट जोड़ा गया</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">फ़िंगरप्रिंट सेंसर, पावर बटन पर होता है. यह फ़ोन के किनारे मौजूद, आवाज़ कम या ज़्यादा करने वाले बटन के बगल में होता है. फ़ोन को और ज़्यादा आसानी से अनलॉक करने के लिए, दोनों हाथों की कम से कम एक-एक उंगली का फ़िंगरप्रिंट सेट अप करें.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">मान्य क्यूआर कोड</string>
     <string name="fingerprint_sp_qr_code_error">यह क्यूआर कोड, सर्टिफ़िकेट वाले स्क्रीन प्रोटेक्टर के लिए नहीं है</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">स्क्रीन प्रोटेक्टर के पैकेट पर दिख रहे क्यूआर कोड को फ़्रेम के अंदर रखें</string>
     <string name="fingerprint_sp_title_got_it">ठीक है!</string>
     <string name="fingerprint_sp_title_scan_qr_code">क्यूआर कोड स्कैन करें</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">फ़िंगरप्रिंट सेंसर अगली स्क्रीन पर दिखेगा. बेहतरीन अनुभव के लिए, दोनों हाथों की कम से कम एक-एक उंगली का फ़िंगरप्रिंट सेट अप करें.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">निशान, दाग या धूल को हटाने के लिए अपनी स्क्रीन साफ़ करें. इससे साफ़ फ़िंगरप्रिंट लेने में मदद मिलती है.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">जारी रखने के लिए स्क्रीन को साफ़ करें</string>
-    <string name="frr_notification_button_got_it">ठीक है</string>
-    <string name="frr_notification_description">सबसे अच्छी परफ़ॉर्मेंस के लिए, यहां दी गई सलाह अपनाएं:</string>
-    <string name="frr_notification_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;ज़्यादा जानें&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">ऐसा स्क्रीन प्रोटेक्टर इस्तेमाल करें जिसे Made for Google बैज मिला हो. अन्य स्क्रीन प्राेटेक्टर, सेंसर के काम में रुकावट डाल सकते हैं और इसे ठीक से काम करने से रोक सकते हैं.</string>
-    <string name="frr_notification_non_mfg_sp_title">बैज वाला स्क्रीन प्रोटेक्टर का इस्तेमाल करें</string>
-    <string name="frr_notification_reset_fingerprint_button">फ़िंगरप्रिंट अनलॉक की सुविधा मिटाएं और सेट अप करें</string>
-    <string name="frr_notification_reset_fingerprint_description">ऐसा करने से, कई बार समस्याएं हल हो सकती हैं. खास तौर पर, ऐसा तब होता है, जब आपने हाल ही में स्क्रीन प्रोटेक्टर लगाया या हटाया हो</string>
-    <string name="frr_notification_reset_fingerprint_title">फ़िंगरप्रिंट अनलॉक की सुविधा दोबारा सेट अप करें</string>
-    <string name="frr_notification_screen_protector_description">इससे, फ़िंगरप्रिंट की पहचान करने की सुविधा पर असर पड़ सकता है. ऐसा स्क्रीन प्रोटेक्टर इस्तेमाल करें जिसे Made for Google बैज मिला हो. अन्य स्क्रीन प्राेटेक्टर, सेंसर के काम में रुकावट डाल सकते हैं और इसे ठीक से काम करने से रोक सकते हैं.</string>
-    <string name="frr_notification_screen_protector_title">किसी स्क्रीन प्रोटेक्टर का इस्तेमाल करने पर...</string>
-    <string name="frr_notification_set_face_unlock_description">फ़िंगरप्रिंट की पहचान न होने पर, फ़ेस अनलॉक की सुविधा इस्तेमाल करें. जैसे, जब आपकी उंगलियां गीली हों, तब ऐसा करें</string>
-    <string name="frr_notification_set_face_unlock_title">फे़स अनलॉक की सुविधा सेट अप करें</string>
-    <string name="frr_notification_title">क्या आपको फ़िंगरप्रिंट अनलॉक की सुविधा का इस्तेमाल करने में समस्या आ रही है?</string>
     <string name="protector_edu_subtitle">स्क्रीन प्रोटेक्टर की वजह से, फ़िंगरप्रिंट की पहचान करने में समस्या आ सकती है. स्क्रीन प्रोटेक्टर के साथ, फ़िंगरप्रिंट अनलॉक की सुविधा का बेहतर अनुभव पाने के लिए:</string>
     <string name="screen_protector_edu_apply_instruction">कोशिश करें कि फ़िंगरप्रिंट अनलॉक की सुविधा सेट अप करने से पहले, स्क्रीन प्राेटेक्टर लगा लें और देख लें कि इसमें कोई बुलबुला न रहे. अगर सेटअप करने के बाद स्क्रीन प्रोटेक्टर लगाना है, तो अपने कैमरे से क्यूआर कोड को बाद में स्कैन करें.</string>
     <string name="screen_protector_edu_learn_more">&lt;a href=\'http://g.co/pixel/screenprotector\'&gt; g.co/pixel/screenprotector पर जाकर ज़्यादा जानें&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">अब अपने फ़ोन को उठाते समय या उसकी स्क्रीन पर टैप करके, अपने चेहरे से उसे अनलॉक किया जा सकता है.\n\nफ़ेस अनलॉक की सुविधा तब बेहतरीन तरीके से काम करती है, जब रोशनी अच्छी हो और आपने मास्क या गहरे रंग का चश्मा न लगाया हो.</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">अब अपने फ़ोन को उठाते समय या उसकी स्क्रीन पर टैप करके, अपने चेहरे से उसे अनलॉक करें. फ़ेस अनलॉक की सुविधा इस्तेमाल करने के लिए फ़ोन फ़ोल्ड होना ज़रूरी है.\n\nफ़ेस अनलॉक की सुविधा तब बेहतरीन तरीके से काम करती है, जब रोशनी अच्छी हो और आपने मास्क या गहरे रंग का चश्मा न पहना हो.</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">आपके और आपके बच्चे के पास किसी भी समय, सेटिंग में जाकर चेहरे के मॉडल को मिटाने या फ़ेस अनलॉक की सुविधा को बंद करने का विकल्प है. चेहरे के मॉडल, फ़ोन में तब तक सेव रहते हैं, जब तक उन्हें नहीं मिटाया जाता.</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">आप सेटिंग में जाकर किसी भी समय चेहरे के मॉडल को मिटा सकते हैं या फ़ेस अनलॉक की सुविधा बंद कर सकते हैं. फ़ोन में चेहरे के मॉडल तब तक सेव रहते हैं, जब तक उन्हें मिटाया नहीं जाता.</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">फ़ेस अनलॉक की सुविधा की मदद से, आपके बच्चे के चेहरे का एक खास मॉडल बनाया जाता है, ताकि उसकी पहचान की पुष्टि की जा सके. फ़ेस अनलॉक की सुविधा सेटअप करते समय, चेहरे का यह मॉडल बनाने के लिए आपके बच्चे को अलग-अलग ऐंगल से अपने चेहरे की इमेज कैप्चर करनी होंगी.\n\nजब आपका बच्चा फ़ेस अनलॉक की सुविधा का इस्तेमाल करता है, तब उसके चेहरे के मॉडल को अपडेट करने के लिए उसके चेहरे की इमेज इस्तेमाल की जाती हैं. ये इमेज सेव नहीं की जाती हैं. हालांकि, चेहरे का मॉडल फ़ोन में सुरक्षित तरीके से सेव किया जाता है और इसे किसी के साथ शेयर नहीं किया जाता है. इसकी पूरी प्रोसेस, आपके फ़ोन में सुरक्षित तरीके से की जाती है.</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">ज़्यादा जानने के लिए, &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt; पर जाएं</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">अपने चेहरे से फ़ोन को अनलॉक करें या ऐप्लिकेशन इस्तेमाल करने के दौरान अपनी पहचान की पुष्टि करें</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">आपके चेहरे का मॉडल सिर्फ़ डिवाइस पर सेव किया जाता है. उसे कभी भी Google को नहीं भेजा जाता</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">बेहतरीन अनुभव पाने के लिए, फ़िंगरप्रिंट अनलॉक के साथ-साथ फ़ेस अनलॉक की सुविधा भी सेट अप करें</string>
     <string name="security_settings_face_enroll_next">आगे बढ़ें</string>
     <string name="security_settings_face_enroll_partial_message">फ़ेस अनलॉक की सुविधा को और बेहतर बनाने के लिए, \'सेटिंग\' में जाकर इसे दोबारा सेट अप किया जा सकता है</string>
     <string name="security_settings_face_enroll_partial_start_over">फिर से शुरू करें</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">फ़ोन बहुत गर्म है</string>
     <string name="security_settings_fingerprint_enroll_consent_message">अपने बच्चे के फ़िंगरप्रिंट से उसका फ़ोन अनलॉक करें या ऐप्लिकेशन में उसकी पहचान की पुष्टि करें</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">आपके बच्चे के फ़िंगरप्रिंट सिर्फ़ डिवाइस पर सेव किए जाते हैं. उसे कभी भी Google को नहीं भेजा जाता</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">सुरक्षित और मददगार</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">अपने फ़िंगरप्रिंट का इस्तेमाल करके, फ़ोन को अनलॉक करें या ऐप्लिकेशन इस्तेमाल करने के दौरान अपनी पहचान की पुष्टि करें</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">अगर आपके पास स्क्रीन प्रोटेक्टर है, तो फ़िंगरप्रिंट सेट अप करने से पहले उसे अपने डिवाइस पर लगाएं. इससे यह सुविधा बेहतर तरीके से काम करेगी.\n\nशानदार नतीजों के लिए, ऐसा स्क्रीन प्रोटेक्टर इस्तेमाल करें जिसे Made for Google सर्टिफ़िकेट मिला हो. ऐसा हो सकता है कि आपका फ़िंगरप्रिंट, दूसरे स्क्रीन प्रोटेक्टर के साथ काम न करे.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">फ़िंगरप्रिंट, डिवाइस में ही सेव किए जाते हैं. उन्हें कभी भी Google को नहीं भेजा जाता</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">बेहतरीन अनुभव पाने के लिए, दो या उससे ज़्यादा फ़िंगरप्रिंट जोड़ें और फ़ेस अनलॉक की सुविधा सेट अप करें</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">ज़्यादा जानकारी के लिए, &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt; पर जाएं</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">%1$s. प्रोग्रेस बार. %2$s के लिए दो बार टैप करें.</string>
-    <string name="security_settings_udfps_enroll_start_message_new">अपनी उंगली से सेंसर को तब तक दबाकर रखें, जब तक आपको वाइब्रेशन न महसूस हो. एक बार में सिर्फ़ एक उंगली का फ़िंगरप्रिंट सेट अप करें.</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">प्रोग्रेस बार भरने तक, अपनी उंगली को सेंसर पर दबाकर रखें. एक बार में सिर्फ़ एक उंगली का फ़िंगरप्रिंट सेट अप करें.</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">पुष्टि करें</string>
     <string name="security_settings_udfps_screen_protector_description_none">स्क्रीन प्राेटेक्टर नहीं लगा है</string>
     <string name="security_settings_udfps_screen_protector_keywords">स्क्रीन प्राेटेक्टर</string>

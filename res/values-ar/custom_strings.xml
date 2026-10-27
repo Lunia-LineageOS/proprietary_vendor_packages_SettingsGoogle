@@ -89,10 +89,6 @@
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title">ننصح بإعداد ميزة \"فتح الجهاز ببصمة الإصبع\"</string>
     <string name="biometric_safety_issue_setup_fingerprint_unlock_title_for_work">إعداد ميزة \"فتح الجهاز ببصمة الإصبع\" لملف العمل</string>
     <string name="confirm_usudfps_subtitle_more_flexibility">يمكنك الآن استخدام بصمة إصبعك لفتح قفل هاتفك أو تأكيد هويتك. ولراحة أكبر، ننصحك بإضافة بصمة إصبع أخرى.</string>
-    <string name="delete_all_fps_dialog_cancel_button">لاحقًا</string>
-    <string name="delete_all_fps_dialog_delete_button">الإعداد الآن</string>
-    <string name="delete_all_fps_dialog_msg">سيؤدي هذا الإجراء إلى حذف جميع بصمات أصابعك الحالية ولن يكون بإمكانك استخدام بصمة إصبعك لفتح قفل هاتفك أو إثبات هويتك حتى يتم ضبط ميزة \"فتح الجهاز ببصمة الإصبع\" مرة أخرى.</string>
-    <string name="delete_all_fps_dialog_title">هل المطلوب ضبط ميزة \"فتح الجهاز ببصمة الإصبع\"؟</string>
     <string name="enroll_usudfps_fingertip_title_simple">اُلمُس بطرف إصبعك</string>
     <string name="enroll_usudfps_left_edge_title_simple">اُلمُس الحافة اليسرى</string>
     <string name="enroll_usudfps_right_edge_title_simple">اُلمُس الحافة اليمنى</string>
@@ -121,12 +117,6 @@
     <string name="find_usudfps_subtitle_simple">ستظهر أداة استشعار بصمة الإصبع على الشاشة التالية</string>
     <string name="find_usudfps_with_sp_setup_sp_button">الإعداد مع استخدام واقي الشاشة</string>
     <string name="fingerprint_acquired_immobile_simple">عدِّل موضع إصبعك قليلاً في كل مرة</string>
-    <string name="fingerprint_enroll_finish_footer_button_add">إضافة بصمة إصبع أخرى</string>
-    <string name="fingerprint_enroll_finish_subtitle_one_fingerprint_enrolled">بإمكانك الآن استخدام بصمة إصبعك لفتح قفل هاتفك أو إثبات هويتك. ويمكنك إضافة بصمة إصبع أخرى لمزيد من المرونة.</string>
-    <string name="fingerprint_enroll_finish_subtitle_three_and_more_fingerprints_enrolled">كلما استخدمت ميزة \"فتح الجهاز ببصمة الإصبع\" أكثر، أصبح أداؤها أفضل. يمكنك أيضًا إضافة بصمات أصابعك الأخرى.</string>
-    <string name="fingerprint_enroll_finish_subtitle_two_fingerprints_enrolled">كلما فتحت الجهاز ببصمة الإصبع، تحسّن أداء الميزة. ولتجربة أكثر سلاسة، يمكنك إضافة المزيد من بصمات الأصابع.</string>
-    <string name="fingerprint_enroll_finish_title">اكتمل الإعداد</string>
-    <string name="fingerprint_enroll_finish_title_one_fingerprint_enrolled">تمت إضافة بصمة إصبع واحدة</string>
     <string name="fingerprint_sfps_enroll_find_sensor_description">توجد أداة استشعار بصمة الإصبع على زر التشغيل، بجانب زرَّي التحكّم بمستوى الصوت على جانب الجهاز. وننصحك بضبط بصمة إصبع واحد على الأقل في كل يد، لاستخدام أيهما بكل سهولة.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">رمز استجابة سريعة صالح</string>
     <string name="fingerprint_sp_qr_code_error">لا يشير رمز الاستجابة السريعة هذا إلى واقي شاشة مُعتمَد</string>
@@ -134,22 +124,6 @@
     <string name="fingerprint_sp_subtitle_position_code_in_camera">ضَع الرمز الموجود على غلاف واقي الشاشة داخل المربّع</string>
     <string name="fingerprint_sp_title_got_it">حسنًا.</string>
     <string name="fingerprint_sp_title_scan_qr_code">امسح رمز الاستجابة السريعة ضوئيًا</string>
-    <string name="fingerprint_udfps_enroll_find_sensor_description">ستظهر أداة استشعار بصمة الإصبع على الشاشة التالية. ننصحك بإنشاء بصمة إصبع واحد على الأقل في كل يد، لاستخدام أيهما بكل سهولة.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">امسح شاشتك لإزالة البقع والأوساخ. يساعد هذا على التقاط صور أوضح لبصمة الإصبع.</string>
-    <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">تنظيف الشاشة قبل المتابعة</string>
-    <string name="frr_notification_button_got_it">حسنًا</string>
-    <string name="frr_notification_description">للحصول على أفضل أداء، يُرجى اتّباع النصائح التالية:</string>
-    <string name="frr_notification_learn_more">‏&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;مزيد من المعلومات&lt;/a&gt;</string>
-    <string name="frr_notification_non_mfg_sp_description">‏ننصحك باستخدام واقي شاشة مُعتمَد يحمل شعار Made for Google، فقد تتداخل واقيات الشاشة الأخرى مع أداة الاستشعار وتمنعها من العمل بشكل صحيح.</string>
-    <string name="frr_notification_non_mfg_sp_title">استخدام واقي شاشة مُعتمَد</string>
-    <string name="frr_notification_reset_fingerprint_button">حذف كل بصمات الأصابع وضبط ميزة \"فتح الجهاز ببصمة الإصبع\"</string>
-    <string name="frr_notification_reset_fingerprint_description">يمكن أن يحلّ هذا الإجراء المشاكل في بعض الأحيان، لا سيما إذا كنت قد أضفت أو أزلت مؤخرًا واقيًا للشاشة</string>
-    <string name="frr_notification_reset_fingerprint_title">ضبط ميزة \"فتح الجهاز ببصمة الإصبع\" مجددًا</string>
-    <string name="frr_notification_screen_protector_description">‏يمكن أن يؤثر ذلك في التعرّف على بصمة الإصبع. ننصحك باستخدام واقي شاشة مُعتمَد يحمل شعار Made for Google، فقد تتداخل واقيات الشاشة الأخرى مع أداة الاستشعار وتمنعها من العمل بشكل صحيح.</string>
-    <string name="frr_notification_screen_protector_title">في حال استخدام واقي شاشة…</string>
-    <string name="frr_notification_set_face_unlock_description">يمكنك استخدام ميزة \"فتح الجهاز ببصمة الوجه\" عند عدم التعرّف على بصمة إصبعك، مثلاً عندما تكون أصابعك مبتلة</string>
-    <string name="frr_notification_set_face_unlock_title">إعداد ميزة \"فتح الجهاز ببصمة الوجه\"</string>
-    <string name="frr_notification_title">هل هناك مشاكل متعلقة بميزة \"فتح الجهاز ببصمة الإصبع\"؟</string>
     <string name="protector_edu_subtitle">يمكن أن يؤثر واقي الشاشة في التعرّف على بصمة الإصبع. لكي تعمل \"فتح الجهاز ببصمة الإصبع\" بأفضل شكل أثناء استخدام واقي شاشة:</string>
     <string name="screen_protector_edu_apply_instruction">ضَع واقي الشاشة قبل إعداد ميزة \"فتح الجهاز ببصمة الإصبع\" وإزالة أي فقاعات، إذا أمكن. وإذا أردت استخدام واقي الشاشة بعد الإعداد، يمكنك مسح رمز الاستجابة السريعة ضوئيًا لاحقًا باستخدام الكاميرا.</string>
     <string name="screen_protector_edu_learn_more">‏&lt;a href=\'http://g.co/pixel/screenprotector\'&gt;مزيد من المعلومات على g.co/pixel/screenprotector&lt;/a&gt;</string>
@@ -166,12 +140,7 @@
     <string name="security_settings_face_enroll_finish_description_without_bp">عندما تُمسك هاتفك أو تنقر على شاشته، يمكنك استخدام وجهك لفتح قفله.\n\nتعمل ميزة \"فتح الجهاز ببصمة الوجه\" بشكل أفضل عند وجود إضاءة كافية وبدون ارتداء كمّامة أو نظارة شمسية.</string>
     <string name="security_settings_face_enroll_finish_description_without_bp_folded">عندما تُمسك هاتفك أو تنقر على شاشته، يمكنك الآن استخدام وجهك لفتح قفله. يجب طيّ الهاتف لاستخدام ميزة \"فتح الجهاز ببصمة الوجه\".\n\nتعمل هذه الميزة بشكل أفضل عند وجود إضاءة كافية وعدم ارتداء كمّامة أو نظارة شمسية.</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message_1">يمكنك أنت وطفلك حذف نموذج وجهه أو إيقاف ميزة \"فتح الجهاز ببصمة الوجه\" في أي وقت من \"الإعدادات\". ويتم تخزين نماذج الوجه على الهاتف إلى أن يتم حذفها.</string>
-    <string name="security_settings_face_enroll_introduction_control_message_2">يمكنك حذف نموذج وجهك أو إيقاف ميزة \"فتح الجهاز ببصمة الوجه\" في أي وقت من \"الإعدادات\". تبقى نماذج الوجوه مُخزّنة على الهاتف إلى أن يتم حذفها.</string>
     <string name="security_settings_face_enroll_introduction_how_consent_message_1">تنشئ ميزة \"فتح الجهاز ببصمة الوجه\" نموذجًا فريدًا من وجه الطفل لإثبات هويته. لإنشاء نموذج الوجه هذا أثناء عملية الإعداد، سيتم التقاط صور لوجه الطفل من زوايا مختلفة.\n\nعندما يستخدم الطفل ميزة \"فتح الجهاز ببصمة الوجه\"، سيتم استخدام الصور لتعديل نموذج وجهه. لا يتم مطلقًا تخزين الصور المستخدمَة لإنشاء نموذج الوجه، ولكن يتم تخزين نموذج الوجه بأمان على الهاتف ولا يتم نقله خارج الهاتف مطلقًا. وتتم كل عمليات المعالجة بأمان على الهاتف.</string>
-    <string name="security_settings_face_enroll_introduction_learn_more_message">‏مزيد من المعلومات على الرابط: &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;</string>
-    <string name="security_settings_face_enroll_introduction_message_class3_2">يمكنك استخدام وجهك لفتح قفل هاتفك أو إثبات هويتك في التطبيقات</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_1">‏يتم تخزين نموذج وجهك على الجهاز فقط، ولا يتم إرساله إلى Google مطلقًا</string>
-    <string name="security_settings_face_enroll_introduction_secure_and_helpful_message_2">للحصول على أفضل تجربة، ننصح بإعداد ميزتَي \"فتح الجهاز ببصمة الوجه\" و\"فتح الجهاز ببصمة الإصبع\" سويًا</string>
     <string name="security_settings_face_enroll_next">التالي</string>
     <string name="security_settings_face_enroll_partial_message">لتحسين الأداء، يمكنك إعداد ميزة \"فتح الجهاز ببصمة الوجه\" مرة أخرى من \"الإعدادات\".</string>
     <string name="security_settings_face_enroll_partial_start_over">البدء من جديد</string>
@@ -186,15 +155,6 @@
     <string name="security_settings_face_enroll_too_hot_title">درجة حرارة الهاتف مرتفعة جدًا</string>
     <string name="security_settings_fingerprint_enroll_consent_message">يمكنك استخدام بصمة إصبع الطفل لفتح قفل هاتفه أو إثبات هويته في التطبيقات</string>
     <string name="security_settings_fingerprint_enroll_consent_secure_and_helpful_message_1">‏يتم تخزين نماذج بصمات أصابع الطفل على الجهاز فقط ولا يتم إرسالها إلى Google مطلقًا</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_3">طريقة آمنة وسهلة الاستخدام</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message_2">يمكنك استخدام بصمات الأصابع لفتح قفل الهاتف أو إثبات هويتك في التطبيقات</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6_2">‏إذا كان لديك واقي شاشة، ركّبه قبل ضبط بصمة الإصبع لتعمل بأفضل شكل.\n\nللحصول على أفضل النتائج، استخدم واقي شاشة مُعتمَدًا ويحمل شعار Made for Google. وقد لا تعمل بصمة إصبعك مع واقيات الشاشة الأخرى.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_7">‏يتم تخزين بصمات أصابعك على الجهاز فقط ولا يتم إرسالها إلى Google مطلقًا</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_8">للحصول على أفضل تجربة، ننصح بإضافة بصمتَي أصابع أو أكثر وإعداد ميزة \"فتح الجهاز ببصمة الوجه\"</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more_2">‏مزيد من المعلومات على الرابط: &lt;a href=\'http://g.co/pixel/fingerprintunlock\'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;</string>
-    <string name="security_settings_fps_enroll_progress_animation_a11y_label">‫%1$s - شريط التقدم. يُرجى النقر مرّتين من أجل %2$s.</string>
-    <string name="security_settings_udfps_enroll_start_message_new">يُرجى تثبيت إصبعك على أداة الاستشعار إلى أن يهتزّ الجهاز. لا يمكنك إعداد أكثر من بصمة إصبع واحدة في كل مرة.</string>
-    <string name="security_settings_udfps_enroll_start_message_without_haptic">يُرجى وضع إصبعك بشكل مسطّح على أداة الاستشعار إلى أن يكتمل شريط التقدم، مع العِلم أنّه لا يمكن إعداد أكثر من بصمة إصبع واحدة كل مرة.</string>
     <string name="security_settings_udfps_screen_protector_confirm_button">تأكيد</string>
     <string name="security_settings_udfps_screen_protector_description_none">ما مِن واقي شاشة</string>
     <string name="security_settings_udfps_screen_protector_keywords">واقي الشاشة</string>
