@@ -41,7 +41,11 @@ android_app {
         "privapp_whitelist_com.android.settings",
         "settings-platform-compat-config",
     ],
-    static_libs: ["SettingsGoogle-GeneralAccess"],
+    static_libs: [
+        "SettingsGoogle-GeneralAccess",
+        // Stock links only the sensor library of the device; Lunia builds one APK for all of them.
+        "UDFPSLib",
+    ],
     resource_dirs: [],
     use_resource_processor: true,
     uses_libs: ["org.apache.http.legacy"],

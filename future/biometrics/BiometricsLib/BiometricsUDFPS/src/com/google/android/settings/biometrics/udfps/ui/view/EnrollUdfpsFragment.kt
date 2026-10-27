@@ -31,6 +31,7 @@ import com.google.android.settings.biometrics.fingerprint.ui.view.NavOptionsUseC
 import com.google.android.settings.biometrics.fingerprint.ui.viewmodel.FingerprintEnrollResult
 import com.google.android.settings.biometrics.fingerprint.ui.viewmodel.FingerprintMetricsViewModel
 import com.google.android.settings.biometrics.fingerprint.ui.viewmodel.SetEnrollResultViewModel
+import com.google.android.settings.biometrics.udfps.R as UdfpsR
 import com.google.android.settings.biometrics.udfps.factory.UdfpsViewModelFactory
 import com.google.android.settings.biometrics.udfps.ui.model.EnrollStage
 import com.google.android.settings.biometrics.udfps.ui.viewmodel.EnrollUdfpsViewModel
@@ -49,7 +50,7 @@ import kotlinx.coroutines.flow.FlowCollector
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
 
-class EnrollUdfpsFragment : Fragment(com.google.android.settings.R.layout.enroll_udfps_fragment) {
+class EnrollUdfpsFragment : Fragment(UdfpsR.layout.enroll_udfps_fragment) {
 
     private val setEnrollResultViewModel: SetEnrollResultViewModel by activityViewModels()
     private val metricsViewModel: FingerprintMetricsViewModel by activityViewModels()
@@ -190,7 +191,7 @@ class EnrollUdfpsFragment : Fragment(com.google.android.settings.R.layout.enroll
         if ((currentRotation != 0 && currentRotation != 2) || !getShouldShowLottie()) {
             return null
         }
-        return view!!.requireViewById(com.google.android.settings.R.id.illustration_lottie)
+        return view!!.requireViewById(UdfpsR.id.illustration_lottie)
     }
 
     private fun getShouldShowLottie(): Boolean {
@@ -627,7 +628,7 @@ class EnrollUdfpsFragment : Fragment(com.google.android.settings.R.layout.enroll
         }
 
         fun getUdfpsEnrollView(view: View): UdfpsEnrollView {
-            return view.requireViewById(com.google.android.settings.R.id.udfps_animation_view)
+            return view.requireViewById(UdfpsR.id.udfps_animation_view)
         }
 
         fun bindView(

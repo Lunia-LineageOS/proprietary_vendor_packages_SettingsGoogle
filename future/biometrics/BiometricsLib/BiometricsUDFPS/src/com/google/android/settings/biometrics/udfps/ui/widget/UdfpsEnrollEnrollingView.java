@@ -35,7 +35,7 @@ import com.android.systemui.biometrics.shared.model.FingerprintSensor;
 import com.android.systemui.biometrics.shared.model.FingerprintSensorTypeKt;
 import com.android.systemui.biometrics.shared.model.UdfpsOverlayParams;
 
-import com.google.android.settings.R;
+import com.google.android.settings.biometrics.udfps.R;
 import com.google.android.setupcompat.template.FooterBarMixin;
 import com.google.android.setupdesign.GlifLayout;
 import com.google.android.setupdesign.view.BottomScrollView;
@@ -245,7 +245,8 @@ public class UdfpsEnrollEnrollingView extends GlifLayout {
     }
 
     public void setFocusOnDescription() {
-        final ScrollView scrollView = findViewById(R.id.sud_header_scroll_view);
+        final ScrollView scrollView =
+                findViewById(com.google.android.setupdesign.R.id.sud_header_scroll_view);
         final TextView descriptionTextView = getDescriptionTextView();
         if (descriptionTextView == null || descriptionTextView.getText().isEmpty()) {
             return;
@@ -420,7 +421,9 @@ public class UdfpsEnrollEnrollingView extends GlifLayout {
             parent.removeView(mHeaderView);
             parent.addView(mHeaderView);
         }
-        BottomScrollView scrollView = mHeaderView.findViewById(R.id.sud_header_scroll_view);
+        BottomScrollView scrollView =
+                mHeaderView.findViewById(
+                        com.google.android.setupdesign.R.id.sud_header_scroll_view);
         mDefaultHeaderScrollViewIndicator = scrollView.getScrollIndicators();
         scrollView.setScrollIndicators(0);
     }
@@ -431,7 +434,9 @@ public class UdfpsEnrollEnrollingView extends GlifLayout {
             parent.removeView(mHeaderView);
             parent.addView(mHeaderView, 0);
         }
-        ((BottomScrollView) mHeaderView.findViewById(R.id.sud_header_scroll_view))
+        ((BottomScrollView)
+                        mHeaderView.findViewById(
+                                com.google.android.setupdesign.R.id.sud_header_scroll_view))
                 .setScrollIndicators(mDefaultHeaderScrollViewIndicator);
     }
 
