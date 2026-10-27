@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">ફિંગરપ્રિન્ટ સેન્સર આગળની સ્ક્રીન પર હશે</string>
     <string name="find_usudfps_with_sp_setup_sp_button">સ્ક્રીનગાર્ડ સાથે સેટઅપ કરો</string>
     <string name="fingerprint_acquired_immobile_simple">દરેક વખતે સહેજ ગોઠવો</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">ફિંગરપ્રિન્ટ સેન્સર તમારા ડિવાઇસની બાજુમાં આવેલા વૉલ્યૂમ બટનની બાજુના પાવર બટન પર છે. સૌથી વધુ સુગમતા માટે, બંને હાથની ઓછામાં ઓછી 1 આંગળીનું સેટઅપ કરો.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">માન્ય QR કોડ</string>
     <string name="fingerprint_sp_qr_code_error">આ QR કોડ સર્ટિફિકેટપ્રાપ્ત સ્ક્રીનગાર્ડ માટે નથી</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">તમારી પાસે %s છે.\nફિંગરપ્રિન્ટ અનલૉકની સુવિધાનું સેટઅપ કરતા પહેલાં તેને લાગુ કરો.</string>

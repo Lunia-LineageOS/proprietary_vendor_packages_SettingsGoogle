@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">សេនស័រចាប់ស្នាមម្រាមដៃនឹងមាននៅលើអេក្រង់បន្ទាប់</string>
     <string name="find_usudfps_with_sp_setup_sp_button">រៀបចំដោយមានកញ្ចក់​ការពារ​អេក្រង់</string>
     <string name="fingerprint_acquired_immobile_simple">រេបញ្ឆិតម្ដងបន្តិចៗ</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">សេនស័រចាប់ស្នាមម្រាមដៃ​ស្ថិតនៅលើប៊ូតុង​ថាមពល នៅជាប់ប៊ូតុង​កម្រិត​សំឡេងនៅចំហៀងនៃឧបករណ៍របស់អ្នក។ ដើម្បីទទួលបានភាពបត់បែនអស្ចារ្យបំផុត សូមរៀបចំម្រាមដៃយ៉ាងហោច 1 លើប្រអប់ដៃ​ទាំង​សង​ខាង។</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">កូដ QR ត្រឹមត្រូវ</string>
     <string name="fingerprint_sp_qr_code_error">កូដ QR នេះមិនមែនសម្រាប់កញ្ចក់​ការពារ​អេក្រង់ដែលមានការទទួលស្គាល់ទេ</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">អ្នកមាន %s។\nសូមប្រើវាមុនពេលរៀបចំការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃ។</string>

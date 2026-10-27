@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">El sensor de huellas digitales aparecerá en la siguiente pantalla</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Configurar con protector de pantalla</string>
     <string name="fingerprint_acquired_immobile_simple">Ajusta ligeramente cada vez</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">El sensor de huellas digitales está en el botón de encendido, junto a los botones de volumen en el lateral del dispositivo. Para disfrutar de la máxima flexibilidad, configura al menos un dedo de cada mano.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Código QR válido</string>
     <string name="fingerprint_sp_qr_code_error">Este código QR no es de un protector de pantalla certificado</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Tienes un %s.\nColócalo antes de configurar Desbloqueo con huella digital.</string>

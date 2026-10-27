@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Senzor otiska prsta pojavit će se na sljedećem zaslonu</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Postavite uz zaštitu zaslona</string>
     <string name="fingerprint_acquired_immobile_simple">Svaki put malo prilagodite</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Senzor otiska prsta nalazi se na tipki za uključivanje/isključivanje, pokraj tipki za glasnoću na bočnoj strani uređaja. Za najveću fleksibilnost postavite barem jedan prst na svakoj ruci.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Važeći QR kôd</string>
     <string name="fingerprint_sp_qr_code_error">Ovaj QR kôd ne odnosi se na certificiranu zaštitu zaslona</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Imate zaštitu zaslona %s.\nStavite je prije postavljanja otključavanja otiskom prsta.</string>

@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">指紋認証センサーは次の画面にあります</string>
     <string name="find_usudfps_with_sp_setup_sp_button">画面保護シートを装着した状態で登録</string>
     <string name="fingerprint_acquired_immobile_simple">位置を毎回少しずつ変えてください</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">指紋認証センサーが電源ボタン（デバイス側面の音量ボタンの横）に内蔵されています。状況に応じて柔軟に対応できるように、両手の指をそれぞれ 1 本以上登録してください。</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">有効な QR コード</string>
     <string name="fingerprint_sp_qr_code_error">これは Google 認定の画面保護シートの QR コードではありません</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">%s をお使いです。\n装着してから指紋認証を設定してください。</string>

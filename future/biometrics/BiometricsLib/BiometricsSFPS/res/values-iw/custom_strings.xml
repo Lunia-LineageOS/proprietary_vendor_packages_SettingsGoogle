@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">חיישן טביעות האצבע נמצא על כפתור ההפעלה, ליד כפתורי עוצמת הקול בצד המכשיר. כדי לאפשר שימוש קל בכל מצב, מומלץ להגדיר לפחות טביעת אצבע אחת בכל יד.</string>
+</resources>

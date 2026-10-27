@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Fingeravtryckssensorn finns på nästa skärm</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Konfigurera med skärmskydd</string>
     <string name="fingerprint_acquired_immobile_simple">Justera lite varje gång</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Fingeravtryckssensorn sitter på av/på-knappen bredvid volymknapparna på sidan av enheten. För att få större flexibilitet bör du ställa in minst ett finger på varje hand.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Giltig QR-kod</string>
     <string name="fingerprint_sp_qr_code_error">Den här QR-koden gäller inte ett certifierat skärmskydd</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Du har skärmskyddet %s.\nSätt på det innan du ställer in fingeravtryckslås.</string>

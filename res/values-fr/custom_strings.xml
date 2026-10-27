@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Le lecteur d\'empreinte digitale se trouvera sur l\'écran suivant</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Configurer avec la protection d\'écran</string>
     <string name="fingerprint_acquired_immobile_simple">Ajustez légèrement à chaque fois</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Le lecteur d\'empreinte digitale se trouve sur le bouton Marche/Arrêt, près des boutons de volume, sur le côté de votre appareil. Pour plus de flexibilité, configurez au moins un doigt sur chaque main.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">QR code valide</string>
     <string name="fingerprint_sp_qr_code_error">Ce QR code ne correspond pas à une protection d\'écran certifiée</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Vous possédez de la protection d\'écran suivante : %s.\nAppliquez-la avant de configurer le déverrouillage par empreinte digitale.</string>

@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">फिंगरप्रिंट सेन्सर पुढील स्क्रीनवर असेल</string>
     <string name="find_usudfps_with_sp_setup_sp_button">स्क्रीन प्रोटेक्‍टर वापरून सेट करा</string>
     <string name="fingerprint_acquired_immobile_simple">प्रत्येक वेळी किंचित अ‍ॅडजस्ट करा</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">फिंगरप्रिंट सेन्सर तुमच्या डिव्हाइसच्या बाजूला असलेल्या व्हॉल्यूम बटणांच्या शेजारी, पॉवर बटणावर आहे. सर्वोत्तम सोयीसाठी, प्रत्येक हातावरील किमान १ बोट सेट करा.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">वैध QR कोड</string>
     <string name="fingerprint_sp_qr_code_error">हा QR कोड प्रमाणित स्क्रीन प्रोटेक्टरसाठी नाही</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">तुमच्याकडे %s आहे.\nफिंगरप्रिंट अनलॉक सेट करण्याआधी ते लागू करा.</string>

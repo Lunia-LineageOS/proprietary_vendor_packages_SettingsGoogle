@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">Sensori i gjurmës së gishtit është në butonin e energjisë, pranë butonave të volumit në pjesën anësore të pajisjes. Për fleksibilitetin më të lartë, konfiguro të paktën 1 gisht në çdo dorë.</string>
+</resources>

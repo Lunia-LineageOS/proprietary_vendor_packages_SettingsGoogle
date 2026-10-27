@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">လက်ဗွေ အာရုံခံကိရိယာကို နောက်စခရင်တွင် မြင်ရပါမည်</string>
     <string name="find_usudfps_with_sp_setup_sp_button">ဖန်သားပြင်အကာအကွယ်ဖြင့် စနစ်ထည့်သွင်းရန်</string>
     <string name="fingerprint_acquired_immobile_simple">အကြိမ်တိုင်း အနည်းငယ်ချိန်ညှိပါ</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">လက်ဗွေ အာရုံခံကိရိယာသည် သင့်စက်ဘေးဘက် အသံထိန်းခလုတ်များ၏ဘေးရှိ ဖွင့်ပိတ်ခလုတ်ပေါ်တွင် ရှိသည်။ ပြောင်းလွယ်ပြင်လွယ်မှု အကောင်းဆုံးဖြစ်စေရန် လက်တစ်ဖက်စီအတွက် အနည်းဆုံး လက် ၁ ချောင်း သတ်မှတ်ပါ။</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">QR ကုဒ် မှန်ကန်သည်</string>
     <string name="fingerprint_sp_qr_code_error">ဤ QR ကုဒ်သည် အသိအမှတ်ပြုထားသော ဖန်သားပြင်အကာအကွယ်အတွက် မဟုတ်ပါ</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">သင့်တွင် %s ရှိသည်။\n‘လက်ဗွေသုံး လော့ခ်ဖွင့်ခြင်း’ စနစ်မထည့်သွင်းမီ ၎င်းကို အသုံးပြုပါ။</string>

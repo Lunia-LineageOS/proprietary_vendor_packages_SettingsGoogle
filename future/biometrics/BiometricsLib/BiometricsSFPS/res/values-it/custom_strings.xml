@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">Il sensore di impronte digitali si trova sul tasto di accensione, accanto ai tasti del volume sul lato del dispositivo. Per la massima flessibilità, configura almeno un dito di ciascuna mano.</string>
+</resources>

@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Sensor sidik jari akan berada di layar berikutnya</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Siapkan dengan pelindung layar</string>
     <string name="fingerprint_acquired_immobile_simple">Sesuaikan sedikit setiap kali</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Sensor sidik jari ada di tombol daya, di sebelah tombol volume di bagian samping perangkat. Supaya lebih fleksibel, siapkan setidaknya 1 sidik jari dari masing-masing tangan.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Kode QR valid</string>
     <string name="fingerprint_sp_qr_code_error">Kode QR ini bukan untuk pelindung layar tersertifikasi</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Anda memiliki %s.\nPasang pelindung layar ini sebelum menyiapkan fitur Buka dengan Sidik Jari.</string>

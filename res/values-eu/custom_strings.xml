@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Hatz-marken sentsorea hurrengo pantailan egongo da</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Konfiguratu pantaila babesteko osagarriarekin</string>
     <string name="fingerprint_acquired_immobile_simple">Doitu apur bat aldi bakoitzean</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Hatz-marken sentsorea etengailuan dago, gailuaren ertzeko bolumen-botoien ondoan. Malgutasun handiena izateko, konfiguratu esku bakoitzeko hatz bat gutxienez.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">QR kodeak balio du</string>
     <string name="fingerprint_sp_qr_code_error">QR kode hau ez dagokio pantaila babesteko osagarri ziurtatu bati</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">%s daukazu.\nEzar ezazu hatz-marka bidez desblokeatzeko eginbidea konfiguratu aurretik.</string>

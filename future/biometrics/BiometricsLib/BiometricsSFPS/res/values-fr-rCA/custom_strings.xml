@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">Le capteur d\'empreintes digitales est situé sur l\'interrupteur, à côté des boutons de volume sur le côté de votre appareil. Pour plus de flexibilité, configurez au moins un doigt sur chaque main.</string>
+</resources>

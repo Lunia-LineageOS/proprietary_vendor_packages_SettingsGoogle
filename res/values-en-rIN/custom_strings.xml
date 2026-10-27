@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">The fingerprint sensor will be on the next screen</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Set up with screen protector</string>
     <string name="fingerprint_acquired_immobile_simple">Adjust slightly each time</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">The fingerprint sensor is on the power button, next to the volume buttons on the side of your device. For the greatest flexibility, set up at least one finger on each hand.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Valid QR code</string>
     <string name="fingerprint_sp_qr_code_error">This QR code is not for a certified screen protector</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">You have a %s.\nApply it before setting up Fingerprint Unlock.</string>

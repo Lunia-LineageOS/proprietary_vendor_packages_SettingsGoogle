@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Στην επόμενη οθόνη, θα βρείτε τον αισθητήρα δακτυλικών αποτυπωμάτων</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Ρύθμιση με προστατευτικό οθόνης</string>
     <string name="fingerprint_acquired_immobile_simple">Κάντε μικρές προσαρμογές κάθε φορά</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Ο αισθητήρας δακτυλικών αποτυπωμάτων βρίσκεται στο κουμπί λειτουργίας, δίπλα στα κουμπιά έντασης ήχου στο πλάι της συσκευής σας. Για τη μέγιστη ευελιξία, ρυθμίστε τουλάχιστον 1 δάκτυλο σε κάθε χέρι.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Έγκυρος κωδικός QR</string>
     <string name="fingerprint_sp_qr_code_error">Αυτός ο κωδικός QR δεν προορίζεται για προστατευτικό οθόνης με πιστοποίηση</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Έχετε ένα προστατευτικό οθόνης %s.\nΕφαρμόστε το πριν από τη ρύθμιση της λειτουργίας Ξεκλείδωμα με δακτυλικό αποτύπωμα.</string>

@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">ফিংগাৰপ্ৰিণ্ট ছেন্সৰটো পৰৱৰ্তী স্ক্ৰীনখনত থাকিব</string>
     <string name="find_usudfps_with_sp_setup_sp_button">স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰীৰে ছেট আপ কৰক</string>
     <string name="fingerprint_acquired_immobile_simple">প্ৰতিবাৰতে সামান্যভাৱে মিলাওক</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">ফিংগাৰপ্ৰিণ্ট ছেন্সৰটো আপোনাৰ ডিভাইচটোৰ কাষত ভলিউমৰ বুটামৰ কাষত পাৱাৰ বুটামটোত আছে। সৰ্বোত্তম নমনীয়তা পাবলৈ প্ৰতিখন হাতৰ অতি কমেও ১ টা আঙুলি ছেট আপ কৰক।</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">মান্য কিউআৰ ক’ড</string>
     <string name="fingerprint_sp_qr_code_error">এই কিউআৰ ক’ডটো কোনো প্ৰমাণপত্ৰপ্ৰাপ্ত স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰীৰ নহয়</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">আপোনাৰ ওচৰত %s আছে।\nফিংগাৰপ্ৰিন্ট আনলক সুবিধাটো ছেট আপ কৰাৰ পূৰ্বে এইটো প্ৰয়োগ কৰক।</string>

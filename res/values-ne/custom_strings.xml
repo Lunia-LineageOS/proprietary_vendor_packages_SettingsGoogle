@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">फिंगरप्रिन्ट सेन्सर अर्को स्क्रिनमा देखाइने छ</string>
     <string name="find_usudfps_with_sp_setup_sp_button">स्क्रिन प्रोटेक्टर प्रयोग गरी सेटअप गर्नुहोस्</string>
     <string name="fingerprint_acquired_immobile_simple">हरेक पटक हल्का मात्रै टच गर्नुहोस्</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">फिंगरप्रिन्ट सेन्सर पावर बटनमा हुन्छ र पावर बटन भने तपाईंको डिभाइसको छेउपट्टि रहेका भोल्युम बटनहरूको छेउमा हुन्छ। फिंगरप्रिन्ट प्रयोग गर्न एकदमै सजिलो होस् भन्नाका लागि प्रत्येक हातको कम्तीमा एउटा फिंगरप्रिन्ट सेट गर्नुहोस्।</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">वैध QR कोड</string>
     <string name="fingerprint_sp_qr_code_error">यो प्रमाणित स्क्रिन प्रोटेक्टरको QR कोड होइन</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">तपाईंसँग %s छ।\nफिंगरप्रिन्ट अनलक सेटअप गर्नुअघि आफ्नो डिभाइसको स्क्रिनमा यो स्क्रिन प्रोटेक्टर लगाउनुहोस्।</string>

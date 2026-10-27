@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">下一個畫面會出現指紋感應器</string>
     <string name="find_usudfps_with_sp_setup_sp_button">貼好螢幕保護貼後設定</string>
     <string name="fingerprint_acquired_immobile_simple">每次稍微調整</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">指紋感應器位於開關按鈕 (裝置側邊的音量按鈕旁)。建議雙手至少各設定 1 隻手指，操作裝置更方便。</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">有效的 QR 碼</string>
     <string name="fingerprint_sp_qr_code_error">此 QR 碼不適用於未認證的螢幕保護貼</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">你有一張 %s。\n請先貼上，然後設定「指紋解鎖」。</string>

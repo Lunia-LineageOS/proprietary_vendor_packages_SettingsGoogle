@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">ເຊັນເຊີລາຍນິ້ວມືຈະຢູ່ໜ້າຈໍຕໍ່ໄປ</string>
     <string name="find_usudfps_with_sp_setup_sp_button">ຕັ້ງຄ່າໂດຍມີຕົວປົກປ້ອງໜ້າຈໍ</string>
     <string name="fingerprint_acquired_immobile_simple">ປັບເລັກນ້ອຍໃນແຕ່ລະເທື່ອ</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">ເຊັນ​ເຊີລາຍນິ້ວ​ມືຢູ່ປຸ່ມເປີດປິດ, ຖັດຈາກປຸ່ມລະດັບສຽງຢູ່ດ້ານຂ້າງຂອງອຸປະກອນຂອງທ່ານ. ເພື່ອຄວາມຍືດຫຍຸ່ນສູງສຸດ, ໃຫ້ຕັ້ງຢ່າງໜ້ອຍ 1 ນິ້ວຢູ່ມືແຕ່ລະຂ້າງ.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">ລະຫັດ QR ຖືກຕ້ອງ</string>
     <string name="fingerprint_sp_qr_code_error">ລະຫັດ QR ນີ້ບໍ່ເປັນໄປຕາມມາດຕະຖານສຳລັບຕົວປົກປ້ອງໜ້າຈໍທີ່ຜ່ານການຮັບຮອງ</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">ທ່ານມີ %s.\nກະລຸນາຕິດຕົວປົກປ້ອງໜ້າຈໍກ່ອນຕັ້ງຄ່າການປົດລັອກດ້ວຍລາຍນິ້ວມື.</string>

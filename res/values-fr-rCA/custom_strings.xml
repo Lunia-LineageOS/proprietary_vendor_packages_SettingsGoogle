@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Le capteur d\'empreintes digitales sera affiché à l\'écran suivant</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Configuration avec protecteur d\'écran</string>
     <string name="fingerprint_acquired_immobile_simple">Ajustez la position chaque fois</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Le capteur d\'empreintes digitales est situé sur l\'interrupteur, à côté des boutons de volume sur le côté de votre appareil. Pour plus de flexibilité, configurez au moins un doigt sur chaque main.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Code QR valide</string>
     <string name="fingerprint_sp_qr_code_error">Ce code QR n\'est pas conçu pour un protecteur d\'écran certifié</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Vous avez un %s.\nAppliquez-le avant de configurer la fonctionnalité Déverrouillage par empreinte digitale.</string>

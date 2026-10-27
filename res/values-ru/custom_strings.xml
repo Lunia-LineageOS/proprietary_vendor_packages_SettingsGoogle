@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Датчик отпечатков пальцев будет на следующем экране.</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Настроить с защитным стеклом или пленкой</string>
     <string name="fingerprint_acquired_immobile_simple">Каждый раз меняйте положение пальца</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Сканер отпечатков пальцев находится на кнопке питания. Она расположена сбоку, рядом с кнопками громкости. Чтобы снимать блокировку устройства было удобнее, отсканируйте хотя бы по одному отпечатку пальца каждой руки.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Действительный QR-код</string>
     <string name="fingerprint_sp_qr_code_error">Это QR-код для несертифицированной защитной пленки или стекла.</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Ваша защитная пленка – %s.\nНаклейте ее перед тем, как настроить разблокировку по отпечатку пальца.</string>

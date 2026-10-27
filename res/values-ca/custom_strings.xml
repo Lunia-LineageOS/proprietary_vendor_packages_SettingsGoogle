@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">El sensor d\'empremtes digitals apareixerà a la pantalla següent</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Configura amb un protector de pantalla</string>
     <string name="fingerprint_acquired_immobile_simple">Fes ajustos lleugers cada vegada</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">El sensor d\'empremtes digitals es troba al botó d\'engegada, al costat dels botons de volum del lateral del dispositiu. Per gaudir de la màxima flexibilitat, configura com a mínim 1 dit de cada mà.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Codi QR vàlid</string>
     <string name="fingerprint_sp_qr_code_error">Aquest codi QR no correspon a un protector de pantalla certificat</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Tens un %s.\nAplica\'l abans de configurar Desbloqueig amb empremta digital.</string>

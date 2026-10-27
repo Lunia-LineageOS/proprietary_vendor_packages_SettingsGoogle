@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">Sensor sidik jari ada di tombol daya, di sebelah tombol volume di bagian samping perangkat. Supaya lebih fleksibel, siapkan setidaknya 1 sidik jari dari masing-masing tangan.</string>
+</resources>

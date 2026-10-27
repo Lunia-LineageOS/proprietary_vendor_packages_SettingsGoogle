@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">ستظهر أداة استشعار بصمة الإصبع على الشاشة التالية</string>
     <string name="find_usudfps_with_sp_setup_sp_button">الإعداد مع استخدام واقي الشاشة</string>
     <string name="fingerprint_acquired_immobile_simple">عدِّل موضع إصبعك قليلاً في كل مرة</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">توجد أداة استشعار بصمة الإصبع على زر التشغيل، بجانب زرَّي التحكّم بمستوى الصوت على جانب الجهاز. وننصحك بضبط بصمة إصبع واحد على الأقل في كل يد، لاستخدام أيهما بكل سهولة.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">رمز استجابة سريعة صالح</string>
     <string name="fingerprint_sp_qr_code_error">لا يشير رمز الاستجابة السريعة هذا إلى واقي شاشة مُعتمَد</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">لديك واقي الشاشة \"%s\".\nيُرجى وضعه قبل ضبط ميزة \"فتح الجهاز ببصمة الإصبع\".</string>

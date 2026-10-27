@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">फ़िंगरप्रिंट सेंसर अगली स्क्रीन पर दिखेगा</string>
     <string name="find_usudfps_with_sp_setup_sp_button">स्क्रीन प्राेटेक्टर लगाकर फ़िंगरप्रिंट सेट अप करें</string>
     <string name="fingerprint_acquired_immobile_simple">हर बार अपनी उंगली को थोड़ा अडजस्ट करें</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">फ़िंगरप्रिंट सेंसर, पावर बटन पर होता है. यह फ़ोन के किनारे मौजूद, आवाज़ कम या ज़्यादा करने वाले बटन के बगल में होता है. फ़ोन को और ज़्यादा आसानी से अनलॉक करने के लिए, दोनों हाथों की कम से कम एक-एक उंगली का फ़िंगरप्रिंट सेट अप करें.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">मान्य क्यूआर कोड</string>
     <string name="fingerprint_sp_qr_code_error">यह क्यूआर कोड, सर्टिफ़िकेट वाले स्क्रीन प्रोटेक्टर के लिए नहीं है</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">आपके पास %s है.\nइसे फ़िंगरप्रिंट अनलॉक की सुविधा सेट अप करने से पहले लगाएं.</string>

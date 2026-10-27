@@ -44,22 +44,6 @@
 
     <string-array name="customized_guided_enroll_points" />
 
-    <string-array name="sfps_education_illustration">
-        <item>.surfaceContainer:@sud_system_surface_container_light</item>
-        <item>.primary:@sud_system_primary_light</item>
-        <item>.onPrimary:@sud_system_on_primary_light</item>
-        <item>.outline:@sud_system_outline_light</item>
-        <item>.outlineVariant:@sud_system_outline_variant_light</item>
-        <item>.primaryContainer:@sud_system_primary_container_light</item>
-    </string-array>
-
-    <string-array name="sfps_enroll_illustration">
-        <item>.surfaceContainer:@sud_system_surface_container_light</item>
-        <item>.outline:@sud_system_outline_light</item>
-        <item>.outlineVariant:@sud_system_outline_variant_light</item>
-        <item>.onSurface:@sud_system_on_surface_light</item>
-    </string-array>
-
     <string-array name="touch_sensor_education">
         <item>.surfaceContainer:@sud_system_surface_container_light</item>
         <item>.outline:@sud_system_outline_light</item>

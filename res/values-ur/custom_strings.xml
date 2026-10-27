@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">فنگر پرنٹ سینسر اگلی اسکرین پر ہوگی</string>
     <string name="find_usudfps_with_sp_setup_sp_button">اسکرین پروٹیکٹر کے ساتھ سیٹ اپ کریں</string>
     <string name="fingerprint_acquired_immobile_simple">ہر بار تھوڑا سا ایڈجسٹ کریں</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">فنگر پرنٹ سینسر پاور بٹن پر موجود ہے، جو آپ کے آلہ کے سائیڈ میں والیوم بٹنز کے ساتھ ہے۔ زیادہ سے زیادہ سہولت کے لیے، ہر ہاتھ کی کم از کم ایک انگلی کا سیٹ اپ کریں۔</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">‏درست QR کوڈ</string>
     <string name="fingerprint_sp_qr_code_error">‏یہ QR کوڈ سند یافتہ اسکرین پروٹیکٹر کے لیے نہیں ہے</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">آپ کے پاس ایک %s ہے۔\nاسے فنگر پرنٹ اَن لاک سیٹ اپ کرنے سے پہلے لاگو کریں۔</string>

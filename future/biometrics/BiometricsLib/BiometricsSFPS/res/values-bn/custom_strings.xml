@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">ফিঙ্গারপ্রিন্ট সেন্সর পাওয়ার বোতামে থাকে। এটি, আপনার ডিভাইসের পাশে ভলিউমের বোতামের ঠিক পরেই থাকে। দুই হাত থেকেই কমপক্ষে এক একটি ফিঙ্গারপ্রিন্ট সেট-আপ করুন যাতে ফোনটি সহজেই আনলক করা যায়।</string>
+</resources>

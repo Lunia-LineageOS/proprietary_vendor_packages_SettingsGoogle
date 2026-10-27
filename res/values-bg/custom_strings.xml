@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Сензорът за отпечатъци ще бъде на следващия екран</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Настройване със защитен слой на екрана</string>
     <string name="fingerprint_acquired_immobile_simple">Всеки път коригирайте леко</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Сензорът за отпечатъци се намира върху бутона за захранване, който е разположен отстрани на устройството ви до бутоните за силата на звука. За най-голяма гъвкавост настройте поне по 1 пръст на всяка ръка.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Валиден QR код</string>
     <string name="fingerprint_sp_qr_code_error">Този QR код не е за сертифициран защитен слой на екрана</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Имате %s.\nПоставете го, преди да настроите функцията „Отключване с отпечатък“.</string>

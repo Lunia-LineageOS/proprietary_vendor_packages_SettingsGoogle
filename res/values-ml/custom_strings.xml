@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">ഫിംഗർപ്രിന്റ് സെൻസർ അടുത്ത സ്‌ക്രീനിലാണുണ്ടാകുക</string>
     <string name="find_usudfps_with_sp_setup_sp_button">സ്ക്രീൻ പ്രൊട്ടക്ടർ ഉപയോഗിച്ച് സജ്ജീകരിക്കുക</string>
     <string name="fingerprint_acquired_immobile_simple">ഓരോ തവണയും നേരിയ തോതിൽ ക്രമീകരിക്കുക</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">നിങ്ങളുടെ ഉപകരണത്തിന്റെ വശത്തുള്ള ശബ്ദ ബട്ടണുകൾക്ക് സമീപത്തെ പവർ ബട്ടണിലാണ് ഫിംഗർപ്രിന്റ് സെൻസർ ഉള്ളത്. കൂടുതൽ സൗകര്യത്തിന്, ഓരോ കയ്യിലെയും ഒരു വിരലെങ്കിലും സജ്ജീകരിക്കുക.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">സാധുതയുള്ള QR കോഡ്</string>
     <string name="fingerprint_sp_qr_code_error">ഈ QR കോഡ് ഒരു സാക്ഷ്യപ്പെടുത്തിയ സ്‌ക്രീൻ പ്രൊട്ടക്ടറിന്റേതല്ല</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">നിങ്ങൾക്കൊരു %s ഉണ്ട്.\nഫിംഗർപ്രിന്റ് അൺലോക്ക് സജ്ജീകരിക്കുന്നതിന് മുമ്പ് അത് ബാധകമാക്കുക.</string>

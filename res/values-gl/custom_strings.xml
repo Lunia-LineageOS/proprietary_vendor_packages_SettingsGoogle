@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">O sensor de impresión dixital aparecerá na próxima pantalla</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Configurar co protector de pantalla</string>
     <string name="fingerprint_acquired_immobile_simple">Axusta lixeiramente cada vez</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">O sensor de impresión dixital está no botón de acendido, a carón dos botóns de volume no lateral do dispositivo. Para maior flexibilidade, configura como mínimo un dedo de cada man.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Código QR válido</string>
     <string name="fingerprint_sp_qr_code_error">Este código QR non corresponde a ningún protector de pantalla certificado</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Tes un %s.\nColócao antes de configurar o desbloqueo dactilar.</string>

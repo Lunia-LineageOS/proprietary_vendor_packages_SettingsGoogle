@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Il sensore di impronte digitali si trova nella schermata successiva</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Configura con protezione per lo schermo</string>
     <string name="fingerprint_acquired_immobile_simple">Sposta leggermente il dito ogni volta</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Il sensore di impronte digitali si trova sul tasto di accensione, accanto ai tasti del volume sul lato del dispositivo. Per la massima flessibilità, configura almeno un dito di ciascuna mano.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Codice QR valido</string>
     <string name="fingerprint_sp_qr_code_error">Questo codice QR non è associato a una protezione per lo schermo certificata</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Hai una protezione per lo schermo %s.\nApplicala prima di configurare lo Sblocco con l\'Impronta.</string>

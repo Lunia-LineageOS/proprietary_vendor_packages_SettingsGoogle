@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Penderia cap jari terdapat pada skrin yang seterusnya</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Sediakan dengan pelindung skrin</string>
     <string name="fingerprint_acquired_immobile_simple">Laraskan sedikit setiap kali</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Penderia cap jari berada pada butang kuasa, bersebelahan butang kelantangan pada bahagian tepi peranti anda. Untuk kefleksibelan yang terbaik, sediakan sekurang-kurangnya 1 jari pada setiap tangan.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Kod QR yang sah</string>
     <string name="fingerprint_sp_qr_code_error">Kod QR ini bukan untuk pelindung skrin yang diperaku</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Anda mempunyai %s.\nPasang pelindung skrin itu sebelum menyediakan Buka Kunci Cap Jari.</string>

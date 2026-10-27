@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">თითის ანაბეჭდის სენსორი შემდეგ ეკრანზე იქნება</string>
     <string name="find_usudfps_with_sp_setup_sp_button">ეკრანის დამცავის დაყენება</string>
     <string name="fingerprint_acquired_immobile_simple">ოდნავ შეცვალეთ ყოველ ჯერზე</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">თითის ანაბეჭდის სენსორი ჩართვის ღილაკზეა, ხმის ღილაკების გასწვრივ, თქვენი მოწყობილობის გვერდზე. მაქსიმალური მოქნილობისთვის დააყენეთ თითოეული ხელის მინიმუმ ერთი თითი.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">სწორი QR კოდი</string>
     <string name="fingerprint_sp_qr_code_error">ეს QR კოდი არ არის განკუთვნილი სერტიფიცირებული ეკრანის დამცავისთვის</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">თქვენ გაქვთ %s.\nგამოიყენეთ ანაბეჭდით განბლოკვის დაყენებამდე.</string>

@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Snímač otisků prstů bude na další obrazovce</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Nastavit s ochranou displeje</string>
     <string name="fingerprint_acquired_immobile_simple">Pokaždé prst lehce posuňte</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Snímač otisků prstů je na tlačítku napájení vedle tlačítek hlasitosti na boční straně zařízení. Pro maximální flexibilitu nastavte alespoň jeden prst z každé ruky.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Platný QR kód</string>
     <string name="fingerprint_sp_qr_code_error">Toto není QR kód certifikované ochrany displeje</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Máte ochranu displeje %s.\nPřed nastavením Odemknutí otiskem prstu ji nasaďte.</string>

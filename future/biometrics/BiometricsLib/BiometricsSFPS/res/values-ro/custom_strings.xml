@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">Senzorul de amprentă se află pe butonul de pornire, lângă butoanele de volum de pe lateralul dispozitivului. Pentru cea mai mare flexibilitate, configurează cel puțin un deget de la fiecare mână.</string>
+</resources>

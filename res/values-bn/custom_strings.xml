@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">পরবর্তী স্ক্রিনে ফিঙ্গারপ্রিন্ট সেন্সর পাবেন</string>
     <string name="find_usudfps_with_sp_setup_sp_button">স্ক্রিন প্রোটেকটরের সাহায্যে সেট-আপ করুন</string>
     <string name="fingerprint_acquired_immobile_simple">প্রত্যেকবার সামান্য অ্যাডজাস্ট করুন</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">ফিঙ্গারপ্রিন্ট সেন্সর পাওয়ার বোতামে থাকে। এটি, আপনার ডিভাইসের পাশে ভলিউমের বোতামের ঠিক পরেই থাকে। দুই হাত থেকেই কমপক্ষে এক একটি ফিঙ্গারপ্রিন্ট সেট-আপ করুন যাতে ফোনটি সহজেই আনলক করা যায়।</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">সঠিক QR কোড</string>
     <string name="fingerprint_sp_qr_code_error">এই QR কোডটি সার্টিফায়েড স্ক্রিন প্রোটেকটর নয়</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">আপনার %s আছে।\nফিঙ্গারপ্রিন্ট আনলক সেট করার আগে এটি প্রয়োগ করুন।</string>

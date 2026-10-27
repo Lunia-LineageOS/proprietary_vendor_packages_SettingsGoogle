@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">חיישן טביעות האצבע יופיע במסך הבא</string>
     <string name="find_usudfps_with_sp_setup_sp_button">הגדרה עם מגן מסך</string>
     <string name="fingerprint_acquired_immobile_simple">צריך להזיז קצת את האצבע בכל נגיעה</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">חיישן טביעות האצבע נמצא על כפתור ההפעלה, ליד כפתורי עוצמת הקול בצד המכשיר. כדי לאפשר שימוש קל בכל מצב, מומלץ להגדיר לפחות טביעת אצבע אחת בכל יד.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">‏קוד QR תקין</string>
     <string name="fingerprint_sp_qr_code_error">‏קוד ה-QR הזה לא משויך למגן מסך שאושר</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">יש לך מגן מסך מסוג %s.\nצריך להדביק אותו על המסך ורק אחר כך להגדיר פתיחה בטביעת אצבע.</string>

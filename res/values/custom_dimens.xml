@@ -9,14 +9,6 @@
     <dimen name="face_enroll_participation_checkbox_minimum_size">48dp</dimen>
     <dimen name="face_error_text_appear_distance">16dp</dimen>
     <dimen name="lock_screen_bypass_lottie_height">236dp</dimen>
-    <dimen name="fingerprint_progress_bar_adjust_size_expressive">228dp</dimen>
-    <dimen name="ring_progress_bar_thickness_expressive">20px</dimen>
-    <dimen name="sfps_illustration_layout_height_expressive">351dp</dimen>
-    <dimen name="sfps_illustration_layout_width_expressive">351dp</dimen>
-    <dimen name="sfps_illustration_margin_bottom_expressive">0dp</dimen>
-    <dimen name="sfps_illustration_margin_end_expressive">0dp</dimen>
-    <dimen name="sfps_progress_bar_translate_x_expressive">0dp</dimen>
-    <dimen name="sfps_progress_bar_translate_y_expressive">7dp</dimen>
     <dimen name="sp_qr_checkbox_size">156dp</dimen>
     <dimen name="sp_qr_code_scanner_corner_radius">28dp</dimen>
     <dimen name="sp_qr_code_scanner_padding_horizontal">56dp</dimen>

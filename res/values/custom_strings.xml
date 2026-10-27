@@ -123,7 +123,6 @@
     <string name="find_usudfps_subtitle_simple">The fingerprint sensor will be on the next screen</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Set up with screen protector</string>
     <string name="fingerprint_acquired_immobile_simple">Adjust slightly each time</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">The fingerprint sensor is on the power button, next to the volume buttons on the side of your device. For the greatest flexibility, set up at least 1 finger on each hand.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Valid QR code</string>
     <string name="fingerprint_sp_qr_code_error">This QR code is not for a certified screen protector</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">You have a %s.\nApply it before setting up Fingerprint Unlock.</string>
@@ -169,7 +168,6 @@
     <string name="security_settings_udfps_screen_protector_remove_description">To improve fingerprint recognition, remove your screen protector before turning off screen protector optimization</string>
     <string name="security_settings_udfps_screen_protector_remove_title">Remove screen protector</string>
     <string name="security_settings_udfps_screen_protector_title">Optimize for screen protector</string>
-    <string name="setup_fingerprint_enroll_immobile_help_continue_fallback">Continue</string>
     <string name="sp_apply_dialog_button_got_it">Got it</string>
     <string name="sp_apply_dialog_button_url">http://g.co/pixel/screenprotector</string>
     <string name="sp_apply_dialog_msg_incompatible">Your screen protector may be incompatible with your phone. To make sure, update your phone to the latest version of Android and try again.</string>

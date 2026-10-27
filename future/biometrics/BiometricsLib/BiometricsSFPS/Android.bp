@@ -1,0 +1,9 @@
+android_library {
+    name: "SFPSLib",
+    srcs: ["src/**/*.kt"],
+    use_resource_processor: true,
+    static_libs: [
+        "BiometricsCommonLib",
+        "com.google.hardware.biometrics.sidefps.fingerprint-ext-V1-java",
+    ],
+}

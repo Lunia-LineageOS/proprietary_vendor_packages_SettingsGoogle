@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">നിങ്ങളുടെ ഉപകരണത്തിന്റെ വശത്തുള്ള ശബ്ദ ബട്ടണുകൾക്ക് സമീപത്തെ പവർ ബട്ടണിലാണ് ഫിംഗർപ്രിന്റ് സെൻസർ ഉള്ളത്. കൂടുതൽ സൗകര്യത്തിന്, ഓരോ കയ്യിലെയും ഒരു വിരലെങ്കിലും സജ്ജീകരിക്കുക.</string>
+</resources>

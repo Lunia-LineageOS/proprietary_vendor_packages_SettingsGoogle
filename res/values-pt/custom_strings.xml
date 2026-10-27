@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">O sensor de impressão digital vai aparecer na próxima tela</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Configurar com película</string>
     <string name="fingerprint_acquired_immobile_simple">Vá ajustando a posição a cada tentativa</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">O sensor de impressão digital fica no botão liga/desliga, ao lado dos botões de volume na lateral do dispositivo. Para maior flexibilidade, configure pelo menos 1 dedo de cada mão</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">QR code válido</string>
     <string name="fingerprint_sp_qr_code_error">Esse QR code não é de uma película certificada</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Você tem uma película %s.\nColoque-a antes de configurar o desbloqueio por impressão digital.</string>

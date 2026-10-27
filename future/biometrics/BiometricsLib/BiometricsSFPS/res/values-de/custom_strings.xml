@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">Der Fingerabdrucksensor befindet sich auf der Ein/Aus-Taste neben den Lautstärketasten an der Seite deines Geräts. Um ihn möglichst flexibel nutzen zu können, solltest du mindestens einen Finger jeder Hand registrieren.</string>
+</resources>

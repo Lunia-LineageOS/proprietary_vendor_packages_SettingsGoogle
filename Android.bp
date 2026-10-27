@@ -44,6 +44,7 @@ android_app {
     static_libs: [
         "SettingsGoogle-GeneralAccess",
         // Stock links only the sensor library of the device; Lunia builds one APK for all of them.
+        "SFPSLib",
         "UDFPSLib",
     ],
     resource_dirs: [],

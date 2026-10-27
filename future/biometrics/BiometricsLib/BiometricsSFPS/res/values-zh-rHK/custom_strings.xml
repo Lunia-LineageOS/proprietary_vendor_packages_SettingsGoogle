@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">指紋感應器位於開關按鈕 (裝置側邊的音量按鈕旁)。建議雙手至少各設定 1 隻手指，操作裝置更方便。</string>
+</resources>

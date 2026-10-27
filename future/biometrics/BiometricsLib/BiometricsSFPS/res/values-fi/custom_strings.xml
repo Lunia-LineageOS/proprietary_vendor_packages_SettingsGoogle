@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">Sormenjälkitunnistin on virtapainikkeessa, laitteen sivussa äänenvoimakkuuspainikkeiden vieressä. Käyttö on mahdollisimman joustavaa, kun lisää vähintään yhden sormen kummastakin kädestä.</string>
+</resources>

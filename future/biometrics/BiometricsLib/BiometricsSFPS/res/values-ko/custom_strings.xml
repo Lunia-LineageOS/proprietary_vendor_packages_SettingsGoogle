@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">지문 센서는 기기 측면의 볼륨 버튼 옆에 있는 전원 버튼에 있습니다. 보다 편리한 사용을 위해 한 손에서 1개 이상의 손가락을 설정하는 것이 좋습니다.</string>
+</resources>

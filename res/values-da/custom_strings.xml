@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Fingeraftrykssensoren vises på næste skærm</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Konfigurer med skærmbeskyttelse</string>
     <string name="fingerprint_acquired_immobile_simple">Juster en smule hver gang</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Fingeraftrykssensoren sidder på afbryderknappen ved siden af lydstyrkeknapperne på siden af enheden. For at opnå størst mulig fleksibilitet skal du konfigurere mindst 1 finger på hver hånd.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Gyldig QR-kode</string>
     <string name="fingerprint_sp_qr_code_error">Denne QR-kode er ikke til en certificeret skærmbeskytter</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Du har en %s-skærmbeskytter.\nBrug den, før du konfigurerer fingeroplåsning.</string>

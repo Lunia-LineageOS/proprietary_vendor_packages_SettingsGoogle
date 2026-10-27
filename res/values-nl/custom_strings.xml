@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">De vingerafdruksensor staat op het volgende scherm</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Instellen met screenprotector</string>
     <string name="fingerprint_acquired_immobile_simple">Pas de positie steeds een beetje aan</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">De vingerafdruksensor zit in de aan/uit-knop, naast de volumeknoppen aan de zijkant van je apparaat. Stel voor de meeste flexibiliteit minstens 1 vinger van elke hand in.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Geldige QR-code</string>
     <string name="fingerprint_sp_qr_code_error">Deze QR-code is niet voor een gecertificeerde screenprotector</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Je hebt een %s.\nPas deze toe voordat je Ontgrendelen met vingerafdruk instelt.</string>

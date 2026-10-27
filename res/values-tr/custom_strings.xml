@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Parmak izi sensörü bir sonraki ekranda yer alacak</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Ekran koruyucu ile birlikte ayarlayın</string>
     <string name="fingerprint_acquired_immobile_simple">Her defasında parmağınızı biraz oynatın</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Parmak izi sensörü, cihazınızın yan tarafında bulunan ses düğmelerinin yanındaki güç düğmesindedir. Daha esnek bir kilit açma deneyimi için her elinizden en az 1 parmağınızı ayarlayın.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Geçerli QR kodu</string>
     <string name="fingerprint_sp_qr_code_error">Bu QR kodu, onaylı bir ekran koruyucuya ait değil</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">%s ekran koruyucunuz var.\nParmak İzi Kilidi\'ni ayarlamadan önce bunu uygulayın.</string>

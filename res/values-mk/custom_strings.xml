@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Сензорот за отпечатоци ќе биде на следниот екран</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Поставете со заштитник на екранот</string>
     <string name="fingerprint_acquired_immobile_simple">Приспособувајте малку секој пат</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Сензорот за отпечатоци се наоѓа на копчето за вклучување, веднаш до копчињата за јачина на звукот странично на вашиот уред. За најголема флексибилност, поставете најмалку 1 отпечаток од секоја рака.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Важечки QR-код</string>
     <string name="fingerprint_sp_qr_code_error">QR-кодов не е за овластен заштитник на екранот</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Имате %s.\nПоставете го пред да поставите „Отклучување со отпечаток“.</string>

@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ ಮುಂದಿನ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿ ಇರುತ್ತದೆ</string>
     <string name="find_usudfps_with_sp_setup_sp_button">ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್ ಅನ್ನು ಸೆಟಪ್ ಮಾಡಿ</string>
     <string name="fingerprint_acquired_immobile_simple">ಪ್ರತಿ ಬಾರಿ ಸ್ವಲ್ಪ ಅಡ್ಜಸ್ಟ್ ಮಾಡಿ</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್‌‌ ಪವರ್ ಬಟನ್‌ನಲ್ಲಿದೆ, ನಿಮ್ಮ ಸಾಧನದ ಬದಿಯಲ್ಲಿರುವ ವಾಲ್ಯೂಮ್ ಬಟನ್‌ಗಳ ಪಕ್ಕದಲ್ಲಿದೆ. ಹೆಚ್ಚಿನ ನಮ್ಯತೆಗಾಗಿ, ಪ್ರತಿ ಕೈಯಲ್ಲಿ ಕನಿಷ್ಠ 1 ಬೆರಳನ್ನು ಸೆಟಪ್ ಮಾಡಿ.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">ಮಾನ್ಯವಾದ QR ಕೋಡ್</string>
     <string name="fingerprint_sp_qr_code_error">ಈ QR ಕೋಡ್ ಪ್ರಮಾಣೀಕೃತ ಸ್ಕ್ರೀನ್ ಗಾರ್ಡ್‌ಗಾಗಿ ಅಲ್ಲ</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">ನೀವು %s ಅನ್ನು ಹೊಂದಿದ್ದೀರಿ.\nಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅನ್‌ಲಾಕ್ ಅನ್ನು ಸೆಟ್ ಮಾಡುವ ಮೊದಲು ಅದನ್ನು ಬಳಸಿ.</string>

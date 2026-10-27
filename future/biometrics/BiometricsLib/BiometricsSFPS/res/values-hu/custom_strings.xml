@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">Az ujjlenyomat-érzékelő a bekapcsológombon, a hangerőszabályzó gombok mellett, az eszköz oldalán található. A legnagyobb rugalmasság érdekében állítson be legalább egy ujjat mindkét kezén.</string>
+</resources>

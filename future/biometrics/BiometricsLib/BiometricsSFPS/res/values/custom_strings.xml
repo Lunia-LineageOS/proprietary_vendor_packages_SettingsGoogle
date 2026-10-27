@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">The fingerprint sensor is on the power button, next to the volume buttons on the side of your device. For the greatest flexibility, set up at least 1 finger on each hand.</string>
+    <string name="setup_fingerprint_enroll_immobile_help_continue_fallback">Continue</string>
+</resources>

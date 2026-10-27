@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">Сензорът за отпечатъци се намира върху бутона за захранване, който е разположен отстрани на устройството ви до бутоните за силата на звука. За най-голяма гъвкавост настройте поне по 1 пръст на всяка ръка.</string>
+</resources>

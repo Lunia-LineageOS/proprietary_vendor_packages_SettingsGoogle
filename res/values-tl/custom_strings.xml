@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Nasa susunod na screen ang sensor para sa fingerprint</string>
     <string name="find_usudfps_with_sp_setup_sp_button">I-set up na may screen protector</string>
     <string name="fingerprint_acquired_immobile_simple">Bahagyang mag-adjust sa kada pagkakataon</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Nasa power button ang sensor para sa fingerprint, sa tabi ng mga button ng volume sa gilid ng iyong device. Para sa pinakamahusay na flexibility, mag-set up ng kahit 1 daliri sa bawat kamay.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Valid na QR code</string>
     <string name="fingerprint_sp_qr_code_error">Hindi para sa certified na screen protector ang QR code na ito</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Mayroon kang %s.\nIlagay ito bago i-set up ang Pag-unlock Gamit ang Fingerprint.</string>

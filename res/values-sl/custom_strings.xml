@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Tipalo prstnih odtisov bo na naslednjem zaslonu</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Nastavitev z zaščito zaslona</string>
     <string name="fingerprint_acquired_immobile_simple">Vsakič nekoliko prestavite prst</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Tipalo prstnih odtisov je na gumbu za vklop, ki je zraven gumbov za glasnost ob strani naprave. Za največjo prilagodljivost nastavite vsaj en prst na vsaki roki.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Veljavna koda QR</string>
     <string name="fingerprint_sp_qr_code_error">Ta koda QR ni za potrjeno zaščito zaslona</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Imate zaščito zaslona %s.\nNamestite jo, preden nastavite odklepanje s prstnim odtisom.</string>

@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Senzorul de amprentă va fi pe ecranul următor</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Configurează cu protecție pentru ecran</string>
     <string name="fingerprint_acquired_immobile_simple">Ajustează ușor de fiecare dată</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Senzorul de amprentă se află pe butonul de pornire, lângă butoanele de volum de pe lateralul dispozitivului. Pentru cea mai mare flexibilitate, configurează cel puțin un deget de la fiecare mână.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Cod QR valid</string>
     <string name="fingerprint_sp_qr_code_error">Codul QR nu corespunde unei protecții pentru ecran certificate</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Ai o protecție pentru ecran %s.\nAplic-o înainte să configurezi Deblocarea cu amprenta.</string>

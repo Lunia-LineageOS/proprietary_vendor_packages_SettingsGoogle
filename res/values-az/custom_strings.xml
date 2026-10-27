@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Barmaq izi sensoru növbəti ekranda olacaq</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Ekran qoruyucusu ilə ayarlayın</string>
     <string name="fingerprint_acquired_immobile_simple">Hər dəfə bir az tənzimləyin</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Barmaq izi sensoru cihazın yan tərəfindəki səs düymələrinin yanında, enerji düyməsinin üzərindədir. Rahatlıq üçün hər əlinizdə ən azı 1 barmağınızı ayarlayın.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Düzgün QR kod</string>
     <string name="fingerprint_sp_qr_code_error">Bu QR kod sertifikatlı ekran qoruyucusu üçün deyil</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">%s ekran qoruyucusuna sahibsiniz.\nBarmaqla Kiliddən Açmanı ayarlamazdan əvvəl onu tətbiq edin.</string>

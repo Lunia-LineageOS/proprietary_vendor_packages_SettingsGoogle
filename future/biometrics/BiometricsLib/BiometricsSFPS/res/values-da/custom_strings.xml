@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_sfps_enroll_find_sensor_description">Fingeraftrykssensoren sidder på afbryderknappen ved siden af lydstyrkeknapperne på siden af enheden. For at opnå størst mulig fleksibilitet skal du konfigurere mindst 1 finger på hver hånd.</string>
+</resources>

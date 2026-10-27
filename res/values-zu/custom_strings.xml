@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Inzwa yesigxivizo somunwe izoba sesikrinini esilandelayo</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Setha isivikeli sesikrini</string>
     <string name="fingerprint_acquired_immobile_simple">Lungisa kancane isikhathi ngasinye</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Inzwa yesigxivizo somunwe isenkinobhweni yokuvula nokuvala, eduze nezinkinobho zevolumu ngaseceleni kudivayisi yakho. Ukuze ukwazi ukukhululeka kakhudlwana, setha okungenani umunwe owodwa esandleni ngasinye.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Ikhodi ye-QR evumelekile</string>
     <string name="fingerprint_sp_qr_code_error">Le khodi ye-QR akuyona eyesivikeli sesikrini esigunyaziwe</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Une-%s.\nYisebenzise ngaphambi kokusetha Ukuvula Ngezigxivizo Zeminwe.</string>

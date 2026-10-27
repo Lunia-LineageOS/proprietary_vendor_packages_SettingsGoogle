@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">அடுத்த திரையில் கைரேகை சென்சார் காட்டப்படும்</string>
     <string name="find_usudfps_with_sp_setup_sp_button">ஸ்கிரீன் கார்டுடன் அமை</string>
     <string name="fingerprint_acquired_immobile_simple">ஒவ்வொரு முறையும் சிறிதளவு நகர்த்துங்கள்</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">உங்கள் சாதனத்தின் பக்கவாட்டில் உள்ள ஒலியளவு பட்டன்களுக்கு அடுத்துள்ள பவர் பட்டனில் \'கைரேகை சென்சார்\' உள்ளது. மிகவும் எளிதாக அன்லாக் செய்ய, ஒவ்வொரு கையிலும் குறைந்தது 1 விரலையாவது அமைக்கவும்.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">சரியான QR குறியீடு</string>
     <string name="fingerprint_sp_qr_code_error">இந்த QR குறியீடு, சான்றளிக்கப்பட்ட ஸ்கிரீன் கார்டுக்கானது அல்ல</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">உங்களிடம் %s உள்ளது.\nகைரேகை அன்லாக் அம்சத்தை அமைப்பதற்கு முன்பு அதைச் சாதனத்தில் பொருத்துங்கள்.</string>

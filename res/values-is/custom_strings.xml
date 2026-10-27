@@ -117,7 +117,6 @@
     <string name="find_usudfps_subtitle_simple">Fingrafaralesarinn er á næsta skjá</string>
     <string name="find_usudfps_with_sp_setup_sp_button">Setja upp með skjávörn</string>
     <string name="fingerprint_acquired_immobile_simple">Færðu fingurinn örlítið í hvert skipti</string>
-    <string name="fingerprint_sfps_enroll_find_sensor_description">Fingrafaralesarinn er á aflrofanum, við hliðina á hljóðstyrkshnöppunum á hlið tækisins. Þér til hægðarauka skaltu setja upp a.m.k. einn fingur á hvorri hönd.</string>
     <string name="fingerprint_sp_qr_code_check_mark_unconfirmed">Gildur QR-kóði</string>
     <string name="fingerprint_sp_qr_code_error">Þessi QR-kóði endurspeglar ekki vottaða skjávörn</string>
     <string name="fingerprint_sp_subtitle_apply_sp_combined">Þú ert með %s.\nSettu hana á áður en þú setur upp fingrafarskenni.</string>
